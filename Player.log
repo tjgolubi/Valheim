@@ -10,934 +10,273 @@ Direct3D:
     VRAM:     8031 MB
     Driver:   31.0.15.3734
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.067 seconds
+- Completed reload, in  0.069 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using XInput
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.718400 ms
-10/09/2023 23:06:44: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/09/2023 23:06:44: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/09/2023 23:06:44: Starting to load scene:start
+UnloadTime: 0.767800 ms
+10/10/2023 00:26:27: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/10/2023 00:26:27: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/10/2023 00:26:27: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.915100 ms
+UnloadTime: 5.079300 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-10/09/2023 23:06:50: Using environment steamid 892970
-10/09/2023 23:06:50: Using steam APPID:892970
-10/09/2023 23:06:51: Authentication:k_ESteamNetworkingAvailability_Attempting
-10/09/2023 23:06:51: Steam initialized, persona:tjgolubi
-10/09/2023 23:06:51: PlayFab custom ID set to "Steam_76561198290658520"
-10/09/2023 23:06:51: Using default prefs
-10/09/2023 23:06:51: Valheim version: 0.217.24 (network version 15)
-10/09/2023 23:06:51: Worldgenerator version setup:2
-10/09/2023 23:06:51: Render threading mode:MultiThreaded
-10/09/2023 23:06:51: Set button "CamZoomIn" to None!
-10/09/2023 23:06:51: Set button "CamZoomOut" to None!
-10/09/2023 23:06:51: Set button "CamZoomIn" to None!
-10/09/2023 23:06:51: Set button "CamZoomOut" to None!
-10/09/2023 23:06:51: Loaded localization file #0 - 'localization' language: 'English'
-10/09/2023 23:06:51: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/09/2023 23:06:51: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/09/2023 23:06:51: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/09/2023 23:06:51: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/09/2023 23:06:51: Loaded localization file #0 - 'localization' language: 'English'
-10/09/2023 23:06:51: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/09/2023 23:06:51: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/09/2023 23:06:51: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/09/2023 23:06:51: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/09/2023 23:06:51: Missing audio clip in music respawn
-10/09/2023 23:06:51: Checking for installed DLCs
-10/09/2023 23:06:51: DLC:beta installed:False
-10/09/2023 23:06:51: Builder started
-10/09/2023 23:06:51: Sending PlayFab login request (attempt 1)
-10/09/2023 23:06:51: Ticket is System.Byte[] of length 369
-10/09/2023 23:06:51: Session auth respons callback
-10/09/2023 23:06:51: Starting music menu
+10/10/2023 00:26:34: Using environment steamid 892970
+10/10/2023 00:26:34: Using steam APPID:892970
+10/10/2023 00:26:34: Authentication:k_ESteamNetworkingAvailability_Attempting
+10/10/2023 00:26:34: Steam initialized, persona:tjgolubi
+10/10/2023 00:26:34: PlayFab custom ID set to "Steam_76561198290658520"
+10/10/2023 00:26:34: Using default prefs
+10/10/2023 00:26:34: Valheim version: 0.217.24 (network version 15)
+10/10/2023 00:26:34: Worldgenerator version setup:2
+10/10/2023 00:26:34: Render threading mode:MultiThreaded
+10/10/2023 00:26:34: Set button "CamZoomIn" to None!
+10/10/2023 00:26:34: Set button "CamZoomOut" to None!
+10/10/2023 00:26:34: Set button "CamZoomIn" to None!
+10/10/2023 00:26:34: Set button "CamZoomOut" to None!
+10/10/2023 00:26:34: Loaded localization file #0 - 'localization' language: 'English'
+10/10/2023 00:26:34: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/10/2023 00:26:34: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/10/2023 00:26:34: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/10/2023 00:26:34: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/10/2023 00:26:34: Loaded localization file #0 - 'localization' language: 'English'
+10/10/2023 00:26:34: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/10/2023 00:26:34: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/10/2023 00:26:34: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/10/2023 00:26:34: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/10/2023 00:26:34: Missing audio clip in music respawn
+10/10/2023 00:26:34: Checking for installed DLCs
+10/10/2023 00:26:34: DLC:beta installed:False
+10/10/2023 00:26:34: Builder started
+10/10/2023 00:26:34: Sending PlayFab login request (attempt 1)
+10/10/2023 00:26:34: Ticket is System.Byte[] of length 369
+10/10/2023 00:26:34: Session auth respons callback
+10/10/2023 00:26:34: Starting music menu
 
 Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156123.
-Total: 111.275000 ms (FindLiveObjects: 5.662900 ms CreateObjectMapping: 10.751700 ms MarkObjects: 94.684300 ms  DeleteObjects: 0.175900 ms)
+Total: 117.265500 ms (FindLiveObjects: 5.890000 ms CreateObjectMapping: 10.128300 ms MarkObjects: 101.073600 ms  DeleteObjects: 0.173400 ms)
 
-10/09/2023 23:06:52: PlayFab logged in as "Steam_76561198290658520"
-10/09/2023 23:06:52: PlayFab local entity ID is DBA9D3993BEC7B4F
+10/10/2023 00:26:35: PlayFab logged in as "Steam_76561198290658520"
+10/10/2023 00:26:35: PlayFab local entity ID is DBA9D3993BEC7B4F
 Event.Use() should not be called for events of type repaint
-10/09/2023 23:07:14: Activating default element Start game
-10/09/2023 23:07:15: show character selection
-10/09/2023 23:07:16: Button pressed Start  frame:1706
-10/09/2023 23:07:16: OnCharacterStart
-10/09/2023 23:07:18: Button pressed Start  frame:1816
-10/09/2023 23:07:19: Loading main scene
+10/10/2023 00:26:40: Activating default element Start game
+10/10/2023 00:26:41: show character selection
+10/10/2023 00:26:41: Button pressed Start  frame:640
+10/10/2023 00:26:41: OnCharacterStart
+10/10/2023 00:26:46: Button pressed Start  frame:902
+10/10/2023 00:26:47: Loading main scene
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.115400 ms
-10/09/2023 23:07:20: Steam initialized, persona:tjgolubi
-10/09/2023 23:07:20: PlayFab custom ID set to "Steam_76561198290658520"
-10/09/2023 23:07:20: Using default prefs
-10/09/2023 23:07:20: Loading player profile terry
-10/09/2023 23:07:20: isModded: False
-10/09/2023 23:07:20: Zonesystem Awake 1906
-10/09/2023 23:07:20: DungeonDB Awake 1906
-10/09/2023 23:07:20: Steam initialized, persona:tjgolubi
-10/09/2023 23:07:20: Worldgenerator version setup:2
-10/09/2023 23:07:21: Audioman already exist, destroying self
-10/09/2023 23:07:21: Checking for installed DLCs
-10/09/2023 23:07:21: DLC:beta installed:False
+UnloadTime: 9.370000 ms
+10/10/2023 00:26:47: Steam initialized, persona:tjgolubi
+10/10/2023 00:26:47: PlayFab custom ID set to "Steam_76561198290658520"
+10/10/2023 00:26:47: Using default prefs
+10/10/2023 00:26:47: Loading player profile terry
+10/10/2023 00:26:47: isModded: False
+10/10/2023 00:26:47: Zonesystem Awake 992
+10/10/2023 00:26:47: DungeonDB Awake 992
+10/10/2023 00:26:47: Steam initialized, persona:tjgolubi
+10/10/2023 00:26:47: Worldgenerator version setup:2
+10/10/2023 00:26:49: Audioman already exist, destroying self
+10/10/2023 00:26:49: Checking for installed DLCs
+10/10/2023 00:26:49: DLC:beta installed:False
 
 Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 159947.
-Total: 92.065500 ms (FindLiveObjects: 4.863000 ms CreateObjectMapping: 10.745400 ms MarkObjects: 75.784400 ms  DeleteObjects: 0.672500 ms)
+Total: 92.666000 ms (FindLiveObjects: 4.738700 ms CreateObjectMapping: 8.648100 ms MarkObjects: 78.629000 ms  DeleteObjects: 0.649600 ms)
 
-10/09/2023 23:07:24: Zonesystem Start 1906
-10/09/2023 23:07:25: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-10/09/2023 23:07:25: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-10/09/2023 23:07:25: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-10/09/2023 23:07:25: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-10/09/2023 23:07:25: DungeonDB Start 1906
-10/09/2023 23:07:25: ZRpc timeout set to 30s 
-10/09/2023 23:07:25: ZNET START
-10/09/2023 23:07:25: Load world: TryHeim (TryHeim)
-10/09/2023 23:07:25: Loading 338687 zdos, my sessionID: 1101133279, data version: 32
-10/09/2023 23:07:25: Creating ZDOs
-10/09/2023 23:07:25: Loading in ZDOs
-10/09/2023 23:07:26: Adding to Dictionary
-10/09/2023 23:07:26: Adding to Sectors
-10/09/2023 23:07:26: Connecting Portals, Spawners & ZSyncTransforms
-ConnectSpawners => Connected 2 spawners and 314 'done' spawners.
-10/09/2023 23:07:26: Loaded 10093 locations
-10/09/2023 23:07:26: Unloading unused assets
+10/10/2023 00:26:52: Zonesystem Start 992
+10/10/2023 00:26:53: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+10/10/2023 00:26:53: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+10/10/2023 00:26:53: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+10/10/2023 00:26:53: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+10/10/2023 00:26:53: DungeonDB Start 992
+10/10/2023 00:26:53: ZRpc timeout set to 30s 
+10/10/2023 00:26:53: ZNET START
+10/10/2023 00:26:53: Load world: TryHeim (TryHeim)
+10/10/2023 00:26:53: Loading 338732 zdos, my sessionID: 1406170660, data version: 32
+10/10/2023 00:26:53: Creating ZDOs
+10/10/2023 00:26:53: Loading in ZDOs
+10/10/2023 00:26:53: Adding to Dictionary
+10/10/2023 00:26:53: Adding to Sectors
+10/10/2023 00:26:53: Connecting Portals, Spawners & ZSyncTransforms
+ConnectSpawners => Connected 0 spawners and 316 'done' spawners.
+10/10/2023 00:26:53: Loaded 10093 locations
+10/10/2023 00:26:53: Unloading unused assets
 Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-10/09/2023 23:07:26: Starting respawn
-10/09/2023 23:07:26: Session auth respons callback
-10/09/2023 23:07:31: Unpacking compressed mapdata 14041
-10/09/2023 23:07:31: Activating default element Texts
-10/09/2023 23:07:31: tip:$loadscreen_tip07
+10/10/2023 00:26:54: Session auth respons callback
+10/10/2023 00:26:59: Unpacking compressed mapdata 14041
+10/10/2023 00:26:59: Activating default element Texts
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733254.
-Total: 484.234000 ms (FindLiveObjects: 78.754000 ms CreateObjectMapping: 26.430200 ms MarkObjects: 378.380300 ms  DeleteObjects: 0.669000 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1733253.
+Total: 489.668900 ms (FindLiveObjects: 78.849300 ms CreateObjectMapping: 26.215700 ms MarkObjects: 383.941600 ms  DeleteObjects: 0.661900 ms)
 
-10/09/2023 23:07:35: Force generating hmap (-256.0, 0.0, 448.0)
-10/09/2023 23:07:35: Force generating hmap (-320.0, 0.0, 448.0)
-10/09/2023 23:07:35: Force generating hmap (-320.0, 0.0, 512.0)
-10/09/2023 23:07:35: Force generating hmap (-256.0, 0.0, 512.0)
-10/09/2023 23:07:35: Force generating hmap (-128.0, 0.0, 576.0)
-10/09/2023 23:07:40: Spawned after 8.019994
-10/09/2023 23:07:40: Skipping unloading unused assets
-10/09/2023 23:07:40: Minimap: Adding unique location (131.9, 39.6, 260.8)
-10/09/2023 23:07:40: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
-10/09/2023 23:07:40: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
-10/09/2023 23:07:42: Starting music home
-10/09/2023 23:07:42: Resumed music home at 0
-10/09/2023 23:09:49: Activating default element Continue
-10/09/2023 23:09:50: Activating default element Button_no
-10/09/2023 23:09:51: Shuting down
-10/09/2023 23:09:51: Uncompressed size 8392742
-10/09/2023 23:09:51: Compressed size 14041
-10/09/2023 23:09:51: Considering autobackup. World time: 137.38, short time: 7200, long time: 43200, backup count: 4
-10/09/2023 23:09:51: Skipping backup. World session not long enough.
-10/09/2023 23:09:51: ZNet Shutdown
-10/09/2023 23:09:51: PrepareSave: clone done in 21ms
-10/09/2023 23:09:51: PrepareSave: ZDOExtraData.PrepareSave done in 46 ms
-10/09/2023 23:09:51: World save writing starting
-10/09/2023 23:09:51: World save writing started
-10/09/2023 23:09:52: Saved 338687 ZDOs
-10/09/2023 23:09:52: World save writing finishing
-10/09/2023 23:09:52: World save writing finished
-10/09/2023 23:09:52: World saved ( 619.5864ms )
-10/09/2023 23:09:52: Considering autobackup. World time: 137.38, short time: 7200, long time: 43200, backup count: 4
-10/09/2023 23:09:52: Skipping backup. World session not long enough.
-10/09/2023 23:09:52: Unloading unused assets
+10/10/2023 00:27:00: Starting respawn
+10/10/2023 00:27:00: tip:$loadscreen_tip07
+10/10/2023 00:27:03: Force generating hmap (-256.0, 0.0, 448.0)
+10/10/2023 00:27:03: Force generating hmap (-320.0, 0.0, 448.0)
+10/10/2023 00:27:03: Force generating hmap (-320.0, 0.0, 512.0)
+10/10/2023 00:27:03: Force generating hmap (-256.0, 0.0, 512.0)
+10/10/2023 00:27:08: Spawned after 8.019994
+10/10/2023 00:27:08: Skipping unloading unused assets
+10/10/2023 00:27:08: Player onboard, total onboard 1
+10/10/2023 00:27:08: Minimap: Adding unique location (131.9, 39.6, 260.8)
+10/10/2023 00:27:08: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
+10/10/2023 00:27:08: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
+10/10/2023 00:27:10: Starting music blackforest
+10/10/2023 00:27:10: Resumed music blackforest at 0
+10/10/2023 00:27:13: Player over board, players left 0
+10/10/2023 00:27:18: Loading dungeon
+10/10/2023 00:27:18: Dungeon loaded with 28 rooms from old format in 17.0144 ms.
+10/10/2023 00:27:18: Stopped music blackforest at 356563
+10/10/2023 00:27:18: Starting music meadows
+10/10/2023 00:27:18: Resumed music meadows at 0
+10/10/2023 00:27:42: Disabling collider_block  blocker
+10/10/2023 00:27:43: Disabling Capsule_blockplayer  blocker
+10/10/2023 00:27:43: Disabling PlayerBase  character_trigger
+10/10/2023 00:27:44: Placed piece_workbench
+10/10/2023 00:27:50: Disabling PlayerBase  character_trigger
+10/10/2023 00:28:24: Stopped music meadows at 2934355
+10/10/2023 00:28:24: Starting music blackforest
+10/10/2023 00:28:24: Resumed music blackforest at 356563
+10/10/2023 00:29:21: Placed wood_floor
+10/10/2023 00:29:27: Placed wood_floor
+10/10/2023 00:29:28: Placed wood_floor
+10/10/2023 00:29:31: Placed wood_floor
+10/10/2023 00:29:34: Placed wood_floor
+10/10/2023 00:30:03: Stopped music blackforest at 4719993
+10/10/2023 00:30:03: Starting music blackforest
+10/10/2023 00:30:03: Resumed music blackforest at 4719993
+10/10/2023 00:30:54: Stopped music blackforest at 2224991
+10/10/2023 00:30:54: Starting music meadows
+10/10/2023 00:30:54: Resumed music meadows at 2934355
+10/10/2023 00:31:16: Setting selected recipe 0
+10/10/2023 00:31:21: Starting music evening
+10/10/2023 00:31:22: Stopped music meadows at 1233388
+10/10/2023 00:31:28: Player onboard, total onboard 1
+10/10/2023 00:31:30: Player over board, players left 0
+10/10/2023 00:31:31: Player onboard, total onboard 1
+10/10/2023 00:31:33: Spawned Greydwarf_Elite x 1
+10/10/2023 00:31:33: Spawned Greydwarf_Shaman x 1
+10/10/2023 00:31:33: Spawned FireFlies x 1
+10/10/2023 00:31:33: Loading dungeon
+10/10/2023 00:31:33: Dungeon loaded with 28 rooms from old format in 17.0145 ms.
+10/10/2023 00:31:34: Player over board, players left 0
+10/10/2023 00:31:35: Player onboard, total onboard 1
+10/10/2023 00:31:37: Player over board, players left 0
+10/10/2023 00:31:38: Player onboard, total onboard 1
+10/10/2023 00:31:42: Doodad controlls set Karve(Clone)
+10/10/2023 00:31:48: Loading dungeon
+10/10/2023 00:31:48: Dungeon loaded with 28 rooms from old format in 15.0136 ms.
+10/10/2023 00:32:01: Starting music sailing
+10/10/2023 00:32:02: Resumed music sailing at 0
+10/10/2023 00:32:11: Stopped music sailing at 380083
+10/10/2023 00:32:15: Stop doodad controlls
+10/10/2023 00:32:16: Player over board, players left 0
+10/10/2023 00:32:18: Player onboard, total onboard 1
+10/10/2023 00:32:28: Player over board, players left 0
+10/10/2023 00:32:31: Player onboard, total onboard 1
+10/10/2023 00:32:35: Player over board, players left 0
+10/10/2023 00:32:42: Player onboard, total onboard 1
+10/10/2023 00:32:45: Doodad controlls set Karve(Clone)
+10/10/2023 00:33:01: Spawned Greydwarf_Shaman x 1
+10/10/2023 00:33:11: Starting music blackforest
+10/10/2023 00:33:11: Resumed music blackforest at 2224991
+10/10/2023 00:33:21: Starting music sailing
+10/10/2023 00:33:25: Spawned Greydwarf x 1
+10/10/2023 00:33:25: Spawned FireFlies x 1
+10/10/2023 00:33:28: Stopped music blackforest at 2979512
+10/10/2023 00:33:28: Starting music blackforest
+10/10/2023 00:33:28: Resumed music blackforest at 2979512
+10/10/2023 00:33:35: Update PlayFab entity token
+10/10/2023 00:33:42: Starting music sailing
+10/10/2023 00:33:45: Spawned FireFlies x 1
+10/10/2023 00:33:48: Stopped music blackforest at 3859159
+10/10/2023 00:33:48: Resumed music sailing at 380083
+10/10/2023 00:34:08: Force generating hmap (-128.0, 0.0, 576.0)
+10/10/2023 00:34:08: Spawned FireFlies x 1
+10/10/2023 00:34:08: Spawned FireFlies x 1
+10/10/2023 00:34:29: Stop doodad controlls
+10/10/2023 00:34:30: Player over board, players left 0
+10/10/2023 00:34:33: Stopped music sailing at 2336946
+10/10/2023 00:34:44: Is mine
+10/10/2023 00:34:44: is current spawnpoint
+10/10/2023 00:34:44: exporeusre check 1  True
+10/10/2023 00:34:47: Starting music home
+10/10/2023 00:34:47: Is mine
+10/10/2023 00:34:47: is current spawnpoint
+10/10/2023 00:34:47: exporeusre check 1  True
+10/10/2023 00:34:47: Ignoring 2 colliders
+10/10/2023 00:34:47: Time 498538.259977911, day:276    nextm:498870.000010729  skipspeed:27.6450027348474
+10/10/2023 00:34:52: Skipping unloading unused assets
+10/10/2023 00:35:00: Uncompressed size 8392742
+10/10/2023 00:35:00: Compressed size 14041
+10/10/2023 00:35:00: Considering autobackup. World time: 480, short time: 7200, long time: 43200, backup count: 4
+10/10/2023 00:35:00: Skipping backup. World session not long enough.
+10/10/2023 00:35:00: PrepareSave: clone done in 71ms
+10/10/2023 00:35:00: PrepareSave: ZDOExtraData.PrepareSave done in 33 ms
+10/10/2023 00:35:00: World save writing starting
+10/10/2023 00:35:00: World save writing started
+10/10/2023 00:35:00: Saved 338720 ZDOs
+10/10/2023 00:35:00: World save writing finishing
+10/10/2023 00:35:00: World save writing finished
+10/10/2023 00:35:00: World saved ( 627.5542ms )
+10/10/2023 00:35:00: Considering autobackup. World time: 480.82, short time: 7200, long time: 43200, backup count: 4
+10/10/2023 00:35:00: Skipping backup. World session not long enough.
+10/10/2023 00:35:06: Starting music morning
+10/10/2023 00:35:07: Stopped music home at 872121
+10/10/2023 00:35:16: Player 1406170660 wants to open piece_chest_wood(Clone)   im: 1406170660
+10/10/2023 00:35:16: Setting selected recipe 0
+10/10/2023 00:35:19: Activating default element Continue
+10/10/2023 00:35:24: Activating default element Button_no
+10/10/2023 00:35:25: Game - OnApplicationQuit
+10/10/2023 00:35:25: Shuting down
+10/10/2023 00:35:25: Uncompressed size 8392742
+10/10/2023 00:35:25: Compressed size 14041
+10/10/2023 00:35:25: Considering autobackup. World time: 499.4, short time: 7200, long time: 43200, backup count: 4
+10/10/2023 00:35:25: Skipping backup. World session not long enough.
+10/10/2023 00:35:25: ZNet Shutdown
+10/10/2023 00:35:25: PrepareSave: clone done in 26ms
+10/10/2023 00:35:25: PrepareSave: ZDOExtraData.PrepareSave done in 24 ms
+10/10/2023 00:35:25: World save writing starting
+10/10/2023 00:35:25: World save writing started
+10/10/2023 00:35:26: Saved 338718 ZDOs
+10/10/2023 00:35:26: World save writing finishing
+10/10/2023 00:35:26: World save writing finished
+10/10/2023 00:35:26: World saved ( 601.9956ms )
+10/10/2023 00:35:26: Considering autobackup. World time: 499.4, short time: 7200, long time: 43200, backup count: 4
+10/10/2023 00:35:26: Skipping backup. World session not long enough.
+10/10/2023 00:35:26: Unloading unused assets
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
-10/09/2023 23:09:52: Sending disconnect msg
+10/10/2023 00:35:26: Sending disconnect msg
 ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-10/09/2023 23:09:52: Local player destroyed
+10/10/2023 00:35:26: Stopping build thread
 
-Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 1736727.
-Total: 496.723500 ms (FindLiveObjects: 79.875900 ms CreateObjectMapping: 26.274400 ms MarkObjects: 389.737400 ms  DeleteObjects: 0.835600 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-10/09/2023 23:09:53: ZNet OnDestroy
-10/09/2023 23:09:53: Net scene destroyed
-UnloadTime: 685.010900 ms
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-10/09/2023 23:09:53: Steam initialized, persona:tjgolubi
-10/09/2023 23:09:53: PlayFab custom ID set to "Steam_76561198290658520"
-10/09/2023 23:09:53: Using default prefs
-10/09/2023 23:09:53: Valheim version: 0.217.24 (network version 15)
-10/09/2023 23:09:53: Worldgenerator version setup:2
-10/09/2023 23:09:53: Render threading mode:MultiThreaded
-10/09/2023 23:09:53: Audioman already exist, destroying self
-10/09/2023 23:09:53: Checking for installed DLCs
-10/09/2023 23:09:53: DLC:beta installed:False
-
-Unloading 6557 unused Assets to reduce memory usage. Loaded Objects now: 155644.
-Total: 203.599700 ms (FindLiveObjects: 5.731100 ms CreateObjectMapping: 8.790600 ms MarkObjects: 182.240000 ms  DeleteObjects: 6.837800 ms)
-
-Event.Use() should not be called for events of type repaint
-10/09/2023 23:09:53: Ticket is System.Byte[] of length 369
-10/09/2023 23:09:53: Session auth respons callback
-10/09/2023 23:09:53: Starting music menu
-10/09/2023 23:09:53: Activating default element Start game
-Event.Use() should not be called for events of type repaint
-Event.Use() should not be called for events of type repaint
-10/09/2023 23:09:55: Activating default element Start game
-10/09/2023 23:09:56: Stopped music home at 5907283
-10/09/2023 23:09:58: show character selection
-10/09/2023 23:09:58: Button pressed Start  frame:17251
-10/09/2023 23:09:58: OnCharacterStart
-10/09/2023 23:10:02: Button pressed Server Options  frame:17505
-10/09/2023 23:10:18: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 4
-10/09/2023 23:10:18: Time to overwrite our last autobackup
-10/09/2023 23:10:18: Replacing backup file: TryHeim_backup_auto-20231004090347
-10/09/2023 23:10:18: Saving backup at: TryHeim_backup_auto-20231009231018
-10/09/2023 23:10:23: Button pressed Start  frame:18725
-10/09/2023 23:10:24: Loading main scene
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.317500 ms
-10/09/2023 23:10:24: Steam initialized, persona:tjgolubi
-10/09/2023 23:10:24: PlayFab custom ID set to "Steam_76561198290658520"
-10/09/2023 23:10:24: Using default prefs
-10/09/2023 23:10:24: Loading player profile terry
-10/09/2023 23:10:24: isModded: False
-10/09/2023 23:10:24: Zonesystem Awake 18816
-10/09/2023 23:10:24: DungeonDB Awake 18816
-10/09/2023 23:10:24: Steam initialized, persona:tjgolubi
-10/09/2023 23:10:24: Worldgenerator version setup:2
-10/09/2023 23:10:26: Audioman already exist, destroying self
-10/09/2023 23:10:26: Checking for installed DLCs
-10/09/2023 23:10:26: DLC:beta installed:False
-
-Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 159964.
-Total: 155.551200 ms (FindLiveObjects: 5.509700 ms CreateObjectMapping: 8.642700 ms MarkObjects: 140.677300 ms  DeleteObjects: 0.721300 ms)
-
-10/09/2023 23:10:29: Zonesystem Start 18816
-10/09/2023 23:10:30: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-10/09/2023 23:10:30: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-10/09/2023 23:10:30: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-10/09/2023 23:10:30: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-10/09/2023 23:10:30: DungeonDB Start 18816
-10/09/2023 23:10:30: ZRpc timeout set to 30s 
-10/09/2023 23:10:30: ZNET START
-10/09/2023 23:10:30: Load world: TryHeim (TryHeim)
-10/09/2023 23:10:30: Loading 338687 zdos, my sessionID: 2158788378, data version: 32
-10/09/2023 23:10:30: Creating ZDOs
-10/09/2023 23:10:30: Loading in ZDOs
-10/09/2023 23:10:30: Adding to Dictionary
-10/09/2023 23:10:30: Adding to Sectors
-10/09/2023 23:10:30: Connecting Portals, Spawners & ZSyncTransforms
-ConnectSpawners => Connected 2 spawners and 314 'done' spawners.
-10/09/2023 23:10:30: Loaded 10093 locations
-10/09/2023 23:10:30: Unloading unused assets
-Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-10/09/2023 23:10:30: Starting respawn
-10/09/2023 23:10:30: Session auth respons callback
-10/09/2023 23:10:36: Unpacking compressed mapdata 14041
-10/09/2023 23:10:36: Activating default element Texts
-10/09/2023 23:10:36: tip:$loadscreen_tip13
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733267.
-Total: 504.022100 ms (FindLiveObjects: 79.488000 ms CreateObjectMapping: 26.279700 ms MarkObjects: 397.594100 ms  DeleteObjects: 0.659900 ms)
-
-10/09/2023 23:10:39: Force generating hmap (-256.0, 0.0, 448.0)
-10/09/2023 23:10:39: Force generating hmap (-320.0, 0.0, 448.0)
-10/09/2023 23:10:39: Force generating hmap (-320.0, 0.0, 512.0)
-10/09/2023 23:10:39: Force generating hmap (-256.0, 0.0, 512.0)
-10/09/2023 23:10:40: Force generating hmap (-128.0, 0.0, 576.0)
-10/09/2023 23:10:44: Spawned after 8.019994
-10/09/2023 23:10:44: Skipping unloading unused assets
-10/09/2023 23:10:44: Minimap: Adding unique location (131.9, 39.6, 260.8)
-10/09/2023 23:10:44: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
-10/09/2023 23:10:44: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
-10/09/2023 23:10:46: Starting music home
-10/09/2023 23:10:46: Resumed music home at 5907283
-10/09/2023 23:10:57: Stopped music home at 6354162
-10/09/2023 23:10:57: Starting music meadows
-10/09/2023 23:10:57: Resumed music meadows at 0
-10/09/2023 23:11:23: Stopped music meadows at 1150598
-10/09/2023 23:11:23: Starting music blackforest
-10/09/2023 23:11:23: Resumed music blackforest at 0
-10/09/2023 23:11:43: Disabling PlayerBase  character_trigger
-10/09/2023 23:11:51: Disabling collider_block  blocker
-10/09/2023 23:11:52: Disabling Capsule_blockplayer  blocker
-10/09/2023 23:11:52: Disabling PlayerBase  character_trigger
-10/09/2023 23:11:58: Placed piece_workbench
-10/09/2023 23:12:09: Placed wood_floor
-10/09/2023 23:12:16: Placed wood_floor
-10/09/2023 23:12:18: Disabling PlayerBase  character_trigger
-10/09/2023 23:12:22: Placed piece_workbench
-10/09/2023 23:12:42: Placed piece_workbench
-10/09/2023 23:12:43: Stopped music blackforest at 3560927
-10/09/2023 23:12:43: Starting music meadows
-10/09/2023 23:12:43: Resumed music meadows at 1150598
-10/09/2023 23:12:56: Stopped music meadows at 1692498
-10/09/2023 23:12:56: Starting music blackforest
-10/09/2023 23:12:56: Resumed music blackforest at 3560927
-10/09/2023 23:13:30: Stopped music blackforest at 5066206
-10/09/2023 23:13:30: Starting music meadows
-10/09/2023 23:13:30: Resumed music meadows at 1692498
-10/09/2023 23:13:31: Disabling PlayerBase  character_trigger
-10/09/2023 23:13:35: Disabling jump_trigger  character_trigger
-10/09/2023 23:13:35: Disabling jump_trigger (1)  character_trigger
-10/09/2023 23:13:35: Disabling jump_trigger (2)  character_trigger
-10/09/2023 23:13:52: Update PlayFab entity token
-10/09/2023 23:13:57: Placed wood_stepladder
-10/09/2023 23:14:06: Disabling jump_trigger  character_trigger
-10/09/2023 23:14:06: Disabling jump_trigger (1)  character_trigger
-10/09/2023 23:14:06: Disabling jump_trigger (2)  character_trigger
-10/09/2023 23:14:14: Placed wood_stepladder
-10/09/2023 23:14:37: Disabling jump_trigger  character_trigger
-10/09/2023 23:14:37: Disabling jump_trigger (1)  character_trigger
-10/09/2023 23:14:37: Disabling jump_trigger (2)  character_trigger
-10/09/2023 23:15:24: Starting music evening
-10/09/2023 23:15:25: Stopped music meadows at 6782225
-10/09/2023 23:15:39: Loading dungeon
-10/09/2023 23:15:39: Dungeon loaded with 20 rooms from old format in 12.01 ms.
-10/09/2023 23:15:44: Loading dungeon
-10/09/2023 23:15:44: Dungeon loaded with 28 rooms from old format in 18.0151 ms.
-10/09/2023 23:15:50: Spawned FireFlies x 1
-10/09/2023 23:15:53: Setting selected recipe 0
-10/09/2023 23:16:06: Spawned Deer x 1
-10/09/2023 23:16:11: Starting music blackforest
-10/09/2023 23:16:11: Resumed music blackforest at 5066206
-10/09/2023 23:16:16: Stopped music blackforest at 5265655
-10/09/2023 23:16:18: Force generating hmap (-128.0, 0.0, 576.0)
-10/09/2023 23:16:33: Spawned Greydwarf_Elite x 1
-10/09/2023 23:16:33: Spawned Greydwarf_Shaman x 1
-10/09/2023 23:16:33: Spawned FireFlies x 1
-10/09/2023 23:16:33: Spawned FireFlies x 1
-10/09/2023 23:16:40: Starting music home
-10/09/2023 23:16:40: Resumed music home at 6354162
-10/09/2023 23:16:42: Setting selected recipe 0
-10/09/2023 23:16:42: Button pressed RepairButton  frame:61331
-10/09/2023 23:16:48: Setting selected recipe 0
-10/09/2023 23:16:48: Button pressed RepairButton  frame:61855
-10/09/2023 23:16:50: Is mine
-10/09/2023 23:16:50: Not current spawn point
-10/09/2023 23:16:50: exporeusre check 1  True
-10/09/2023 23:16:51: Is mine
-10/09/2023 23:16:51: is current spawnpoint
-10/09/2023 23:16:51: exporeusre check 1  True
-10/09/2023 23:16:51: Ignoring 2 colliders
-10/09/2023 23:16:52: Time 493019.439980567, day:273    nextm:493470.000010729  skipspeed:37.5466691801945
-10/09/2023 23:16:57: Skipping unloading unused assets
-10/09/2023 23:17:04: Uncompressed size 8392742
-10/09/2023 23:17:04: Compressed size 14041
-10/09/2023 23:17:04: Considering autobackup. World time: 388, short time: 7200, long time: 43200, backup count: 4
-10/09/2023 23:17:04: Skipping backup. World session not long enough.
-10/09/2023 23:17:05: PrepareSave: clone done in 21ms
-10/09/2023 23:17:05: PrepareSave: ZDOExtraData.PrepareSave done in 44 ms
-10/09/2023 23:17:05: World save writing starting
-10/09/2023 23:17:05: World save writing started
-10/09/2023 23:17:05: Saved 338699 ZDOs
-10/09/2023 23:17:05: World save writing finishing
-10/09/2023 23:17:05: World save writing finished
-10/09/2023 23:17:05: World saved ( 696.6013ms )
-10/09/2023 23:17:05: Considering autobackup. World time: 388.88, short time: 7200, long time: 43200, backup count: 4
-10/09/2023 23:17:05: Skipping backup. World session not long enough.
-10/09/2023 23:17:11: Starting music morning
-10/09/2023 23:17:12: Stopped music home at 7785118
-10/09/2023 23:17:46: Starting music blackforest
-10/09/2023 23:17:46: Resumed music blackforest at 5265655
-10/09/2023 23:18:09: Stopped music blackforest at 6270429
-10/09/2023 23:18:09: Starting music meadows
-10/09/2023 23:18:09: Resumed music meadows at 6782225
-10/09/2023 23:18:29: Placed wood_floor
-10/09/2023 23:18:39: Placed wood_floor
-10/09/2023 23:18:41: Placed wood_floor
-10/09/2023 23:18:43: Placed wood_floor
-10/09/2023 23:18:45: Placed wood_floor
-10/09/2023 23:18:48: Placed wood_floor
-10/09/2023 23:19:05: Placed wood_pole_log_4
-10/09/2023 23:19:09: Placed wood_pole_log_4
-10/09/2023 23:19:12: Placed wood_pole_log_4
-10/09/2023 23:19:19: Placed wood_pole_log_4
-10/09/2023 23:20:43: Placed wood_log_45
-10/09/2023 23:20:45: Placed wood_log_45
-10/09/2023 23:20:48: Placed wood_log_45
-10/09/2023 23:21:01: Placed wood_log_45
-10/09/2023 23:21:14: Placed wood_log_45
-10/09/2023 23:21:17: Placed wood_log_45
-10/09/2023 23:21:19: Placed wood_log_45
-10/09/2023 23:21:23: Placed wood_log_45
-10/09/2023 23:21:44: Loading dungeon
-10/09/2023 23:21:44: Dungeon loaded with 20 rooms from old format in 11.0096 ms.
-10/09/2023 23:21:47: Loading dungeon
-10/09/2023 23:21:47: Dungeon loaded with 28 rooms from old format in 16.0159 ms.
-10/09/2023 23:22:19: Stopped music meadows at 8119171
-10/09/2023 23:22:19: Starting music blackforest
-10/09/2023 23:22:19: Resumed music blackforest at 6270429
-10/09/2023 23:24:13: Placed wood_log_45
-10/09/2023 23:24:15: Placed wood_log_45
-10/09/2023 23:24:26: Placed wood_log_45
-10/09/2023 23:24:28: Placed wood_log_45
-10/09/2023 23:24:36: Placed wood_log_45
-10/09/2023 23:24:38: Placed wood_log_45
-10/09/2023 23:24:40: Placed wood_log_45
-10/09/2023 23:24:45: Placed wood_log_45
-10/09/2023 23:25:03: Disabling jump_trigger  character_trigger
-10/09/2023 23:25:03: Disabling jump_trigger (1)  character_trigger
-10/09/2023 23:25:03: Disabling jump_trigger (2)  character_trigger
-10/09/2023 23:25:09: Placed wood_stepladder
-10/09/2023 23:25:12: Placed wood_stepladder
-10/09/2023 23:25:16: Placed wood_stepladder
-10/09/2023 23:25:23: Placed wood_stepladder
-10/09/2023 23:25:31: Placed wood_stepladder
-10/09/2023 23:25:33: Placed wood_stepladder
-10/09/2023 23:25:49: Stopped music blackforest at 6489997
-10/09/2023 23:25:49: Starting music meadows
-10/09/2023 23:25:49: Resumed music meadows at 8119171
-10/09/2023 23:25:52: Loading dungeon
-10/09/2023 23:25:52: Dungeon loaded with 20 rooms from old format in 11.0099 ms.
-10/09/2023 23:26:07: Disabling jump_trigger  character_trigger
-10/09/2023 23:26:07: Disabling jump_trigger (1)  character_trigger
-10/09/2023 23:26:07: Disabling jump_trigger (2)  character_trigger
-10/09/2023 23:26:53: Loading dungeon
-10/09/2023 23:26:53: Dungeon loaded with 20 rooms from old format in 10.0084 ms.
-10/09/2023 23:26:53: Loading dungeon
-10/09/2023 23:26:53: Dungeon loaded with 28 rooms from old format in 16.0136 ms.
-10/09/2023 23:27:14: Stopped music meadows at 2151745
-10/09/2023 23:27:14: Starting music blackforest
-10/09/2023 23:27:14: Resumed music blackforest at 6489997
-10/09/2023 23:27:30: Stopped music blackforest at 7209708
-10/09/2023 23:27:30: Starting music blackforest
-10/09/2023 23:27:30: Resumed music blackforest at 7209708
-10/09/2023 23:28:18: Disabling jump_trigger  character_trigger
-10/09/2023 23:28:18: Disabling jump_trigger (1)  character_trigger
-10/09/2023 23:28:18: Disabling jump_trigger (2)  character_trigger
-10/09/2023 23:28:29: Placed wood_stepladder
-10/09/2023 23:28:35: Placed wood_stepladder
-10/09/2023 23:28:39: Placed wood_stepladder
-10/09/2023 23:28:48: Placed wood_stepladder
-10/09/2023 23:28:55: Placed wood_stepladder
-10/09/2023 23:28:58: Placed wood_stepladder
-10/09/2023 23:29:16: Disabling jump_trigger  character_trigger
-10/09/2023 23:29:16: Disabling jump_trigger (1)  character_trigger
-10/09/2023 23:29:16: Disabling jump_trigger (2)  character_trigger
-10/09/2023 23:29:16: Update PlayFab entity token
-10/09/2023 23:30:34: Stopped music blackforest at 6262684
-10/09/2023 23:30:34: Starting music meadows
-10/09/2023 23:30:34: Resumed music meadows at 2151745
-10/09/2023 23:30:35: Loading dungeon
-10/09/2023 23:30:35: Dungeon loaded with 20 rooms from old format in 12.0124 ms.
-10/09/2023 23:30:37: Loading dungeon
-10/09/2023 23:30:37: Dungeon loaded with 28 rooms from old format in 16.0136 ms.
-10/09/2023 23:30:52: Disabling jump_trigger  character_trigger
-10/09/2023 23:30:52: Disabling jump_trigger (1)  character_trigger
-10/09/2023 23:30:52: Disabling jump_trigger (2)  character_trigger
-10/09/2023 23:32:24: Placed wood_log_45
-10/09/2023 23:32:26: Placed wood_log_45
-10/09/2023 23:32:27: Placed wood_log_45
-10/09/2023 23:32:31: Placed wood_log_45
-10/09/2023 23:32:40: Placed wood_log_45
-10/09/2023 23:32:43: Placed wood_log_45
-10/09/2023 23:32:46: Placed wood_log_45
-10/09/2023 23:32:49: Placed wood_log_45
-10/09/2023 23:33:36: Loading dungeon
-10/09/2023 23:33:36: Dungeon loaded with 20 rooms from old format in 10.5136 ms.
-10/09/2023 23:33:39: Loading dungeon
-10/09/2023 23:33:40: Dungeon loaded with 28 rooms from old format in 16.0257 ms.
-10/09/2023 23:34:06: Placed wood_log_45
-10/09/2023 23:34:26: Placed wood_log_26
-10/09/2023 23:34:32: Placed wood_log_26
-10/09/2023 23:34:34: Placed wood_log_26
-10/09/2023 23:34:36: Placed wood_log_26
-10/09/2023 23:34:38: Placed wood_log_26
-10/09/2023 23:34:41: Placed wood_log_26
-10/09/2023 23:34:43: Placed wood_log_26
-10/09/2023 23:34:46: Placed wood_log_26
-10/09/2023 23:35:04: Placed wood_stair
-10/09/2023 23:35:07: Placed wood_stair
-10/09/2023 23:35:09: Placed wood_stair
-10/09/2023 23:35:11: Placed wood_stair
-10/09/2023 23:35:16: Placed wood_stair
-10/09/2023 23:35:26: Placed wood_stair
-10/09/2023 23:35:45: Placed wood_stair
-10/09/2023 23:35:50: Placed wood_stair
-10/09/2023 23:35:55: Placed wood_stair
-10/09/2023 23:35:58: Placed wood_stair
-10/09/2023 23:37:59: Placed wood_wall_log_4x0.5
-10/09/2023 23:38:02: Placed wood_wall_log_4x0.5
-10/09/2023 23:38:06: Starting music evening
-10/09/2023 23:38:06: Placed wood_wall_log_4x0.5
-10/09/2023 23:38:07: Stopped music meadows at 2689080
-10/09/2023 23:38:10: Placed wood_wall_log_4x0.5
-10/09/2023 23:38:25: Disabling jump_trigger  character_trigger
-10/09/2023 23:38:25: Disabling jump_trigger (1)  character_trigger
-10/09/2023 23:38:25: Disabling jump_trigger (2)  character_trigger
-10/09/2023 23:38:34: Placed wood_floor
-10/09/2023 23:38:37: Placed wood_floor
-10/09/2023 23:38:39: Placed wood_floor
-10/09/2023 23:38:41: Placed wood_floor
-10/09/2023 23:38:43: Placed wood_floor
-10/09/2023 23:38:44: Placed wood_floor
-10/09/2023 23:38:46: Placed wood_floor
-10/09/2023 23:38:48: Placed wood_floor
-10/09/2023 23:38:59: Placed wood_pole_log
-10/09/2023 23:39:03: Placed wood_pole_log
-10/09/2023 23:39:10: Spawned Greydwarf_Shaman x 1
-10/09/2023 23:39:10: Spawned FireFlies x 1
-10/09/2023 23:39:56: Placed wood_wall_log_4x0.5
-10/09/2023 23:39:58: Spawned FireFlies x 1
-10/09/2023 23:40:03: Disabling jump_trigger  character_trigger
-10/09/2023 23:40:03: Disabling jump_trigger (1)  character_trigger
-10/09/2023 23:40:03: Disabling jump_trigger (2)  character_trigger
-10/09/2023 23:40:38: Starting music blackforest
-10/09/2023 23:40:42: Stopped music blackforest at 177811
-10/09/2023 23:41:16: Placed wood_log_45
-10/09/2023 23:41:18: Spawned Greydwarf_Shaman x 1
-10/09/2023 23:41:19: Placed wood_log_45
-10/09/2023 23:41:34: Spawned FireFlies x 1
-10/09/2023 23:41:37: Placed wood_log_26
-10/09/2023 23:41:39: Placed wood_log_26
-10/09/2023 23:41:42: Placed wood_log_26
-10/09/2023 23:41:48: Placed wood_log_26
-10/09/2023 23:42:07: Placed wood_wall_log_4x0.5
-10/09/2023 23:42:22: Spawned FireFlies x 1
-10/09/2023 23:42:26: Placed wood_wall_log_4x0.5
-10/09/2023 23:42:31: Placed wood_wall_log_4x0.5
-10/09/2023 23:42:40: Disabling jump_trigger  character_trigger
-10/09/2023 23:42:40: Disabling jump_trigger (1)  character_trigger
-10/09/2023 23:42:40: Disabling jump_trigger (2)  character_trigger
-10/09/2023 23:42:48: Placed wood_stair
-10/09/2023 23:42:53: Placed wood_stair
-10/09/2023 23:42:58: Placed wood_stair
-10/09/2023 23:43:01: Placed wood_stair
-10/09/2023 23:43:24: Update PlayFab entity token
-10/09/2023 23:43:34: Spawned FireFlies x 1
-10/09/2023 23:43:50: Loading dungeon
-10/09/2023 23:43:50: Dungeon loaded with 20 rooms from old format in 10.0185 ms.
-10/09/2023 23:43:50: Loading dungeon
-10/09/2023 23:43:50: Dungeon loaded with 28 rooms from old format in 15.0451 ms.
-10/09/2023 23:44:02: Spawned FireFlies x 1
-10/09/2023 23:44:18: Starting music blackforest
-10/09/2023 23:44:18: Resumed music blackforest at 177811
-10/09/2023 23:44:26: Spawned FireFlies x 1
-10/09/2023 23:44:30: Setting selected recipe 0
-10/09/2023 23:45:14: Placed wood_log_45
-10/09/2023 23:45:36: Placed wood_log_45
-10/09/2023 23:45:38: Spawned FireFlies x 1
-10/09/2023 23:45:40: Placed wood_log_45
-10/09/2023 23:45:44: Placed wood_log_45
-10/09/2023 23:46:00: Placed wood_log_45
-10/09/2023 23:46:01: Placed wood_log_45
-10/09/2023 23:46:03: Placed wood_log_45
-10/09/2023 23:46:05: Placed wood_log_45
-10/09/2023 23:46:12: Placed wood_log_45
-10/09/2023 23:46:26: Spawned FireFlies x 1
-10/09/2023 23:46:33: Placed wood_log_26
-10/09/2023 23:46:42: Spawned Greydwarf_Elite x 1
-10/09/2023 23:47:04: Uncompressed size 8392742
-10/09/2023 23:47:04: Compressed size 14041
-10/09/2023 23:47:04: Considering autobackup. World time: 2187.98, short time: 7200, long time: 43200, backup count: 4
-10/09/2023 23:47:04: Overwrite our newest autobackup since the second one isn't so old
-10/09/2023 23:47:04: Replacing backup file: terry_backup_auto-20231009212345
-10/09/2023 23:47:04: Saving backup at: terry_backup_auto-20231009234704
-10/09/2023 23:47:04: Sending message to save player profiles
-10/09/2023 23:47:05: PrepareSave: clone done in 33ms
-10/09/2023 23:47:05: PrepareSave: ZDOExtraData.PrepareSave done in 26 ms
-10/09/2023 23:47:05: World save writing starting
-10/09/2023 23:47:05: World save writing started
-10/09/2023 23:47:05: Saved 338660 ZDOs
-10/09/2023 23:47:05: World save writing finishing
-10/09/2023 23:47:05: World save writing finished
-10/09/2023 23:47:05: World saved ( 648.4565ms )
-10/09/2023 23:47:05: Considering autobackup. World time: 2188.82, short time: 7200, long time: 43200, backup count: 4
-10/09/2023 23:47:05: No autobackup needed yet...
-10/09/2023 23:47:07: Starting music morning
-10/09/2023 23:47:08: Stopped music blackforest at 7649644
-10/09/2023 23:47:40: Placed wood_log_26
-10/09/2023 23:47:42: Starting music blackforest
-10/09/2023 23:47:42: Resumed music blackforest at 7649644
-10/09/2023 23:47:45: Placed wood_log_26
-10/09/2023 23:47:46: Placed wood_log_26
-10/09/2023 23:47:50: Placed wood_log_26
-10/09/2023 23:47:54: Placed wood_log_26
-10/09/2023 23:48:00: Placed wood_log_26
-10/09/2023 23:48:03: Placed wood_log_26
-10/09/2023 23:48:51: Placed wood_stair
-10/09/2023 23:48:55: Placed wood_stair
-10/09/2023 23:49:01: Placed wood_stair
-10/09/2023 23:49:05: Placed wood_stair
-10/09/2023 23:49:09: Placed wood_stair
-10/09/2023 23:49:13: Placed wood_stair
-10/09/2023 23:49:15: Placed wood_stair
-10/09/2023 23:49:19: Placed wood_stair
-10/09/2023 23:49:45: Placed wood_floor
-10/09/2023 23:49:47: Placed wood_floor
-10/09/2023 23:49:52: Placed wood_floor
-10/09/2023 23:49:55: Placed wood_floor
-10/09/2023 23:50:12: Stopped music blackforest at 5227446
-10/09/2023 23:50:12: Starting music blackforest
-10/09/2023 23:50:12: Resumed music blackforest at 5227446
-10/09/2023 23:50:19: Setting selected recipe 0
-10/09/2023 23:50:47: Placed wood_pole2
-10/09/2023 23:50:50: Placed wood_pole2
-10/09/2023 23:51:01: Placed wood_pole2
-10/09/2023 23:51:03: Placed wood_pole2
-10/09/2023 23:51:21: Placed wood_pole2
-10/09/2023 23:51:33: Placed wood_beam_26
-10/09/2023 23:51:35: Placed wood_beam_26
-10/09/2023 23:51:40: Placed wood_beam_26
-10/09/2023 23:51:54: Placed wood_pole2
-10/09/2023 23:52:04: Placed wood_beam_26
-10/09/2023 23:52:06: Placed wood_beam_26
-10/09/2023 23:52:21: Placed wood_pole2
-10/09/2023 23:52:40: Placed wood_beam_26
-10/09/2023 23:52:44: Placed wood_beam_26
-10/09/2023 23:52:47: Placed wood_beam_26
-10/09/2023 23:52:52: Placed wood_beam_26
-10/09/2023 23:52:55: Placed wood_beam_26
-10/09/2023 23:53:11: Placed wood_pole2
-10/09/2023 23:53:12: Stopped music blackforest at 4111078
-10/09/2023 23:53:12: Starting music meadows
-10/09/2023 23:53:15: Placed wood_pole2
-10/09/2023 23:53:21: Placed wood_beam_26
-10/09/2023 23:53:23: Placed wood_beam_26
-10/09/2023 23:53:26: Placed wood_beam_26
-10/09/2023 23:53:31: Placed wood_beam_26
-10/09/2023 23:53:32: Placed wood_beam_26
-10/09/2023 23:53:35: Placed wood_beam_26
-10/09/2023 23:53:43: Placed wood_pole2
-10/09/2023 23:53:45: Placed wood_pole2
-10/09/2023 23:53:53: Placed wood_beam_26
-10/09/2023 23:53:54: Placed wood_beam_26
-10/09/2023 23:53:56: Placed wood_beam_26
-10/09/2023 23:53:59: Placed wood_beam_26
-10/09/2023 23:54:07: Placed wood_pole2
-10/09/2023 23:54:10: Placed wood_pole2
-10/09/2023 23:54:13: Placed wood_pole2
-10/09/2023 23:54:15: Placed wood_pole2
-10/09/2023 23:54:31: Placed wood_roof_45
-10/09/2023 23:54:40: Placed wood_roof_45
-10/09/2023 23:54:47: Placed wood_roof_45
-10/09/2023 23:54:49: Placed wood_roof_45
-10/09/2023 23:55:15: Placed wood_pole
-10/09/2023 23:55:17: Placed wood_pole
-10/09/2023 23:55:19: Placed wood_pole
-10/09/2023 23:55:21: Placed wood_pole
-10/09/2023 23:55:24: Placed wood_pole
-10/09/2023 23:55:26: Placed wood_pole
-10/09/2023 23:55:28: Placed wood_pole
-10/09/2023 23:55:53: Placed wood_roof
-10/09/2023 23:55:56: Placed wood_roof
-10/09/2023 23:55:58: Placed wood_roof
-10/09/2023 23:56:03: Placed wood_roof
-10/09/2023 23:56:06: Placed wood_roof
-10/09/2023 23:56:26: Placed wood_roof
-10/09/2023 23:56:29: Placed wood_roof
-10/09/2023 23:56:30: Placed wood_roof
-10/09/2023 23:56:34: Placed wood_roof
-10/09/2023 23:56:42: Placed wood_roof
-10/09/2023 23:57:02: Stopped music meadows at 446949
-10/09/2023 23:57:02: Starting music meadows
-10/09/2023 23:57:02: Resumed music meadows at 446949
-10/09/2023 23:57:19: Placed wood_roof
-10/09/2023 23:57:20: Placed wood_roof
-10/09/2023 23:57:26: Stopped music meadows at 1515697
-10/09/2023 23:57:26: Starting music meadows
-10/09/2023 23:57:26: Resumed music meadows at 1515697
-10/09/2023 23:57:34: Stopped music meadows at 1878845
-10/09/2023 23:57:34: Starting music blackforest
-10/09/2023 23:57:34: Resumed music blackforest at 4111078
-10/09/2023 23:57:37: Placed wood_pole
-10/09/2023 23:57:39: Placed wood_pole
-10/09/2023 23:57:40: Placed wood_pole
-10/09/2023 23:57:43: Placed wood_pole
-10/09/2023 23:57:47: Placed wood_pole
-10/09/2023 23:57:48: Placed wood_pole
-10/09/2023 23:57:50: Placed wood_pole
-10/09/2023 23:57:53: Placed wood_pole
-10/09/2023 23:58:00: Placed wood_roof
-10/09/2023 23:58:03: Placed wood_roof
-10/09/2023 23:58:05: Placed wood_roof
-10/09/2023 23:58:07: Placed wood_roof
-10/09/2023 23:58:10: Placed wood_roof
-10/09/2023 23:58:13: Placed wood_roof
-10/09/2023 23:58:15: Placed wood_roof
-10/09/2023 23:58:15: Stopped music blackforest at 5883545
-10/09/2023 23:58:15: Starting music blackforest
-10/09/2023 23:58:15: Resumed music blackforest at 5883545
-10/09/2023 23:58:16: Placed wood_roof
-10/09/2023 23:58:18: Placed wood_roof
-10/09/2023 23:58:21: Placed wood_roof
-10/09/2023 23:58:23: Stopped music blackforest at 6245752
-10/09/2023 23:58:23: Starting music meadows
-10/09/2023 23:58:23: Resumed music meadows at 1878845
-10/09/2023 23:58:35: Loading dungeon
-10/09/2023 23:58:35: Dungeon loaded with 20 rooms from old format in 11.0094 ms.
-10/09/2023 23:58:35: Loading dungeon
-10/09/2023 23:58:35: Dungeon loaded with 28 rooms from old format in 15.0246 ms.
-10/09/2023 23:59:18: Loading dungeon
-10/09/2023 23:59:18: Dungeon loaded with 28 rooms from old format in 22.5015 ms.
-10/09/2023 23:59:41: Disabling jump_trigger  character_trigger
-10/09/2023 23:59:41: Disabling jump_trigger (1)  character_trigger
-10/09/2023 23:59:41: Disabling jump_trigger (2)  character_trigger
-10/09/2023 23:59:46: Placed wood_stepladder
-10/09/2023 23:59:53: Placed wood_stepladder
-10/09/2023 23:59:56: Placed wood_stepladder
-10/09/2023 23:59:59: Placed wood_stepladder
-10/10/2023 00:00:09: Placed wood_stepladder
-10/10/2023 00:00:15: Placed wood_stepladder
-10/10/2023 00:00:18: Placed wood_stepladder
-10/10/2023 00:00:24: Placed wood_stepladder
-10/10/2023 00:00:30: Disabling jump_trigger  character_trigger
-10/10/2023 00:00:30: Disabling jump_trigger (1)  character_trigger
-10/10/2023 00:00:30: Disabling jump_trigger (2)  character_trigger
-10/10/2023 00:00:34: Update PlayFab entity token
-10/10/2023 00:00:39: Placed wood_log_45
-10/10/2023 00:00:42: Placed wood_log_45
-10/10/2023 00:01:14: Disabling jump_trigger  character_trigger
-10/10/2023 00:01:14: Disabling jump_trigger (1)  character_trigger
-10/10/2023 00:01:14: Disabling jump_trigger (2)  character_trigger
-10/10/2023 00:01:18: Placed wood_stepladder
-10/10/2023 00:01:28: Placed wood_stepladder
-10/10/2023 00:01:30: Placed wood_stepladder
-10/10/2023 00:01:36: Placed wood_stepladder
-10/10/2023 00:01:40: Placed wood_stepladder
-10/10/2023 00:01:45: Placed wood_stepladder
-10/10/2023 00:01:50: Placed wood_stepladder
-10/10/2023 00:01:54: Placed wood_stepladder
-10/10/2023 00:01:58: Placed wood_stepladder
-10/10/2023 00:01:59: Placed wood_stepladder
-10/10/2023 00:02:00: Placed wood_stepladder
-10/10/2023 00:02:02: Placed wood_stepladder
-10/10/2023 00:02:15: Loading dungeon
-10/10/2023 00:02:15: Dungeon loaded with 20 rooms from old format in 11.0095 ms.
-10/10/2023 00:02:19: Loading dungeon
-10/10/2023 00:02:19: Dungeon loaded with 28 rooms from old format in 16.0145 ms.
-10/10/2023 00:02:33: Disabling jump_trigger  character_trigger
-10/10/2023 00:02:33: Disabling jump_trigger (1)  character_trigger
-10/10/2023 00:02:33: Disabling jump_trigger (2)  character_trigger
-10/10/2023 00:03:03: Stopped music meadows at 4546082
-10/10/2023 00:03:03: Starting music blackforest
-10/10/2023 00:03:03: Resumed music blackforest at 6245752
-10/10/2023 00:03:24: Disabling jump_trigger  character_trigger
-10/10/2023 00:03:24: Disabling jump_trigger (1)  character_trigger
-10/10/2023 00:03:24: Disabling jump_trigger (2)  character_trigger
-10/10/2023 00:03:43: Placed wood_log_45
-10/10/2023 00:03:45: Placed wood_log_45
-10/10/2023 00:03:50: Placed wood_log_45
-10/10/2023 00:03:56: Placed wood_log_45
-10/10/2023 00:04:20: Setting selected recipe 0
-10/10/2023 00:04:24: Stopped music blackforest at 3561868
-10/10/2023 00:04:24: Starting music meadows
-10/10/2023 00:04:24: Resumed music meadows at 4546082
-10/10/2023 00:04:49: Activating default element Continue
-10/10/2023 00:04:54: Unloading unused assets
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 26475 unused Assets to reduce memory usage. Loaded Objects now: 1900266.
-Total: 653.668000 ms (FindLiveObjects: 111.553200 ms CreateObjectMapping: 28.856900 ms MarkObjects: 455.624600 ms  DeleteObjects: 57.633000 ms)
-
-10/10/2023 00:07:11: Placed wood_log_45
-10/10/2023 00:07:36: Loading dungeon
-10/10/2023 00:07:36: Dungeon loaded with 20 rooms from old format in 11.0123 ms.
-10/10/2023 00:07:42: Loading dungeon
-10/10/2023 00:07:42: Dungeon loaded with 28 rooms from old format in 16.0133 ms.
-10/10/2023 00:08:05: Stopped music meadows at 4554618
-10/10/2023 00:08:05: Starting music blackforest
-10/10/2023 00:08:05: Resumed music blackforest at 3561868
-10/10/2023 00:08:09: Stopped music blackforest at 3745323
-10/10/2023 00:08:09: Starting music meadows
-10/10/2023 00:08:09: Resumed music meadows at 4554618
-10/10/2023 00:08:14: Force generating hmap (-128.0, 0.0, 576.0)
-10/10/2023 00:08:34: Setting selected recipe 0
-10/10/2023 00:08:36: Setting selected recipe 0
-10/10/2023 00:08:37: Button pressed RepairButton  frame:439821
-10/10/2023 00:08:42: Stopped music meadows at 5978048
-10/10/2023 00:08:42: Starting music meadows
-10/10/2023 00:08:42: Resumed music meadows at 5978048
-10/10/2023 00:08:45: Stopped music meadows at 6126694
-10/10/2023 00:08:45: Starting music home
-10/10/2023 00:08:49: Is mine
-10/10/2023 00:08:49: is current spawnpoint
-10/10/2023 00:08:49: exporeusre check 1  True
-10/10/2023 00:08:49: Ignoring 2 colliders
-10/10/2023 00:08:50: Time 496472.299943622, day:275    nextm:497070.000010729  skipspeed:49.8083389255529
-10/10/2023 00:08:52: Starting music evening
-10/10/2023 00:08:53: Stopped music home at 363148
-10/10/2023 00:08:55: Skipping unloading unused assets
-10/10/2023 00:09:02: Uncompressed size 8392742
-10/10/2023 00:09:02: Compressed size 14041
-10/10/2023 00:09:02: Considering autobackup. World time: 3402, short time: 7200, long time: 43200, backup count: 4
-10/10/2023 00:09:02: No autobackup needed yet...
-10/10/2023 00:09:02: PrepareSave: clone done in 22ms
-10/10/2023 00:09:02: PrepareSave: ZDOExtraData.PrepareSave done in 46 ms
-10/10/2023 00:09:02: World save writing starting
-10/10/2023 00:09:02: World save writing started
-10/10/2023 00:09:03: Saved 338765 ZDOs
-10/10/2023 00:09:03: World save writing finishing
-10/10/2023 00:09:03: World save writing finished
-10/10/2023 00:09:03: World saved ( 694.8499ms )
-10/10/2023 00:09:03: Considering autobackup. World time: 3402.88, short time: 7200, long time: 43200, backup count: 4
-10/10/2023 00:09:03: No autobackup needed yet...
-10/10/2023 00:09:06: Spawned Greydwarf x 2
-10/10/2023 00:09:06: Spawned FireFlies x 1
-10/10/2023 00:09:09: Starting music morning
-10/10/2023 00:09:44: Starting music blackforest
-10/10/2023 00:09:44: Resumed music blackforest at 3745323
-10/10/2023 00:10:30: Stopped music blackforest at 5790622
-10/10/2023 00:10:31: Starting music blackforest
-10/10/2023 00:10:31: Resumed music blackforest at 5790622
-10/10/2023 00:10:31: Stopped music blackforest at 5797207
-10/10/2023 00:10:31: Starting music meadows
-10/10/2023 00:10:31: Resumed music meadows at 6126694
-10/10/2023 00:10:49: Disabling jump_trigger  character_trigger
-10/10/2023 00:10:49: Disabling jump_trigger (1)  character_trigger
-10/10/2023 00:10:49: Disabling jump_trigger (2)  character_trigger
-10/10/2023 00:11:28: Disabling jump_trigger  character_trigger
-10/10/2023 00:11:28: Disabling jump_trigger (1)  character_trigger
-10/10/2023 00:11:28: Disabling jump_trigger (2)  character_trigger
-10/10/2023 00:11:34: Placed wood_stepladder
-10/10/2023 00:12:04: Loading dungeon
-10/10/2023 00:12:04: Dungeon loaded with 20 rooms from old format in 11.02 ms.
-10/10/2023 00:12:20: Skipping unloading unused assets
-10/10/2023 00:13:06: Loading dungeon
-10/10/2023 00:13:06: Dungeon loaded with 28 rooms from old format in 16.0133 ms.
-10/10/2023 00:13:27: Disabling jump_trigger  character_trigger
-10/10/2023 00:13:27: Disabling jump_trigger (1)  character_trigger
-10/10/2023 00:13:27: Disabling jump_trigger (2)  character_trigger
-10/10/2023 00:13:40: Placed wood_wall_roof_top_45
-10/10/2023 00:13:44: Placed wood_wall_roof_top_45
-10/10/2023 00:13:52: Placed wood_wall_roof_top_45
-10/10/2023 00:13:53: Placed wood_wall_roof_top_45
-10/10/2023 00:14:13: Stopped music meadows at 6209553
-10/10/2023 00:14:13: Starting music blackforest
-10/10/2023 00:14:13: Resumed music blackforest at 5797207
-10/10/2023 00:14:33: Stopped music blackforest at 889996
-10/10/2023 00:14:33: Starting music meadows
-10/10/2023 00:14:33: Resumed music meadows at 6209553
-10/10/2023 00:14:49: Stopped music meadows at 718771
-10/10/2023 00:14:49: Starting music blackforest
-10/10/2023 00:14:49: Resumed music blackforest at 889996
-10/10/2023 00:15:42: Stopped music blackforest at 3197778
-10/10/2023 00:15:42: Starting music meadows
-10/10/2023 00:15:42: Resumed music meadows at 718771
-10/10/2023 00:16:34: Loading dungeon
-10/10/2023 00:16:34: Dungeon loaded with 20 rooms from old format in 12.013 ms.
-10/10/2023 00:16:38: Loading dungeon
-10/10/2023 00:16:38: Dungeon loaded with 28 rooms from old format in 17.0141 ms.
-10/10/2023 00:17:04: Stopped music meadows at 4369074
-10/10/2023 00:17:04: Starting music blackforest
-10/10/2023 00:17:04: Resumed music blackforest at 3197778
-10/10/2023 00:17:06: Disabling PlayerBase  character_trigger
-10/10/2023 00:17:08: Placed piece_workbench
-10/10/2023 00:17:11: Disabling Capsule_blockplayer  blocker
-10/10/2023 00:17:11: Disabling collider_block  blocker
-10/10/2023 00:17:36: Force generating hmap (-128.0, 0.0, 576.0)
-10/10/2023 00:17:43: Stopped music blackforest at 4889336
-10/10/2023 00:17:43: Starting music meadows
-10/10/2023 00:17:43: Resumed music meadows at 4369074
-10/10/2023 00:17:54: Force generating hmap (-128.0, 0.0, 576.0)
-10/10/2023 00:18:29: Player onboard, total onboard 1
-10/10/2023 00:18:32: Doodad controlls set Karve(Clone)
-10/10/2023 00:18:58: Stopped music meadows at 7663755
-10/10/2023 00:18:58: Starting music blackforest
-10/10/2023 00:18:58: Resumed music blackforest at 4889336
-10/10/2023 00:18:58: Loading dungeon
-10/10/2023 00:18:58: Dungeon loaded with 26 rooms from old format in 13.5149 ms.
-10/10/2023 00:19:40: Update PlayFab entity token
-10/10/2023 00:19:56: Starting music sailing
-10/10/2023 00:20:00: Stopped music blackforest at 2746195
-10/10/2023 00:20:34: Spawned Troll x 1
-10/10/2023 00:21:01: Stopped music sailing at 2711385
-10/10/2023 00:21:01: Starting music blackforest
-10/10/2023 00:21:01: Resumed music blackforest at 2746195
-10/10/2023 00:21:07: Setting selected recipe 0
-10/10/2023 00:21:17: Starting music sailing
-10/10/2023 00:21:23: Stopped music blackforest at 3687935
-10/10/2023 00:21:23: Resumed music sailing at 2711385
-10/10/2023 00:21:38: Loading dungeon
-10/10/2023 00:21:38: Dungeon loaded with 28 rooms from old format in 16.0141 ms.
-10/10/2023 00:22:07: Stopped music sailing at 4645669
-10/10/2023 00:22:07: Starting music meadows
-10/10/2023 00:22:07: Resumed music meadows at 7663755
-10/10/2023 00:22:08: Stopped music meadows at 7742782
-10/10/2023 00:22:08: Starting music blackforest
-10/10/2023 00:22:08: Resumed music blackforest at 3687935
-10/10/2023 00:22:13: Starting music sailing
-10/10/2023 00:22:16: Stopped music blackforest at 4036030
-10/10/2023 00:22:16: Resumed music sailing at 4645669
-10/10/2023 00:22:20: Stopped music sailing at 4825361
-10/10/2023 00:22:20: Starting music blackforest
-10/10/2023 00:22:20: Resumed music blackforest at 4036030
-10/10/2023 00:22:21: Loading dungeon
-10/10/2023 00:22:21: Dungeon loaded with 20 rooms from old format in 10.0104 ms.
-10/10/2023 00:22:50: Starting music sailing
-10/10/2023 00:22:56: Stopped music blackforest at 5582705
-10/10/2023 00:22:56: Resumed music sailing at 4825361
-10/10/2023 00:23:11: Stopped music sailing at 5518730
-10/10/2023 00:23:11: Starting music blackforest
-10/10/2023 00:23:11: Resumed music blackforest at 5582705
-10/10/2023 00:23:14: Loading dungeon
-10/10/2023 00:23:14: Dungeon loaded with 28 rooms from old format in 16.0158 ms.
-10/10/2023 00:23:43: Starting music sailing
-10/10/2023 00:23:47: Stopped music blackforest at 7175479
-10/10/2023 00:23:47: Resumed music sailing at 5518730
-10/10/2023 00:23:58: Loading dungeon
-10/10/2023 00:23:58: Dungeon loaded with 20 rooms from old format in 10.5206 ms.
-10/10/2023 00:24:14: Stopped music sailing at 6673091
-10/10/2023 00:24:14: Starting music meadows
-10/10/2023 00:24:14: Resumed music meadows at 7742782
-10/10/2023 00:24:32: Stopped music meadows at 811910
-10/10/2023 00:24:32: Starting music blackforest
-10/10/2023 00:24:32: Resumed music blackforest at 7175479
-10/10/2023 00:24:36: Starting music sailing
-10/10/2023 00:24:38: Stopped music blackforest at 242726
-10/10/2023 00:24:38: Resumed music sailing at 6673091
-10/10/2023 00:24:38: Stopped music sailing at 6687202
-10/10/2023 00:24:38: Starting music blackforest
-10/10/2023 00:24:38: Resumed music blackforest at 242726
-10/10/2023 00:25:11: Stopped music blackforest at 1710373
-10/10/2023 00:25:11: Starting music meadows
-10/10/2023 00:25:11: Resumed music meadows at 811910
-10/10/2023 00:25:42: Activating default element Continue
-10/10/2023 00:25:44: Activating default element Button_no
-10/10/2023 00:25:45: Game - OnApplicationQuit
-10/10/2023 00:25:45: Shuting down
-10/10/2023 00:25:45: Uncompressed size 8392742
-10/10/2023 00:25:45: Compressed size 14041
-10/10/2023 00:25:45: Considering autobackup. World time: 4402.04, short time: 7200, long time: 43200, backup count: 4
-10/10/2023 00:25:45: No autobackup needed yet...
-10/10/2023 00:25:45: ZNet Shutdown
-10/10/2023 00:25:45: PrepareSave: clone done in 30ms
-10/10/2023 00:25:45: PrepareSave: ZDOExtraData.PrepareSave done in 24 ms
-10/10/2023 00:25:45: World save writing starting
-10/10/2023 00:25:45: World save writing started
-10/10/2023 00:25:46: Saved 338732 ZDOs
-10/10/2023 00:25:46: World save writing finishing
-10/10/2023 00:25:46: World save writing finished
-10/10/2023 00:25:46: World saved ( 581.0298ms )
-10/10/2023 00:25:46: Considering autobackup. World time: 4402.04, short time: 7200, long time: 43200, backup count: 4
-10/10/2023 00:25:46: No autobackup needed yet...
-10/10/2023 00:25:46: Unloading unused assets
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-10/10/2023 00:25:46: Sending disconnect msg
-ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-10/10/2023 00:25:46: Stopping build thread
-
-Unloading 6211 unused Assets to reduce memory usage. Loaded Objects now: 1895308.
-Total: 582.695300 ms (FindLiveObjects: 92.267400 ms CreateObjectMapping: 27.138800 ms MarkObjects: 451.365900 ms  DeleteObjects: 11.923000 ms)
+Unloading 1372 unused Assets to reduce memory usage. Loaded Objects now: 1903020.
+Total: 557.159700 ms (FindLiveObjects: 84.967000 ms CreateObjectMapping: 26.714900 ms MarkObjects: 442.545300 ms  DeleteObjects: 2.932200 ms)
 
 Setting up 16 worker threads for Enlighten.
-  Thread -> id: ee4 -> priority: 1 
-  Thread -> id: 207c -> priority: 1 
-  Thread -> id: 2724 -> priority: 1 
-  Thread -> id: 5f78 -> priority: 1 
-  Thread -> id: 34fc -> priority: 1 
-  Thread -> id: 4d1c -> priority: 1 
-  Thread -> id: 4b78 -> priority: 1 
-  Thread -> id: 4550 -> priority: 1 
-  Thread -> id: 4bf4 -> priority: 1 
-  Thread -> id: 42c4 -> priority: 1 
-  Thread -> id: 3068 -> priority: 1 
-  Thread -> id: 5804 -> priority: 1 
-  Thread -> id: 5a00 -> priority: 1 
-  Thread -> id: 8f4 -> priority: 1 
-  Thread -> id: 920 -> priority: 1 
-  Thread -> id: 61f8 -> priority: 1 
-10/10/2023 00:25:48: Steam manager on destroy
-10/10/2023 00:25:48: Local player destroyed
-10/10/2023 00:25:49: ZNet OnDestroy
-10/10/2023 00:25:49: Net scene destroyed
+  Thread -> id: 2eac -> priority: 1 
+  Thread -> id: 4180 -> priority: 1 
+  Thread -> id: 678 -> priority: 1 
+  Thread -> id: 2aa0 -> priority: 1 
+  Thread -> id: e64 -> priority: 1 
+  Thread -> id: 37e0 -> priority: 1 
+  Thread -> id: 3714 -> priority: 1 
+  Thread -> id: 22a0 -> priority: 1 
+  Thread -> id: 4b40 -> priority: 1 
+  Thread -> id: 2058 -> priority: 1 
+  Thread -> id: 47d8 -> priority: 1 
+  Thread -> id: 4f40 -> priority: 1 
+  Thread -> id: 3310 -> priority: 1 
+  Thread -> id: 10cc -> priority: 1 
+  Thread -> id: 4378 -> priority: 1 
+  Thread -> id: 4d58 -> priority: 1 
+10/10/2023 00:35:29: Steam manager on destroy
+10/10/2023 00:35:29: Local player destroyed
+10/10/2023 00:35:29: ZNet OnDestroy
+10/10/2023 00:35:29: Net scene destroyed
