@@ -10,216 +10,741 @@ Direct3D:
     VRAM:     8031 MB
     Driver:   31.0.15.3734
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.065 seconds
+- Completed reload, in  1.545 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using XInput
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.524000 ms
-10/17/2023 01:03:34: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/17/2023 01:03:34: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/17/2023 01:03:34: Starting to load scene:start
+UnloadTime: 0.505000 ms
+10/17/2023 01:19:51: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/17/2023 01:19:51: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/17/2023 01:19:51: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.014900 ms
+UnloadTime: 5.021900 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-10/17/2023 01:03:40: Using environment steamid 892970
-10/17/2023 01:03:40: Using steam APPID:892970
-10/17/2023 01:03:40: Authentication:k_ESteamNetworkingAvailability_Attempting
-10/17/2023 01:03:40: Steam initialized, persona:tjgolubi
-10/17/2023 01:03:40: PlayFab custom ID set to "Steam_76561198290658520"
-10/17/2023 01:03:40: Using default prefs
-10/17/2023 01:03:40: Valheim version: 0.217.24 (network version 15)
-10/17/2023 01:03:40: Worldgenerator version setup:2
-10/17/2023 01:03:40: Render threading mode:MultiThreaded
-10/17/2023 01:03:40: Set button "CamZoomIn" to None!
-10/17/2023 01:03:40: Set button "CamZoomOut" to None!
-10/17/2023 01:03:40: Set button "CamZoomIn" to None!
-10/17/2023 01:03:40: Set button "CamZoomOut" to None!
-10/17/2023 01:03:40: Loaded localization file #0 - 'localization' language: 'English'
-10/17/2023 01:03:40: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/17/2023 01:03:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/17/2023 01:03:40: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/17/2023 01:03:40: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/17/2023 01:03:40: Loaded localization file #0 - 'localization' language: 'English'
-10/17/2023 01:03:40: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/17/2023 01:03:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/17/2023 01:03:40: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/17/2023 01:03:40: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/17/2023 01:03:41: Missing audio clip in music respawn
-10/17/2023 01:03:41: Checking for installed DLCs
-10/17/2023 01:03:41: DLC:beta installed:False
-10/17/2023 01:03:41: Builder started
-10/17/2023 01:03:41: Sending PlayFab login request (attempt 1)
-10/17/2023 01:03:41: Ticket is System.Byte[] of length 369
-10/17/2023 01:03:41: Session auth respons callback
-10/17/2023 01:03:41: Starting music menu
+10/17/2023 01:19:57: Using environment steamid 892970
+10/17/2023 01:19:57: Using steam APPID:892970
+10/17/2023 01:19:58: Authentication:k_ESteamNetworkingAvailability_Attempting
+10/17/2023 01:19:58: Steam initialized, persona:tjgolubi
+10/17/2023 01:19:58: PlayFab custom ID set to "Steam_76561198290658520"
+10/17/2023 01:19:58: Using default prefs
+10/17/2023 01:19:58: Valheim version: 0.217.24 (network version 15)
+10/17/2023 01:19:58: Worldgenerator version setup:2
+10/17/2023 01:19:58: Render threading mode:MultiThreaded
+10/17/2023 01:19:58: Set button "CamZoomIn" to None!
+10/17/2023 01:19:58: Set button "CamZoomOut" to None!
+10/17/2023 01:19:58: Set button "CamZoomIn" to None!
+10/17/2023 01:19:58: Set button "CamZoomOut" to None!
+10/17/2023 01:19:58: Loaded localization file #0 - 'localization' language: 'English'
+10/17/2023 01:19:58: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/17/2023 01:19:58: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/17/2023 01:19:58: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/17/2023 01:19:58: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/17/2023 01:19:58: Loaded localization file #0 - 'localization' language: 'English'
+10/17/2023 01:19:58: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/17/2023 01:19:58: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/17/2023 01:19:58: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/17/2023 01:19:58: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/17/2023 01:19:58: Missing audio clip in music respawn
+10/17/2023 01:19:58: Checking for installed DLCs
+10/17/2023 01:19:58: DLC:beta installed:False
+10/17/2023 01:19:58: Builder started
+10/17/2023 01:19:58: Sending PlayFab login request (attempt 1)
+10/17/2023 01:19:58: Ticket is System.Byte[] of length 369
+10/17/2023 01:19:58: Session auth respons callback
+10/17/2023 01:19:58: Starting music menu
 
 Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156110.
-Total: 111.846600 ms (FindLiveObjects: 5.597100 ms CreateObjectMapping: 9.826500 ms MarkObjects: 96.251100 ms  DeleteObjects: 0.171700 ms)
+Total: 112.478500 ms (FindLiveObjects: 5.454200 ms CreateObjectMapping: 10.583100 ms MarkObjects: 96.271500 ms  DeleteObjects: 0.169200 ms)
 
-10/17/2023 01:03:41: PlayFab logged in as "Steam_76561198290658520"
-10/17/2023 01:03:41: PlayFab local entity ID is DBA9D3993BEC7B4F
-10/17/2023 01:03:46: show character selection
-10/17/2023 01:03:47: OnCharacterStart
-10/17/2023 01:03:51: Loading main scene
+10/17/2023 01:19:59: PlayFab logged in as "Steam_76561198290658520"
+10/17/2023 01:19:59: PlayFab local entity ID is DBA9D3993BEC7B4F
+10/17/2023 01:20:05: show character selection
+10/17/2023 01:20:06: OnCharacterStart
+10/17/2023 01:20:10: Loading main scene
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.896100 ms
-10/17/2023 01:03:51: Steam initialized, persona:tjgolubi
-10/17/2023 01:03:51: PlayFab custom ID set to "Steam_76561198290658520"
-10/17/2023 01:03:51: Using default prefs
-10/17/2023 01:03:51: Loading player profile terry
-10/17/2023 01:03:51: isModded: False
-10/17/2023 01:03:51: Zonesystem Awake 836
-10/17/2023 01:03:51: DungeonDB Awake 836
-10/17/2023 01:03:51: Steam initialized, persona:tjgolubi
-10/17/2023 01:03:51: Worldgenerator version setup:2
-10/17/2023 01:03:53: Audioman already exist, destroying self
-10/17/2023 01:03:53: Checking for installed DLCs
-10/17/2023 01:03:53: DLC:beta installed:False
+UnloadTime: 8.604800 ms
+10/17/2023 01:20:10: Steam initialized, persona:tjgolubi
+10/17/2023 01:20:10: PlayFab custom ID set to "Steam_76561198290658520"
+10/17/2023 01:20:10: Using default prefs
+10/17/2023 01:20:10: Loading player profile terry
+10/17/2023 01:20:10: isModded: False
+10/17/2023 01:20:10: Zonesystem Awake 920
+10/17/2023 01:20:10: DungeonDB Awake 920
+10/17/2023 01:20:10: Steam initialized, persona:tjgolubi
+10/17/2023 01:20:10: Worldgenerator version setup:2
+10/17/2023 01:20:12: Audioman already exist, destroying self
+10/17/2023 01:20:12: Checking for installed DLCs
+10/17/2023 01:20:12: DLC:beta installed:False
 
 Unloading 103 unused Assets to reduce memory usage. Loaded Objects now: 159900.
-Total: 89.157100 ms (FindLiveObjects: 4.829600 ms CreateObjectMapping: 8.468800 ms MarkObjects: 75.207200 ms  DeleteObjects: 0.651300 ms)
+Total: 89.418400 ms (FindLiveObjects: 4.939000 ms CreateObjectMapping: 9.244300 ms MarkObjects: 74.599600 ms  DeleteObjects: 0.635200 ms)
 
-10/17/2023 01:03:56: Zonesystem Start 836
-10/17/2023 01:03:57: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-10/17/2023 01:03:57: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-10/17/2023 01:03:57: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-10/17/2023 01:03:57: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-10/17/2023 01:03:57: DungeonDB Start 836
-10/17/2023 01:03:57: ZRpc timeout set to 30s 
-10/17/2023 01:03:57: ZNET START
-10/17/2023 01:03:57: Load world: Famheim (Famheim)
-10/17/2023 01:03:57: Loading 413250 zdos, my sessionID: 1305503129, data version: 32
-10/17/2023 01:03:57: Creating ZDOs
-10/17/2023 01:03:57: Loading in ZDOs
-10/17/2023 01:03:57: Adding to Dictionary
-10/17/2023 01:03:57: Adding to Sectors
-10/17/2023 01:03:57: Connecting Portals, Spawners & ZSyncTransforms
+10/17/2023 01:20:15: Zonesystem Start 920
+10/17/2023 01:20:15: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+10/17/2023 01:20:15: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+10/17/2023 01:20:15: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+10/17/2023 01:20:15: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+10/17/2023 01:20:15: DungeonDB Start 920
+10/17/2023 01:20:16: ZRpc timeout set to 30s 
+10/17/2023 01:20:16: ZNET START
+10/17/2023 01:20:16: Load world: Famheim (Famheim)
+10/17/2023 01:20:16: Loading 413247 zdos, my sessionID: 1695060469, data version: 32
+10/17/2023 01:20:16: Creating ZDOs
+10/17/2023 01:20:16: Loading in ZDOs
+10/17/2023 01:20:16: Adding to Dictionary
+10/17/2023 01:20:16: Adding to Sectors
+10/17/2023 01:20:16: Connecting Portals, Spawners & ZSyncTransforms
 ConnectPortals => Connected 1 portals.
 ConnectSpawners => Connected 1 spawners and 421 'done' spawners.
-10/17/2023 01:03:58: Loaded 10076 locations
-10/17/2023 01:03:58: Unloading unused assets
+10/17/2023 01:20:16: Loaded 10076 locations
+10/17/2023 01:20:16: Unloading unused assets
 Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-10/17/2023 01:03:58: Starting respawn
-10/17/2023 01:03:58: Session auth respons callback
-10/17/2023 01:04:03: Unpacking compressed mapdata 16759
-10/17/2023 01:04:03: tip:$loadscreen_tip06
+10/17/2023 01:20:16: Starting respawn
+10/17/2023 01:20:16: Session auth respons callback
+10/17/2023 01:20:21: Unpacking compressed mapdata 16759
+10/17/2023 01:20:22: tip:$loadscreen_tip09
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733246.
-Total: 500.482000 ms (FindLiveObjects: 80.606500 ms CreateObjectMapping: 26.681200 ms MarkObjects: 392.433700 ms  DeleteObjects: 0.760300 ms)
+Total: 489.096400 ms (FindLiveObjects: 78.728800 ms CreateObjectMapping: 26.608600 ms MarkObjects: 383.086200 ms  DeleteObjects: 0.672400 ms)
 
-10/17/2023 01:04:07: Loading dungeon
-10/17/2023 01:04:07: Dungeon loaded with 23 rooms in 13.0109 ms.
-10/17/2023 01:04:07: Loading dungeon
-10/17/2023 01:04:07: Dungeon loaded with 30 rooms in 11.0093 ms.
-10/17/2023 01:04:12: Spawned after 8.019994
-10/17/2023 01:04:12: Skipping unloading unused assets
-10/17/2023 01:04:12: Minimap: Adding unique location (131.9, 39.6, 260.8)
-10/17/2023 01:04:12: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
-10/17/2023 01:04:12: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
-10/17/2023 01:04:14: Starting music blackforest
-10/17/2023 01:04:14: Resumed music blackforest at 0
-10/17/2023 01:06:17: Activating default element Continue
-10/17/2023 01:06:22: Skipping unloading unused assets
-10/17/2023 01:10:41: Update PlayFab entity token
-10/17/2023 01:10:47: Loading dungeon
-10/17/2023 01:10:47: Dungeon loaded with 28 rooms in 21.0202 ms.
-10/17/2023 01:11:45: Loading dungeon
-10/17/2023 01:11:45: Dungeon loaded with 28 rooms in 18.0148 ms.
-10/17/2023 01:11:53: hit mine rock 10
-10/17/2023 01:11:55: hit mine rock 10
-10/17/2023 01:11:57: hit mine rock 10
-10/17/2023 01:11:57: Suport time 1.953125
-10/17/2023 01:12:24: Loading dungeon
-10/17/2023 01:12:25: Dungeon loaded with 28 rooms in 19.016 ms.
-10/17/2023 01:12:27: Loading dungeon
-10/17/2023 01:12:27: Dungeon loaded with 28 rooms in 18.0152 ms.
-10/17/2023 01:12:45: hit mine rock 34
-10/17/2023 01:12:46: hit mine rock 34
-10/17/2023 01:12:46: Suport time 1.525879
-10/17/2023 01:13:22: Loading dungeon
-10/17/2023 01:13:22: Dungeon loaded with 28 rooms in 20.0172 ms.
-10/17/2023 01:16:38: Loading dungeon
-10/17/2023 01:16:38: Dungeon loaded with 28 rooms in 19.0164 ms.
-10/17/2023 01:16:41: hit mine rock 53
-10/17/2023 01:16:42: hit mine rock 53
-10/17/2023 01:16:44: hit mine rock 53
-10/17/2023 01:16:44: Suport time 1.525879
-10/17/2023 01:16:46: Loading dungeon
-10/17/2023 01:16:46: Dungeon loaded with 28 rooms in 19.0183 ms.
-10/17/2023 01:17:02: Disabling collider_block  blocker
-10/17/2023 01:17:03: Disabling Capsule_blockplayer  blocker
-10/17/2023 01:17:03: Disabling PlayerBase  character_trigger
-10/17/2023 01:17:06: Placed piece_workbench
-10/17/2023 01:17:13: Placed raise_v2
-10/17/2023 01:17:14: Placed raise_v2
-10/17/2023 01:17:16: Placed raise_v2
-10/17/2023 01:17:17: Placed raise_v2
-10/17/2023 01:17:18: Placed raise_v2
-10/17/2023 01:17:19: Placed raise_v2
-10/17/2023 01:17:22: Placed raise_v2
-10/17/2023 01:17:24: Placed raise_v2
-10/17/2023 01:17:26: Placed raise_v2
-10/17/2023 01:17:28: Placed raise_v2
-10/17/2023 01:17:28: Placed raise_v2
-10/17/2023 01:17:32: Placed raise_v2
-10/17/2023 01:17:38: Placed raise_v2
-10/17/2023 01:18:20: Loading dungeon
-10/17/2023 01:18:20: Dungeon loaded with 28 rooms in 20.0174 ms.
-10/17/2023 01:18:23: Loading dungeon
-10/17/2023 01:18:23: Dungeon loaded with 28 rooms in 19.0162 ms.
-10/17/2023 01:18:50: Spawned Fish2 x 2
-10/17/2023 01:19:16: Activating default element Continue
-10/17/2023 01:19:18: Activating default element Button_no
-10/17/2023 01:19:18: Game - OnApplicationQuit
-10/17/2023 01:19:18: Shuting down
-10/17/2023 01:19:18: Uncompressed size 8393797
-10/17/2023 01:19:18: Compressed size 16759
-10/17/2023 01:19:18: Considering autobackup. World time: 659.32, short time: 7200, long time: 43200, backup count: 4
-10/17/2023 01:19:18: Skipping backup. World session not long enough.
-10/17/2023 01:19:18: ZNet Shutdown
-10/17/2023 01:19:18: PrepareSave: clone done in 34ms
-10/17/2023 01:19:19: PrepareSave: ZDOExtraData.PrepareSave done in 41 ms
-10/17/2023 01:19:19: World save writing starting
-10/17/2023 01:19:19: World save writing started
-10/17/2023 01:19:19: Saved 413247 ZDOs
-10/17/2023 01:19:19: World save writing finishing
-10/17/2023 01:19:19: World save writing finished
-10/17/2023 01:19:19: World saved ( 749.2113ms )
-10/17/2023 01:19:19: Considering autobackup. World time: 659.32, short time: 7200, long time: 43200, backup count: 4
-10/17/2023 01:19:19: Skipping backup. World session not long enough.
-10/17/2023 01:19:19: Unloading unused assets
+10/17/2023 01:20:26: Loading dungeon
+10/17/2023 01:20:26: Dungeon loaded with 23 rooms in 14.0131 ms.
+10/17/2023 01:20:26: Loading dungeon
+10/17/2023 01:20:26: Dungeon loaded with 30 rooms in 11.0094 ms.
+10/17/2023 01:20:26: Loading dungeon
+10/17/2023 01:20:26: Dungeon loaded with 28 rooms in 22.0185 ms.
+10/17/2023 01:20:30: Spawned after 8.019994
+10/17/2023 01:20:30: Skipping unloading unused assets
+10/17/2023 01:20:30: Minimap: Adding unique location (131.9, 39.6, 260.8)
+10/17/2023 01:20:30: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
+10/17/2023 01:20:30: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
+10/17/2023 01:20:32: Starting music blackforest
+10/17/2023 01:20:32: Resumed music blackforest at 0
+10/17/2023 01:20:53: hit mine rock 31
+10/17/2023 01:20:54: hit mine rock 31
+10/17/2023 01:20:56: hit mine rock 31
+10/17/2023 01:20:56: Suport time 1.945496
+10/17/2023 01:21:11: Loading dungeon
+10/17/2023 01:21:11: Dungeon loaded with 28 rooms in 21.037 ms.
+10/17/2023 01:21:28: Placed raise_v2
+10/17/2023 01:21:29: Placed raise_v2
+10/17/2023 01:21:30: Placed raise_v2
+10/17/2023 01:21:31: Placed raise_v2
+10/17/2023 01:21:31: Placed raise_v2
+10/17/2023 01:21:33: Placed raise_v2
+10/17/2023 01:21:37: Placed raise_v2
+10/17/2023 01:21:38: Placed raise_v2
+10/17/2023 01:21:39: Placed raise_v2
+10/17/2023 01:21:40: Placed raise_v2
+10/17/2023 01:21:41: Placed raise_v2
+10/17/2023 01:21:42: Placed raise_v2
+10/17/2023 01:21:43: Placed raise_v2
+10/17/2023 01:21:44: Placed raise_v2
+10/17/2023 01:21:49: Placed raise_v2
+10/17/2023 01:21:51: Placed raise_v2
+10/17/2023 01:21:52: Placed raise_v2
+10/17/2023 01:21:53: Placed raise_v2
+10/17/2023 01:21:56: Placed raise_v2
+10/17/2023 01:22:54: Loading dungeon
+10/17/2023 01:22:54: Dungeon loaded with 28 rooms in 21.0193 ms.
+10/17/2023 01:23:05: Placed mud_road_v2
+10/17/2023 01:23:06: Placed mud_road_v2
+10/17/2023 01:23:07: Placed mud_road_v2
+10/17/2023 01:23:08: Placed mud_road_v2
+10/17/2023 01:23:08: Loading dungeon
+10/17/2023 01:23:08: Dungeon loaded with 28 rooms in 21.018 ms.
+10/17/2023 01:23:09: Placed mud_road_v2
+10/17/2023 01:23:10: Placed mud_road_v2
+10/17/2023 01:23:11: Placed mud_road_v2
+10/17/2023 01:23:13: Placed mud_road_v2
+10/17/2023 01:23:14: Placed mud_road_v2
+10/17/2023 01:23:15: Placed mud_road_v2
+10/17/2023 01:23:17: Placed mud_road_v2
+10/17/2023 01:23:18: Placed mud_road_v2
+10/17/2023 01:23:18: Placed mud_road_v2
+10/17/2023 01:23:19: Placed mud_road_v2
+10/17/2023 01:23:20: Placed mud_road_v2
+10/17/2023 01:23:21: Placed mud_road_v2
+10/17/2023 01:23:22: Placed mud_road_v2
+10/17/2023 01:23:24: Placed mud_road_v2
+10/17/2023 01:23:25: Placed mud_road_v2
+10/17/2023 01:23:26: Placed mud_road_v2
+10/17/2023 01:23:27: Placed mud_road_v2
+10/17/2023 01:23:27: Placed mud_road_v2
+10/17/2023 01:23:36: Placed mud_road_v2
+10/17/2023 01:23:38: Placed mud_road_v2
+10/17/2023 01:23:39: Placed mud_road_v2
+10/17/2023 01:23:41: Placed mud_road_v2
+10/17/2023 01:23:42: Placed mud_road_v2
+10/17/2023 01:23:43: Placed mud_road_v2
+10/17/2023 01:23:44: Placed mud_road_v2
+10/17/2023 01:23:46: Placed mud_road_v2
+10/17/2023 01:23:47: Placed mud_road_v2
+10/17/2023 01:23:48: Placed mud_road_v2
+10/17/2023 01:23:50: Placed mud_road_v2
+10/17/2023 01:23:51: Placed mud_road_v2
+10/17/2023 01:23:52: Placed mud_road_v2
+10/17/2023 01:23:53: Placed mud_road_v2
+10/17/2023 01:23:54: Placed mud_road_v2
+10/17/2023 01:23:55: Placed mud_road_v2
+10/17/2023 01:23:56: Placed mud_road_v2
+10/17/2023 01:23:57: Placed mud_road_v2
+10/17/2023 01:23:58: Placed mud_road_v2
+10/17/2023 01:24:00: Loading dungeon
+10/17/2023 01:24:00: Dungeon loaded with 28 rooms in 21.0189 ms.
+10/17/2023 01:24:00: Placed mud_road_v2
+10/17/2023 01:24:01: Placed mud_road_v2
+10/17/2023 01:24:02: Placed mud_road_v2
+10/17/2023 01:24:03: Placed mud_road_v2
+10/17/2023 01:24:06: Placed mud_road_v2
+10/17/2023 01:24:07: Placed mud_road_v2
+10/17/2023 01:24:08: Placed mud_road_v2
+10/17/2023 01:24:09: Placed mud_road_v2
+10/17/2023 01:24:10: Placed mud_road_v2
+10/17/2023 01:24:11: Placed mud_road_v2
+10/17/2023 01:24:12: Placed mud_road_v2
+10/17/2023 01:24:13: Placed mud_road_v2
+10/17/2023 01:24:14: Placed mud_road_v2
+10/17/2023 01:24:23: Placed mud_road_v2
+10/17/2023 01:24:24: Placed mud_road_v2
+10/17/2023 01:24:26: Placed mud_road_v2
+10/17/2023 01:24:27: Placed mud_road_v2
+10/17/2023 01:24:28: Placed mud_road_v2
+10/17/2023 01:24:29: Placed mud_road_v2
+10/17/2023 01:24:30: Placed mud_road_v2
+10/17/2023 01:24:31: Placed mud_road_v2
+10/17/2023 01:24:32: Placed mud_road_v2
+10/17/2023 01:24:33: Placed mud_road_v2
+10/17/2023 01:24:34: Placed mud_road_v2
+10/17/2023 01:24:35: Placed mud_road_v2
+10/17/2023 01:24:36: Placed mud_road_v2
+10/17/2023 01:24:37: Placed mud_road_v2
+10/17/2023 01:24:38: Placed mud_road_v2
+10/17/2023 01:24:39: Placed mud_road_v2
+10/17/2023 01:24:40: Placed mud_road_v2
+10/17/2023 01:24:41: Placed mud_road_v2
+10/17/2023 01:24:42: Placed mud_road_v2
+10/17/2023 01:24:43: Placed mud_road_v2
+10/17/2023 01:24:45: Placed mud_road_v2
+10/17/2023 01:24:56: Placed mud_road_v2
+10/17/2023 01:24:57: Placed mud_road_v2
+10/17/2023 01:24:59: Placed mud_road_v2
+10/17/2023 01:25:00: Placed mud_road_v2
+10/17/2023 01:25:01: Placed mud_road_v2
+10/17/2023 01:25:02: Placed mud_road_v2
+10/17/2023 01:25:03: Placed mud_road_v2
+10/17/2023 01:25:04: Placed mud_road_v2
+10/17/2023 01:25:05: Placed mud_road_v2
+10/17/2023 01:25:06: Placed mud_road_v2
+10/17/2023 01:25:07: Placed mud_road_v2
+10/17/2023 01:25:08: Placed mud_road_v2
+10/17/2023 01:25:09: Placed mud_road_v2
+10/17/2023 01:25:11: Placed mud_road_v2
+10/17/2023 01:25:12: Placed mud_road_v2
+10/17/2023 01:25:13: Placed mud_road_v2
+10/17/2023 01:25:14: Placed mud_road_v2
+10/17/2023 01:25:15: Placed mud_road_v2
+10/17/2023 01:25:16: Placed mud_road_v2
+10/17/2023 01:25:17: Placed mud_road_v2
+10/17/2023 01:25:18: Placed mud_road_v2
+10/17/2023 01:25:19: Placed mud_road_v2
+10/17/2023 01:25:20: Placed mud_road_v2
+10/17/2023 01:25:37: Placed mud_road_v2
+10/17/2023 01:25:38: Placed mud_road_v2
+10/17/2023 01:25:39: Placed mud_road_v2
+10/17/2023 01:25:41: Placed mud_road_v2
+10/17/2023 01:25:42: Placed mud_road_v2
+10/17/2023 01:25:43: Placed mud_road_v2
+10/17/2023 01:25:44: Placed mud_road_v2
+10/17/2023 01:25:45: Placed mud_road_v2
+10/17/2023 01:25:46: Placed mud_road_v2
+10/17/2023 01:25:47: Placed mud_road_v2
+10/17/2023 01:25:48: Placed mud_road_v2
+10/17/2023 01:25:48: Starting music evening
+10/17/2023 01:25:49: Placed mud_road_v2
+10/17/2023 01:25:49: Stopped music blackforest at 4938621
+10/17/2023 01:25:51: Placed mud_road_v2
+10/17/2023 01:25:52: Placed mud_road_v2
+10/17/2023 01:25:53: Placed mud_road_v2
+10/17/2023 01:25:54: Placed mud_road_v2
+10/17/2023 01:25:55: Placed mud_road_v2
+10/17/2023 01:25:56: Placed mud_road_v2
+10/17/2023 01:25:57: Placed mud_road_v2
+10/17/2023 01:25:58: Placed mud_road_v2
+10/17/2023 01:25:59: Placed mud_road_v2
+10/17/2023 01:26:00: Placed mud_road_v2
+10/17/2023 01:26:02: Placed mud_road_v2
+10/17/2023 01:26:04: Spawned FireFlies x 1
+10/17/2023 01:26:12: Placed mud_road_v2
+10/17/2023 01:26:13: Placed mud_road_v2
+10/17/2023 01:26:15: Placed mud_road_v2
+10/17/2023 01:26:16: Placed mud_road_v2
+10/17/2023 01:26:17: Placed mud_road_v2
+10/17/2023 01:26:18: Placed mud_road_v2
+10/17/2023 01:26:18: Placed mud_road_v2
+10/17/2023 01:26:19: Placed mud_road_v2
+10/17/2023 01:26:20: Placed mud_road_v2
+10/17/2023 01:26:21: Placed mud_road_v2
+10/17/2023 01:26:22: Placed mud_road_v2
+10/17/2023 01:26:23: Placed mud_road_v2
+10/17/2023 01:26:24: Placed mud_road_v2
+10/17/2023 01:26:25: Placed mud_road_v2
+10/17/2023 01:26:26: Placed mud_road_v2
+10/17/2023 01:26:27: Placed mud_road_v2
+10/17/2023 01:26:28: Spawned FireFlies x 1
+10/17/2023 01:26:28: Placed mud_road_v2
+10/17/2023 01:26:29: Placed mud_road_v2
+10/17/2023 01:26:31: Placed mud_road_v2
+10/17/2023 01:26:32: Placed mud_road_v2
+10/17/2023 01:26:35: Starting music blackforest
+10/17/2023 01:26:35: Resumed music blackforest at 4938621
+10/17/2023 01:26:43: Placed mud_road_v2
+10/17/2023 01:26:45: Placed mud_road_v2
+10/17/2023 01:26:46: Placed mud_road_v2
+10/17/2023 01:26:48: Placed mud_road_v2
+10/17/2023 01:26:49: Placed mud_road_v2
+10/17/2023 01:26:50: Placed mud_road_v2
+10/17/2023 01:26:51: Placed mud_road_v2
+10/17/2023 01:26:52: Placed mud_road_v2
+10/17/2023 01:26:52: Spawned FireFlies x 1
+10/17/2023 01:26:53: Placed mud_road_v2
+10/17/2023 01:26:53: Placed mud_road_v2
+10/17/2023 01:26:54: Placed mud_road_v2
+10/17/2023 01:26:56: Placed mud_road_v2
+10/17/2023 01:26:56: Placed mud_road_v2
+10/17/2023 01:26:57: Placed mud_road_v2
+10/17/2023 01:26:58: Placed mud_road_v2
+10/17/2023 01:26:59: Update PlayFab entity token
+10/17/2023 01:26:59: Placed mud_road_v2
+10/17/2023 01:27:00: Placed mud_road_v2
+10/17/2023 01:27:02: Placed mud_road_v2
+10/17/2023 01:27:04: Placed mud_road_v2
+10/17/2023 01:27:05: Placed mud_road_v2
+10/17/2023 01:27:16: Spawned FireFlies x 1
+10/17/2023 01:27:26: Teleportation TRIGGER
+10/17/2023 01:27:26: Teleporting Terry
+10/17/2023 01:27:29: Stopped music blackforest at 7315081
+10/17/2023 01:27:29: Starting music home
+10/17/2023 01:27:31: Force generating hmap (-256.0, 0.0, 448.0)
+10/17/2023 01:27:31: Force generating hmap (-320.0, 0.0, 448.0)
+10/17/2023 01:27:31: Force generating hmap (-320.0, 0.0, 512.0)
+10/17/2023 01:27:31: Force generating hmap (-256.0, 0.0, 512.0)
+10/17/2023 01:27:32: Force generating hmap (-128.0, 0.0, 576.0)
+10/17/2023 01:27:37: Is mine
+10/17/2023 01:27:37: Not current spawn point
+10/17/2023 01:27:37: exporeusre check 1  True
+10/17/2023 01:27:38: Is mine
+10/17/2023 01:27:38: is current spawnpoint
+10/17/2023 01:27:38: exporeusre check 1  True
+10/17/2023 01:27:38: Ignoring 2 colliders
+10/17/2023 01:27:38: Time 943041.299980078, day:523    nextm:943470.000010729  skipspeed:35.7250025542453
+10/17/2023 01:27:42: Spawned Greydwarf_Elite x 1
+10/17/2023 01:27:43: Skipping unloading unused assets
+10/17/2023 01:27:50: Spawned Greydwarf x 1
+10/17/2023 01:27:50: Uncompressed size 8393797
+10/17/2023 01:27:50: Compressed size 16759
+10/17/2023 01:27:50: Considering autobackup. World time: 448, short time: 7200, long time: 43200, backup count: 4
+10/17/2023 01:27:50: Skipping backup. World session not long enough.
+10/17/2023 01:27:50: PrepareSave: clone done in 26ms
+10/17/2023 01:27:51: PrepareSave: ZDOExtraData.PrepareSave done in 53 ms
+10/17/2023 01:27:51: World save writing starting
+10/17/2023 01:27:51: World save writing started
+10/17/2023 01:27:51: Saved 413253 ZDOs
+10/17/2023 01:27:51: World save writing finishing
+10/17/2023 01:27:51: World save writing finished
+10/17/2023 01:27:51: World saved ( 808.0365ms )
+10/17/2023 01:27:51: Considering autobackup. World time: 449, short time: 7200, long time: 43200, backup count: 4
+10/17/2023 01:27:51: Skipping backup. World session not long enough.
+10/17/2023 01:27:57: Starting music morning
+10/17/2023 01:27:58: Stopped music home at 1262553
+10/17/2023 01:28:32: Starting music home
+10/17/2023 01:28:32: Resumed music home at 1262553
+10/17/2023 01:29:51: Setting selected recipe 0
+10/17/2023 01:29:51: Button pressed RepairButton  frame:60313
+10/17/2023 01:29:52: Button pressed RepairButton  frame:60332
+10/17/2023 01:29:55: Setting selected recipe 0
+10/17/2023 01:29:56: Button pressed RepairButton  frame:60623
+10/17/2023 01:30:01: Teleportation TRIGGER
+10/17/2023 01:30:01: Teleporting Terry
+10/17/2023 01:30:06: Skipping unloading unused assets
+10/17/2023 01:30:07: Loading dungeon
+10/17/2023 01:30:07: Dungeon loaded with 23 rooms in 13.0125 ms.
+10/17/2023 01:30:07: Loading dungeon
+10/17/2023 01:30:07: Dungeon loaded with 30 rooms in 11.0096 ms.
+10/17/2023 01:30:07: Force generating hmap (64.0, 0.0, 2496.0)
+10/17/2023 01:30:18: Stopped music home at 5938328
+10/17/2023 01:30:18: Starting music blackforest
+10/17/2023 01:30:18: Resumed music blackforest at 7315081
+10/17/2023 01:30:26: Loading dungeon
+10/17/2023 01:30:26: Dungeon loaded with 28 rooms in 22.0188 ms.
+10/17/2023 01:30:36: Loading dungeon
+10/17/2023 01:30:36: Dungeon loaded with 28 rooms in 22.0212 ms.
+10/17/2023 01:30:39: Loading dungeon
+10/17/2023 01:30:39: Dungeon loaded with 28 rooms in 21.0198 ms.
+10/17/2023 01:30:47: Loading dungeon
+10/17/2023 01:30:47: Dungeon loaded with 28 rooms in 34.0286 ms.
+10/17/2023 01:30:48: Placed mud_road_v2
+10/17/2023 01:30:49: Placed mud_road_v2
+10/17/2023 01:30:50: Placed mud_road_v2
+10/17/2023 01:30:52: Placed mud_road_v2
+10/17/2023 01:30:52: Placed mud_road_v2
+10/17/2023 01:30:53: Placed mud_road_v2
+10/17/2023 01:30:54: Placed mud_road_v2
+10/17/2023 01:30:55: Placed mud_road_v2
+10/17/2023 01:30:56: Placed mud_road_v2
+10/17/2023 01:30:57: Placed mud_road_v2
+10/17/2023 01:30:58: Placed mud_road_v2
+10/17/2023 01:30:59: Placed mud_road_v2
+10/17/2023 01:31:00: Placed mud_road_v2
+10/17/2023 01:31:01: Placed mud_road_v2
+10/17/2023 01:31:02: Placed mud_road_v2
+10/17/2023 01:31:03: Placed mud_road_v2
+10/17/2023 01:31:04: Placed mud_road_v2
+10/17/2023 01:31:05: Placed mud_road_v2
+10/17/2023 01:31:06: Placed mud_road_v2
+10/17/2023 01:31:07: Placed mud_road_v2
+10/17/2023 01:31:08: Placed mud_road_v2
+10/17/2023 01:31:09: Placed mud_road_v2
+10/17/2023 01:31:09: Placed mud_road_v2
+10/17/2023 01:31:11: Placed mud_road_v2
+10/17/2023 01:31:12: Placed mud_road_v2
+10/17/2023 01:31:12: Loading dungeon
+10/17/2023 01:31:12: Dungeon loaded with 28 rooms in 36.0302 ms.
+10/17/2023 01:31:13: Placed mud_road_v2
+10/17/2023 01:31:14: Placed mud_road_v2
+10/17/2023 01:31:16: Placed mud_road_v2
+10/17/2023 01:31:18: Placed mud_road_v2
+10/17/2023 01:31:19: Placed mud_road_v2
+10/17/2023 01:31:21: Placed mud_road_v2
+10/17/2023 01:31:22: Placed mud_road_v2
+10/17/2023 01:31:24: Loading dungeon
+10/17/2023 01:31:24: Dungeon loaded with 28 rooms in 21.0177 ms.
+10/17/2023 01:31:24: Placed mud_road_v2
+10/17/2023 01:31:25: Placed mud_road_v2
+10/17/2023 01:31:26: Placed mud_road_v2
+10/17/2023 01:31:28: Placed mud_road_v2
+10/17/2023 01:31:29: Placed mud_road_v2
+10/17/2023 01:31:30: Placed mud_road_v2
+10/17/2023 01:31:31: Placed mud_road_v2
+10/17/2023 01:31:32: Placed mud_road_v2
+10/17/2023 01:31:34: Placed mud_road_v2
+10/17/2023 01:31:35: Placed mud_road_v2
+10/17/2023 01:31:36: Placed mud_road_v2
+10/17/2023 01:31:38: Placed mud_road_v2
+10/17/2023 01:31:38: Placed mud_road_v2
+10/17/2023 01:31:39: Loading dungeon
+10/17/2023 01:31:39: Dungeon loaded with 28 rooms in 21.9505 ms.
+10/17/2023 01:31:39: Placed mud_road_v2
+10/17/2023 01:31:40: Placed mud_road_v2
+10/17/2023 01:31:41: Placed mud_road_v2
+10/17/2023 01:31:42: Placed mud_road_v2
+10/17/2023 01:31:43: Placed mud_road_v2
+10/17/2023 01:31:44: Placed mud_road_v2
+10/17/2023 01:31:45: Placed mud_road_v2
+10/17/2023 01:31:46: Placed mud_road_v2
+10/17/2023 01:31:47: Placed mud_road_v2
+10/17/2023 01:31:49: Placed mud_road_v2
+10/17/2023 01:31:50: Placed mud_road_v2
+10/17/2023 01:31:51: Placed mud_road_v2
+10/17/2023 01:31:52: Placed mud_road_v2
+10/17/2023 01:31:53: Loading dungeon
+10/17/2023 01:31:53: Dungeon loaded with 28 rooms in 21.5091 ms.
+10/17/2023 01:31:54: Placed mud_road_v2
+10/17/2023 01:31:57: Placed mud_road_v2
+10/17/2023 01:31:58: Placed mud_road_v2
+10/17/2023 01:32:00: Placed mud_road_v2
+10/17/2023 01:32:01: Placed mud_road_v2
+10/17/2023 01:32:02: Placed mud_road_v2
+10/17/2023 01:32:03: Placed mud_road_v2
+10/17/2023 01:32:04: Placed mud_road_v2
+10/17/2023 01:32:05: Placed mud_road_v2
+10/17/2023 01:32:06: Placed mud_road_v2
+10/17/2023 01:32:07: Loading dungeon
+10/17/2023 01:32:07: Dungeon loaded with 28 rooms in 22.0218 ms.
+10/17/2023 01:32:08: Placed mud_road_v2
+10/17/2023 01:32:09: Placed mud_road_v2
+10/17/2023 01:32:10: Placed mud_road_v2
+10/17/2023 01:32:11: Placed mud_road_v2
+10/17/2023 01:32:12: Placed mud_road_v2
+10/17/2023 01:32:13: Placed mud_road_v2
+10/17/2023 01:32:14: Placed mud_road_v2
+10/17/2023 01:32:16: Placed mud_road_v2
+10/17/2023 01:32:17: Loading dungeon
+10/17/2023 01:32:17: Dungeon loaded with 28 rooms in 29.0243 ms.
+10/17/2023 01:32:17: Placed mud_road_v2
+10/17/2023 01:32:18: Placed mud_road_v2
+10/17/2023 01:32:19: Placed mud_road_v2
+10/17/2023 01:32:20: Placed mud_road_v2
+10/17/2023 01:32:21: Placed mud_road_v2
+10/17/2023 01:32:22: Placed mud_road_v2
+10/17/2023 01:32:23: Placed mud_road_v2
+10/17/2023 01:32:27: Placed mud_road_v2
+10/17/2023 01:32:28: Placed mud_road_v2
+10/17/2023 01:32:30: Placed mud_road_v2
+10/17/2023 01:32:31: Placed mud_road_v2
+10/17/2023 01:32:32: Placed mud_road_v2
+10/17/2023 01:32:33: Placed mud_road_v2
+10/17/2023 01:32:34: Placed mud_road_v2
+10/17/2023 01:32:35: Placed mud_road_v2
+10/17/2023 01:32:36: Placed mud_road_v2
+10/17/2023 01:32:37: Placed mud_road_v2
+10/17/2023 01:32:38: Placed mud_road_v2
+10/17/2023 01:32:39: Placed mud_road_v2
+10/17/2023 01:32:40: Placed mud_road_v2
+10/17/2023 01:32:41: Placed mud_road_v2
+10/17/2023 01:33:02: Loading dungeon
+10/17/2023 01:33:02: Dungeon loaded with 28 rooms in 21.0176 ms.
+10/17/2023 01:33:17: Spawned Seagal x 1
+10/17/2023 01:33:18: Loading dungeon
+10/17/2023 01:33:18: Dungeon loaded with 28 rooms in 21.4976 ms.
+10/17/2023 01:33:26: Placed mud_road_v2
+10/17/2023 01:33:27: Placed mud_road_v2
+10/17/2023 01:33:29: Placed mud_road_v2
+10/17/2023 01:33:30: Placed mud_road_v2
+10/17/2023 01:33:31: Placed mud_road_v2
+10/17/2023 01:33:32: Placed mud_road_v2
+10/17/2023 01:33:33: Placed mud_road_v2
+10/17/2023 01:33:34: Placed mud_road_v2
+10/17/2023 01:33:35: Placed mud_road_v2
+10/17/2023 01:33:36: Placed mud_road_v2
+10/17/2023 01:33:36: Placed mud_road_v2
+10/17/2023 01:33:38: Placed mud_road_v2
+10/17/2023 01:33:42: Placed mud_road_v2
+10/17/2023 01:33:43: Placed mud_road_v2
+10/17/2023 01:33:44: Placed mud_road_v2
+10/17/2023 01:33:45: Placed mud_road_v2
+10/17/2023 01:33:46: Placed mud_road_v2
+10/17/2023 01:33:47: Placed mud_road_v2
+10/17/2023 01:33:55: Loading dungeon
+10/17/2023 01:33:56: Dungeon loaded with 28 rooms in 21.5224 ms.
+10/17/2023 01:34:17: Loading dungeon
+10/17/2023 01:34:17: Dungeon loaded with 28 rooms in 20.4695 ms.
+10/17/2023 01:34:20: hit mine rock 63
+10/17/2023 01:34:22: hit mine rock 63
+10/17/2023 01:34:23: hit mine rock 63
+10/17/2023 01:34:23: Suport time 1.586914
+10/17/2023 01:34:37: Placed wood_floor
+10/17/2023 01:34:40: Placed wood_floor
+10/17/2023 01:34:41: Loading dungeon
+10/17/2023 01:34:41: Dungeon loaded with 28 rooms in 19.0184 ms.
+10/17/2023 01:35:00: hit mine rock 29
+10/17/2023 01:35:01: hit mine rock 29
+10/17/2023 01:35:03: hit mine rock 29
+10/17/2023 01:35:03: Suport time 1.586914
+10/17/2023 01:35:36: Placed raise_v2
+10/17/2023 01:35:40: Placed raise_v2
+10/17/2023 01:35:42: Placed raise_v2
+10/17/2023 01:35:45: Placed raise_v2
+10/17/2023 01:35:46: Placed raise_v2
+10/17/2023 01:35:49: Placed raise_v2
+10/17/2023 01:35:52: Placed raise_v2
+10/17/2023 01:35:53: Placed raise_v2
+10/17/2023 01:35:54: Placed raise_v2
+10/17/2023 01:35:55: Placed raise_v2
+10/17/2023 01:35:56: Placed raise_v2
+10/17/2023 01:36:02: Placed raise_v2
+10/17/2023 01:36:05: Placed raise_v2
+10/17/2023 01:36:06: Placed raise_v2
+10/17/2023 01:36:06: Placed raise_v2
+10/17/2023 01:36:07: Placed raise_v2
+10/17/2023 01:36:08: Placed raise_v2
+10/17/2023 01:36:18: Placed mud_road_v2
+10/17/2023 01:36:19: Placed mud_road_v2
+10/17/2023 01:36:19: Placed mud_road_v2
+10/17/2023 01:36:20: Placed mud_road_v2
+10/17/2023 01:36:20: Placed mud_road_v2
+10/17/2023 01:36:29: Loading dungeon
+10/17/2023 01:36:29: Dungeon loaded with 28 rooms in 21.0184 ms.
+10/17/2023 01:37:06: Loading dungeon
+10/17/2023 01:37:06: Dungeon loaded with 28 rooms in 21.5234 ms.
+10/17/2023 01:37:13: Placed mud_road_v2
+10/17/2023 01:37:14: Placed mud_road_v2
+10/17/2023 01:37:15: Placed mud_road_v2
+10/17/2023 01:37:16: Placed mud_road_v2
+10/17/2023 01:37:17: Placed mud_road_v2
+10/17/2023 01:37:18: Placed mud_road_v2
+10/17/2023 01:37:19: Placed mud_road_v2
+10/17/2023 01:37:21: Placed mud_road_v2
+10/17/2023 01:37:22: Placed mud_road_v2
+10/17/2023 01:37:23: Placed mud_road_v2
+10/17/2023 01:37:24: Placed mud_road_v2
+10/17/2023 01:37:25: Placed mud_road_v2
+10/17/2023 01:37:26: Placed mud_road_v2
+10/17/2023 01:37:27: Placed mud_road_v2
+10/17/2023 01:37:28: Placed mud_road_v2
+10/17/2023 01:37:29: Placed mud_road_v2
+10/17/2023 01:37:30: Placed mud_road_v2
+10/17/2023 01:37:35: Setting selected recipe 0
+10/17/2023 01:37:47: Placed mud_road_v2
+10/17/2023 01:37:49: Placed mud_road_v2
+10/17/2023 01:37:50: Loading dungeon
+10/17/2023 01:37:50: Dungeon loaded with 28 rooms in 21.0176 ms.
+10/17/2023 01:37:51: Placed mud_road_v2
+10/17/2023 01:37:52: Placed mud_road_v2
+10/17/2023 01:37:53: Placed mud_road_v2
+10/17/2023 01:37:54: Placed mud_road_v2
+10/17/2023 01:37:55: Placed mud_road_v2
+10/17/2023 01:37:56: Placed mud_road_v2
+10/17/2023 01:37:56: Loading dungeon
+10/17/2023 01:37:56: Dungeon loaded with 28 rooms in 21.0183 ms.
+10/17/2023 01:37:57: Placed mud_road_v2
+10/17/2023 01:37:57: Placed mud_road_v2
+10/17/2023 01:37:58: Placed mud_road_v2
+10/17/2023 01:37:59: Placed mud_road_v2
+10/17/2023 01:38:00: Placed mud_road_v2
+10/17/2023 01:38:01: Placed mud_road_v2
+10/17/2023 01:38:02: Placed mud_road_v2
+10/17/2023 01:38:02: Placed mud_road_v2
+10/17/2023 01:38:03: Placed mud_road_v2
+10/17/2023 01:38:04: Placed mud_road_v2
+10/17/2023 01:38:05: Placed mud_road_v2
+10/17/2023 01:38:05: Placed mud_road_v2
+10/17/2023 01:38:06: Placed mud_road_v2
+10/17/2023 01:38:07: Placed mud_road_v2
+10/17/2023 01:38:08: Placed mud_road_v2
+10/17/2023 01:38:08: Placed mud_road_v2
+10/17/2023 01:38:09: Placed mud_road_v2
+10/17/2023 01:38:10: Placed mud_road_v2
+10/17/2023 01:38:11: Placed mud_road_v2
+10/17/2023 01:38:13: Placed mud_road_v2
+10/17/2023 01:38:15: Placed mud_road_v2
+10/17/2023 01:38:15: Placed mud_road_v2
+10/17/2023 01:38:16: Placed mud_road_v2
+10/17/2023 01:38:16: Loading dungeon
+10/17/2023 01:38:16: Dungeon loaded with 28 rooms in 20.5207 ms.
+10/17/2023 01:38:17: Placed mud_road_v2
+10/17/2023 01:38:18: Placed mud_road_v2
+10/17/2023 01:38:20: Placed mud_road_v2
+10/17/2023 01:38:21: Placed mud_road_v2
+10/17/2023 01:38:23: Placed mud_road_v2
+10/17/2023 01:38:27: Placed mud_road_v2
+10/17/2023 01:38:28: Placed mud_road_v2
+10/17/2023 01:38:29: Placed mud_road_v2
+10/17/2023 01:38:30: Placed mud_road_v2
+10/17/2023 01:38:31: Placed mud_road_v2
+10/17/2023 01:38:32: Placed mud_road_v2
+10/17/2023 01:38:33: Placed mud_road_v2
+10/17/2023 01:38:35: Placed mud_road_v2
+10/17/2023 01:38:35: Placed mud_road_v2
+10/17/2023 01:38:36: Placed mud_road_v2
+10/17/2023 01:38:37: Placed mud_road_v2
+10/17/2023 01:38:38: Placed mud_road_v2
+10/17/2023 01:38:39: Placed mud_road_v2
+10/17/2023 01:38:40: Placed mud_road_v2
+10/17/2023 01:38:41: Placed mud_road_v2
+10/17/2023 01:38:42: Placed mud_road_v2
+10/17/2023 01:38:43: Placed mud_road_v2
+10/17/2023 01:38:43: Placed mud_road_v2
+10/17/2023 01:38:45: Placed mud_road_v2
+10/17/2023 01:38:46: Placed mud_road_v2
+10/17/2023 01:38:47: Placed mud_road_v2
+10/17/2023 01:38:49: Placed mud_road_v2
+10/17/2023 01:38:50: Placed mud_road_v2
+10/17/2023 01:38:51: Placed mud_road_v2
+10/17/2023 01:38:52: Placed mud_road_v2
+10/17/2023 01:38:53: Placed mud_road_v2
+10/17/2023 01:38:55: Placed mud_road_v2
+10/17/2023 01:38:56: Placed mud_road_v2
+10/17/2023 01:38:57: Placed mud_road_v2
+10/17/2023 01:38:58: Placed mud_road_v2
+10/17/2023 01:38:59: Placed mud_road_v2
+10/17/2023 01:39:00: Placed mud_road_v2
+10/17/2023 01:39:02: Placed mud_road_v2
+10/17/2023 01:39:03: Placed mud_road_v2
+10/17/2023 01:39:04: Placed mud_road_v2
+10/17/2023 01:39:05: Placed mud_road_v2
+10/17/2023 01:39:06: Placed mud_road_v2
+10/17/2023 01:39:07: Placed mud_road_v2
+10/17/2023 01:39:09: Placed mud_road_v2
+10/17/2023 01:39:10: Placed mud_road_v2
+10/17/2023 01:39:11: Placed mud_road_v2
+10/17/2023 01:39:12: Placed mud_road_v2
+10/17/2023 01:39:13: Placed mud_road_v2
+10/17/2023 01:39:19: Placed mud_road_v2
+10/17/2023 01:39:20: Placed mud_road_v2
+10/17/2023 01:39:21: Placed mud_road_v2
+10/17/2023 01:39:23: Placed mud_road_v2
+10/17/2023 01:39:24: Placed mud_road_v2
+10/17/2023 01:39:25: Placed mud_road_v2
+10/17/2023 01:39:27: Placed mud_road_v2
+10/17/2023 01:39:28: Placed mud_road_v2
+10/17/2023 01:39:29: Placed mud_road_v2
+10/17/2023 01:39:30: Placed mud_road_v2
+10/17/2023 01:39:31: Placed mud_road_v2
+10/17/2023 01:39:32: Placed mud_road_v2
+10/17/2023 01:39:33: Placed mud_road_v2
+10/17/2023 01:39:34: Placed mud_road_v2
+10/17/2023 01:39:35: Placed mud_road_v2
+10/17/2023 01:39:36: Placed mud_road_v2
+10/17/2023 01:39:37: Placed mud_road_v2
+10/17/2023 01:39:38: Placed mud_road_v2
+10/17/2023 01:39:39: Placed mud_road_v2
+10/17/2023 01:39:40: Placed mud_road_v2
+10/17/2023 01:39:41: Placed mud_road_v2
+10/17/2023 01:39:42: Placed mud_road_v2
+10/17/2023 01:39:43: Placed mud_road_v2
+10/17/2023 01:39:44: Placed mud_road_v2
+10/17/2023 01:39:45: Placed mud_road_v2
+10/17/2023 01:39:46: Placed mud_road_v2
+10/17/2023 01:39:47: Placed mud_road_v2
+10/17/2023 01:39:48: Placed mud_road_v2
+10/17/2023 01:39:49: Placed mud_road_v2
+10/17/2023 01:39:51: Placed mud_road_v2
+10/17/2023 01:39:52: Placed mud_road_v2
+10/17/2023 01:39:52: Placed mud_road_v2
+10/17/2023 01:39:53: Placed mud_road_v2
+10/17/2023 01:39:58: Activating default element Continue
+10/17/2023 01:39:59: Activating default element Button_no
+10/17/2023 01:40:00: Game - OnApplicationQuit
+10/17/2023 01:40:00: Shuting down
+10/17/2023 01:40:00: Uncompressed size 8393797
+10/17/2023 01:40:00: Compressed size 16759
+10/17/2023 01:40:00: Considering autobackup. World time: 1175.8, short time: 7200, long time: 43200, backup count: 4
+10/17/2023 01:40:00: Skipping backup. World session not long enough.
+10/17/2023 01:40:00: ZNet Shutdown
+10/17/2023 01:40:00: PrepareSave: clone done in 34ms
+10/17/2023 01:40:00: PrepareSave: ZDOExtraData.PrepareSave done in 35 ms
+10/17/2023 01:40:00: World save writing starting
+10/17/2023 01:40:00: World save writing started
+10/17/2023 01:40:01: Saved 413248 ZDOs
+10/17/2023 01:40:01: World save writing finishing
+10/17/2023 01:40:01: World save writing finished
+10/17/2023 01:40:01: World saved ( 733.5495ms )
+10/17/2023 01:40:01: Considering autobackup. World time: 1175.8, short time: 7200, long time: 43200, backup count: 4
+10/17/2023 01:40:01: Skipping backup. World session not long enough.
+10/17/2023 01:40:01: Unloading unused assets
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-10/17/2023 01:19:19: Sending disconnect msg
+10/17/2023 01:40:01: Sending disconnect msg
 ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-10/17/2023 01:19:19: Stopping build thread
+10/17/2023 01:40:01: Stopping build thread
 
-Unloading 1140 unused Assets to reduce memory usage. Loaded Objects now: 1945467.
-Total: 561.183900 ms (FindLiveObjects: 87.267400 ms CreateObjectMapping: 25.550000 ms MarkObjects: 445.537000 ms  DeleteObjects: 2.829300 ms)
+Unloading 2093 unused Assets to reduce memory usage. Loaded Objects now: 1933263.
+Total: 571.361700 ms (FindLiveObjects: 93.973500 ms CreateObjectMapping: 25.867900 ms MarkObjects: 446.429800 ms  DeleteObjects: 5.090200 ms)
 
 Setting up 16 worker threads for Enlighten.
-  Thread -> id: e5c -> priority: 1 
-  Thread -> id: 1b40 -> priority: 1 
-  Thread -> id: 3064 -> priority: 1 
-  Thread -> id: 4070 -> priority: 1 
-  Thread -> id: 2cec -> priority: 1 
-  Thread -> id: 4ce0 -> priority: 1 
-  Thread -> id: 3934 -> priority: 1 
-  Thread -> id: 35f4 -> priority: 1 
-  Thread -> id: 31d0 -> priority: 1 
-  Thread -> id: 7cc -> priority: 1 
-  Thread -> id: 4aa8 -> priority: 1 
-  Thread -> id: efc -> priority: 1 
-  Thread -> id: afc -> priority: 1 
-  Thread -> id: 3908 -> priority: 1 
-  Thread -> id: 2ec4 -> priority: 1 
-  Thread -> id: 3618 -> priority: 1 
-10/17/2023 01:19:22: Steam manager on destroy
-10/17/2023 01:19:23: Local player destroyed
-10/17/2023 01:19:23: ZNet OnDestroy
-10/17/2023 01:19:23: Net scene destroyed
+  Thread -> id: 3598 -> priority: 1 
+  Thread -> id: 2c58 -> priority: 1 
+  Thread -> id: 21bc -> priority: 1 
+  Thread -> id: 333c -> priority: 1 
+  Thread -> id: aac -> priority: 1 
+  Thread -> id: 1144 -> priority: 1 
+  Thread -> id: 1130 -> priority: 1 
+  Thread -> id: 3764 -> priority: 1 
+  Thread -> id: 40a0 -> priority: 1 
+  Thread -> id: c74 -> priority: 1 
+  Thread -> id: 22d4 -> priority: 1 
+  Thread -> id: 4018 -> priority: 1 
+  Thread -> id: 4dd8 -> priority: 1 
+  Thread -> id: 46f8 -> priority: 1 
+  Thread -> id: 1988 -> priority: 1 
+  Thread -> id: 5378 -> priority: 1 
+10/17/2023 01:40:04: Steam manager on destroy
+10/17/2023 01:40:04: Local player destroyed
+10/17/2023 01:40:04: ZNet OnDestroy
+10/17/2023 01:40:04: Net scene destroyed
