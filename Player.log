@@ -10,292 +10,216 @@ Direct3D:
     VRAM:     8031 MB
     Driver:   31.0.15.3734
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.067 seconds
+- Completed reload, in  0.065 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using XInput
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.605800 ms
-10/17/2023 00:35:37: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/17/2023 00:35:37: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/17/2023 00:35:38: Starting to load scene:start
+UnloadTime: 0.524000 ms
+10/17/2023 01:03:34: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/17/2023 01:03:34: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/17/2023 01:03:34: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.028700 ms
+UnloadTime: 5.014900 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-10/17/2023 00:35:44: Using environment steamid 892970
-10/17/2023 00:35:44: Using steam APPID:892970
-10/17/2023 00:35:44: Authentication:k_ESteamNetworkingAvailability_Attempting
-10/17/2023 00:35:44: Steam initialized, persona:tjgolubi
-10/17/2023 00:35:44: PlayFab custom ID set to "Steam_76561198290658520"
-10/17/2023 00:35:44: Using default prefs
-10/17/2023 00:35:44: Valheim version: 0.217.24 (network version 15)
-10/17/2023 00:35:44: Worldgenerator version setup:2
-10/17/2023 00:35:44: Render threading mode:MultiThreaded
-10/17/2023 00:35:44: Set button "CamZoomIn" to None!
-10/17/2023 00:35:44: Set button "CamZoomOut" to None!
-10/17/2023 00:35:44: Set button "CamZoomIn" to None!
-10/17/2023 00:35:44: Set button "CamZoomOut" to None!
-10/17/2023 00:35:44: Loaded localization file #0 - 'localization' language: 'English'
-10/17/2023 00:35:44: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/17/2023 00:35:44: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/17/2023 00:35:44: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/17/2023 00:35:44: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/17/2023 00:35:44: Loaded localization file #0 - 'localization' language: 'English'
-10/17/2023 00:35:44: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/17/2023 00:35:44: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/17/2023 00:35:44: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/17/2023 00:35:44: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/17/2023 00:35:44: Missing audio clip in music respawn
-10/17/2023 00:35:44: Checking for installed DLCs
-10/17/2023 00:35:44: DLC:beta installed:False
-10/17/2023 00:35:44: Builder started
-10/17/2023 00:35:45: Sending PlayFab login request (attempt 1)
-Curl error 6: Could not resolve host: 6e223.playfabapi.com
-10/17/2023 00:35:45: Session auth respons callback
-10/17/2023 00:35:45: Ticket is System.Byte[] of length 369
-10/17/2023 00:35:45: Starting music menu
-10/17/2023 00:35:45: /Client/LoginWithCustomID: Cannot resolve destination host
-10/17/2023 00:35:45: Retrying login in 1.029392s
-10/17/2023 00:35:45: PlayFab login failed! Retrying in 1.029392s, total attempts: 1
+10/17/2023 01:03:40: Using environment steamid 892970
+10/17/2023 01:03:40: Using steam APPID:892970
+10/17/2023 01:03:40: Authentication:k_ESteamNetworkingAvailability_Attempting
+10/17/2023 01:03:40: Steam initialized, persona:tjgolubi
+10/17/2023 01:03:40: PlayFab custom ID set to "Steam_76561198290658520"
+10/17/2023 01:03:40: Using default prefs
+10/17/2023 01:03:40: Valheim version: 0.217.24 (network version 15)
+10/17/2023 01:03:40: Worldgenerator version setup:2
+10/17/2023 01:03:40: Render threading mode:MultiThreaded
+10/17/2023 01:03:40: Set button "CamZoomIn" to None!
+10/17/2023 01:03:40: Set button "CamZoomOut" to None!
+10/17/2023 01:03:40: Set button "CamZoomIn" to None!
+10/17/2023 01:03:40: Set button "CamZoomOut" to None!
+10/17/2023 01:03:40: Loaded localization file #0 - 'localization' language: 'English'
+10/17/2023 01:03:40: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/17/2023 01:03:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/17/2023 01:03:40: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/17/2023 01:03:40: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/17/2023 01:03:40: Loaded localization file #0 - 'localization' language: 'English'
+10/17/2023 01:03:40: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/17/2023 01:03:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/17/2023 01:03:40: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/17/2023 01:03:40: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/17/2023 01:03:41: Missing audio clip in music respawn
+10/17/2023 01:03:41: Checking for installed DLCs
+10/17/2023 01:03:41: DLC:beta installed:False
+10/17/2023 01:03:41: Builder started
+10/17/2023 01:03:41: Sending PlayFab login request (attempt 1)
+10/17/2023 01:03:41: Ticket is System.Byte[] of length 369
+10/17/2023 01:03:41: Session auth respons callback
+10/17/2023 01:03:41: Starting music menu
 
-Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156084.
-Total: 112.301100 ms (FindLiveObjects: 5.526600 ms CreateObjectMapping: 10.072000 ms MarkObjects: 96.541800 ms  DeleteObjects: 0.160300 ms)
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156110.
+Total: 111.846600 ms (FindLiveObjects: 5.597100 ms CreateObjectMapping: 9.826500 ms MarkObjects: 96.251100 ms  DeleteObjects: 0.171700 ms)
 
-10/17/2023 00:35:46: Sending PlayFab login request (attempt 2)
-10/17/2023 00:35:46: PlayFab logged in as "Steam_76561198290658520"
-10/17/2023 00:35:46: PlayFab local entity ID is DBA9D3993BEC7B4F
-10/17/2023 00:36:01: show character selection
-10/17/2023 00:36:02: OnCharacterStart
-10/17/2023 00:36:05: Loading main scene
+10/17/2023 01:03:41: PlayFab logged in as "Steam_76561198290658520"
+10/17/2023 01:03:41: PlayFab local entity ID is DBA9D3993BEC7B4F
+10/17/2023 01:03:46: show character selection
+10/17/2023 01:03:47: OnCharacterStart
+10/17/2023 01:03:51: Loading main scene
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.796500 ms
-10/17/2023 00:36:05: Steam initialized, persona:tjgolubi
-10/17/2023 00:36:05: PlayFab custom ID set to "Steam_76561198290658520"
-10/17/2023 00:36:05: Using default prefs
-10/17/2023 00:36:05: Loading player profile terry
-10/17/2023 00:36:05: isModded: False
-10/17/2023 00:36:05: Zonesystem Awake 1437
-10/17/2023 00:36:05: DungeonDB Awake 1437
-10/17/2023 00:36:05: Steam initialized, persona:tjgolubi
-10/17/2023 00:36:05: Worldgenerator version setup:2
-10/17/2023 00:36:07: Audioman already exist, destroying self
-10/17/2023 00:36:07: Checking for installed DLCs
-10/17/2023 00:36:07: DLC:beta installed:False
+UnloadTime: 8.896100 ms
+10/17/2023 01:03:51: Steam initialized, persona:tjgolubi
+10/17/2023 01:03:51: PlayFab custom ID set to "Steam_76561198290658520"
+10/17/2023 01:03:51: Using default prefs
+10/17/2023 01:03:51: Loading player profile terry
+10/17/2023 01:03:51: isModded: False
+10/17/2023 01:03:51: Zonesystem Awake 836
+10/17/2023 01:03:51: DungeonDB Awake 836
+10/17/2023 01:03:51: Steam initialized, persona:tjgolubi
+10/17/2023 01:03:51: Worldgenerator version setup:2
+10/17/2023 01:03:53: Audioman already exist, destroying self
+10/17/2023 01:03:53: Checking for installed DLCs
+10/17/2023 01:03:53: DLC:beta installed:False
 
-Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 159900.
-Total: 90.700200 ms (FindLiveObjects: 4.686100 ms CreateObjectMapping: 9.579600 ms MarkObjects: 75.737700 ms  DeleteObjects: 0.696500 ms)
+Unloading 103 unused Assets to reduce memory usage. Loaded Objects now: 159900.
+Total: 89.157100 ms (FindLiveObjects: 4.829600 ms CreateObjectMapping: 8.468800 ms MarkObjects: 75.207200 ms  DeleteObjects: 0.651300 ms)
 
-10/17/2023 00:36:10: Zonesystem Start 1437
-10/17/2023 00:36:10: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-10/17/2023 00:36:10: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-10/17/2023 00:36:10: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-10/17/2023 00:36:10: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-10/17/2023 00:36:11: DungeonDB Start 1437
-10/17/2023 00:36:11: ZRpc timeout set to 30s 
-10/17/2023 00:36:11: ZNET START
-10/17/2023 00:36:11: Load world: Famheim (Famheim)
-10/17/2023 00:36:11: Loading 413256 zdos, my sessionID: 1165560979, data version: 32
-10/17/2023 00:36:11: Creating ZDOs
-10/17/2023 00:36:11: Loading in ZDOs
-10/17/2023 00:36:11: Adding to Dictionary
-10/17/2023 00:36:11: Adding to Sectors
-10/17/2023 00:36:11: Connecting Portals, Spawners & ZSyncTransforms
+10/17/2023 01:03:56: Zonesystem Start 836
+10/17/2023 01:03:57: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+10/17/2023 01:03:57: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+10/17/2023 01:03:57: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+10/17/2023 01:03:57: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+10/17/2023 01:03:57: DungeonDB Start 836
+10/17/2023 01:03:57: ZRpc timeout set to 30s 
+10/17/2023 01:03:57: ZNET START
+10/17/2023 01:03:57: Load world: Famheim (Famheim)
+10/17/2023 01:03:57: Loading 413250 zdos, my sessionID: 1305503129, data version: 32
+10/17/2023 01:03:57: Creating ZDOs
+10/17/2023 01:03:57: Loading in ZDOs
+10/17/2023 01:03:57: Adding to Dictionary
+10/17/2023 01:03:57: Adding to Sectors
+10/17/2023 01:03:57: Connecting Portals, Spawners & ZSyncTransforms
 ConnectPortals => Connected 1 portals.
 ConnectSpawners => Connected 1 spawners and 421 'done' spawners.
-10/17/2023 00:36:11: Loaded 10076 locations
-10/17/2023 00:36:11: Unloading unused assets
+10/17/2023 01:03:58: Loaded 10076 locations
+10/17/2023 01:03:58: Unloading unused assets
 Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-10/17/2023 00:36:11: Session auth respons callback
-10/17/2023 00:36:17: Unpacking compressed mapdata 16759
+10/17/2023 01:03:58: Starting respawn
+10/17/2023 01:03:58: Session auth respons callback
+10/17/2023 01:04:03: Unpacking compressed mapdata 16759
+10/17/2023 01:04:03: tip:$loadscreen_tip06
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1733245.
-Total: 491.626300 ms (FindLiveObjects: 78.257900 ms CreateObjectMapping: 26.260800 ms MarkObjects: 386.438800 ms  DeleteObjects: 0.668700 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733246.
+Total: 500.482000 ms (FindLiveObjects: 80.606500 ms CreateObjectMapping: 26.681200 ms MarkObjects: 392.433700 ms  DeleteObjects: 0.760300 ms)
 
-10/17/2023 00:36:17: Starting respawn
-10/17/2023 00:36:17: tip:$loadscreen_tip21
-10/17/2023 00:36:21: Loading dungeon
-10/17/2023 00:36:21: Dungeon loaded with 23 rooms in 12.01 ms.
-10/17/2023 00:36:21: Loading dungeon
-10/17/2023 00:36:21: Dungeon loaded with 30 rooms in 11.0107 ms.
-10/17/2023 00:36:21: Force generating hmap (64.0, 0.0, 2496.0)
-10/17/2023 00:36:25: Spawned after 8.019994
-10/17/2023 00:36:25: Skipping unloading unused assets
-10/17/2023 00:36:26: Minimap: Adding unique location (131.9, 39.6, 260.8)
-10/17/2023 00:36:26: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
-10/17/2023 00:36:26: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
-10/17/2023 00:36:28: Starting music home
-10/17/2023 00:36:28: Resumed music home at 0
-10/17/2023 00:36:35: Stopped music home at 312345
-10/17/2023 00:36:35: Starting music blackforest
-10/17/2023 00:36:35: Resumed music blackforest at 0
-10/17/2023 00:36:58: Loading dungeon
-10/17/2023 00:36:58: Dungeon loaded with 28 rooms in 20.0167 ms.
-10/17/2023 00:37:42: Placed wood_floor
-10/17/2023 00:37:48: Placed wood_floor
-10/17/2023 00:37:53: Placed wood_floor
-10/17/2023 00:38:16: hit mine rock 38
-10/17/2023 00:38:17: hit mine rock 38
-10/17/2023 00:38:19: hit mine rock 38
-10/17/2023 00:38:19: Suport time 1.953125
-10/17/2023 00:38:19: hit mine rock 48
-10/17/2023 00:39:13: Placed wood_floor
-10/17/2023 00:39:21: Placed wood_floor
-10/17/2023 00:39:23: Placed wood_floor
-10/17/2023 00:39:32: hit mine rock 3
-10/17/2023 00:39:34: hit mine rock 3
-10/17/2023 00:39:35: hit mine rock 3
-10/17/2023 00:39:35: Suport time 1.525879
-10/17/2023 00:39:58: Loading dungeon
-10/17/2023 00:39:58: Dungeon loaded with 28 rooms in 19.5204 ms.
-10/17/2023 00:42:43: Spawned Deer x 1
-10/17/2023 00:42:46: Update PlayFab entity token
-10/17/2023 00:43:17: Disabling collider_block  blocker
-10/17/2023 00:43:17: Disabling Capsule_blockplayer  blocker
-10/17/2023 00:43:17: Disabling PlayerBase  character_trigger
-10/17/2023 00:43:28: Placed piece_workbench
-10/17/2023 00:43:39: Placed raise_v2
-10/17/2023 00:43:41: Placed raise_v2
-10/17/2023 00:43:41: Placed raise_v2
-10/17/2023 00:43:45: Placed raise_v2
-10/17/2023 00:43:47: Placed raise_v2
-10/17/2023 00:43:51: Placed raise_v2
-10/17/2023 00:44:04: Loading dungeon
-10/17/2023 00:44:04: Dungeon loaded with 28 rooms in 19.2234 ms.
-10/17/2023 00:44:25: Placed raise_v2
-10/17/2023 00:44:25: Placed raise_v2
-10/17/2023 00:44:26: Placed raise_v2
-10/17/2023 00:44:26: Placed raise_v2
-10/17/2023 00:44:26: Placed raise_v2
-10/17/2023 00:44:27: Placed raise_v2
-10/17/2023 00:44:30: Placed raise_v2
-10/17/2023 00:44:40: Placed mud_road_v2
-10/17/2023 00:44:40: Placed mud_road_v2
-10/17/2023 00:44:41: Placed mud_road_v2
-10/17/2023 00:46:12: Loading dungeon
-10/17/2023 00:46:12: Dungeon loaded with 28 rooms in 19.5322 ms.
-10/17/2023 00:48:37: Disabling PlayerBase  character_trigger
-10/17/2023 00:48:40: Placed piece_workbench
-10/17/2023 00:48:49: Placed raise_v2
-10/17/2023 00:48:57: Placed raise_v2
-10/17/2023 00:49:00: Placed raise_v2
-10/17/2023 00:49:13: Loading dungeon
-10/17/2023 00:49:13: Dungeon loaded with 28 rooms in 20.5211 ms.
-10/17/2023 00:49:50: Placed raise_v2
-10/17/2023 00:49:51: Placed raise_v2
-10/17/2023 00:49:52: Placed raise_v2
-10/17/2023 00:49:53: Placed raise_v2
-10/17/2023 00:49:54: Placed raise_v2
-10/17/2023 00:53:33: Teleportation TRIGGER
-10/17/2023 00:53:33: Teleporting Terry
-10/17/2023 00:53:38: Force generating hmap (-256.0, 0.0, 448.0)
-10/17/2023 00:53:38: Force generating hmap (-320.0, 0.0, 448.0)
-10/17/2023 00:53:38: Force generating hmap (-320.0, 0.0, 512.0)
-10/17/2023 00:53:38: Force generating hmap (-256.0, 0.0, 512.0)
-10/17/2023 00:53:39: Stopped music blackforest at 8977621
-10/17/2023 00:53:39: Starting music home
-10/17/2023 00:53:39: Force generating hmap (-128.0, 0.0, 576.0)
-10/17/2023 00:53:44: Setting selected recipe 0
-10/17/2023 00:53:47: Player 1165560979 wants to open piece_chest_wood(Clone)   im: 1165560979
-10/17/2023 00:53:47: Setting selected recipe 0
-10/17/2023 00:53:48: Button pressed StackAll  frame:118814
-10/17/2023 00:53:53: Setting selected recipe 0
-10/17/2023 00:53:54: Button pressed RepairButton  frame:119397
-10/17/2023 00:53:56: Setting selected recipe 0
-10/17/2023 00:53:57: Button pressed RepairButton  frame:119709
-10/17/2023 00:53:57: Button pressed RepairButton  frame:119733
-10/17/2023 00:54:03: Teleportation TRIGGER
-10/17/2023 00:54:03: Teleporting Terry
-10/17/2023 00:54:08: Loading dungeon
-10/17/2023 00:54:08: Dungeon loaded with 23 rooms in 11.0095 ms.
-10/17/2023 00:54:08: Loading dungeon
-10/17/2023 00:54:08: Dungeon loaded with 30 rooms in 10.0085 ms.
-10/17/2023 00:54:08: Force generating hmap (64.0, 0.0, 2496.0)
-10/17/2023 00:54:13: Is mine
-10/17/2023 00:54:13: is current spawnpoint
-10/17/2023 00:54:13: exporeusre check 1  True
-10/17/2023 00:54:13: Ignoring 2 colliders
-10/17/2023 00:54:13: Time 940998.939985495, day:522    nextm:941670.000010729  skipspeed:55.9216687694813
-10/17/2023 00:54:17: Starting music evening
-10/17/2023 00:54:18: Stopped music home at 1735775
-10/17/2023 00:54:18: Spawned FireFlies x 1
-10/17/2023 00:54:18: Spawned FireFlies x 1
-10/17/2023 00:54:18: Spawned FireFlies x 1
-10/17/2023 00:54:18: Spawned FireFlies x 1
-10/17/2023 00:54:18: Skipping unloading unused assets
-10/17/2023 00:54:22: Spawned Greydwarf_Shaman x 1
-10/17/2023 00:54:22: Spawned Greydwarf_Shaman x 1
-10/17/2023 00:54:26: Uncompressed size 8393797
-10/17/2023 00:54:26: Compressed size 16759
-10/17/2023 00:54:26: Considering autobackup. World time: 1088, short time: 7200, long time: 43200, backup count: 4
-10/17/2023 00:54:26: Skipping backup. World session not long enough.
-10/17/2023 00:54:26: PrepareSave: clone done in 34ms
-10/17/2023 00:54:26: PrepareSave: ZDOExtraData.PrepareSave done in 39 ms
-10/17/2023 00:54:26: World save writing starting
-10/17/2023 00:54:26: World save writing started
-10/17/2023 00:54:26: Saved 413257 ZDOs
-10/17/2023 00:54:27: World save writing finishing
-10/17/2023 00:54:27: World save writing finished
-10/17/2023 00:54:27: World saved ( 846.2505ms )
-10/17/2023 00:54:27: Considering autobackup. World time: 1089.04, short time: 7200, long time: 43200, backup count: 4
-10/17/2023 00:54:27: Skipping backup. World session not long enough.
-10/17/2023 00:54:33: Starting music morning
-10/17/2023 00:54:44: Loading dungeon
-10/17/2023 00:54:44: Dungeon loaded with 28 rooms in 32.027 ms.
-10/17/2023 00:55:08: Starting music blackforest
-10/17/2023 00:55:08: Resumed music blackforest at 8977621
-10/17/2023 00:58:09: Update PlayFab entity token
-10/17/2023 00:58:55: Setting selected recipe 0
-10/17/2023 00:59:01: Activating default element Continue
-10/17/2023 00:59:03: Activating default element Button_no
-10/17/2023 00:59:05: Game - OnApplicationQuit
-10/17/2023 00:59:05: Shuting down
-10/17/2023 00:59:05: Uncompressed size 8393797
-10/17/2023 00:59:05: Compressed size 16759
-10/17/2023 00:59:05: Considering autobackup. World time: 1363.78, short time: 7200, long time: 43200, backup count: 4
-10/17/2023 00:59:05: No autobackup needed yet...
-10/17/2023 00:59:05: ZNet Shutdown
-10/17/2023 00:59:05: PrepareSave: clone done in 31ms
-10/17/2023 00:59:05: PrepareSave: ZDOExtraData.PrepareSave done in 49 ms
-10/17/2023 00:59:05: World save writing starting
-10/17/2023 00:59:05: World save writing started
-10/17/2023 00:59:06: Saved 413250 ZDOs
-10/17/2023 00:59:06: World save writing finishing
-10/17/2023 00:59:06: World save writing finished
-10/17/2023 00:59:06: World saved ( 733.1775ms )
-10/17/2023 00:59:06: Considering autobackup. World time: 1363.78, short time: 7200, long time: 43200, backup count: 4
-10/17/2023 00:59:06: No autobackup needed yet...
-10/17/2023 00:59:06: Unloading unused assets
+10/17/2023 01:04:07: Loading dungeon
+10/17/2023 01:04:07: Dungeon loaded with 23 rooms in 13.0109 ms.
+10/17/2023 01:04:07: Loading dungeon
+10/17/2023 01:04:07: Dungeon loaded with 30 rooms in 11.0093 ms.
+10/17/2023 01:04:12: Spawned after 8.019994
+10/17/2023 01:04:12: Skipping unloading unused assets
+10/17/2023 01:04:12: Minimap: Adding unique location (131.9, 39.6, 260.8)
+10/17/2023 01:04:12: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
+10/17/2023 01:04:12: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
+10/17/2023 01:04:14: Starting music blackforest
+10/17/2023 01:04:14: Resumed music blackforest at 0
+10/17/2023 01:06:17: Activating default element Continue
+10/17/2023 01:06:22: Skipping unloading unused assets
+10/17/2023 01:10:41: Update PlayFab entity token
+10/17/2023 01:10:47: Loading dungeon
+10/17/2023 01:10:47: Dungeon loaded with 28 rooms in 21.0202 ms.
+10/17/2023 01:11:45: Loading dungeon
+10/17/2023 01:11:45: Dungeon loaded with 28 rooms in 18.0148 ms.
+10/17/2023 01:11:53: hit mine rock 10
+10/17/2023 01:11:55: hit mine rock 10
+10/17/2023 01:11:57: hit mine rock 10
+10/17/2023 01:11:57: Suport time 1.953125
+10/17/2023 01:12:24: Loading dungeon
+10/17/2023 01:12:25: Dungeon loaded with 28 rooms in 19.016 ms.
+10/17/2023 01:12:27: Loading dungeon
+10/17/2023 01:12:27: Dungeon loaded with 28 rooms in 18.0152 ms.
+10/17/2023 01:12:45: hit mine rock 34
+10/17/2023 01:12:46: hit mine rock 34
+10/17/2023 01:12:46: Suport time 1.525879
+10/17/2023 01:13:22: Loading dungeon
+10/17/2023 01:13:22: Dungeon loaded with 28 rooms in 20.0172 ms.
+10/17/2023 01:16:38: Loading dungeon
+10/17/2023 01:16:38: Dungeon loaded with 28 rooms in 19.0164 ms.
+10/17/2023 01:16:41: hit mine rock 53
+10/17/2023 01:16:42: hit mine rock 53
+10/17/2023 01:16:44: hit mine rock 53
+10/17/2023 01:16:44: Suport time 1.525879
+10/17/2023 01:16:46: Loading dungeon
+10/17/2023 01:16:46: Dungeon loaded with 28 rooms in 19.0183 ms.
+10/17/2023 01:17:02: Disabling collider_block  blocker
+10/17/2023 01:17:03: Disabling Capsule_blockplayer  blocker
+10/17/2023 01:17:03: Disabling PlayerBase  character_trigger
+10/17/2023 01:17:06: Placed piece_workbench
+10/17/2023 01:17:13: Placed raise_v2
+10/17/2023 01:17:14: Placed raise_v2
+10/17/2023 01:17:16: Placed raise_v2
+10/17/2023 01:17:17: Placed raise_v2
+10/17/2023 01:17:18: Placed raise_v2
+10/17/2023 01:17:19: Placed raise_v2
+10/17/2023 01:17:22: Placed raise_v2
+10/17/2023 01:17:24: Placed raise_v2
+10/17/2023 01:17:26: Placed raise_v2
+10/17/2023 01:17:28: Placed raise_v2
+10/17/2023 01:17:28: Placed raise_v2
+10/17/2023 01:17:32: Placed raise_v2
+10/17/2023 01:17:38: Placed raise_v2
+10/17/2023 01:18:20: Loading dungeon
+10/17/2023 01:18:20: Dungeon loaded with 28 rooms in 20.0174 ms.
+10/17/2023 01:18:23: Loading dungeon
+10/17/2023 01:18:23: Dungeon loaded with 28 rooms in 19.0162 ms.
+10/17/2023 01:18:50: Spawned Fish2 x 2
+10/17/2023 01:19:16: Activating default element Continue
+10/17/2023 01:19:18: Activating default element Button_no
+10/17/2023 01:19:18: Game - OnApplicationQuit
+10/17/2023 01:19:18: Shuting down
+10/17/2023 01:19:18: Uncompressed size 8393797
+10/17/2023 01:19:18: Compressed size 16759
+10/17/2023 01:19:18: Considering autobackup. World time: 659.32, short time: 7200, long time: 43200, backup count: 4
+10/17/2023 01:19:18: Skipping backup. World session not long enough.
+10/17/2023 01:19:18: ZNet Shutdown
+10/17/2023 01:19:18: PrepareSave: clone done in 34ms
+10/17/2023 01:19:19: PrepareSave: ZDOExtraData.PrepareSave done in 41 ms
+10/17/2023 01:19:19: World save writing starting
+10/17/2023 01:19:19: World save writing started
+10/17/2023 01:19:19: Saved 413247 ZDOs
+10/17/2023 01:19:19: World save writing finishing
+10/17/2023 01:19:19: World save writing finished
+10/17/2023 01:19:19: World saved ( 749.2113ms )
+10/17/2023 01:19:19: Considering autobackup. World time: 659.32, short time: 7200, long time: 43200, backup count: 4
+10/17/2023 01:19:19: Skipping backup. World session not long enough.
+10/17/2023 01:19:19: Unloading unused assets
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-10/17/2023 00:59:06: Sending disconnect msg
+10/17/2023 01:19:19: Sending disconnect msg
 ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-10/17/2023 00:59:06: Stopping build thread
+10/17/2023 01:19:19: Stopping build thread
 
-Unloading 3185 unused Assets to reduce memory usage. Loaded Objects now: 1916998.
-Total: 571.561000 ms (FindLiveObjects: 85.036100 ms CreateObjectMapping: 27.071300 ms MarkObjects: 451.115300 ms  DeleteObjects: 8.338000 ms)
+Unloading 1140 unused Assets to reduce memory usage. Loaded Objects now: 1945467.
+Total: 561.183900 ms (FindLiveObjects: 87.267400 ms CreateObjectMapping: 25.550000 ms MarkObjects: 445.537000 ms  DeleteObjects: 2.829300 ms)
 
 Setting up 16 worker threads for Enlighten.
-  Thread -> id: 3048 -> priority: 1 
-  Thread -> id: 3de4 -> priority: 1 
-  Thread -> id: 4c34 -> priority: 1 
-  Thread -> id: 4f94 -> priority: 1 
-  Thread -> id: 4718 -> priority: 1 
-  Thread -> id: 1b48 -> priority: 1 
-  Thread -> id: 71c -> priority: 1 
-  Thread -> id: 48b4 -> priority: 1 
-  Thread -> id: 5c4 -> priority: 1 
-  Thread -> id: 1f14 -> priority: 1 
-  Thread -> id: 4d44 -> priority: 1 
-  Thread -> id: 2d4c -> priority: 1 
-  Thread -> id: 4b4 -> priority: 1 
-  Thread -> id: 4a0 -> priority: 1 
-  Thread -> id: 4db8 -> priority: 1 
-  Thread -> id: 9ac -> priority: 1 
-10/17/2023 00:59:09: Steam manager on destroy
-10/17/2023 00:59:09: Local player destroyed
-10/17/2023 00:59:09: ZNet OnDestroy
-10/17/2023 00:59:10: Net scene destroyed
+  Thread -> id: e5c -> priority: 1 
+  Thread -> id: 1b40 -> priority: 1 
+  Thread -> id: 3064 -> priority: 1 
+  Thread -> id: 4070 -> priority: 1 
+  Thread -> id: 2cec -> priority: 1 
+  Thread -> id: 4ce0 -> priority: 1 
+  Thread -> id: 3934 -> priority: 1 
+  Thread -> id: 35f4 -> priority: 1 
+  Thread -> id: 31d0 -> priority: 1 
+  Thread -> id: 7cc -> priority: 1 
+  Thread -> id: 4aa8 -> priority: 1 
+  Thread -> id: efc -> priority: 1 
+  Thread -> id: afc -> priority: 1 
+  Thread -> id: 3908 -> priority: 1 
+  Thread -> id: 2ec4 -> priority: 1 
+  Thread -> id: 3618 -> priority: 1 
+10/17/2023 01:19:22: Steam manager on destroy
+10/17/2023 01:19:23: Local player destroyed
+10/17/2023 01:19:23: ZNet OnDestroy
+10/17/2023 01:19:23: Net scene destroyed
