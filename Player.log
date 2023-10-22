@@ -10,432 +10,2412 @@ Direct3D:
     VRAM:     8032 MB
     Driver:   31.0.15.4584
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.090 seconds
+- Completed reload, in  0.091 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using XInput
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.548000 ms
-10/21/2023 15:56:30: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/21/2023 15:56:30: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/21/2023 15:56:30: Starting to load scene:start
+UnloadTime: 0.500800 ms
+10/21/2023 16:16:30: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/21/2023 16:16:30: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/21/2023 16:16:30: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.924500 ms
+UnloadTime: 5.007600 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-10/21/2023 15:56:36: Using environment steamid 892970
-10/21/2023 15:56:36: Using steam APPID:892970
-10/21/2023 15:56:36: Authentication:k_ESteamNetworkingAvailability_Attempting
-10/21/2023 15:56:36: Steam initialized, persona:tjgolubi
-10/21/2023 15:56:36: PlayFab custom ID set to "Steam_76561198290658520"
-10/21/2023 15:56:36: Using default prefs
-10/21/2023 15:56:36: Valheim version: 0.217.25 (network version 15)
-10/21/2023 15:56:36: Worldgenerator version setup:2
-10/21/2023 15:56:36: Render threading mode:MultiThreaded
-10/21/2023 15:56:36: Set button "CamZoomIn" to None!
-10/21/2023 15:56:36: Set button "CamZoomOut" to None!
-10/21/2023 15:56:36: Set button "CamZoomIn" to None!
-10/21/2023 15:56:36: Set button "CamZoomOut" to None!
-10/21/2023 15:56:36: Loaded localization file #0 - 'localization' language: 'English'
-10/21/2023 15:56:36: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/21/2023 15:56:36: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/21/2023 15:56:36: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/21/2023 15:56:36: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/21/2023 15:56:36: Loaded localization file #0 - 'localization' language: 'English'
-10/21/2023 15:56:36: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/21/2023 15:56:36: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/21/2023 15:56:36: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/21/2023 15:56:36: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/21/2023 15:56:36: Missing audio clip in music respawn
-10/21/2023 15:56:36: Checking for installed DLCs
-10/21/2023 15:56:36: DLC:beta installed:False
-10/21/2023 15:56:36: Builder started
-10/21/2023 15:56:37: Sending PlayFab login request (attempt 1)
-10/21/2023 15:56:37: Session auth respons callback
-10/21/2023 15:56:37: Starting music menu
+10/21/2023 16:16:36: Using environment steamid 892970
+10/21/2023 16:16:36: Using steam APPID:892970
+10/21/2023 16:16:37: Authentication:k_ESteamNetworkingAvailability_Attempting
+10/21/2023 16:16:37: Steam initialized, persona:tjgolubi
+10/21/2023 16:16:37: PlayFab custom ID set to "Steam_76561198290658520"
+10/21/2023 16:16:37: Using default prefs
+10/21/2023 16:16:37: Valheim version: 0.217.25 (network version 15)
+10/21/2023 16:16:37: Worldgenerator version setup:2
+10/21/2023 16:16:37: Render threading mode:MultiThreaded
+10/21/2023 16:16:37: Set button "CamZoomIn" to None!
+10/21/2023 16:16:37: Set button "CamZoomOut" to None!
+10/21/2023 16:16:37: Set button "CamZoomIn" to None!
+10/21/2023 16:16:37: Set button "CamZoomOut" to None!
+10/21/2023 16:16:37: Loaded localization file #0 - 'localization' language: 'English'
+10/21/2023 16:16:37: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/21/2023 16:16:37: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/21/2023 16:16:37: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/21/2023 16:16:37: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/21/2023 16:16:37: Loaded localization file #0 - 'localization' language: 'English'
+10/21/2023 16:16:37: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/21/2023 16:16:37: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/21/2023 16:16:37: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/21/2023 16:16:37: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/21/2023 16:16:37: Missing audio clip in music respawn
+10/21/2023 16:16:37: Checking for installed DLCs
+10/21/2023 16:16:37: DLC:beta installed:False
+10/21/2023 16:16:37: Builder started
+10/21/2023 16:16:37: Sending PlayFab login request (attempt 1)
+10/21/2023 16:16:37: Ticket is System.Byte[] of length 369
+10/21/2023 16:16:37: Session auth respons callback
+10/21/2023 16:16:37: Starting music menu
 
 Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156084.
-Total: 112.889200 ms (FindLiveObjects: 5.642600 ms CreateObjectMapping: 10.053300 ms MarkObjects: 97.025200 ms  DeleteObjects: 0.167900 ms)
+Total: 110.139700 ms (FindLiveObjects: 5.666400 ms CreateObjectMapping: 10.776300 ms MarkObjects: 93.536600 ms  DeleteObjects: 0.160000 ms)
 
-10/21/2023 15:56:37: PlayFab logged in as "Steam_76561198290658520"
-10/21/2023 15:56:37: PlayFab local entity ID is DBA9D3993BEC7B4F
-10/21/2023 15:56:44: show character selection
-10/21/2023 15:56:45: OnCharacterStart
-10/21/2023 15:56:50: Loading main scene
+10/21/2023 16:16:38: PlayFab logged in as "Steam_76561198290658520"
+10/21/2023 16:16:38: PlayFab local entity ID is DBA9D3993BEC7B4F
+10/21/2023 16:19:56: show character selection
+10/21/2023 16:19:57: OnCharacterStart
+10/21/2023 16:20:11: Loading main scene
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.689600 ms
-10/21/2023 15:56:50: Steam initialized, persona:tjgolubi
-10/21/2023 15:56:50: PlayFab custom ID set to "Steam_76561198290658520"
-10/21/2023 15:56:50: Using default prefs
-10/21/2023 15:56:50: Loading player profile terry
-10/21/2023 15:56:50: isModded: False
-10/21/2023 15:56:50: Zonesystem Awake 1008
-10/21/2023 15:56:50: DungeonDB Awake 1008
-10/21/2023 15:56:50: Steam initialized, persona:tjgolubi
-10/21/2023 15:56:50: Worldgenerator version setup:2
-10/21/2023 15:56:52: Audioman already exist, destroying self
-10/21/2023 15:56:52: Checking for installed DLCs
-10/21/2023 15:56:52: DLC:beta installed:False
+UnloadTime: 9.879700 ms
+10/21/2023 16:20:12: Steam initialized, persona:tjgolubi
+10/21/2023 16:20:12: PlayFab custom ID set to "Steam_76561198290658520"
+10/21/2023 16:20:12: Using default prefs
+10/21/2023 16:20:12: Loading player profile terry
+10/21/2023 16:20:12: isModded: False
+10/21/2023 16:20:12: Zonesystem Awake 12966
+10/21/2023 16:20:12: DungeonDB Awake 12966
+10/21/2023 16:20:12: Steam initialized, persona:tjgolubi
+10/21/2023 16:20:12: Registering lobby
+10/21/2023 16:20:12: Worldgenerator version setup:2
+10/21/2023 16:20:13: Audioman already exist, destroying self
+10/21/2023 16:20:13: Checking for installed DLCs
+10/21/2023 16:20:13: DLC:beta installed:False
 
 Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 159900.
-Total: 90.228200 ms (FindLiveObjects: 4.779800 ms CreateObjectMapping: 9.004300 ms MarkObjects: 75.809900 ms  DeleteObjects: 0.633900 ms)
+Total: 97.490400 ms (FindLiveObjects: 5.432700 ms CreateObjectMapping: 10.809600 ms MarkObjects: 80.578800 ms  DeleteObjects: 0.669000 ms)
 
-10/21/2023 15:56:55: Zonesystem Start 1008
-10/21/2023 15:56:55: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-10/21/2023 15:56:55: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-10/21/2023 15:56:55: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-10/21/2023 15:56:55: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-10/21/2023 15:56:55: DungeonDB Start 1008
-10/21/2023 15:56:56: ZRpc timeout set to 30s 
-10/21/2023 15:56:56: ZNET START
-10/21/2023 15:56:56: Load world: Famheim (Famheim)
-10/21/2023 15:56:56: Loading 420610 zdos, my sessionID: 1413107011, data version: 32
-10/21/2023 15:56:56: Creating ZDOs
-10/21/2023 15:56:56: Loading in ZDOs
-10/21/2023 15:56:56: Adding to Dictionary
-10/21/2023 15:56:56: Adding to Sectors
-10/21/2023 15:56:56: Connecting Portals, Spawners & ZSyncTransforms
+10/21/2023 16:20:17: Zonesystem Start 12966
+10/21/2023 16:20:17: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+10/21/2023 16:20:17: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+10/21/2023 16:20:17: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+10/21/2023 16:20:17: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+10/21/2023 16:20:17: DungeonDB Start 12966
+10/21/2023 16:20:17: ZRpc timeout set to 30s 
+10/21/2023 16:20:17: ZNET START
+10/21/2023 16:20:17: Load world: Batheim (Batheim)
+10/21/2023 16:20:17: Loading 25332 zdos, my sessionID: 1551356988, data version: 32
+10/21/2023 16:20:17: Creating ZDOs
+10/21/2023 16:20:17: Loading in ZDOs
+10/21/2023 16:20:17: Adding to Dictionary
+10/21/2023 16:20:17: Adding to Sectors
+10/21/2023 16:20:17: Connecting Portals, Spawners & ZSyncTransforms
+ConnectSpawners => Connected 4 spawners and 0 'done' spawners.
+10/21/2023 16:20:17: Loaded 10081 locations
+10/21/2023 16:20:17: Unloading unused assets
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+10/21/2023 16:20:17: Lobby was created k_EResultOK  109775243707511657  error:False
+10/21/2023 16:20:17: Got requested lobby data
+10/21/2023 16:20:17: Ticket is System.Byte[] of length 369
+10/21/2023 16:20:17: Session auth respons callback
+10/21/2023 16:20:22: Unpacking compressed mapdata 8362
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1733245.
+Total: 400.694900 ms (FindLiveObjects: 78.095700 ms CreateObjectMapping: 25.282300 ms MarkObjects: 296.667300 ms  DeleteObjects: 0.649400 ms)
+
+10/21/2023 16:20:23: Got requested lobby data
+10/21/2023 16:20:23: Starting respawn
+10/21/2023 16:20:23: tip:$loadscreen_tip18
+10/21/2023 16:20:26: Force generating hmap (-320.0, 0.0, 512.0)
+10/21/2023 16:20:26: Force generating hmap (-320.0, 0.0, 448.0)
+10/21/2023 16:20:26: Force generating hmap (-256.0, 0.0, 448.0)
+10/21/2023 16:20:26: Force generating hmap (-256.0, 0.0, 512.0)
+10/21/2023 16:20:27: Loading dungeon
+10/21/2023 16:20:27: Dungeon loaded with 22 rooms in 14.0116 ms.
+10/21/2023 16:20:27: Force generating hmap (-128.0, 0.0, 640.0)
+10/21/2023 16:20:27: Force generating hmap (-64.0, 0.0, 640.0)
+10/21/2023 16:20:31: Spawned after 8.019994
+10/21/2023 16:20:31: Skipping unloading unused assets
+10/21/2023 16:20:31: Minimap: Adding unique location (131.9, 39.6, 260.8)
+10/21/2023 16:20:33: Starting music home
+10/21/2023 16:20:33: Resumed music home at 0
+10/21/2023 16:21:25: Stopped music home at 2291788
+10/21/2023 16:21:25: Starting music meadows
+10/21/2023 16:21:25: Resumed music meadows at 0
+10/21/2023 16:21:45: Activating default element Continue
+10/21/2023 16:21:54: Activating default element Continue
+10/21/2023 16:21:57: Button pressed PublicPosition  frame:21840
+10/21/2023 16:23:38: Update PlayFab entity token
+10/21/2023 16:24:25: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+10/21/2023 16:24:25: New connection
+10/21/2023 16:24:25: Accepting connection k_EResultOK
+10/21/2023 16:24:25: Connecting to Steamworks.SteamNetworkingIdentity
+10/21/2023 16:24:25: Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
+10/21/2023 16:24:25: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+10/21/2023 16:24:25: Got handshake from client 76561198147279331
+10/21/2023 16:24:28: Network version check, their:15, mine:15
+10/21/2023 16:24:28: Server: New peer connected,sending global keys
+10/21/2023 16:24:29: Spawned Greyling x 1
+10/21/2023 16:24:38: Got character ZDOID from Dylan : -883971593:1
+10/21/2023 16:24:39: Spawned Seagal x 1
+10/21/2023 16:25:16: Valid True
+10/21/2023 16:25:16: On death False
+10/21/2023 16:25:18: Player -883971593 wants to pickup LeatherScraps(Clone)   im: 1551356988
+10/21/2023 16:25:18: Player -883971593 wants to pickup RawMeat(Clone)   im: 1551356988
+10/21/2023 16:25:57: Force generating hmap (-256.0, 0.0, 448.0)
+10/21/2023 16:25:57: Force generating hmap (-256.0, 0.0, 512.0)
+10/21/2023 16:25:57: Force generating hmap (-320.0, 0.0, 448.0)
+10/21/2023 16:25:57: Force generating hmap (-320.0, 0.0, 512.0)
+10/21/2023 16:26:45: Stopped music meadows at 4378552
+10/21/2023 16:26:45: Starting music home
+10/21/2023 16:26:45: Resumed music home at 2291788
+10/21/2023 16:27:01: Loading dungeon
+10/21/2023 16:27:01: Dungeon loaded with 22 rooms in 11.009 ms.
+10/21/2023 16:27:09: Loading dungeon
+10/21/2023 16:27:09: Dungeon loaded with 22 rooms in 11.0092 ms.
+10/21/2023 16:27:16: Stopped music home at 1364159
+10/21/2023 16:27:16: Starting music home
+10/21/2023 16:27:16: Resumed music home at 1364159
+10/21/2023 16:27:18: Loading dungeon
+10/21/2023 16:27:18: Dungeon loaded with 22 rooms in 12.01 ms.
+10/21/2023 16:27:50: Loading dungeon
+10/21/2023 16:27:50: Dungeon loaded with 22 rooms in 14.0121 ms.
+10/21/2023 16:28:08: Stopped music home at 2326598
+10/21/2023 16:28:08: Starting music meadows
+10/21/2023 16:28:08: Resumed music meadows at 4378552
+10/21/2023 16:28:39: RPC_Disconnect
+10/21/2023 16:28:39: Destroying abandoned non persistent zdo -883971593:1 owner -883971593
+10/21/2023 16:28:39: Destroying abandoned non persistent zdo -883971593:306 owner -883971593
+10/21/2023 16:28:39: Destroying abandoned non persistent zdo -883971593:305 owner -883971593
+10/21/2023 16:28:39: Disposing socket
+10/21/2023 16:28:39: Closing socket 76561198147279331
+10/21/2023 16:28:39:   send queue size:0
+10/21/2023 16:28:40: Disposing socket
+10/21/2023 16:28:40: Got status changed msg k_ESteamNetworkingConnectionState_None
+10/21/2023 16:28:42: Activating default element Continue
+10/21/2023 16:28:44: Activating default element Button_no
+10/21/2023 16:28:45: Shuting down
+10/21/2023 16:28:45: Uncompressed size 8388617
+10/21/2023 16:28:45: Compressed size 8319
+10/21/2023 16:28:45: Considering autobackup. World time: 494.66, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 16:28:45: Skipping backup. World session not long enough.
+10/21/2023 16:28:45: ZNet Shutdown
+10/21/2023 16:28:45: PrepareSave: clone done in 2ms
+10/21/2023 16:28:45: PrepareSave: ZDOExtraData.PrepareSave done in 10 ms
+10/21/2023 16:28:45: World save writing starting
+10/21/2023 16:28:45: World save writing started
+10/21/2023 16:28:45: Saved 25540 ZDOs
+10/21/2023 16:28:45: World save writing finishing
+10/21/2023 16:28:45: World save writing finished
+10/21/2023 16:28:45: World saved ( 90.5899ms )
+10/21/2023 16:28:45: Considering autobackup. World time: 494.66, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 16:28:45: Skipping backup. World session not long enough.
+10/21/2023 16:28:45: Unloading unused assets
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+10/21/2023 16:28:45: Sending disconnect msg
+ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+10/21/2023 16:28:45: Disposing socket
+10/21/2023 16:28:45: Stopping listening socket
+10/21/2023 16:28:45: Last socket, unregistering callback
+10/21/2023 16:28:45: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+10/21/2023 16:28:45: Local player destroyed
+
+Unloading 786 unused Assets to reduce memory usage. Loaded Objects now: 1737319.
+Total: 426.606200 ms (FindLiveObjects: 90.330800 ms CreateObjectMapping: 26.340000 ms MarkObjects: 306.744300 ms  DeleteObjects: 3.190700 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+10/21/2023 16:28:46: ZNet OnDestroy
+10/21/2023 16:28:46: Net scene destroyed
+UnloadTime: 714.482900 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+10/21/2023 16:28:46: Steam initialized, persona:tjgolubi
+10/21/2023 16:28:46: PlayFab custom ID set to "Steam_76561198290658520"
+10/21/2023 16:28:46: Using default prefs
+10/21/2023 16:28:46: Valheim version: 0.217.25 (network version 15)
+10/21/2023 16:28:46: Worldgenerator version setup:2
+10/21/2023 16:28:46: Render threading mode:MultiThreaded
+10/21/2023 16:28:46: Audioman already exist, destroying self
+10/21/2023 16:28:46: Checking for installed DLCs
+10/21/2023 16:28:46: DLC:beta installed:False
+
+Unloading 6637 unused Assets to reduce memory usage. Loaded Objects now: 155641.
+Total: 120.641300 ms (FindLiveObjects: 5.654700 ms CreateObjectMapping: 8.932800 ms MarkObjects: 98.494500 ms  DeleteObjects: 7.559100 ms)
+
+Event.Use() should not be called for events of type repaint
+10/21/2023 16:28:47: Got requested lobby data
+10/21/2023 16:28:47: Ticket is System.Byte[] of length 369
+10/21/2023 16:28:47: Session auth respons callback
+10/21/2023 16:28:47: Starting music menu
+10/21/2023 16:28:47: Activating default element Start game
+Event.Use() should not be called for events of type repaint
+Event.Use() should not be called for events of type repaint
+10/21/2023 16:28:48: Activating default element Start game
+10/21/2023 16:28:49: Stopped music meadows at 1779052
+10/21/2023 16:28:50: show character selection
+10/21/2023 16:28:51: Button pressed Start  frame:60710
+10/21/2023 16:28:51: OnCharacterStart
+10/21/2023 16:29:03: Button pressed Start  frame:61452
+10/21/2023 16:29:05: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.616700 ms
+10/21/2023 16:29:05: Steam initialized, persona:tjgolubi
+10/21/2023 16:29:05: PlayFab custom ID set to "Steam_76561198290658520"
+10/21/2023 16:29:05: Using default prefs
+10/21/2023 16:29:05: Loading player profile terry
+10/21/2023 16:29:05: isModded: False
+10/21/2023 16:29:05: Zonesystem Awake 61542
+10/21/2023 16:29:05: DungeonDB Awake 61542
+10/21/2023 16:29:05: Steam initialized, persona:tjgolubi
+10/21/2023 16:29:05: Registering lobby
+10/21/2023 16:29:05: Worldgenerator version setup:2
+10/21/2023 16:29:06: Audioman already exist, destroying self
+10/21/2023 16:29:06: Checking for installed DLCs
+10/21/2023 16:29:06: DLC:beta installed:False
+
+Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 159945.
+Total: 114.633900 ms (FindLiveObjects: 5.816900 ms CreateObjectMapping: 9.729500 ms MarkObjects: 98.383700 ms  DeleteObjects: 0.703600 ms)
+
+10/21/2023 16:29:10: Zonesystem Start 61542
+10/21/2023 16:29:10: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+10/21/2023 16:29:10: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+10/21/2023 16:29:10: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+10/21/2023 16:29:10: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+10/21/2023 16:29:10: DungeonDB Start 61542
+10/21/2023 16:29:10: ZRpc timeout set to 30s 
+10/21/2023 16:29:10: ZNET START
+10/21/2023 16:29:10: Load world: Famheim (Famheim)
+10/21/2023 16:29:10: Loading 420609 zdos, my sessionID: 822577307, data version: 32
+10/21/2023 16:29:10: Creating ZDOs
+10/21/2023 16:29:10: Loading in ZDOs
+10/21/2023 16:29:11: Adding to Dictionary
+10/21/2023 16:29:11: Adding to Sectors
+10/21/2023 16:29:11: Connecting Portals, Spawners & ZSyncTransforms
 ConnectPortals => Connected 1 portals.
 ConnectSpawners => Connected 3 spawners and 443 'done' spawners.
-10/21/2023 15:56:56: Loaded 10076 locations
-10/21/2023 15:56:56: Unloading unused assets
+10/21/2023 16:29:11: Loaded 10076 locations
+10/21/2023 16:29:11: Unloading unused assets
 Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-10/21/2023 15:56:56: Starting respawn
-10/21/2023 15:56:56: Ticket is System.Byte[] of length 369
-10/21/2023 15:56:56: Session auth respons callback
-10/21/2023 15:57:01: Unpacking compressed mapdata 17065
-10/21/2023 15:57:02: tip:$loadscreen_tip15
+10/21/2023 16:29:11: Starting respawn
+10/21/2023 16:29:11: Lobby was created k_EResultOK  109775243710140669  error:False
+10/21/2023 16:29:11: Got requested lobby data
+10/21/2023 16:29:11: Session auth respons callback
+10/21/2023 16:29:16: Unpacking compressed mapdata 17065
+10/21/2023 16:29:16: tip:$loadscreen_tip23
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733246.
-Total: 517.597100 ms (FindLiveObjects: 77.057900 ms CreateObjectMapping: 26.223300 ms MarkObjects: 413.433000 ms  DeleteObjects: 0.882700 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733248.
+Total: 538.013100 ms (FindLiveObjects: 79.477900 ms CreateObjectMapping: 25.234200 ms MarkObjects: 432.628900 ms  DeleteObjects: 0.671600 ms)
 
-10/21/2023 15:57:06: Force generating hmap (-256.0, 0.0, 448.0)
-10/21/2023 15:57:06: Force generating hmap (-320.0, 0.0, 448.0)
-10/21/2023 15:57:06: Force generating hmap (-320.0, 0.0, 512.0)
-10/21/2023 15:57:06: Force generating hmap (-256.0, 0.0, 512.0)
-10/21/2023 15:57:06: Force generating hmap (-192.0, 0.0, 320.0)
-10/21/2023 15:57:06: Force generating hmap (-128.0, 0.0, 320.0)
-10/21/2023 15:57:06: Force generating hmap (-128.0, 0.0, 576.0)
-10/21/2023 15:57:10: Spawned after 8.019994
-10/21/2023 15:57:10: Skipping unloading unused assets
-10/21/2023 15:57:10: Minimap: Adding unique location (131.9, 39.6, 260.8)
-10/21/2023 15:57:10: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
-10/21/2023 15:57:10: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
-10/21/2023 15:57:12: Starting music home
-10/21/2023 15:57:12: Resumed music home at 0
-10/21/2023 15:57:30: Activating default element Continue
-10/21/2023 15:57:41: Setting selected recipe 0
-10/21/2023 15:57:52: Setting selected recipe 1
-10/21/2023 15:57:52: Button pressed RepairButton  frame:4644
-10/21/2023 15:57:53: Button pressed RepairButton  frame:4671
-10/21/2023 15:57:56: Setting selected recipe 0
-10/21/2023 15:57:57: Button pressed RepairButton  frame:4907
-10/21/2023 15:57:57: Button pressed RepairButton  frame:4928
-10/21/2023 15:58:05: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 15:58:05: Setting selected recipe 0
-10/21/2023 15:58:06: Stopped music home at 2359526
-10/21/2023 15:58:06: Starting music meadows
-10/21/2023 15:58:06: Resumed music meadows at 0
-10/21/2023 15:58:11: Setting selected recipe 0
-10/21/2023 15:58:21: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 15:58:21: Setting selected recipe 0
-10/21/2023 15:58:22: Player 1413107011 wants to stack all in piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 15:58:28: Setting selected recipe 11
-10/21/2023 15:58:29: Setting selected recipe 12
-10/21/2023 15:58:31: Setting selected recipe 11
-10/21/2023 15:58:32: Setting selected recipe 10
-10/21/2023 15:58:32: Setting selected recipe 9
-10/21/2023 15:58:32: Setting selected recipe 8
-10/21/2023 15:58:35: Stopped music meadows at 1309593
-10/21/2023 15:58:35: Starting music home
-10/21/2023 15:58:35: Resumed music home at 2359526
-10/21/2023 15:58:41: Stopped music home at 239903
-10/21/2023 15:58:41: Starting music meadows
-10/21/2023 15:58:41: Resumed music meadows at 1309593
-10/21/2023 15:58:41: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 15:58:41: Setting selected recipe 0
-10/21/2023 15:58:46: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 15:58:46: Setting selected recipe 0
-10/21/2023 15:58:53: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 15:58:53: Setting selected recipe 0
-10/21/2023 15:59:00: Setting selected recipe 2
-10/21/2023 15:59:02: Setting selected recipe 1
-10/21/2023 15:59:03: Setting selected recipe 0
-10/21/2023 15:59:04: Button pressed CraftButton  frame:9045
-10/21/2023 15:59:06: Setting selected recipe 0
-10/21/2023 15:59:07: Stopped music meadows at 1128959
-10/21/2023 15:59:07: Starting music home
-10/21/2023 15:59:07: Resumed music home at 239903
-10/21/2023 15:59:07: Button pressed CraftButton  frame:9254
-10/21/2023 15:59:09: Setting selected recipe 0
-10/21/2023 15:59:09: Button pressed CraftButton  frame:9438
-10/21/2023 15:59:11: Setting selected recipe 0
-10/21/2023 15:59:12: Button pressed CraftButton  frame:9650
-10/21/2023 15:59:14: Setting selected recipe 0
-10/21/2023 15:59:15: Button pressed CraftButton  frame:9850
-10/21/2023 15:59:17: Setting selected recipe 0
-10/21/2023 15:59:20: Button pressed CraftButton  frame:10177
-10/21/2023 15:59:22: Setting selected recipe 9
-10/21/2023 15:59:30: Stopped music home at 1017945
-10/21/2023 15:59:30: Starting music meadows
-10/21/2023 15:59:30: Resumed music meadows at 1128959
-10/21/2023 15:59:31: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 15:59:31: Setting selected recipe 0
-10/21/2023 15:59:38: Setting selected recipe 0
-10/21/2023 15:59:45: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 15:59:45: Setting selected recipe 0
-10/21/2023 15:59:56: Setting selected recipe 0
-10/21/2023 15:59:58: Setting selected recipe 1
-10/21/2023 15:59:59: Setting selected recipe 2
-10/21/2023 15:59:59: Setting selected recipe 1
-10/21/2023 16:00:01: Setting selected recipe 0
-10/21/2023 16:00:03: Button pressed CraftButton  frame:13465
-10/21/2023 16:00:05: Setting selected recipe 3
-10/21/2023 16:00:05: Stopped music meadows at 1540089
-10/21/2023 16:00:05: Starting music home
-10/21/2023 16:00:05: Resumed music home at 1017945
-10/21/2023 16:00:12: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:00:12: Setting selected recipe 0
-10/21/2023 16:00:12: Stopped music home at 342451
-10/21/2023 16:00:12: Starting music meadows
-10/21/2023 16:00:12: Resumed music meadows at 1540089
-10/21/2023 16:00:18: Setting selected recipe 0
-10/21/2023 16:00:20: Button pressed CraftButton  frame:14844
-10/21/2023 16:00:20: Stopped music meadows at 333043
-10/21/2023 16:00:20: Starting music home
-10/21/2023 16:00:20: Resumed music home at 342451
-10/21/2023 16:00:22: Setting selected recipe 0
-10/21/2023 16:00:22: Button pressed CraftButton  frame:15064
-10/21/2023 16:00:24: Setting selected recipe 0
-10/21/2023 16:00:25: Button pressed CraftButton  frame:15285
-10/21/2023 16:00:27: Setting selected recipe 0
-10/21/2023 16:00:28: Button pressed CraftButton  frame:15498
-10/21/2023 16:00:30: Setting selected recipe 0
-10/21/2023 16:00:31: Button pressed CraftButton  frame:15753
-10/21/2023 16:00:33: Setting selected recipe 0
-10/21/2023 16:00:38: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:00:38: Setting selected recipe 0
-10/21/2023 16:00:38: Player 1413107011 wants to stack all in piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:00:39: Stopped music home at 848601
-10/21/2023 16:00:39: Starting music meadows
-10/21/2023 16:00:39: Resumed music meadows at 333043
-10/21/2023 16:00:42: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:00:42: Setting selected recipe 0
-10/21/2023 16:00:42: Player 1413107011 wants to stack all in piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:00:48: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:00:48: Setting selected recipe 0
-10/21/2023 16:00:54: Setting selected recipe 0
-10/21/2023 16:01:02: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:01:02: Setting selected recipe 0
-10/21/2023 16:01:08: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:01:08: Setting selected recipe 0
-10/21/2023 16:01:14: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:01:14: Setting selected recipe 0
-10/21/2023 16:01:22: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:01:22: Setting selected recipe 0
-10/21/2023 16:01:28: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:01:28: Setting selected recipe 0
-10/21/2023 16:01:37: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:01:37: Setting selected recipe 0
-10/21/2023 16:01:51: Stopped music meadows at 3144153
-10/21/2023 16:01:51: Starting music home
-10/21/2023 16:01:51: Resumed music home at 848601
-10/21/2023 16:01:54: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:01:54: Setting selected recipe 0
-10/21/2023 16:03:37: Update PlayFab entity token
-10/21/2023 16:04:25: Setting selected recipe 0
-10/21/2023 16:04:27: Button pressed CraftButton  frame:36757
-10/21/2023 16:04:29: Setting selected recipe 0
-10/21/2023 16:04:30: Button pressed CraftButton  frame:37000
-10/21/2023 16:04:32: Setting selected recipe 0
-10/21/2023 16:04:32: Button pressed CraftButton  frame:37242
-10/21/2023 16:04:34: Setting selected recipe 0
-10/21/2023 16:04:35: Button pressed CraftButton  frame:37510
-10/21/2023 16:04:37: Setting selected recipe 0
-10/21/2023 16:04:38: Button pressed CraftButton  frame:37763
-10/21/2023 16:04:40: Setting selected recipe 0
-10/21/2023 16:04:41: Button pressed CraftButton  frame:38016
-10/21/2023 16:04:43: Setting selected recipe 0
-10/21/2023 16:04:43: Button pressed CraftButton  frame:38250
-10/21/2023 16:04:45: Setting selected recipe 0
-10/21/2023 16:04:46: Button pressed CraftButton  frame:38501
-10/21/2023 16:04:48: Setting selected recipe 0
-10/21/2023 16:04:48: Button pressed CraftButton  frame:38742
-10/21/2023 16:04:50: Setting selected recipe 0
-10/21/2023 16:04:51: Button pressed CraftButton  frame:38988
-10/21/2023 16:04:53: Setting selected recipe 0
-10/21/2023 16:04:54: Button pressed CraftButton  frame:39251
-10/21/2023 16:04:56: Setting selected recipe 0
-10/21/2023 16:04:56: Button pressed CraftButton  frame:39501
-10/21/2023 16:04:58: Setting selected recipe 0
-10/21/2023 16:04:59: Button pressed CraftButton  frame:39783
-10/21/2023 16:05:01: Setting selected recipe 0
-10/21/2023 16:05:09: Button pressed CraftButton  frame:40691
-10/21/2023 16:05:11: Setting selected recipe 0
-10/21/2023 16:05:12: Button pressed CraftButton  frame:40976
-10/21/2023 16:05:14: Setting selected recipe 0
-10/21/2023 16:05:14: Button pressed CraftButton  frame:41231
-10/21/2023 16:05:16: Setting selected recipe 0
-10/21/2023 16:05:17: Button pressed CraftButton  frame:41476
-10/21/2023 16:05:19: Setting selected recipe 0
-10/21/2023 16:05:20: Button pressed CraftButton  frame:41721
-10/21/2023 16:05:22: Setting selected recipe 0
-10/21/2023 16:05:22: Button pressed CraftButton  frame:41968
-10/21/2023 16:05:24: Setting selected recipe 0
-10/21/2023 16:05:25: Button pressed CraftButton  frame:42227
-10/21/2023 16:05:27: Setting selected recipe 0
-10/21/2023 16:05:29: Setting selected recipe 1
-10/21/2023 16:05:30: Button pressed CraftButton  frame:42711
-10/21/2023 16:05:32: Setting selected recipe 1
-10/21/2023 16:05:33: Button pressed CraftButton  frame:42960
-10/21/2023 16:05:35: Setting selected recipe 1
-10/21/2023 16:05:35: Button pressed CraftButton  frame:43224
-10/21/2023 16:05:37: Setting selected recipe 1
-10/21/2023 16:05:38: Button pressed CraftButton  frame:43461
-10/21/2023 16:05:40: Setting selected recipe 1
-10/21/2023 16:05:40: Button pressed CraftButton  frame:43723
-10/21/2023 16:05:42: Setting selected recipe 1
-10/21/2023 16:05:43: Button pressed CraftButton  frame:43962
-10/21/2023 16:05:45: Setting selected recipe 1
-10/21/2023 16:05:46: Button pressed CraftButton  frame:44208
-10/21/2023 16:05:48: Setting selected recipe 1
-10/21/2023 16:05:48: Button pressed CraftButton  frame:44463
-10/21/2023 16:05:50: Setting selected recipe 1
-10/21/2023 16:05:51: Button pressed CraftButton  frame:44714
-10/21/2023 16:05:53: Setting selected recipe 1
-10/21/2023 16:05:53: Button pressed CraftButton  frame:44953
-10/21/2023 16:05:55: Setting selected recipe 1
-10/21/2023 16:05:56: Button pressed CraftButton  frame:45190
-10/21/2023 16:05:58: Setting selected recipe 1
-10/21/2023 16:05:58: Button pressed CraftButton  frame:45409
-10/21/2023 16:06:00: Setting selected recipe 1
-10/21/2023 16:06:01: Button pressed CraftButton  frame:45648
-10/21/2023 16:06:03: Setting selected recipe 1
-10/21/2023 16:06:03: Button pressed CraftButton  frame:45874
-10/21/2023 16:06:05: Setting selected recipe 1
-10/21/2023 16:06:05: Button pressed CraftButton  frame:46117
-10/21/2023 16:06:07: Setting selected recipe 1
-10/21/2023 16:06:08: Button pressed CraftButton  frame:46364
-10/21/2023 16:06:10: Setting selected recipe 1
-10/21/2023 16:06:11: Button pressed CraftButton  frame:46617
-10/21/2023 16:06:13: Setting selected recipe 1
-10/21/2023 16:06:13: Button pressed CraftButton  frame:46871
-10/21/2023 16:06:15: Setting selected recipe 1
-10/21/2023 16:06:16: Button pressed CraftButton  frame:47119
-10/21/2023 16:06:18: Setting selected recipe 1
-10/21/2023 16:06:18: Button pressed CraftButton  frame:47365
-10/21/2023 16:06:20: Setting selected recipe 2
-10/21/2023 16:06:23: Setting selected recipe 1
-10/21/2023 16:06:23: Setting selected recipe 0
-10/21/2023 16:06:23: Button pressed CraftButton  frame:47835
-10/21/2023 16:06:25: Setting selected recipe 0
-10/21/2023 16:06:26: Button pressed CraftButton  frame:48106
-10/21/2023 16:06:28: Setting selected recipe 0
-10/21/2023 16:06:29: Button pressed CraftButton  frame:48349
-10/21/2023 16:06:31: Setting selected recipe 0
-10/21/2023 16:06:31: Button pressed CraftButton  frame:48596
-10/21/2023 16:06:33: Setting selected recipe 0
-10/21/2023 16:06:34: Button pressed CraftButton  frame:48836
-10/21/2023 16:06:36: Setting selected recipe 0
-10/21/2023 16:06:36: Button pressed CraftButton  frame:49072
-10/21/2023 16:06:38: Setting selected recipe 1
-10/21/2023 16:06:47: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:06:47: Setting selected recipe 0
-10/21/2023 16:06:49: Stopped music home at 4997685
-10/21/2023 16:06:49: Starting music meadows
-10/21/2023 16:06:49: Resumed music meadows at 3144153
-10/21/2023 16:06:54: Setting selected recipe 0
-10/21/2023 16:07:04: Setting selected recipe 0
-10/21/2023 16:07:07: Activating default element Slider
-10/21/2023 16:07:08: Button pressed Button_ok  frame:51941
-10/21/2023 16:07:11: Added to stack6 5
-10/21/2023 16:07:11: Setting selected recipe 0
-10/21/2023 16:07:17: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:07:17: Setting selected recipe 0
-10/21/2023 16:07:17: Player 1413107011 wants to stack all in piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:07:21: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:07:21: Setting selected recipe 0
-10/21/2023 16:07:21: Player 1413107011 wants to stack all in piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:07:27: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:07:27: Setting selected recipe 0
-10/21/2023 16:07:27: Player 1413107011 wants to stack all in piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:07:32: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:07:32: Setting selected recipe 0
-10/21/2023 16:07:32: Player 1413107011 wants to stack all in piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:07:38: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:07:38: Setting selected recipe 0
-10/21/2023 16:07:39: Player 1413107011 wants to stack all in piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:07:51: Stopped music meadows at 2769715
-10/21/2023 16:07:52: Starting music meadows
-10/21/2023 16:07:52: Resumed music meadows at 2769715
-10/21/2023 16:08:24: Stopped music meadows at 1448831
-10/21/2023 16:08:24: Starting music meadows
-10/21/2023 16:08:24: Resumed music meadows at 1448831
-10/21/2023 16:08:25: Player 1413107011 wants to open piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:08:25: Setting selected recipe 1
-10/21/2023 16:08:25: Player 1413107011 wants to stack all in piece_chest_wood(Clone)   im: 1413107011
-10/21/2023 16:08:33: Stopped music meadows at 362207
-10/21/2023 16:08:33: Starting music meadows
-10/21/2023 16:08:33: Resumed music meadows at 362207
-10/21/2023 16:08:39: Setting selected recipe 1
-10/21/2023 16:08:42: drop all 7  7
-10/21/2023 16:08:56: Setting selected recipe 1
-10/21/2023 16:08:59: Setting selected recipe 1
-10/21/2023 16:09:00: Setting selected recipe 1
-10/21/2023 16:09:01: Stopped music meadows at 1257849
-10/21/2023 16:09:01: Starting music home
-10/21/2023 16:09:01: Resumed music home at 4997685
-10/21/2023 16:09:03: Setting selected recipe 1
-10/21/2023 16:09:38: Activating default element Continue
-10/21/2023 16:09:40: Activating default element Button_no
-10/21/2023 16:09:41: Game - OnApplicationQuit
-10/21/2023 16:09:41: Shuting down
-10/21/2023 16:09:41: Uncompressed size 8394105
-10/21/2023 16:09:41: Compressed size 17065
-10/21/2023 16:09:41: Considering autobackup. World time: 751.06, short time: 7200, long time: 43200, backup count: 4
-10/21/2023 16:09:41: Skipping backup. World session not long enough.
-10/21/2023 16:09:41: ZNet Shutdown
-10/21/2023 16:09:41: PrepareSave: clone done in 35ms
-10/21/2023 16:09:41: PrepareSave: ZDOExtraData.PrepareSave done in 39 ms
-10/21/2023 16:09:42: World save writing starting
-10/21/2023 16:09:42: World save writing started
-10/21/2023 16:09:42: Saved 420609 ZDOs
-10/21/2023 16:09:42: World save writing finishing
-10/21/2023 16:09:42: World save writing finished
-10/21/2023 16:09:42: World saved ( 752.6935ms )
-10/21/2023 16:09:42: Considering autobackup. World time: 751.06, short time: 7200, long time: 43200, backup count: 4
-10/21/2023 16:09:42: Skipping backup. World session not long enough.
-10/21/2023 16:09:42: Unloading unused assets
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-10/21/2023 16:09:42: Sending disconnect msg
+10/21/2023 16:29:17: Got requested lobby data
+10/21/2023 16:29:20: Force generating hmap (-256.0, 0.0, 448.0)
+10/21/2023 16:29:20: Force generating hmap (-320.0, 0.0, 448.0)
+10/21/2023 16:29:20: Force generating hmap (-320.0, 0.0, 512.0)
+10/21/2023 16:29:20: Force generating hmap (-256.0, 0.0, 512.0)
+10/21/2023 16:29:21: Force generating hmap (-192.0, 0.0, 320.0)
+10/21/2023 16:29:21: Force generating hmap (-128.0, 0.0, 320.0)
+10/21/2023 16:29:21: Force generating hmap (-128.0, 0.0, 576.0)
+10/21/2023 16:29:25: Spawned after 8.019994
+10/21/2023 16:29:25: Skipping unloading unused assets
+10/21/2023 16:29:25: Minimap: Adding unique location (131.9, 39.6, 260.8)
+10/21/2023 16:29:25: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
+10/21/2023 16:29:25: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
+10/21/2023 16:29:27: Starting music home
+10/21/2023 16:29:27: Resumed music home at 2326598
+10/21/2023 16:29:44: Compressed map data:12099
+10/21/2023 16:29:47: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+10/21/2023 16:29:47: New connection
+10/21/2023 16:29:47: Accepting connection k_EResultOK
+10/21/2023 16:29:47: Connecting to Steamworks.SteamNetworkingIdentity
+10/21/2023 16:29:47: Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
+10/21/2023 16:29:47: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+10/21/2023 16:29:47: Got handshake from client 76561198147279331
+10/21/2023 16:29:54: Network version check, their:15, mine:15
+10/21/2023 16:29:54: Server: New peer connected,sending global keys
+10/21/2023 16:30:08: Got character ZDOID from Dylan : -1518247414:1
+10/21/2023 16:30:34: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:30:41: Stopped music home at 3286214
+10/21/2023 16:30:41: Starting music meadows
+10/21/2023 16:30:41: Resumed music meadows at 1779052
+10/21/2023 16:30:45: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:30:50: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 16:31:01: Stopped music meadows at 883411
+10/21/2023 16:31:02: Starting music home
+10/21/2023 16:31:02: Resumed music home at 3286214
+10/21/2023 16:31:10: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:31:15: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:31:37: Stopped music home at 1541971
+10/21/2023 16:31:37: Starting music meadows
+10/21/2023 16:31:37: Resumed music meadows at 883411
+10/21/2023 16:32:03: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:32:11: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:32:14: Stopped music meadows at 1652044
+10/21/2023 16:32:14: Starting music meadows
+10/21/2023 16:32:14: Resumed music meadows at 1652044
+10/21/2023 16:32:25: Stopped music meadows at 483571
+10/21/2023 16:32:25: Starting music home
+10/21/2023 16:32:25: Resumed music home at 1541971
+10/21/2023 16:34:20: Player -1518247414 wants to pickup CookedMeat(Clone)   im: 822577307
+10/21/2023 16:34:33: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:34:35: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:34:36: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:34:38: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:34:40: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:35:08: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:35:10: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:35:33: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:35:35: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:35:41: Stopped music home at 522300
+10/21/2023 16:35:42: Starting music meadows
+10/21/2023 16:35:42: Resumed music meadows at 483571
+10/21/2023 16:35:43: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:35:49: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:35:53: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:35:54: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:35:55: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:35:56: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:35:58: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:35:59: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:36:07: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:36:25: Stopped music meadows at 1908883
+10/21/2023 16:36:25: Starting music home
+10/21/2023 16:36:25: Resumed music home at 522300
+10/21/2023 16:36:52: Player -1518247414 wants to pickup FishCooked(Clone)   im: 822577307
+10/21/2023 16:36:52: Player -1518247414 wants to pickup FishCooked(Clone)   im: 822577307
+10/21/2023 16:36:56: Player -1518247414 wants to pickup FishCooked(Clone)   im: 822577307
+10/21/2023 16:36:56: Player -1518247414 wants to pickup FishCooked(Clone)   im: 822577307
+10/21/2023 16:36:58: Player -1518247414 wants to pickup FishCooked(Clone)   im: 822577307
+10/21/2023 16:36:58: Player -1518247414 wants to pickup FishCooked(Clone)   im: 822577307
+10/21/2023 16:37:20: Player -1518247414 wants to pickup FishCooked(Clone)   im: 822577307
+10/21/2023 16:37:40: Is mine
+10/21/2023 16:37:40: is current spawnpoint
+10/21/2023 16:37:40: exporeusre check 1  True
+10/21/2023 16:37:40: Ignoring 2 colliders
+10/21/2023 16:37:41: Time 1041930.67998255, day:578    nextm:1042470.00001073  skipspeed:44.9433356815328
+10/21/2023 16:37:41: Starting music evening
+10/21/2023 16:37:42: Stopped music home at 3404755
+10/21/2023 16:37:43: Spawned Greydwarf_Elite x 1
+10/21/2023 16:37:43: Spawned Greydwarf_Shaman x 1
+10/21/2023 16:37:46: Skipping unloading unused assets
+10/21/2023 16:37:53: Uncompressed size 8394105
+10/21/2023 16:37:53: Compressed size 17065
+10/21/2023 16:37:53: Considering autobackup. World time: 515.9999, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 16:37:53: Skipping backup. World session not long enough.
+10/21/2023 16:37:53: PrepareSave: clone done in 41ms
+10/21/2023 16:37:53: PrepareSave: ZDOExtraData.PrepareSave done in 42 ms
+10/21/2023 16:37:53: World save writing starting
+10/21/2023 16:37:53: World save writing started
+10/21/2023 16:37:54: Saved 420613 ZDOs
+10/21/2023 16:37:54: World save writing finishing
+10/21/2023 16:37:54: World save writing finished
+10/21/2023 16:37:54: World saved ( 876.06ms )
+10/21/2023 16:37:54: Considering autobackup. World time: 517.06, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 16:37:54: Skipping backup. World session not long enough.
+10/21/2023 16:38:00: Starting music morning
+10/21/2023 16:38:35: Starting music meadows
+10/21/2023 16:38:35: Resumed music meadows at 1908883
+10/21/2023 16:39:00: Loading dungeon
+10/21/2023 16:39:00: Dungeon loaded with 40 rooms from old format in 16.0128 ms.
+10/21/2023 16:39:02: Loading dungeon
+10/21/2023 16:39:02: Dungeon loaded with 40 rooms from old format in 14.0118 ms.
+10/21/2023 16:39:15: Player -1518247414 wants to pickup Resin(Clone)   im: 822577307
+10/21/2023 16:39:23: Loading dungeon
+10/21/2023 16:39:23: Dungeon loaded with 40 rooms from old format in 16.0133 ms.
+10/21/2023 16:40:19: Spawned Greyling x 1
+10/21/2023 16:40:20: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:40:23: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:40:25: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:40:55: Spawned Deer x 1
+10/21/2023 16:40:59: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 16:40:59: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 16:40:59:   but they are already the owner
+10/21/2023 16:41:40: Update PlayFab entity token
+10/21/2023 16:41:59: Done fading color
+10/21/2023 16:42:47: Setting selected recipe 0
+10/21/2023 16:42:50: drop all 10  10
+10/21/2023 16:43:33: Done fading color
+10/21/2023 16:43:47: Setting selected recipe 0
+10/21/2023 16:44:46: Setting selected recipe 0
+10/21/2023 16:45:01: Setting selected recipe 0
+10/21/2023 16:46:05: Found location of type Eikthyrnir
+10/21/2023 16:46:56: Spawned Seagal x 1
+10/21/2023 16:46:56: Spawned Greyling x 1
+10/21/2023 16:46:59: Spawned Greyling x 1
+10/21/2023 16:47:06: Player -1518247414 wants to pickup Raspberry(Clone)   im: 822577307
+10/21/2023 16:47:07: Player -1518247414 wants to pickup Raspberry(Clone)   im: 822577307
+10/21/2023 16:47:10: Player -1518247414 wants to pickup Raspberry(Clone)   im: 822577307
+10/21/2023 16:47:27: Player -1518247414 wants to pickup Resin(Clone)   im: 822577307
+10/21/2023 16:47:44: Placed mud_road_v2
+10/21/2023 16:47:47: Placed mud_road_v2
+10/21/2023 16:47:52: Placed mud_road_v2
+10/21/2023 16:47:55: Placed mud_road_v2
+10/21/2023 16:48:00: Placed mud_road_v2
+10/21/2023 16:48:02: Placed mud_road_v2
+10/21/2023 16:48:05: Placed mud_road_v2
+10/21/2023 16:48:06: Placed mud_road_v2
+10/21/2023 16:48:23: Placed mud_road_v2
+10/21/2023 16:48:25: Placed mud_road_v2
+10/21/2023 16:48:29: Done fading color
+10/21/2023 16:48:29: Done fading color
+10/21/2023 16:48:31: Placed mud_road_v2
+10/21/2023 16:48:43: Placed mud_road_v2
+10/21/2023 16:48:44: Placed mud_road_v2
+10/21/2023 16:48:44: Placed mud_road_v2
+10/21/2023 16:48:46: Placed mud_road_v2
+10/21/2023 16:48:48: Placed mud_road_v2
+10/21/2023 16:48:52: Placed mud_road_v2
+10/21/2023 16:48:53: Placed mud_road_v2
+10/21/2023 16:48:56: Placed mud_road_v2
+10/21/2023 16:48:58: Placed mud_road_v2
+10/21/2023 16:49:01: Placed mud_road_v2
+10/21/2023 16:49:12: Done fading color
+10/21/2023 16:49:12: Done fading color
+10/21/2023 16:50:50: Setting selected recipe 0
+10/21/2023 16:51:00: Force generating hmap (-256.0, 0.0, 448.0)
+10/21/2023 16:51:00: Force generating hmap (-256.0, 0.0, 512.0)
+10/21/2023 16:51:00: Force generating hmap (-320.0, 0.0, 448.0)
+10/21/2023 16:51:00: Force generating hmap (-320.0, 0.0, 512.0)
+10/21/2023 16:51:22: Force generating hmap (-64.0, 0.0, 512.0)
+10/21/2023 16:51:22: Force generating hmap (-128.0, 0.0, 576.0)
+10/21/2023 16:51:22: Force generating hmap (-64.0, 0.0, 576.0)
+10/21/2023 16:51:43: Force generating hmap (-128.0, 0.0, 576.0)
+10/21/2023 16:52:37: Setting selected recipe 0
+10/21/2023 16:52:37: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:52:41: Setting selected recipe 0
+10/21/2023 16:52:41: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:52:44: Setting selected recipe 0
+10/21/2023 16:52:45: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:52:48: Setting selected recipe 0
+10/21/2023 16:52:48: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:52:52: Setting selected recipe 0
+10/21/2023 16:52:52: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 16:52:54: Setting selected recipe 0
+10/21/2023 16:53:10: Stopped music meadows at 9495702
+10/21/2023 16:53:10: Starting music meadows
+10/21/2023 16:53:10: Resumed music meadows at 9495702
+10/21/2023 16:53:16: Player onboard, total onboard 1
+10/21/2023 16:53:19: Player onboard, total onboard 2
+10/21/2023 16:53:28: Activating default element Continue
+10/21/2023 16:54:09: Starting music sailing
+10/21/2023 16:54:15: Stopped music meadows at 2865676
+10/21/2023 16:54:54: Loading dungeon
+10/21/2023 16:54:54: Dungeon loaded with 38 rooms from old format in 23.0194 ms.
+10/21/2023 16:55:43: Player over board, players left 1
+10/21/2023 16:55:43: Player onboard, total onboard 2
+10/21/2023 16:55:44: Player over board, players left 1
+10/21/2023 16:55:44: Stopped music sailing at 3895852
+10/21/2023 16:55:44: Starting music blackforest
+10/21/2023 16:55:52: HIT Weakspot:WEAKSPOT_HEAD
+10/21/2023 16:56:01: Activating default element Continue
+10/21/2023 16:56:02: Setting selected recipe 0
+10/21/2023 16:56:11: Player over board, players left 0
+10/21/2023 16:56:13: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 16:56:19: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 16:56:20: HIT Weakspot:WEAKSPOT_HEAD
+10/21/2023 16:56:23: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 16:56:23: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 16:56:43: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 16:56:45: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 16:56:45: Player -1518247414 wants to pickup Stone(Clone)   im: 822577307
+10/21/2023 16:56:45: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 16:56:46: Player -1518247414 wants to pickup TrophyGreydwarf(Clone)   im: 822577307
+10/21/2023 16:56:46: Player -1518247414 wants to pickup Resin(Clone)   im: 822577307
+10/21/2023 16:56:47: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 16:56:47: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 16:56:47: Player -1518247414 wants to pickup Stone(Clone)   im: 822577307
+10/21/2023 16:56:48: Player -1518247414 wants to pickup Resin(Clone)   im: 822577307
+10/21/2023 16:56:48: Player -1518247414 wants to pickup GreydwarfEye(Clone)   im: 822577307
+10/21/2023 16:56:48: Player -1518247414 wants to pickup GreydwarfEye(Clone)   im: 822577307
+10/21/2023 16:56:48: Player -1518247414 wants to pickup GreydwarfEye(Clone)   im: 822577307
+10/21/2023 16:56:48: Player -1518247414 wants to pickup Resin(Clone)   im: 822577307
+10/21/2023 16:56:48: Player -1518247414 wants to pickup Resin(Clone)   im: 822577307
+10/21/2023 16:56:49: Player -1518247414 wants to pickup Resin(Clone)   im: 822577307
+10/21/2023 16:56:49:   but they are already the owner
+10/21/2023 16:56:49: Player -1518247414 wants to pickup Resin(Clone)   im: 822577307
+10/21/2023 16:56:50: Player -1518247414 wants to pickup TrollHide(Clone)   im: 822577307
+10/21/2023 16:56:50: Player -1518247414 wants to pickup TrollHide(Clone)   im: 822577307
+10/21/2023 16:56:50: Player -1518247414 wants to pickup TrollHide(Clone)   im: 822577307
+10/21/2023 16:56:50: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:50: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:50: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:50: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:51: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:51: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:51: Player -1518247414 wants to pickup TrollHide(Clone)   im: 822577307
+10/21/2023 16:56:51: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:51: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:51: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:51: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:51: Player -1518247414 wants to pickup TrollHide(Clone)   im: 822577307
+10/21/2023 16:56:51: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:51: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:51: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:56:51: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 16:57:11: Activating default element Continue
+10/21/2023 16:57:15: Button pressed PublicPosition  frame:222437
+10/21/2023 16:58:01: Im still nto the owner
+10/21/2023 16:58:01: Im still nto the owner
+10/21/2023 16:58:01: Im still nto the owner
+10/21/2023 16:58:01: Im finally the owner
+10/21/2023 16:58:23: Spawned Greydwarf x 3
+10/21/2023 16:58:23: Setting selected recipe 0
+10/21/2023 16:58:26: Player onboard, total onboard 1
+10/21/2023 16:58:26: Player over board, players left 0
+10/21/2023 16:58:27: Player onboard, total onboard 1
+10/21/2023 16:58:27: Changing ship owner to -1518247414
+10/21/2023 16:58:29: Player onboard, total onboard 2
+10/21/2023 16:58:54: Starting music evening
+10/21/2023 16:58:55: Stopped music blackforest at 8435212
+10/21/2023 16:59:03: Spawned FireFlies x 1
+10/21/2023 16:59:14: Starting music sailing
+10/21/2023 16:59:15: Resumed music sailing at 3895852
+10/21/2023 16:59:27: Spawned Greydwarf x 3
+10/21/2023 16:59:27: Spawned FireFlies x 1
+10/21/2023 16:59:28: Spawned Greydwarf_Elite x 1
+10/21/2023 16:59:28: Spawned Greydwarf_Shaman x 1
+10/21/2023 16:59:28: Spawned FireFlies x 1
+10/21/2023 16:59:47: Force generating hmap (-320.0, 0.0, 448.0)
+10/21/2023 16:59:47: Force generating hmap (-320.0, 0.0, 512.0)
+10/21/2023 17:00:34: Spawned FireFlies x 1
+10/21/2023 17:00:46: Spawned Greydwarf_Shaman x 1
+10/21/2023 17:01:00: Force generating hmap (-128.0, 0.0, 576.0)
+10/21/2023 17:01:00: Spawned Greydwarf_Elite x 1
+10/21/2023 17:01:00: Spawned FireFlies x 1
+10/21/2023 17:01:15: Stopped music sailing at 9172799
+10/21/2023 17:01:24: Spawned FireFlies x 1
+10/21/2023 17:01:33: Player over board, players left 1
+10/21/2023 17:01:36: Update PlayFab entity token
+10/21/2023 17:01:43: Player over board, players left 0
+10/21/2023 17:01:48: Spawned FireFlies x 1
+10/21/2023 17:01:48: Spawned Greyling x 1
+10/21/2023 17:01:56: Starting music home
+10/21/2023 17:02:02: Is mine
+10/21/2023 17:02:02: is current spawnpoint
+10/21/2023 17:02:02: exporeusre check 1  True
+10/21/2023 17:02:02: Ignoring 2 colliders
+10/21/2023 17:02:06: Is mine
+10/21/2023 17:02:06: is current spawnpoint
+10/21/2023 17:02:06: exporeusre check 1  True
+10/21/2023 17:02:06: Ignoring 2 colliders
+10/21/2023 17:02:09: Time 1043926.25997818, day:579    nextm:1044270.00001073  skipspeed:28.6450027124956
+10/21/2023 17:02:14: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2964 unused Assets to reduce memory usage. Loaded Objects now: 2044331.
+Total: 686.360000 ms (FindLiveObjects: 112.247500 ms CreateObjectMapping: 27.300800 ms MarkObjects: 535.592100 ms  DeleteObjects: 11.219400 ms)
+
+10/21/2023 17:02:21: Uncompressed size 8394105
+10/21/2023 17:02:22: Compressed size 17067
+10/21/2023 17:02:22: Considering autobackup. World time: 1984, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 17:02:22: Overwrite our newest autobackup since the second one isn't so old
+10/21/2023 17:02:22: Replacing backup file: terry_backup_auto-20231021142551
+10/21/2023 17:02:22: Saving backup at: terry_backup_auto-20231021170222
+10/21/2023 17:02:22: PrepareSave: clone done in 25ms
+10/21/2023 17:02:22: PrepareSave: ZDOExtraData.PrepareSave done in 55 ms
+10/21/2023 17:02:22: World save writing starting
+10/21/2023 17:02:22: World save writing started
+10/21/2023 17:02:22: Saved 420630 ZDOs
+10/21/2023 17:02:23: World save writing finishing
+10/21/2023 17:02:23: World save writing finished
+10/21/2023 17:02:23: World saved ( 888.6561ms )
+10/21/2023 17:02:23: Considering autobackup. World time: 1985.06, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 17:02:23: Time to overwrite our last autobackup
+10/21/2023 17:02:23: Replacing backup file: Famheim_backup_auto-20231020132743
+10/21/2023 17:02:23: Saving backup at: Famheim_backup_auto-20231021170222
+10/21/2023 17:02:23: World auto backup saved ( 00:00:00.0180153ms )
+10/21/2023 17:02:28: Starting music morning
+10/21/2023 17:02:29: Stopped music home at 1417785
+10/21/2023 17:02:30: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:02:30: Setting selected recipe 0
+10/21/2023 17:02:33: Activating default element Slider
+10/21/2023 17:02:34: Button pressed Button_ok  frame:255795
+10/21/2023 17:02:35: Setting selected recipe 0
+10/21/2023 17:02:39: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:02:39: Setting selected recipe 0
+10/21/2023 17:02:40: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:02:45: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:02:45: Setting selected recipe 0
+10/21/2023 17:02:45: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:02:50: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:02:50: Setting selected recipe 0
+10/21/2023 17:02:50: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:02:52: Setting selected recipe 0
+10/21/2023 17:03:01: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:03:01: Setting selected recipe 0
+10/21/2023 17:03:01: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:03:02: Starting music meadows
+10/21/2023 17:03:04: Setting selected recipe 0
+10/21/2023 17:03:08: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:03:08: Setting selected recipe 0
+10/21/2023 17:03:14: Activating default element Slider
+10/21/2023 17:03:15: Button pressed Button_ok  frame:258254
+10/21/2023 17:03:16: Setting selected recipe 0
+10/21/2023 17:03:19: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:03:19: Setting selected recipe 0
+10/21/2023 17:03:21: Setting selected recipe 0
+10/21/2023 17:03:23: Activating default element Slider
+10/21/2023 17:03:26: Button pressed Button_ok  frame:258875
+10/21/2023 17:03:30: Setting selected recipe 0
+10/21/2023 17:03:32: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:03:32: Setting selected recipe 0
+10/21/2023 17:03:37: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:03:37: Setting selected recipe 0
+10/21/2023 17:03:39: Player onboard, total onboard 1
+10/21/2023 17:03:39: Player over board, players left 0
+10/21/2023 17:03:39: Activating default element Slider
+10/21/2023 17:03:40: Player onboard, total onboard 1
+10/21/2023 17:03:40: Player over board, players left 0
+10/21/2023 17:03:40: Player onboard, total onboard 1
+10/21/2023 17:03:40: Player over board, players left 0
+10/21/2023 17:03:43: Button pressed Button_ok  frame:259854
+10/21/2023 17:03:45: Player onboard, total onboard 1
+10/21/2023 17:03:45: Setting selected recipe 0
+10/21/2023 17:03:47: Setting selected recipe 0
+10/21/2023 17:03:48: Setting selected recipe 0
+10/21/2023 17:03:50: Setting selected recipe 0
+10/21/2023 17:03:55: Player over board, players left 0
+10/21/2023 17:03:56: Player onboard, total onboard 1
+10/21/2023 17:03:56: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:03:56: Setting selected recipe 0
+10/21/2023 17:03:56: Player over board, players left 0
+10/21/2023 17:03:57: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:04:00: Setting selected recipe 0
+10/21/2023 17:04:01: Stopped music meadows at 2604134
+10/21/2023 17:04:01: Starting music home
+10/21/2023 17:04:01: Resumed music home at 1417785
+10/21/2023 17:04:02: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:04:02: Setting selected recipe 0
+10/21/2023 17:04:02: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:04:03: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:04:03: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:04:04: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:04:12: Stopped music home at 488275
+10/21/2023 17:04:13: Starting music meadows
+10/21/2023 17:04:13: Resumed music meadows at 2604134
+10/21/2023 17:04:13: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:04:13: Setting selected recipe 0
+10/21/2023 17:04:20: Setting selected recipe 0
+10/21/2023 17:04:22: Button pressed RepairButton  frame:262261
+10/21/2023 17:04:23: Button pressed RepairButton  frame:262283
+10/21/2023 17:04:23: Player onboard, total onboard 1
+10/21/2023 17:04:25: Setting selected recipe 0
+10/21/2023 17:04:25: Stopped music meadows at 553190
+10/21/2023 17:04:25: Starting music home
+10/21/2023 17:04:25: Resumed music home at 488275
+10/21/2023 17:04:25: Button pressed RepairButton  frame:262458
+10/21/2023 17:04:26: Button pressed RepairButton  frame:262475
+10/21/2023 17:04:26: Button pressed RepairButton  frame:262493
+10/21/2023 17:04:26: Button pressed RepairButton  frame:262505
+10/21/2023 17:04:26: Button pressed RepairButton  frame:262520
+10/21/2023 17:04:34: Stopped music home at 370675
+10/21/2023 17:04:34: Starting music meadows
+10/21/2023 17:04:34: Resumed music meadows at 553190
+10/21/2023 17:04:34: Player onboard, total onboard 2
+10/21/2023 17:05:44: Starting music sailing
+10/21/2023 17:05:50: Stopped music meadows at 3380294
+10/21/2023 17:05:50: Resumed music sailing at 9172799
+10/21/2023 17:06:42: Loading dungeon
+10/21/2023 17:06:42: Dungeon loaded with 38 rooms from old format in 33.0279 ms.
+10/21/2023 17:07:26: Loading dungeon
+10/21/2023 17:07:26: Dungeon loaded with 23 rooms from old format in 17.9927 ms.
+10/21/2023 17:08:35: Setting selected recipe 0
+10/21/2023 17:08:42: Spawned Greydwarf x 1
+10/21/2023 17:08:48: Item is not in this container
+10/21/2023 17:08:48: Setting selected recipe 0
+10/21/2023 17:09:07: Disabling OnboardTrigger  character_trigger
+10/21/2023 17:09:07: Disabling FloatCollider  Ignore Raycast
+10/21/2023 17:09:07: Disabling PlayerBase  character_trigger
+10/21/2023 17:09:09: Disabling HIT AREA  character_trigger
+10/21/2023 17:09:10: Disabling TELEPORT  character_trigger
+10/21/2023 17:09:10: Disabling PlayerBase  character_trigger
+10/21/2023 17:09:17: Setting selected recipe 0
+10/21/2023 17:09:21: Setting selected recipe 0
+10/21/2023 17:09:32: Disabling PlayerBase  character_trigger
+10/21/2023 17:09:32: Disabling Container  item
+10/21/2023 17:09:33: Disabling OnboardTrigger  character_trigger
+10/21/2023 17:09:33: Disabling FloatCollider  Ignore Raycast
+10/21/2023 17:09:57: Spawned Greydwarf x 3
+10/21/2023 17:09:59: Loading dungeon
+10/21/2023 17:09:59: Dungeon loaded with 31 rooms in 12.0101 ms.
+10/21/2023 17:10:28: Loading dungeon
+10/21/2023 17:10:28: Dungeon loaded with 28 rooms in 14.7238 ms.
+10/21/2023 17:10:48: Spawned Greydwarf x 1
+10/21/2023 17:10:52: Force generating hmap (-1344.0, 0.0, 1152.0)
+10/21/2023 17:10:52: Force generating hmap (-1280.0, 0.0, 1152.0)
+10/21/2023 17:11:53: Spawned Deer x 1
+10/21/2023 17:13:10: Force generating hmap (-1344.0, 0.0, 1152.0)
+10/21/2023 17:13:10: Force generating hmap (-1280.0, 0.0, 1152.0)
+10/21/2023 17:13:10: Force generating hmap (-1280.0, 0.0, 1216.0)
+10/21/2023 17:13:53: Spawned Seagal x 1
+10/21/2023 17:13:53: Spawned Fish3 x 1
+10/21/2023 17:13:53: Spawned Fish3 x 1
+10/21/2023 17:14:17: Spawned Greydwarf x 1
+10/21/2023 17:14:42: Activating default element Continue
+10/21/2023 17:14:45: Setting selected recipe 0
+10/21/2023 17:15:09: Spawned Seagal x 1
+10/21/2023 17:15:09: Spawned Fish5 x 1
+10/21/2023 17:16:14: Loading dungeon
+10/21/2023 17:16:14: Dungeon loaded with 37 rooms in 18.377 ms.
+10/21/2023 17:16:38: Stopped music sailing at 1497759
+10/21/2023 17:16:38: Starting music blackforest
+10/21/2023 17:16:54: Starting music sailing
+10/21/2023 17:17:00: Stopped music blackforest at 951148
+10/21/2023 17:17:00: Resumed music sailing at 1497759
+10/21/2023 17:17:16: Stopped music sailing at 2243813
+10/21/2023 17:17:16: Starting music blackforest
+10/21/2023 17:17:17: Resumed music blackforest at 951148
+10/21/2023 17:17:36: Spawned Greydwarf x 1
+10/21/2023 17:17:37: Starting music sailing
+10/21/2023 17:17:37: Loading dungeon
+10/21/2023 17:17:37: Dungeon loaded with 30 rooms in 19.0156 ms.
+10/21/2023 17:17:43: Stopped music blackforest at 2109272
+10/21/2023 17:17:43: Resumed music sailing at 2243813
+10/21/2023 17:17:48: Spawned Deer x 1
+10/21/2023 17:18:26: Spawned Greydwarf x 2
+10/21/2023 17:18:26: Spawned Greyling x 1
+10/21/2023 17:19:26: Stopped music sailing at 6802929
+10/21/2023 17:19:26: Starting music meadows
+10/21/2023 17:19:31: Spawned Deer x 1
+10/21/2023 17:19:32: Loading dungeon
+10/21/2023 17:19:32: Dungeon loaded with 32 rooms in 19.016 ms.
+10/21/2023 17:19:32: Loading dungeon
+10/21/2023 17:19:32: Dungeon loaded with 17 rooms from old format in 11.0097 ms.
+10/21/2023 17:19:32: Loading dungeon
+10/21/2023 17:19:32: Dungeon loaded with 40 rooms from old format in 23.5256 ms.
+10/21/2023 17:19:57: Spawned Greydwarf x 1
+10/21/2023 17:20:26: Starting music sailing
+10/21/2023 17:20:32: Stopped music meadows at 2920243
+10/21/2023 17:20:32: Resumed music sailing at 6802929
+10/21/2023 17:21:02: Spawned Seagal x 1
+10/21/2023 17:21:14: Setting selected recipe 0
+10/21/2023 17:21:15: Setting selected recipe 0
+10/21/2023 17:21:22: Spawned Fish2 x 3
+10/21/2023 17:21:37: Spawned Fish3 x 1
+10/21/2023 17:21:37: Spawned Fish3 x 2
+10/21/2023 17:21:37: Spawned Fish8 x 2
+10/21/2023 17:21:37: Spawned Fish8 x 3
+10/21/2023 17:21:37: Spawned Fish8 x 3
+10/21/2023 17:21:37: Spawned Fish12 x 2
+10/21/2023 17:21:37: Spawned Fish12 x 4
+10/21/2023 17:21:37: Spawned Fish12 x 2
+10/21/2023 17:21:58: Update PlayFab entity token
+10/21/2023 17:24:25: Spawned Greydwarf x 3
+10/21/2023 17:24:25: Spawned Troll x 1
+10/21/2023 17:24:33: Spawned Greydwarf_Shaman x 1
+10/21/2023 17:24:33: Spawned FireFlies x 1
+10/21/2023 17:24:33: Spawned FireFlies x 1
+10/21/2023 17:24:33: Spawned FireFlies x 1
+10/21/2023 17:24:37: Spawned Greydwarf x 1
+10/21/2023 17:24:37: Spawned FireFlies x 1
+10/21/2023 17:25:10: Starting music evening
+10/21/2023 17:25:11: Stopped music sailing at 7028096
+10/21/2023 17:25:28: Starting music sailing
+10/21/2023 17:25:29: Resumed music sailing at 7028096
+10/21/2023 17:25:41: Spawned Greydwarf_Shaman x 1
+10/21/2023 17:26:26: Spawned Greydwarf_Shaman x 1
+10/21/2023 17:26:26: Spawned FireFlies x 1
+10/21/2023 17:26:27: Setting selected recipe 0
+10/21/2023 17:26:28: Loading dungeon
+10/21/2023 17:26:28: Dungeon loaded with 23 rooms in 13.0107 ms.
+10/21/2023 17:26:28: Loading dungeon
+10/21/2023 17:26:28: Dungeon loaded with 30 rooms in 11.0094 ms.
+10/21/2023 17:26:37: Spawned FireFlies x 1
+10/21/2023 17:26:50: Spawned FireFlies x 1
+10/21/2023 17:26:54: Spawned FireFlies x 1
+10/21/2023 17:26:57: Spawned Greydwarf_Elite x 1
+10/21/2023 17:27:14: Spawned Greydwarf_Shaman x 1
+10/21/2023 17:27:14: Loading dungeon
+10/21/2023 17:27:14: Dungeon loaded with 28 rooms in 23.0197 ms.
+10/21/2023 17:27:21: Loading dungeon
+10/21/2023 17:27:21: Dungeon loaded with 28 rooms in 21.0177 ms.
+10/21/2023 17:27:37: Loading dungeon
+10/21/2023 17:27:37: Dungeon loaded with 28 rooms in 22.0188 ms.
+10/21/2023 17:27:54: Loading dungeon
+10/21/2023 17:27:54: Dungeon loaded with 28 rooms in 22.0189 ms.
+10/21/2023 17:27:57: Spawned Greydwarf x 3
+10/21/2023 17:27:57: Spawned BlobElite x 1
+10/21/2023 17:28:13: Spawned Greydwarf_Shaman x 1
+10/21/2023 17:28:19: Spawned odin x 1
+10/21/2023 17:28:21: Loading dungeon
+10/21/2023 17:28:21: Dungeon loaded with 28 rooms in 23.019 ms.
+10/21/2023 17:28:23: Spawned Wraith x 1
+10/21/2023 17:28:25: No player in range, despawning
+10/21/2023 17:28:47: Stopped music sailing at 3685749
+10/21/2023 17:28:47: Starting music swamp
+10/21/2023 17:29:05: Starting music sailing
+10/21/2023 17:29:06: Poison damage: 34.49094 ttl:6.872899 hits:6 dmg perhit:5.748491
+10/21/2023 17:29:07: Poison damage: 71.96926 ttl:9.48347 hits:9 dmg perhit:7.996584
+10/21/2023 17:29:07: Stopped music swamp at 895641
+10/21/2023 17:29:07: Resumed music sailing at 3685749
+10/21/2023 17:29:15: Poison damage: 13.96664 ttl:4.737197 hits:4 dmg perhit:3.49166
+10/21/2023 17:29:15: Spawned FireFlies x 1
+10/21/2023 17:29:15: Spawned FireFlies x 1
+10/21/2023 17:29:17: Skipping unloading unused assets
+10/21/2023 17:29:18: Poison damage: 52.29985 ttl:8.231864 hits:8 dmg perhit:6.537482
+10/21/2023 17:29:22: Loading dungeon
+10/21/2023 17:29:22: Dungeon loaded with 23 rooms in 13.011 ms.
+10/21/2023 17:29:22: Loading dungeon
+10/21/2023 17:29:22: Dungeon loaded with 30 rooms in 11.0092 ms.
+10/21/2023 17:29:22: Poison damage: 50.46021 ttl:8.103535 hits:8 dmg perhit:6.307526
+10/21/2023 17:29:24: Player over board, players left 1
+10/21/2023 17:29:26: Player over board, players left 0
+10/21/2023 17:29:30: Stopped music sailing at 4664180
+10/21/2023 17:29:30: Starting music blackforest
+10/21/2023 17:29:33: Player -1518247414 wants to pickup TrophyLeech(Clone)   im: 822577307
+10/21/2023 17:29:33: Player -1518247414 wants to pickup Bloodbag(Clone)   im: 822577307
+10/21/2023 17:29:45: Spawned FireFlies x 1
+10/21/2023 17:29:54: Disabling collider_block  blocker
+10/21/2023 17:29:55: Disabling Capsule_blockplayer  blocker
+10/21/2023 17:29:55: Disabling PlayerBase  character_trigger
+10/21/2023 17:30:01: Placed piece_workbench
+10/21/2023 17:30:01: Disabling PlayerBase  character_trigger
+10/21/2023 17:30:05: Disabling OnboardTrigger  character_trigger
+10/21/2023 17:30:05: Disabling FloatCollider  Ignore Raycast
+10/21/2023 17:30:05: Player -1518247414 wants to pickup Bloodbag(Clone)   im: 822577307
+10/21/2023 17:30:06: Player -1518247414 wants to pickup Bloodbag(Clone)   im: 822577307
+10/21/2023 17:30:06: Disabling Container  item
+10/21/2023 17:30:06: Disabling PlayerBase  character_trigger
+10/21/2023 17:30:06: Disabling TELEPORT  character_trigger
+10/21/2023 17:30:06: Disabling PlayerBase  character_trigger
+10/21/2023 17:30:09: Spawned FireFlies x 1
+10/21/2023 17:30:11: Placed portal_wood
+10/21/2023 17:30:11: Disabling TELEPORT  character_trigger
+10/21/2023 17:30:11: Disabling PlayerBase  character_trigger
+10/21/2023 17:30:11: Disabling TELEPORT  character_trigger
+10/21/2023 17:30:11: Disabling PlayerBase  character_trigger
+10/21/2023 17:30:11: Disabling TELEPORT  character_trigger
+10/21/2023 17:30:11: Disabling PlayerBase  character_trigger
+10/21/2023 17:30:11: Connected portals 1:201293 <-> 822577307:426085
+10/21/2023 17:30:11: [ Connected 1 portals ]
+10/21/2023 17:30:17: Spawned Greydwarf_Elite x 1
+10/21/2023 17:30:21: Disabling TELEPORT  character_trigger
+10/21/2023 17:30:21: Disabling PlayerBase  character_trigger
+10/21/2023 17:30:24: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:30:25: Spawned Greydwarf_Shaman x 1
+10/21/2023 17:30:26: Disabling HIT AREA  character_trigger
+10/21/2023 17:30:28: Disabling PlayerBase  character_trigger
+10/21/2023 17:30:30: Disabling OnboardTrigger  character_trigger
+10/21/2023 17:30:30: Disabling FloatCollider  Ignore Raycast
+10/21/2023 17:30:34: Teleportation TRIGGER
+10/21/2023 17:30:34: Teleporting Terry
+10/21/2023 17:30:39: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3740 unused Assets to reduce memory usage. Loaded Objects now: 1780454.
+Total: 611.811500 ms (FindLiveObjects: 97.541500 ms CreateObjectMapping: 28.098400 ms MarkObjects: 475.995900 ms  DeleteObjects: 10.175300 ms)
+
+10/21/2023 17:30:40: Force generating hmap (-256.0, 0.0, 448.0)
+10/21/2023 17:30:40: Force generating hmap (-320.0, 0.0, 448.0)
+10/21/2023 17:30:40: Force generating hmap (-320.0, 0.0, 512.0)
+10/21/2023 17:30:40: Force generating hmap (-256.0, 0.0, 512.0)
+10/21/2023 17:30:40: Force generating hmap (-192.0, 0.0, 320.0)
+10/21/2023 17:30:40: Force generating hmap (-128.0, 0.0, 320.0)
+10/21/2023 17:30:40: Force generating hmap (-128.0, 0.0, 576.0)
+10/21/2023 17:30:47: Stopped music blackforest at 3393465
+10/21/2023 17:30:47: Starting music home
+10/21/2023 17:31:04: Teleportation TRIGGER
+10/21/2023 17:31:04: Teleporting Terry
+10/21/2023 17:31:09: Loading dungeon
+10/21/2023 17:31:09: Dungeon loaded with 23 rooms in 12.0105 ms.
+10/21/2023 17:31:09: Loading dungeon
+10/21/2023 17:31:09: Dungeon loaded with 30 rooms in 12.0096 ms.
+10/21/2023 17:31:15: Stopped music home at 1233388
+10/21/2023 17:31:15: Starting music blackforest
+10/21/2023 17:31:15: Resumed music blackforest at 3393465
+10/21/2023 17:31:22: Connected portals 1:201292 <-> 822577307:426085
+10/21/2023 17:31:22: [ Connected 1 portals ]
+10/21/2023 17:31:35: Teleportation TRIGGER
+10/21/2023 17:31:35: Teleporting Terry
+10/21/2023 17:31:36: Poison damage: 83.8331 ttl:10.15604 hits:10 dmg perhit:8.38331
+10/21/2023 17:31:40: Force generating hmap (-256.0, 0.0, 448.0)
+10/21/2023 17:31:40: Force generating hmap (-320.0, 0.0, 448.0)
+10/21/2023 17:31:40: Force generating hmap (-320.0, 0.0, 512.0)
+10/21/2023 17:31:40: Force generating hmap (-256.0, 0.0, 512.0)
+10/21/2023 17:31:41: Force generating hmap (-128.0, 0.0, 576.0)
+10/21/2023 17:31:48: Stopped music blackforest at 4856408
+10/21/2023 17:31:48: Starting music home
+10/21/2023 17:31:48: Resumed music home at 1233388
+10/21/2023 17:32:01: Is mine
+10/21/2023 17:32:01: is current spawnpoint
+10/21/2023 17:32:01: exporeusre check 1  True
+10/21/2023 17:32:01: Ignoring 2 colliders
+10/21/2023 17:32:18: Is mine
+10/21/2023 17:32:18: is current spawnpoint
+10/21/2023 17:32:18: exporeusre check 1  True
+10/21/2023 17:32:19: Is mine
+10/21/2023 17:32:19: is current spawnpoint
+10/21/2023 17:32:19: exporeusre check 1  True
+10/21/2023 17:32:21: Uncompressed size 8394105
+10/21/2023 17:32:22: Compressed size 17028
+10/21/2023 17:32:22: Considering autobackup. World time: 3783.42, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 17:32:22: No autobackup needed yet...
+10/21/2023 17:32:22: Sending message to save player profiles
+10/21/2023 17:32:22: Sent to 76561198147279331
+10/21/2023 17:32:22: PrepareSave: clone done in 45ms
+10/21/2023 17:32:22: PrepareSave: ZDOExtraData.PrepareSave done in 32 ms
+10/21/2023 17:32:22: World save writing starting
+10/21/2023 17:32:22: World save writing started
+10/21/2023 17:32:22: Saved 420693 ZDOs
+10/21/2023 17:32:22: World save writing finishing
+10/21/2023 17:32:22: World save writing finished
+10/21/2023 17:32:22: World saved ( 824.4122ms )
+10/21/2023 17:32:22: Considering autobackup. World time: 3784.46, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 17:32:22: No autobackup needed yet...
+10/21/2023 17:32:24: Starting music morning
+10/21/2023 17:32:25: Stopped music home at 1651103
+10/21/2023 17:32:49: Setting selected recipe 1
+10/21/2023 17:32:58: Setting selected recipe 1
+10/21/2023 17:32:59: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:32:59: Starting music meadows
+10/21/2023 17:33:02: Setting selected recipe 1
+10/21/2023 17:33:03: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:33:08: Setting selected recipe 1
+10/21/2023 17:33:08: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:33:16: Setting selected recipe 1
+10/21/2023 17:33:18: Setting selected recipe 1
+10/21/2023 17:33:21: Setting selected recipe 1
+10/21/2023 17:33:21: Stopped music meadows at 957734
+10/21/2023 17:33:21: Starting music home
+10/21/2023 17:33:21: Resumed music home at 1651103
+10/21/2023 17:33:33: Setting selected recipe 1
+10/21/2023 17:33:40: Item is not in this container
+10/21/2023 17:33:40: Setting selected recipe 1
+10/21/2023 17:33:51: Setting selected recipe 2
+10/21/2023 17:33:51: Button pressed RepairButton  frame:472561
+10/21/2023 17:33:52: Button pressed RepairButton  frame:472578
+10/21/2023 17:33:54: Setting selected recipe 0
+10/21/2023 17:34:06: Stopped music home at 1980383
+10/21/2023 17:34:06: Starting music meadows
+10/21/2023 17:34:06: Resumed music meadows at 957734
+10/21/2023 17:34:08: Setting selected recipe 0
+10/21/2023 17:34:10: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:34:19: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:34:19: Setting selected recipe 0
+10/21/2023 17:34:44: Stopped music meadows at 1695321
+10/21/2023 17:34:44: Starting music meadows
+10/21/2023 17:34:44: Resumed music meadows at 1695321
+10/21/2023 17:35:07: Stopped music meadows at 989721
+10/21/2023 17:35:07: Starting music home
+10/21/2023 17:35:07: Resumed music home at 1980383
+10/21/2023 17:35:08: Setting selected recipe 0
+10/21/2023 17:35:13: Stopped music home at 281299
+10/21/2023 17:35:13: Starting music meadows
+10/21/2023 17:35:13: Resumed music meadows at 989721
+10/21/2023 17:35:14: Setting selected recipe 0
+10/21/2023 17:35:24: Setting selected recipe 0
+10/21/2023 17:35:28: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:35:28: Setting selected recipe 0
+10/21/2023 17:35:31: Activating default element Slider
+10/21/2023 17:35:31: Button pressed Button_ok  frame:479298
+10/21/2023 17:35:35: Added to stack6 5
+10/21/2023 17:35:35: Setting selected recipe 0
+10/21/2023 17:35:35: Activating default element Slider
+10/21/2023 17:35:36: Button pressed Button_ok  frame:479608
+10/21/2023 17:35:38: Added to stack8 3
+10/21/2023 17:35:38: Setting selected recipe 0
+10/21/2023 17:35:45: Setting selected recipe 0
+10/21/2023 17:35:53: Teleportation TRIGGER
+10/21/2023 17:35:53: Teleporting Terry
+10/21/2023 17:35:57: Stopped music meadows at 1916409
+10/21/2023 17:35:57: Starting music home
+10/21/2023 17:35:57: Resumed music home at 281299
+10/21/2023 17:35:58: Loading dungeon
+10/21/2023 17:35:58: Dungeon loaded with 23 rooms in 12.0102 ms.
+10/21/2023 17:35:58: Loading dungeon
+10/21/2023 17:35:58: Dungeon loaded with 30 rooms in 11.0095 ms.
+10/21/2023 17:36:04: Stopped music home at 602111
+10/21/2023 17:36:04: Starting music blackforest
+10/21/2023 17:36:04: Resumed music blackforest at 4856408
+10/21/2023 17:36:06: Setting selected recipe 0
+10/21/2023 17:36:19: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:36:19: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:36:19:   but they are already the owner
+10/21/2023 17:36:21: Player onboard, total onboard 1
+10/21/2023 17:36:29: Player onboard, total onboard 2
+10/21/2023 17:36:34: Setting selected recipe 0
+10/21/2023 17:36:53: Starting music sailing
+10/21/2023 17:36:59: Stopped music blackforest at 7266737
+10/21/2023 17:36:59: Resumed music sailing at 4664180
+10/21/2023 17:36:59: Loading dungeon
+10/21/2023 17:36:59: Dungeon loaded with 28 rooms in 22.0207 ms.
+10/21/2023 17:37:25: Force generating hmap (64.0, 0.0, 2624.0)
+10/21/2023 17:37:49: Force generating hmap (128.0, 0.0, 2688.0)
+10/21/2023 17:37:50: Loading dungeon
+10/21/2023 17:37:50: Dungeon loaded with 26 rooms in 18.52 ms.
+10/21/2023 17:37:50: Loading dungeon
+10/21/2023 17:37:50: Dungeon loaded with 15 rooms in 9.0075 ms.
+10/21/2023 17:38:08: Player over board, players left 1
+10/21/2023 17:38:15: Player over board, players left 0
+10/21/2023 17:38:15: Stopped music sailing at 8050119
+10/21/2023 17:38:15: Starting music swamp
+10/21/2023 17:38:15: Resumed music swamp at 895641
+10/21/2023 17:38:17: Double ZNetview when initializing object vfx_RockHit (1)
+10/21/2023 17:38:19: Setting selected recipe 0
+10/21/2023 17:38:19: Loading dungeon
+10/21/2023 17:38:19: Dungeon loaded with 30 rooms in 13.0103 ms.
+10/21/2023 17:38:22: Update PlayFab entity token
+10/21/2023 17:38:30: Setting forced environment SunkenCrypt
+10/21/2023 17:38:40: Stopped music swamp at 1092268
+10/21/2023 17:38:43: Setting selected recipe 0
+10/21/2023 17:39:17: hit mine rock 19
+10/21/2023 17:39:17: Suport time 0.9765625
+10/21/2023 17:39:17: hit mine rock 22
+10/21/2023 17:39:17: Suport time 0.4882813
+10/21/2023 17:39:22: hit mine rock 5
+10/21/2023 17:39:22: Suport time 0.4882813
+10/21/2023 17:39:26: hit mine rock 13
+10/21/2023 17:39:26: Suport time 0.4882813
+10/21/2023 17:39:31: hit mine rock 24
+10/21/2023 17:39:31: Suport time 0.4882813
+10/21/2023 17:39:31: hit mine rock 4
+10/21/2023 17:39:31: Suport time 0
+10/21/2023 17:39:31: hit mine rock 27
+10/21/2023 17:39:31: Suport time 0.4882813
+10/21/2023 17:39:31: hit mine rock 12
+10/21/2023 17:39:31: Suport time 0.4882813
+10/21/2023 17:39:31: Queue unlock msg:$msg_newmaterial:$item_ironscrap
+10/21/2023 17:39:35: hit mine rock 2
+10/21/2023 17:39:35: Suport time 0
+10/21/2023 17:39:35: hit mine rock 1
+10/21/2023 17:39:35: Suport time 0.4882813
+10/21/2023 17:39:35: hit mine rock 20
+10/21/2023 17:39:35: Suport time 0.4882813
+10/21/2023 17:39:35: hit mine rock 14
+10/21/2023 17:39:35: Suport time 0.4882813
+10/21/2023 17:39:39: hit mine rock 0
+10/21/2023 17:39:39: Suport time 0.4882813
+10/21/2023 17:39:39: hit mine rock 16
+10/21/2023 17:39:39: Suport time 0
+10/21/2023 17:39:39: hit mine rock 26
+10/21/2023 17:39:39: Suport time 0
+10/21/2023 17:39:39: hit mine rock 18
+10/21/2023 17:39:39: Suport time 0
+10/21/2023 17:39:55: hit mine rock 7
+10/21/2023 17:39:55: Suport time 0
+10/21/2023 17:39:55: hit mine rock 15
+10/21/2023 17:39:55: Suport time 0
+10/21/2023 17:39:55: hit mine rock 29
+10/21/2023 17:39:55: Suport time 0
+10/21/2023 17:39:55: hit mine rock 17
+10/21/2023 17:39:55: Suport time 0
+10/21/2023 17:40:05: hit mine rock 25
+10/21/2023 17:40:05: Suport time 0.4882813
+10/21/2023 17:40:05: hit mine rock 11
+10/21/2023 17:40:05: Suport time 0
+10/21/2023 17:40:33: Player -1518247414 wants to pickup Entrails(Clone)   im: 822577307
+10/21/2023 17:40:42: Player 822577307 wants to open TreasureChest_sunkencrypt(Clone)   im: 822577307
+10/21/2023 17:40:42: Setting selected recipe 0
+10/21/2023 17:40:43: Button pressed StackAll  frame:514490
+10/21/2023 17:40:44: Button pressed TakeAll  frame:514622
+10/21/2023 17:40:44: Queue unlock msg:$msg_newmaterial:$item_witheredbone
+10/21/2023 17:40:44: Queue unlock msg:$msg_newmaterial:$item_chain
+10/21/2023 17:40:44: Queue unlock msg:$msg_newpiece:$piece_forge_ext1
+10/21/2023 17:40:44: Queue unlock msg:$msg_newpiece:$piece_brazierceiling01
+10/21/2023 17:40:51: Player -1518247414 wants to open TreasureChest_sunkencrypt(Clone)   im: 822577307
+10/21/2023 17:41:07: Setting selected recipe 0
+10/21/2023 17:41:14: Player -1518247414 wants to pickup TrophyLeech(Clone)   im: 822577307
+10/21/2023 17:41:51: hit mine rock 13
+10/21/2023 17:41:51: Suport time 0.4882813
+10/21/2023 17:41:51: hit mine rock 19
+10/21/2023 17:41:51: Suport time 0.4882813
+10/21/2023 17:41:51: hit mine rock 5
+10/21/2023 17:41:51: Suport time 0
+10/21/2023 17:41:55: hit mine rock 19
+10/21/2023 17:41:55: Suport time 0.4882813
+10/21/2023 17:41:55: hit mine rock 5
+10/21/2023 17:41:55: Suport time 0.4882813
+10/21/2023 17:41:57: hit mine rock 22
+10/21/2023 17:41:57: Suport time 0.4882813
+10/21/2023 17:41:59: hit mine rock 24
+10/21/2023 17:41:59: Suport time 0.4882813
+10/21/2023 17:41:59: hit mine rock 4
+10/21/2023 17:41:59: Suport time 0.4882813
+10/21/2023 17:41:59: hit mine rock 27
+10/21/2023 17:41:59: Suport time 0.4882813
+10/21/2023 17:42:02: hit mine rock 2
+10/21/2023 17:42:02: Suport time 0.4882813
+10/21/2023 17:42:02: hit mine rock 1
+10/21/2023 17:42:02: Suport time 0.4882813
+10/21/2023 17:42:02: hit mine rock 20
+10/21/2023 17:42:02: Suport time 0.4882813
+10/21/2023 17:42:02: hit mine rock 12
+10/21/2023 17:42:02: hit mine rock 14
+10/21/2023 17:42:02: Suport time 0.4882813
+10/21/2023 17:42:02: hit mine rock 12
+10/21/2023 17:42:02: Suport time 0
+10/21/2023 17:42:07: hit mine rock 16
+10/21/2023 17:42:07: Suport time 0
+10/21/2023 17:42:07: hit mine rock 26
+10/21/2023 17:42:07: Suport time 0.4882813
+10/21/2023 17:42:07: hit mine rock 12
+10/21/2023 17:42:07: Suport time 0.4882813
+10/21/2023 17:42:10: hit mine rock 22
+10/21/2023 17:42:10: Suport time 0.4882813
+10/21/2023 17:42:13: hit mine rock 13
+10/21/2023 17:42:13: Suport time 0.4882813
+10/21/2023 17:42:16: hit mine rock 0
+10/21/2023 17:42:16: Suport time 0.4882813
+10/21/2023 17:42:16: hit mine rock 7
+10/21/2023 17:42:16: Suport time 0
+10/21/2023 17:42:20: hit mine rock 24
+10/21/2023 17:42:20: Suport time 0
+10/21/2023 17:42:20: hit mine rock 4
+10/21/2023 17:42:20: Suport time 0.4882813
+10/21/2023 17:42:20: hit mine rock 18
+10/21/2023 17:42:20: Suport time 0
+10/21/2023 17:42:20: hit mine rock 27
+10/21/2023 17:42:20: Suport time 0.4882813
+10/21/2023 17:42:23: hit mine rock 0
+10/21/2023 17:42:23: Suport time 0
+10/21/2023 17:42:23: hit mine rock 25
+10/21/2023 17:42:23: Suport time 0.4882813
+10/21/2023 17:42:23: hit mine rock 1
+10/21/2023 17:42:23: Suport time 0
+10/21/2023 17:42:23: hit mine rock 20
+10/21/2023 17:42:23: Suport time 0
+10/21/2023 17:42:23: hit mine rock 29
+10/21/2023 17:42:23: Suport time 0
+10/21/2023 17:42:27: hit mine rock 2
+10/21/2023 17:42:27: Suport time 0
+10/21/2023 17:42:27: hit mine rock 16
+10/21/2023 17:42:27: Suport time 0.4882813
+10/21/2023 17:42:27: hit mine rock 26
+10/21/2023 17:42:27: Suport time 0.4882813
+10/21/2023 17:42:27: hit mine rock 21
+10/21/2023 17:42:27: Suport time 0
+10/21/2023 17:42:34: hit mine rock 7
+10/21/2023 17:42:34: Suport time 0.4882813
+10/21/2023 17:42:34: hit mine rock 15
+10/21/2023 17:42:34: Suport time 0
+10/21/2023 17:42:34: hit mine rock 29
+10/21/2023 17:42:34: Suport time 0.4882813
+10/21/2023 17:42:38: hit mine rock 25
+10/21/2023 17:42:38: Suport time 0.4882813
+10/21/2023 17:42:38: hit mine rock 15
+10/21/2023 17:42:38: Suport time 0
+10/21/2023 17:42:42: hit mine rock 11
+10/21/2023 17:42:43: Suport time 0
+10/21/2023 17:42:43: hit mine rock 8
+10/21/2023 17:42:43: Suport time 0.4882813
+10/21/2023 17:42:46: hit mine rock 11
+10/21/2023 17:42:46: Suport time 0.4882813
+10/21/2023 17:42:49: hit mine rock 18
+10/21/2023 17:42:49: Suport time 0
+10/21/2023 17:42:54: hit mine rock 21
+10/21/2023 17:42:54: Suport time 0.4882813
+10/21/2023 17:42:54: hit mine rock 14
+10/21/2023 17:42:54: Suport time 0
+10/21/2023 17:42:54: Found location of type Bonemass
+10/21/2023 17:43:17: DiscoverClosestLocation
+10/21/2023 17:43:17: Found location of type Bonemass
+10/21/2023 17:43:40: hit mine rock 19
+10/21/2023 17:43:40: Suport time 0.4882813
+10/21/2023 17:43:40: hit mine rock 5
+10/21/2023 17:43:40: Suport time 0
+10/21/2023 17:43:43: hit mine rock 22
+10/21/2023 17:43:44: Suport time 0.4882813
+10/21/2023 17:43:46: hit mine rock 0
+10/21/2023 17:43:46: Suport time 0.4882813
+10/21/2023 17:43:49: hit mine rock 24
+10/21/2023 17:43:49: Suport time 0.4882813
+10/21/2023 17:43:49: hit mine rock 26
+10/21/2023 17:43:49: Suport time 0.4882813
+10/21/2023 17:43:49: hit mine rock 29
+10/21/2023 17:43:49: Suport time 0.4882813
+10/21/2023 17:43:52: hit mine rock 25
+10/21/2023 17:43:52: Suport time 0.4882813
+10/21/2023 17:43:52: hit mine rock 16
+10/21/2023 17:43:52: Suport time 0
+10/21/2023 17:43:52: hit mine rock 1
+10/21/2023 17:43:52: Suport time 0.4882813
+10/21/2023 17:43:52: hit mine rock 7
+10/21/2023 17:43:52: Suport time 0.4882813
+10/21/2023 17:43:52: hit mine rock 20
+10/21/2023 17:43:52: Suport time 0.4882813
+10/21/2023 17:43:52: hit mine rock 27
+10/21/2023 17:43:52: Suport time 0.4882813
+10/21/2023 17:43:56: hit mine rock 16
+10/21/2023 17:43:56: Suport time 0.4882813
+10/21/2023 17:43:56: hit mine rock 25
+10/21/2023 17:43:56: Suport time 0
+10/21/2023 17:43:56: hit mine rock 26
+10/21/2023 17:43:56: Suport time 0.4882813
+10/21/2023 17:43:56: hit mine rock 15
+10/21/2023 17:43:56: Suport time 0
+10/21/2023 17:43:56: hit mine rock 18
+10/21/2023 17:43:56: Suport time 0.4882813
+10/21/2023 17:44:02: hit mine rock 1
+10/21/2023 17:44:02: Suport time 0.4882813
+10/21/2023 17:44:02: hit mine rock 11
+10/21/2023 17:44:02: Suport time 0
+10/21/2023 17:44:02: hit mine rock 29
+10/21/2023 17:44:02: Suport time 0.4882813
+10/21/2023 17:44:02: hit mine rock 17
+10/21/2023 17:44:02: Suport time 0
+10/21/2023 17:44:05: hit mine rock 24
+10/21/2023 17:44:05: Suport time 0.4882813
+10/21/2023 17:44:05: hit mine rock 7
+10/21/2023 17:44:05: Suport time 0.4882813
+10/21/2023 17:44:05: hit mine rock 20
+10/21/2023 17:44:05: Suport time 0
+10/21/2023 17:44:05: hit mine rock 18
+10/21/2023 17:44:05: Suport time 0.4882813
+10/21/2023 17:44:09: hit mine rock 2
+10/21/2023 17:44:09: Suport time 0
+10/21/2023 17:44:09: hit mine rock 11
+10/21/2023 17:44:09: Suport time 0
+10/21/2023 17:44:09: hit mine rock 4
+10/21/2023 17:44:09: Suport time 0.4882813
+10/21/2023 17:44:12: hit mine rock 2
+10/21/2023 17:44:12: Suport time 0.4882813
+10/21/2023 17:44:12: hit mine rock 9
+10/21/2023 17:44:12: Suport time 0.4882813
+10/21/2023 17:44:12: hit mine rock 21
+10/21/2023 17:44:12: Suport time 0
+10/21/2023 17:44:12: hit mine rock 27
+10/21/2023 17:44:12: Suport time 0.4882813
+10/21/2023 17:44:15: hit mine rock 15
+10/21/2023 17:44:15: Suport time 0.4882813
+10/21/2023 17:44:18: hit mine rock 21
+10/21/2023 17:44:18: Suport time 0.4882813
+10/21/2023 17:44:21: hit mine rock 0
+10/21/2023 17:44:21: Suport time 0
+10/21/2023 17:44:21: hit mine rock 19
+10/21/2023 17:44:21: Suport time 0.4882813
+10/21/2023 17:44:26: hit mine rock 4
+10/21/2023 17:44:26: Suport time 0.4882813
+10/21/2023 17:44:26: hit mine rock 14
+10/21/2023 17:44:26: Suport time 0
+10/21/2023 17:44:29: hit mine rock 13
+10/21/2023 17:44:29: Suport time 0.4882813
+10/21/2023 17:44:29: hit mine rock 5
+10/21/2023 17:44:29: Suport time 0
+10/21/2023 17:44:32: hit mine rock 22
+10/21/2023 17:44:32: Suport time 0.4882813
+10/21/2023 17:44:39: hit mine rock 13
+10/21/2023 17:44:39: hit mine rock 8
+10/21/2023 17:44:39: Poison damage: 3.605827 ttl:5.246073 hits:5 dmg perhit:0.7211654
+10/21/2023 17:44:45: hit mine rock 8
+10/21/2023 17:44:45: hit mine rock 9
+10/21/2023 17:44:45: Poison damage: 3.525836 ttl:5.198712 hits:5 dmg perhit:0.7051672
+10/21/2023 17:44:47: hit mine rock 8
+10/21/2023 17:44:47: hit mine rock 9
+10/21/2023 17:44:47: Poison damage: 3.146142 ttl:4.966196 hits:4 dmg perhit:0.7865356
+10/21/2023 17:44:47: Player -1518247414 wants to pickup Coins(Clone)   im: 822577307
+10/21/2023 17:44:47: Player -1518247414 wants to pickup WitheredBone(Clone)   im: 822577307
+10/21/2023 17:44:47: Player -1518247414 wants to pickup Stone(Clone)   im: 822577307
+10/21/2023 17:44:47: Player -1518247414 wants to pickup IronScrap(Clone)   im: 822577307
+10/21/2023 17:44:49: hit mine rock 9
+10/21/2023 17:44:49: hit mine rock 8
+10/21/2023 17:44:49: Poison damage: 3.801151 ttl:5.359559 hits:5 dmg perhit:0.7602301
+10/21/2023 17:44:51: hit mine rock 9
+10/21/2023 17:44:51: hit mine rock 8
+10/21/2023 17:44:51: Poison damage: 3.26312 ttl:5.039258 hits:5 dmg perhit:0.6526241
+10/21/2023 17:44:54: hit mine rock 9
+10/21/2023 17:44:54: hit mine rock 8
+10/21/2023 17:44:54: Poison damage: 3.348442 ttl:5.091724 hits:5 dmg perhit:0.6696883
+10/21/2023 17:44:54: Player -1518247414 wants to pickup Entrails(Clone)   im: 822577307
+10/21/2023 17:44:56: hit mine rock 9
+10/21/2023 17:44:56: hit mine rock 8
+10/21/2023 17:44:56: Poison damage: 3.362426 ttl:5.10026 hits:5 dmg perhit:0.6724852
+10/21/2023 17:44:58: hit mine rock 9
+10/21/2023 17:44:58: hit mine rock 8
+10/21/2023 17:44:58: Poison damage: 4.111661 ttl:5.534127 hits:5 dmg perhit:0.8223323
+10/21/2023 17:45:00: hit mine rock 9
+10/21/2023 17:45:00: hit mine rock 8
+10/21/2023 17:45:02: hit mine rock 9
+10/21/2023 17:45:02: hit mine rock 8
+10/21/2023 17:45:04: hit mine rock 9
+10/21/2023 17:45:04: hit mine rock 8
+10/21/2023 17:45:16: Player -1518247414 wants to pickup Ruby(Clone)   im: 822577307
+10/21/2023 17:45:30: hit mine rock 13
+10/21/2023 17:45:30: Suport time 0
+10/21/2023 17:45:30: hit mine rock 14
+10/21/2023 17:45:30: Suport time 0
+10/21/2023 17:45:54: hit mine rock 19
+10/21/2023 17:45:54: Suport time 0.4882813
+10/21/2023 17:45:56: hit mine rock 22
+10/21/2023 17:45:56: Suport time 0.4882813
+10/21/2023 17:45:58: hit mine rock 0
+10/21/2023 17:45:58: Suport time 0.4882813
+10/21/2023 17:46:00: hit mine rock 13
+10/21/2023 17:46:00: Suport time 0.4882813
+10/21/2023 17:46:00: hit mine rock 5
+10/21/2023 17:46:00: Suport time 0
+10/21/2023 17:46:02: hit mine rock 7
+10/21/2023 17:46:02: Suport time 0.4882813
+10/21/2023 17:46:06: hit mine rock 8
+10/21/2023 17:46:06: Suport time 0
+10/21/2023 17:46:08: hit mine rock 24
+10/21/2023 17:46:08: Suport time 0.4882813
+10/21/2023 17:46:08: hit mine rock 4
+10/21/2023 17:46:08: Suport time 0.4882813
+10/21/2023 17:46:08: hit mine rock 27
+10/21/2023 17:46:08: Suport time 0.4882813
+10/21/2023 17:46:10: hit mine rock 2
+10/21/2023 17:46:10: Suport time 0.4882813
+10/21/2023 17:46:10: hit mine rock 1
+10/21/2023 17:46:10: Suport time 0
+10/21/2023 17:46:10: hit mine rock 20
+10/21/2023 17:46:10: hit mine rock 14
+10/21/2023 17:46:10: Suport time 0.4882813
+10/21/2023 17:46:14: hit mine rock 16
+10/21/2023 17:46:14: Suport time 0
+10/21/2023 17:46:14: hit mine rock 20
+10/21/2023 17:46:14: Suport time 0.4882813
+10/21/2023 17:46:19: hit mine rock 26
+10/21/2023 17:46:21: hit mine rock 26
+10/21/2023 17:46:21: Suport time 0
+10/21/2023 17:46:21: hit mine rock 21
+10/21/2023 17:46:21: Suport time 0
+10/21/2023 17:46:33: hit mine rock 9
+10/21/2023 17:46:33: Poison damage: 3.34471 ttl:5.089444 hits:5 dmg perhit:0.6689421
+10/21/2023 17:46:33: hit mine rock 9
+10/21/2023 17:46:33: Poison damage: 3.911431 ttl:5.422347 hits:5 dmg perhit:0.7822862
+10/21/2023 17:46:34: hit mine rock 25
+10/21/2023 17:46:35: hit mine rock 9
+10/21/2023 17:46:35: Poison damage: 3.985228 ttl:5.46387 hits:5 dmg perhit:0.7970455
+10/21/2023 17:46:35: hit mine rock 9
+10/21/2023 17:46:35: Poison damage: 4.130943 ttl:5.544746 hits:5 dmg perhit:0.8261887
+10/21/2023 17:46:37: hit mine rock 9
+10/21/2023 17:46:37: Poison damage: 3.619867 ttl:5.254332 hits:5 dmg perhit:0.7239735
+10/21/2023 17:46:37: hit mine rock 9
+10/21/2023 17:46:39: hit mine rock 9
+10/21/2023 17:46:39: Poison damage: 4.025779 ttl:5.486524 hits:5 dmg perhit:0.8051559
+10/21/2023 17:46:39: hit mine rock 9
+10/21/2023 17:46:41: hit mine rock 9
+10/21/2023 17:46:41: Poison damage: 3.211023 ttl:5.006884 hits:5 dmg perhit:0.6422046
+10/21/2023 17:46:43: hit mine rock 9
+10/21/2023 17:46:43: Poison damage: 3.808237 ttl:5.363621 hits:5 dmg perhit:0.7616474
+10/21/2023 17:46:55: Setting selected recipe 0
+10/21/2023 17:47:29: Setting selected recipe 0
+10/21/2023 17:47:35: Setting selected recipe 0
+10/21/2023 17:47:37: Setting selected recipe 0
+10/21/2023 17:47:46: drop all 6  6
+10/21/2023 17:47:46: Player -1518247414 wants to pickup LeatherScraps(Clone)   im: 822577307
+10/21/2023 17:47:50: drop all 2  2
+10/21/2023 17:47:56: drop all 4  4
+10/21/2023 17:47:57: drop all 4  4
+10/21/2023 17:47:58: drop all 29  29
+10/21/2023 17:48:02: drop all 1  1
+10/21/2023 17:48:22: hit mine rock 26
+10/21/2023 17:48:22: Suport time 0
+10/21/2023 17:48:22: hit mine rock 18
+10/21/2023 17:48:22: Suport time 0.4882813
+10/21/2023 17:48:23: hit mine rock 29
+10/21/2023 17:48:23: Suport time 0
+10/21/2023 17:48:25: hit mine rock 16
+10/21/2023 17:48:25: Suport time 0.4882813
+10/21/2023 17:48:28: hit mine rock 25
+10/21/2023 17:48:28: Suport time 0
+10/21/2023 17:48:43: hit mine rock 26
+10/21/2023 17:48:43: Suport time 0
+10/21/2023 17:48:43: hit mine rock 29
+10/21/2023 17:48:43: Suport time 0
+10/21/2023 17:48:45: hit mine rock 25
+10/21/2023 17:48:45: Suport time 0.4882813
+10/21/2023 17:48:45: hit mine rock 11
+10/21/2023 17:48:45: Suport time 0.4882813
+10/21/2023 17:48:45: hit mine rock 18
+10/21/2023 17:48:45: Suport time 0.4882813
+10/21/2023 17:48:47: hit mine rock 16
+10/21/2023 17:48:47: Suport time 0.4882813
+10/21/2023 17:48:47: hit mine rock 1
+10/21/2023 17:48:47: Suport time 0.4882813
+10/21/2023 17:48:47: hit mine rock 20
+10/21/2023 17:48:47: Suport time 0
+10/21/2023 17:48:47: hit mine rock 21
+10/21/2023 17:48:47: Suport time 0.4882813
+10/21/2023 17:48:49: hit mine rock 19
+10/21/2023 17:48:49: Suport time 0
+10/21/2023 17:48:49: hit mine rock 5
+10/21/2023 17:48:49: Suport time 0.4882813
+10/21/2023 17:48:50: Player -1518247414 wants to pickup WitheredBone(Clone)   im: 822577307
+10/21/2023 17:48:51: hit mine rock 7
+10/21/2023 17:48:51: Suport time 0.4882813
+10/21/2023 17:48:51: hit mine rock 27
+10/21/2023 17:48:51: Suport time 0.4882813
+10/21/2023 17:48:51: hit mine rock 22
+10/21/2023 17:48:51: Suport time 0.4882813
+10/21/2023 17:48:53: hit mine rock 0
+10/21/2023 17:48:53: Suport time 0.4882813
+10/21/2023 17:48:53: hit mine rock 24
+10/21/2023 17:48:53: Suport time 0
+10/21/2023 17:48:53: hit mine rock 19
+10/21/2023 17:48:53: Suport time 0.4882813
+10/21/2023 17:48:53: hit mine rock 15
+10/21/2023 17:48:53: Suport time 0.4882813
+10/21/2023 17:48:53: hit mine rock 22
+10/21/2023 17:48:53: Suport time 0.4882813
+10/21/2023 17:48:56: hit mine rock 13
+10/21/2023 17:48:56: Suport time 0.4882813
+10/21/2023 17:48:56: hit mine rock 8
+10/21/2023 17:48:56: Suport time 0
+10/21/2023 17:48:58: hit mine rock 2
+10/21/2023 17:48:58: Suport time 0
+10/21/2023 17:48:58: hit mine rock 4
+10/21/2023 17:48:58: Suport time 0.4882813
+10/21/2023 17:48:58: Player -1518247414 wants to pickup WitheredBone(Clone)   im: 822577307
+10/21/2023 17:48:58: Player -1518247414 wants to pickup WitheredBone(Clone)   im: 822577307
+10/21/2023 17:48:58: Player -1518247414 wants to pickup WitheredBone(Clone)   im: 822577307
+10/21/2023 17:48:58:   but they are already the owner
+10/21/2023 17:48:59: Player -1518247414 wants to pickup WitheredBone(Clone)   im: 822577307
+10/21/2023 17:48:59: Player -1518247414 wants to pickup WitheredBone(Clone)   im: 822577307
+10/21/2023 17:49:00: Player -1518247414 wants to pickup WitheredBone(Clone)   im: 822577307
+10/21/2023 17:49:00: hit mine rock 4
+10/21/2023 17:49:00: Suport time 0.4882813
+10/21/2023 17:49:00: hit mine rock 27
+10/21/2023 17:49:00: Suport time 0
+10/21/2023 17:49:00: hit mine rock 12
+10/21/2023 17:49:00: Suport time 0.4882813
+10/21/2023 17:49:00: hit mine rock 12
+10/21/2023 17:49:00: Suport time 0.4882813
+10/21/2023 17:49:02: hit mine rock 0
+10/21/2023 17:49:02: Suport time 0.4882813
+10/21/2023 17:49:02: hit mine rock 5
+10/21/2023 17:49:02: Suport time 0.4882813
+10/21/2023 17:49:05: hit mine rock 24
+10/21/2023 17:49:05: Suport time 0
+10/21/2023 17:49:05: hit mine rock 20
+10/21/2023 17:49:05: Suport time 0.4882813
+10/21/2023 17:49:05: hit mine rock 14
+10/21/2023 17:49:05: Suport time 0
+10/21/2023 17:49:05: hit mine rock 10
+10/21/2023 17:49:05: Suport time 0
+10/21/2023 17:49:07: hit mine rock 13
+10/21/2023 17:49:07: Suport time 0.4882813
+10/21/2023 17:49:07: hit mine rock 14
+10/21/2023 17:49:07: Suport time 0
+10/21/2023 17:49:09: hit mine rock 2
+10/21/2023 17:49:09: Suport time 0.4882813
+10/21/2023 17:49:09: hit mine rock 1
+10/21/2023 17:49:09: Suport time 0.4882813
+10/21/2023 17:49:09: hit mine rock 26
+10/21/2023 17:49:09: Suport time 0.4882813
+10/21/2023 17:49:11: hit mine rock 7
+10/21/2023 17:49:11: Suport time 0
+10/21/2023 17:49:11: hit mine rock 15
+10/21/2023 17:49:11: Suport time 0
+10/21/2023 17:49:11: hit mine rock 17
+10/21/2023 17:49:11: Suport time 0
+10/21/2023 17:49:21: hit mine rock 25
+10/21/2023 17:49:21: Suport time 0
+10/21/2023 17:49:21: hit mine rock 11
+10/21/2023 17:49:21: Suport time 0
+10/21/2023 17:49:21: hit mine rock 29
+10/21/2023 17:49:21: Suport time 0
+10/21/2023 17:49:21: hit mine rock 8
+10/21/2023 17:49:21: Suport time 0
+10/21/2023 17:49:33: Player -1518247414 wants to pickup IronScrap(Clone)   im: 822577307
+10/21/2023 17:49:33: Player -1518247414 wants to pickup IronScrap(Clone)   im: 822577307
+10/21/2023 17:49:48: Setting selected recipe 0
+10/21/2023 17:49:51: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:49:52: Player -1518247414 wants to pickup Ruby(Clone)   im: 822577307
+10/21/2023 17:49:58: drop all 3  3
+10/21/2023 17:49:59: Player -1518247414 wants to pickup Ooze(Clone)   im: 822577307
+10/21/2023 17:50:27: Setting forced environment 
+10/21/2023 17:50:27: Starting music swamp
+10/21/2023 17:50:53: Spawned Fish6 x 3
+10/21/2023 17:50:59: Setting selected recipe 0
+10/21/2023 17:51:21: Force generating hmap (0.0, 0.0, 2688.0)
+10/21/2023 17:51:21: Force generating hmap (128.0, 0.0, 2688.0)
+10/21/2023 17:51:21: Loading dungeon
+10/21/2023 17:51:21: Dungeon loaded with 26 rooms in 20.0166 ms.
+10/21/2023 17:51:21: Loading dungeon
+10/21/2023 17:51:21: Dungeon loaded with 15 rooms in 10.5148 ms.
+10/21/2023 17:51:26: Force generating hmap (128.0, 0.0, 2688.0)
+10/21/2023 17:51:26: Loading dungeon
+10/21/2023 17:51:26: Dungeon loaded with 26 rooms in 18.5208 ms.
+10/21/2023 17:51:26: Loading dungeon
+10/21/2023 17:51:26: Dungeon loaded with 40 rooms in 19.5211 ms.
+10/21/2023 17:51:33: Force generating hmap (128.0, 0.0, 2688.0)
+10/21/2023 17:51:33: Loading dungeon
+10/21/2023 17:51:33: Dungeon loaded with 26 rooms in 19.0163 ms.
+10/21/2023 17:51:33: Loading dungeon
+10/21/2023 17:51:33: Dungeon loaded with 40 rooms in 19.9463 ms.
+10/21/2023 17:52:07: Loading dungeon
+10/21/2023 17:52:07: Dungeon loaded with 23 rooms in 13.0111 ms.
+10/21/2023 17:52:10: Stopped music swamp at 4537478
+10/21/2023 17:52:10: Starting music blackforest
+10/21/2023 17:52:29: Spawned Deer x 1
+10/21/2023 17:52:41: Spawned Deer x 1
+10/21/2023 17:52:45: Teleportation TRIGGER
+10/21/2023 17:53:05: Disabling PlayerBase  character_trigger
+10/21/2023 17:53:10: Player -1518247414 wants to pickup Resin(Clone)   im: 822577307
+10/21/2023 17:53:10: Setting selected recipe 0
+10/21/2023 17:53:23: Starting music evening
+10/21/2023 17:53:24: Stopped music blackforest at 3253286
+10/21/2023 17:53:29: Spawned FireFlies x 1
+10/21/2023 17:53:30: Player -1518247414 wants to pickup PineCone(Clone)   im: 822577307
+10/21/2023 17:53:30: Player -1518247414 wants to pickup PineCone(Clone)   im: 822577307
+10/21/2023 17:53:34: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:53:44: Player -1518247414 wants to pickup RoundLog(Clone)   im: 822577307
+10/21/2023 17:53:44: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:53:44: Player -1518247414 wants to pickup RoundLog(Clone)   im: 822577307
+10/21/2023 17:53:44: Player -1518247414 wants to pickup RoundLog(Clone)   im: 822577307
+10/21/2023 17:53:44: Player -1518247414 wants to pickup RoundLog(Clone)   im: 822577307
+10/21/2023 17:53:44: Player -1518247414 wants to pickup RoundLog(Clone)   im: 822577307
+10/21/2023 17:53:44: Player -1518247414 wants to pickup RoundLog(Clone)   im: 822577307
+10/21/2023 17:53:44: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:53:44: Player -1518247414 wants to pickup RoundLog(Clone)   im: 822577307
+10/21/2023 17:53:45: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:53:45: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:53:45: Player -1518247414 wants to pickup RoundLog(Clone)   im: 822577307
+10/21/2023 17:53:45: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:53:45: Player -1518247414 wants to pickup RoundLog(Clone)   im: 822577307
+10/21/2023 17:53:45: Spawned Greydwarf x 1
+10/21/2023 17:53:45: Spawned Greydwarf_Shaman x 1
+10/21/2023 17:53:48: Setting selected recipe 0
+10/21/2023 17:53:51: drop all 30  30
+10/21/2023 17:53:52: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:53:52: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:53:53: Spawned FireFlies x 1
+10/21/2023 17:53:54: drop all 9  9
+10/21/2023 17:54:10: Starting music blackforest
+10/21/2023 17:54:10: Resumed music blackforest at 3253286
+10/21/2023 17:54:15: Player -1518247414 wants to pickup Stone(Clone)   im: 822577307
+10/21/2023 17:54:15: Player -1518247414 wants to pickup GreydwarfEye(Clone)   im: 822577307
+10/21/2023 17:54:15: Player -1518247414 wants to pickup Resin(Clone)   im: 822577307
+10/21/2023 17:54:15: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:54:18: Player -1518247414 wants to pickup Pukeberries(Clone)   im: 822577307
+10/21/2023 17:54:18: Player -1518247414 wants to pickup Resin(Clone)   im: 822577307
+10/21/2023 17:54:20: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 17:54:25: Poison damage: 170.1045 ttl:14.04241 hits:14 dmg perhit:12.15032
+10/21/2023 17:54:27: Poison damage: 44.71464 ttl:7.686901 hits:7 dmg perhit:6.387805
+10/21/2023 17:54:37: Disabling PlayerBase  character_trigger
+10/21/2023 17:54:40: Disabling PlayerBase  character_trigger
+10/21/2023 17:54:41: Spawned FireFlies x 1
+10/21/2023 17:54:41: Setting selected recipe 3
+10/21/2023 17:54:49: Spawned Greydwarf x 3
+10/21/2023 17:54:50: Poison damage: 55.4071 ttl:17.64438 hits:17 dmg perhit:3.259241
+10/21/2023 17:54:51: Player -1518247414 wants to pickup Ooze(Clone)   im: 822577307
+10/21/2023 17:54:51: Player -1518247414 wants to pickup Ooze(Clone)   im: 822577307
+10/21/2023 17:54:51:   but they are already the owner
+10/21/2023 17:54:58: Setting selected recipe 3
+10/21/2023 17:55:05: Setting selected recipe 3
+10/21/2023 17:55:05: Spawned FireFlies x 1
+10/21/2023 17:55:11: Disabling PlayerBase  character_trigger
+10/21/2023 17:55:16: Placed piece_workbench
+10/21/2023 17:55:16: Disabling PlayerBase  character_trigger
+10/21/2023 17:55:17: Setting selected recipe 0
+10/21/2023 17:55:30: Loading dungeon
+10/21/2023 17:55:30: Dungeon loaded with 28 rooms in 23.0193 ms.
+10/21/2023 17:55:33: Spawned Greydwarf x 3
+10/21/2023 17:55:33: Spawned Greydwarf x 1
+10/21/2023 17:55:33: Spawned Greydwarf_Elite x 1
+10/21/2023 17:55:33: Spawned Greydwarf_Shaman x 1
+10/21/2023 17:55:33: Spawned FireFlies x 1
+10/21/2023 17:55:39: Loading dungeon
+10/21/2023 17:55:39: Dungeon loaded with 28 rooms in 22.5233 ms.
+10/21/2023 17:55:45: Loading dungeon
+10/21/2023 17:55:45: Dungeon loaded with 28 rooms in 22.0207 ms.
+10/21/2023 17:55:53: Spawned Greydwarf x 1
+10/21/2023 17:55:53: Spawned Greydwarf_Shaman x 1
+10/21/2023 17:55:57: Spawned FireFlies x 1
+10/21/2023 17:56:02: Starting respawn
+10/21/2023 17:56:02: Local player destroyed
+10/21/2023 17:56:02: tip:$loadscreen_tip02
+10/21/2023 17:56:05: Force generating hmap (-256.0, 0.0, 448.0)
+10/21/2023 17:56:05: Force generating hmap (-320.0, 0.0, 448.0)
+10/21/2023 17:56:05: Force generating hmap (-320.0, 0.0, 512.0)
+10/21/2023 17:56:05: Force generating hmap (-256.0, 0.0, 512.0)
+10/21/2023 17:56:06: Force generating hmap (-192.0, 0.0, 320.0)
+10/21/2023 17:56:06: Force generating hmap (-128.0, 0.0, 320.0)
+10/21/2023 17:56:06: Force generating hmap (-128.0, 0.0, 576.0)
+10/21/2023 17:56:10: Found bed at custom spawn point
+10/21/2023 17:56:10: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2587 unused Assets to reduce memory usage. Loaded Objects now: 2041579.
+Total: 675.280300 ms (FindLiveObjects: 105.030700 ms CreateObjectMapping: 28.392700 ms MarkObjects: 533.823400 ms  DeleteObjects: 8.033300 ms)
+
+10/21/2023 17:56:12: Stopped music blackforest at 8632780
+10/21/2023 17:56:12: Starting music home
+10/21/2023 17:56:16: Spawned Greydwarf_Shaman x 1
+10/21/2023 17:56:30: Stopped music home at 781804
+10/21/2023 17:56:30: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:56:30: Setting selected recipe 0
+10/21/2023 17:56:41: Starting music home
+10/21/2023 17:56:41: Resumed music home at 781804
+10/21/2023 17:57:04: Teleportation TRIGGER
+10/21/2023 17:57:04: Teleporting Terry
+10/21/2023 17:57:10: Loading dungeon
+10/21/2023 17:57:10: Dungeon loaded with 23 rooms in 12.0103 ms.
+10/21/2023 17:57:10: Loading dungeon
+10/21/2023 17:57:10: Dungeon loaded with 30 rooms in 11.0094 ms.
+10/21/2023 17:57:15: Stopped music home at 1493049
+10/21/2023 17:57:15: Starting music blackforest
+10/21/2023 17:57:15: Resumed music blackforest at 8632780
+10/21/2023 17:57:16: Teleportation TRIGGER
+10/21/2023 17:57:22: Setting selected recipe 0
+10/21/2023 17:57:29: drop all 30  30
+10/21/2023 17:57:41: Loading dungeon
+10/21/2023 17:57:41: Dungeon loaded with 28 rooms in 24.0226 ms.
+10/21/2023 17:57:44: Grave should fit in inventory, loot all
+10/21/2023 17:57:49: Setting selected recipe 2
+10/21/2023 17:57:51: Player -1518247414 wants to pickup IronScrap(Clone)   im: 822577307
+10/21/2023 17:58:35: Update PlayFab entity token
+10/21/2023 17:58:38: Setting selected recipe 0
+10/21/2023 17:58:43: Setting selected recipe 0
+10/21/2023 17:58:47: Disabling PlayerBase  character_trigger
+10/21/2023 17:58:50: Disabling PlayerBase  character_trigger
+10/21/2023 17:58:59: Placed piece_chest_wood
+10/21/2023 17:59:02: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:59:02: Setting selected recipe 0
+10/21/2023 17:59:24: Spawned FireFlies x 1
+10/21/2023 17:59:30: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 17:59:30: Setting selected recipe 0
+10/21/2023 17:59:32: Button pressed StackAll  frame:646805
+10/21/2023 17:59:37: Teleportation TRIGGER
+10/21/2023 17:59:37: Teleporting Terry
+10/21/2023 17:59:43: Force generating hmap (-256.0, 0.0, 448.0)
+10/21/2023 17:59:43: Force generating hmap (-320.0, 0.0, 448.0)
+10/21/2023 17:59:43: Force generating hmap (-320.0, 0.0, 512.0)
+10/21/2023 17:59:43: Force generating hmap (-256.0, 0.0, 512.0)
+10/21/2023 17:59:43: Force generating hmap (-128.0, 0.0, 576.0)
+10/21/2023 17:59:50: Stopped music blackforest at 6404386
+10/21/2023 17:59:50: Starting music home
+10/21/2023 17:59:50: Resumed music home at 1493049
+10/21/2023 18:00:01: Setting selected recipe 1
+10/21/2023 18:00:02: Button pressed RepairButton  frame:649507
+10/21/2023 18:00:02: Button pressed RepairButton  frame:649529
+10/21/2023 18:00:02: Button pressed RepairButton  frame:649550
+10/21/2023 18:00:03: Button pressed RepairButton  frame:649568
+10/21/2023 18:00:03: Button pressed RepairButton  frame:649586
+10/21/2023 18:00:03: Button pressed RepairButton  frame:649603
+10/21/2023 18:00:07: Setting selected recipe 0
+10/21/2023 18:00:07: Button pressed RepairButton  frame:649964
+10/21/2023 18:00:08: Button pressed RepairButton  frame:649984
+10/21/2023 18:00:08: Button pressed RepairButton  frame:650000
+10/21/2023 18:00:08: Button pressed RepairButton  frame:650018
+10/21/2023 18:00:22: Is mine
+10/21/2023 18:00:22: is current spawnpoint
+10/21/2023 18:00:22: exporeusre check 1  True
+10/21/2023 18:00:22: Ignoring 2 colliders
+10/21/2023 18:00:22: Time 1047750.39993294, day:581    nextm:1047870.00001073  skipspeed:9.96667314941684
+10/21/2023 18:00:27: Skipping unloading unused assets
+10/21/2023 18:00:35: Uncompressed size 8394189
+10/21/2023 18:00:35: Compressed size 17090
+10/21/2023 18:00:35: Considering autobackup. World time: 5476, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 18:00:35: No autobackup needed yet...
+10/21/2023 18:00:35: PrepareSave: clone done in 27ms
+10/21/2023 18:00:35: PrepareSave: ZDOExtraData.PrepareSave done in 57 ms
+10/21/2023 18:00:35: World save writing starting
+10/21/2023 18:00:35: World save writing started
+10/21/2023 18:00:36: Saved 420734 ZDOs
+10/21/2023 18:00:36: World save writing finishing
+10/21/2023 18:00:36: World save writing finished
+10/21/2023 18:00:36: World saved ( 887.2292ms )
+10/21/2023 18:00:36: Considering autobackup. World time: 5477.08, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 18:00:36: No autobackup needed yet...
+10/21/2023 18:00:39: Starting music morning
+10/21/2023 18:00:40: Stopped music home at 2203353
+10/21/2023 18:00:48: Setting selected recipe 0
+10/21/2023 18:00:49: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:00:53: Setting selected recipe 0
+10/21/2023 18:01:09: Setting selected recipe 0
+10/21/2023 18:01:10: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:01:14: Starting music meadows
+10/21/2023 18:01:19: Setting selected recipe 0
+10/21/2023 18:01:23: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:01:23: Setting selected recipe 0
+10/21/2023 18:01:24: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:01:25: Setting selected recipe 0
+10/21/2023 18:01:27: Setting selected recipe 0
+10/21/2023 18:01:32: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:01:32: Setting selected recipe 0
+10/21/2023 18:01:34: Activating default element Slider
+10/21/2023 18:01:36: Button pressed Button_ok  frame:656633
+10/21/2023 18:01:39: Added to stack48 5
+10/21/2023 18:01:39: Setting selected recipe 0
+10/21/2023 18:01:52: Disabling OnboardTrigger  character_trigger
+10/21/2023 18:01:52: Disabling FloatCollider  Ignore Raycast
+10/21/2023 18:01:55: Stopped music meadows at 1814803
+10/21/2023 18:01:55: Starting music home
+10/21/2023 18:01:55: Resumed music home at 2203353
+10/21/2023 18:02:02: Setting selected recipe 0
+10/21/2023 18:02:07: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:02:07: Setting selected recipe 0
+10/21/2023 18:02:08: Stopped music home at 558835
+10/21/2023 18:02:08: Starting music meadows
+10/21/2023 18:02:08: Resumed music meadows at 1814803
+10/21/2023 18:02:15: Setting selected recipe 0
+10/21/2023 18:02:18: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:02:18: Setting selected recipe 0
+10/21/2023 18:02:21: Activating default element Slider
+10/21/2023 18:02:25: Button pressed Button_ok  frame:659451
+10/21/2023 18:02:27: Setting selected recipe 0
+10/21/2023 18:02:30: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:02:30: Setting selected recipe 0
+10/21/2023 18:02:33: Activating default element Slider
+10/21/2023 18:02:36: Button pressed Button_ok  frame:660154
+10/21/2023 18:02:38: Added to stack34 43
+10/21/2023 18:02:38: Setting selected recipe 0
+10/21/2023 18:02:41: Teleportation TRIGGER
+10/21/2023 18:02:41: Teleporting Terry
+10/21/2023 18:02:46: Skipping unloading unused assets
+10/21/2023 18:02:46: Loading dungeon
+10/21/2023 18:02:46: Dungeon loaded with 23 rooms in 12.0009 ms.
+10/21/2023 18:02:46: Loading dungeon
+10/21/2023 18:02:46: Dungeon loaded with 30 rooms in 10.0083 ms.
+10/21/2023 18:02:49: Stopped music meadows at 1849612
+10/21/2023 18:02:49: Starting music blackforest
+10/21/2023 18:02:49: Resumed music blackforest at 6404386
+10/21/2023 18:03:08: Setting selected recipe 0
+10/21/2023 18:03:10: Setting selected recipe 0
+10/21/2023 18:03:13: Setting selected recipe 0
+10/21/2023 18:03:16: drop all 34  34
+10/21/2023 18:03:16: Player -1518247414 wants to pickup FineWood(Clone)   im: 822577307
+10/21/2023 18:03:18: drop all 34  34
+10/21/2023 18:03:18: Player -1518247414 wants to pickup Resin(Clone)   im: 822577307
+10/21/2023 18:03:23: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:03:23: Setting selected recipe 0
+10/21/2023 18:03:25: Player onboard, total onboard 1
+10/21/2023 18:03:26: Player over board, players left 0
+10/21/2023 18:03:28: Player onboard, total onboard 1
+10/21/2023 18:03:28: Player over board, players left 0
+10/21/2023 18:03:28: Player onboard, total onboard 1
+10/21/2023 18:03:32: Player over board, players left 0
+10/21/2023 18:03:39: Player onboard, total onboard 1
+10/21/2023 18:03:39: Player over board, players left 0
+10/21/2023 18:03:40: Player onboard, total onboard 1
+10/21/2023 18:03:42: Player over board, players left 0
+10/21/2023 18:03:44: Player onboard, total onboard 1
+10/21/2023 18:03:50: Player over board, players left 0
+10/21/2023 18:03:54: Player onboard, total onboard 1
+10/21/2023 18:03:55: Player over board, players left 0
+10/21/2023 18:03:57: Player onboard, total onboard 1
+10/21/2023 18:03:58: Player over board, players left 0
+10/21/2023 18:03:59: Player onboard, total onboard 1
+10/21/2023 18:04:00: Player onboard, total onboard 2
+10/21/2023 18:04:01: Setting selected recipe 0
+10/21/2023 18:04:04: drop all 30  30
+10/21/2023 18:04:04: Player -1518247414 wants to pickup IronScrap(Clone)   im: 822577307
+10/21/2023 18:04:11: Player 822577307 wants to open piece_chest   im: 822577307
+10/21/2023 18:04:11: Setting selected recipe 0
+10/21/2023 18:04:18: Player over board, players left 1
+10/21/2023 18:04:19: Player over board, players left 0
+10/21/2023 18:04:19: Player onboard, total onboard 1
+10/21/2023 18:04:20: Player onboard, total onboard 2
+10/21/2023 18:04:23: Player over board, players left 1
+10/21/2023 18:04:24: Player onboard, total onboard 2
+10/21/2023 18:04:26: Player over board, players left 1
+10/21/2023 18:04:27: Changing ship owner to -1518247414
+10/21/2023 18:04:27: Player over board, players left 0
+10/21/2023 18:04:30: Setting selected recipe 0
+10/21/2023 18:04:32: Player onboard, total onboard 1
+10/21/2023 18:04:32: Player onboard, total onboard 2
+10/21/2023 18:04:35: Setting selected recipe 0
+10/21/2023 18:05:20: Starting music sailing
+10/21/2023 18:05:26: Stopped music blackforest at 4278540
+10/21/2023 18:05:33: Spawned Fish8 x 5
+10/21/2023 18:05:33: Spawned Fish12 x 1
+10/21/2023 18:05:33: Spawned Leech x 1
+10/21/2023 18:05:33: Spawned Leech x 1
+10/21/2023 18:05:33: Spawned Leech x 1
+10/21/2023 18:05:33: Spawned Leech x 1
+10/21/2023 18:05:34: Loading dungeon
+10/21/2023 18:05:34: Dungeon loaded with 28 rooms in 36.9879 ms.
+10/21/2023 18:05:54: Spawned Seagal x 1
+10/21/2023 18:06:20: Stopped music sailing at 2342591
+10/21/2023 18:06:20: Starting music blackforest
+10/21/2023 18:06:20: Resumed music blackforest at 4278540
+10/21/2023 18:07:03: Setting selected recipe 0
+10/21/2023 18:07:04: Disabling OnboardTrigger  character_trigger
+10/21/2023 18:07:04: Disabling FloatCollider  Ignore Raycast
+10/21/2023 18:07:07: Disabling Container  item
+10/21/2023 18:07:11: Setting selected recipe 0
+10/21/2023 18:07:22: Starting music sailing
+10/21/2023 18:07:25: Loading dungeon
+10/21/2023 18:07:25: Dungeon loaded with 28 rooms in 22.0209 ms.
+10/21/2023 18:07:28: Stopped music blackforest at 7290981
+10/21/2023 18:07:28: Resumed music sailing at 2342591
+10/21/2023 18:07:41: Spawned Seagal x 1
+10/21/2023 18:07:56: Loading dungeon
+10/21/2023 18:07:56: Dungeon loaded with 23 rooms in 13.0108 ms.
+10/21/2023 18:07:56: Loading dungeon
+10/21/2023 18:07:56: Dungeon loaded with 30 rooms in 11.0093 ms.
+10/21/2023 18:07:56: Player over board, players left 1
+10/21/2023 18:07:59: Player onboard, total onboard 2
+10/21/2023 18:08:00: Player over board, players left 1
+10/21/2023 18:08:01: Changing ship owner to -1518247414
+10/21/2023 18:08:03: Stopped music sailing at 3897733
+10/21/2023 18:08:03: Starting music blackforest
+10/21/2023 18:08:03: Resumed music blackforest at 7290981
+10/21/2023 18:08:03: Teleportation TRIGGER
+10/21/2023 18:08:03: Teleporting Terry
+10/21/2023 18:08:09: Force generating hmap (-256.0, 0.0, 448.0)
+10/21/2023 18:08:09: Force generating hmap (-320.0, 0.0, 448.0)
+10/21/2023 18:08:09: Force generating hmap (-320.0, 0.0, 512.0)
+10/21/2023 18:08:09: Force generating hmap (-256.0, 0.0, 512.0)
+10/21/2023 18:08:09: Force generating hmap (-128.0, 0.0, 576.0)
+10/21/2023 18:08:12: Stopped music blackforest at 7669182
+10/21/2023 18:08:12: Starting music home
+10/21/2023 18:08:12: Resumed music home at 558835
+10/21/2023 18:08:18: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:08:18: Setting selected recipe 0
+10/21/2023 18:08:19: Stopped music home at 336806
+10/21/2023 18:08:19: Starting music meadows
+10/21/2023 18:08:19: Resumed music meadows at 1849612
+10/21/2023 18:08:28: Setting selected recipe 0
+10/21/2023 18:08:33: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:08:33: Setting selected recipe 0
+10/21/2023 18:08:41: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:08:41: Setting selected recipe 0
+10/21/2023 18:08:43: Setting selected recipe 0
+10/21/2023 18:08:46: Button pressed CraftButton  frame:702183
+10/21/2023 18:08:48: Setting selected recipe 0
+10/21/2023 18:08:49: Stopped music meadows at 1301126
+10/21/2023 18:08:49: Starting music home
+10/21/2023 18:08:49: Resumed music home at 336806
+10/21/2023 18:08:56: Stopped music home at 317049
+10/21/2023 18:08:56: Starting music meadows
+10/21/2023 18:08:56: Resumed music meadows at 1301126
+10/21/2023 18:08:58: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:08:58: Setting selected recipe 0
+10/21/2023 18:08:58: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:09:01: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:09:01: Setting selected recipe 0
+10/21/2023 18:09:08: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:09:08: Setting selected recipe 0
+10/21/2023 18:09:10: Activating default element Slider
+10/21/2023 18:09:12: Button pressed Button_ok  frame:704004
+10/21/2023 18:09:13: Setting selected recipe 0
+10/21/2023 18:09:15: Disabling Container  item
+10/21/2023 18:09:17: Setting selected recipe 0
+10/21/2023 18:09:21: Disabling Container  item
+10/21/2023 18:09:24: Setting selected recipe 0
+10/21/2023 18:09:29: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:09:29: Setting selected recipe 0
+10/21/2023 18:09:35: Teleportation TRIGGER
+10/21/2023 18:09:35: Teleporting Terry
+10/21/2023 18:09:40: Loading dungeon
+10/21/2023 18:09:40: Dungeon loaded with 23 rooms in 11.0168 ms.
+10/21/2023 18:09:40: Loading dungeon
+10/21/2023 18:09:40: Dungeon loaded with 30 rooms in 10.0027 ms.
+10/21/2023 18:09:40: Player onboard, total onboard 1
+10/21/2023 18:09:43: Stopped music meadows at 2061292
+10/21/2023 18:09:43: Starting music blackforest
+10/21/2023 18:09:43: Resumed music blackforest at 7669182
+10/21/2023 18:09:49: Disabling Container  item
+10/21/2023 18:09:58: Player onboard, total onboard 2
+10/21/2023 18:10:02: Player over board, players left 1
+10/21/2023 18:10:03: Player onboard, total onboard 2
+10/21/2023 18:10:04: Player over board, players left 1
+10/21/2023 18:10:06: Player onboard, total onboard 2
+10/21/2023 18:10:56: Loading dungeon
+10/21/2023 18:10:56: Dungeon loaded with 23 rooms in 12.0103 ms.
+10/21/2023 18:10:56: Loading dungeon
+10/21/2023 18:10:56: Dungeon loaded with 30 rooms in 11.0092 ms.
+10/21/2023 18:10:57: Starting music sailing
+10/21/2023 18:11:03: Stopped music blackforest at 2158337
+10/21/2023 18:11:03: Resumed music sailing at 3897733
+10/21/2023 18:11:04: Stopped music sailing at 3936305
+10/21/2023 18:11:04: Starting music blackforest
+10/21/2023 18:11:04: Resumed music blackforest at 2158337
+10/21/2023 18:11:07: Loading dungeon
+10/21/2023 18:11:07: Dungeon loaded with 28 rooms in 22.0188 ms.
+10/21/2023 18:11:19: Loading dungeon
+10/21/2023 18:11:19: Dungeon loaded with 28 rooms in 21.0181 ms.
+10/21/2023 18:11:24: Starting music sailing
+10/21/2023 18:11:26: Spawned Greydwarf x 2
+10/21/2023 18:11:30: Stopped music blackforest at 3300468
+10/21/2023 18:11:30: Resumed music sailing at 3936305
+10/21/2023 18:11:53: Loading dungeon
+10/21/2023 18:11:53: Dungeon loaded with 28 rooms in 21.0178 ms.
+10/21/2023 18:15:06: Spawned Greyling x 1
+10/21/2023 18:15:09: Placed locations in zone 4,29  duration 1.0009 ms
+10/21/2023 18:15:10: Placed locations in zone 4,31  duration 1.0014 ms
+10/21/2023 18:15:10: Loading dungeon
+10/21/2023 18:15:10: Dungeon loaded with 12 rooms in 34.0285 ms.
+10/21/2023 18:15:20: Loading dungeon
+10/21/2023 18:15:20: Dungeon loaded with 31 rooms in 20.0165 ms.
+10/21/2023 18:15:20: Loading dungeon
+10/21/2023 18:15:20: Dungeon loaded with 38 rooms in 21.0178 ms.
+10/21/2023 18:15:23: Spawned Deer x 1
+10/21/2023 18:15:35: Spawned Neck x 2
+10/21/2023 18:15:35: Spawned Greydwarf x 2
+10/21/2023 18:15:35: Spawned Greydwarf x 1
+10/21/2023 18:15:43: Spawned Boar x 2
+10/21/2023 18:15:50: Spawned Boar x 1
+10/21/2023 18:16:15: Spawned Seagal x 1
+10/21/2023 18:16:34: Loading dungeon
+10/21/2023 18:16:34: Dungeon loaded with 37 rooms in 19.0159 ms.
+10/21/2023 18:16:36: Update PlayFab entity token
+10/21/2023 18:17:06: Stopped music sailing at 6678112
+10/21/2023 18:17:06: Starting music meadows
+10/21/2023 18:17:18: Starting music sailing
+10/21/2023 18:17:24: Stopped music meadows at 792153
+10/21/2023 18:17:24: Resumed music sailing at 6678112
+10/21/2023 18:18:58: Stopped music sailing at 10817631
+10/21/2023 18:18:58: Starting music meadows
+10/21/2023 18:18:58: Resumed music meadows at 792153
+10/21/2023 18:19:10: Player over board, players left 1
+10/21/2023 18:19:15: Loading dungeon
+10/21/2023 18:19:15: Dungeon loaded with 32 rooms in 18.0154 ms.
+10/21/2023 18:19:15: Loading dungeon
+10/21/2023 18:19:15: Dungeon loaded with 17 rooms from old format in 11.0089 ms.
+10/21/2023 18:19:16: Player over board, players left 0
+10/21/2023 18:19:22: Disabling Container  item
+10/21/2023 18:19:23: Disabling PlayerBase  character_trigger
+10/21/2023 18:19:25: Placed piece_workbench
+10/21/2023 18:19:25: Disabling PlayerBase  character_trigger
+10/21/2023 18:19:25: Setting selected recipe 0
+10/21/2023 18:19:28: Disabling PlayerBase  character_trigger
+10/21/2023 18:19:29: Disabling Capsule_blockplayer  blocker
+10/21/2023 18:19:30: Disabling collider_block  blocker
+10/21/2023 18:19:30: Disabling PlayerBase  character_trigger
+10/21/2023 18:19:31: Disabling Container  item
+10/21/2023 18:19:36: Placed Cart
+10/21/2023 18:19:36: Disabling Container  item
+10/21/2023 18:19:36: Disabling Container  item
+10/21/2023 18:19:41: Loading dungeon
+10/21/2023 18:19:41: Dungeon loaded with 40 rooms from old format in 24.0203 ms.
+10/21/2023 18:19:42: Player -1518247414 wants to open Container   im: 822577307
+10/21/2023 18:19:45: Player onboard, total onboard 1
+10/21/2023 18:19:47: Player 822577307 wants to open piece_chest   im: 822577307
+10/21/2023 18:19:47: Setting selected recipe 0
+10/21/2023 18:19:54: Disabling Container  item
+10/21/2023 18:19:57: Disabling PlayerBase  character_trigger
+10/21/2023 18:19:57: Disabling Container  item
+10/21/2023 18:19:57: Disabling OnboardTrigger  character_trigger
+10/21/2023 18:19:57: Disabling FloatCollider  Ignore Raycast
+10/21/2023 18:20:00: Player over board, players left 0
+10/21/2023 18:20:12: Setting selected recipe 0
+10/21/2023 18:20:13: Button pressed StackAll  frame:781876
+10/21/2023 18:20:31: Loading dungeon
+10/21/2023 18:20:31: Dungeon loaded with 40 rooms from old format in 25.0214 ms.
+10/21/2023 18:20:32: Loading dungeon
+10/21/2023 18:20:32: Dungeon loaded with 40 rooms from old format in 24.0205 ms.
+10/21/2023 18:20:42: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 18:20:42: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 18:21:02: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 18:21:02: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 18:21:15: Stopped music meadows at 6858431
+10/21/2023 18:21:15: Starting music blackforest
+10/21/2023 18:21:21: Loading dungeon
+10/21/2023 18:21:21: Dungeon loaded with 26 rooms in 13.0076 ms.
+10/21/2023 18:21:35: Starting music evening
+10/21/2023 18:21:36: Stopped music blackforest at 903167
+10/21/2023 18:21:44: Setting selected recipe 1
+10/21/2023 18:21:55: Spawned Greydwarf x 2
+10/21/2023 18:21:55: Spawned Greydwarf_Elite x 1
+10/21/2023 18:21:55: Spawned Greydwarf_Shaman x 1
+10/21/2023 18:21:55: Spawned FireFlies x 1
+10/21/2023 18:21:55: Spawned FireFlies x 1
+10/21/2023 18:21:55: Spawned FireFlies x 1
+10/21/2023 18:21:55: Spawned FireFlies x 1
+10/21/2023 18:22:03: Loading dungeon
+10/21/2023 18:22:03: Dungeon loaded with 32 rooms in 17.0143 ms.
+10/21/2023 18:22:03: Loading dungeon
+10/21/2023 18:22:03: Dungeon loaded with 27 rooms in 10.0082 ms.
+10/21/2023 18:22:22: Starting music blackforest
+10/21/2023 18:22:22: Resumed music blackforest at 903167
+10/21/2023 18:23:06: Placed wood_roof
+10/21/2023 18:23:11: Placed wood_roof
+10/21/2023 18:23:16: Placed wood_roof
+10/21/2023 18:23:19: Is mine
+10/21/2023 18:23:19: Not current spawn point
+10/21/2023 18:23:19: exporeusre check 1  True
+10/21/2023 18:23:19: Is mine
+10/21/2023 18:23:19: is current spawnpoint
+10/21/2023 18:23:19: exporeusre check 1  True
+10/21/2023 18:23:19: Ignoring 2 colliders
+10/21/2023 18:23:21: Time 1049237.07998017, day:582    nextm:1049670.00001073  skipspeed:36.0766692130516
+10/21/2023 18:23:23: Spawned Greydwarf_Elite x 1
+10/21/2023 18:23:23: Spawned Greydwarf_Shaman x 1
+10/21/2023 18:23:26: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4673 unused Assets to reduce memory usage. Loaded Objects now: 1981974.
+Total: 678.763300 ms (FindLiveObjects: 107.522800 ms CreateObjectMapping: 28.367100 ms MarkObjects: 531.711400 ms  DeleteObjects: 11.161400 ms)
+
+10/21/2023 18:23:29: Stopped music blackforest at 2936236
+10/21/2023 18:23:29: Starting music home
+10/21/2023 18:23:33: Uncompressed size 8394189
+10/21/2023 18:23:33: Compressed size 17110
+10/21/2023 18:23:33: Considering autobackup. World time: 6854, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 18:23:33: No autobackup needed yet...
+10/21/2023 18:23:33: PrepareSave: clone done in 45ms
+10/21/2023 18:23:33: PrepareSave: ZDOExtraData.PrepareSave done in 43 ms
+10/21/2023 18:23:33: World save writing starting
+10/21/2023 18:23:33: World save writing started
+10/21/2023 18:23:34: Saved 421962 ZDOs
+10/21/2023 18:23:34: World save writing finishing
+10/21/2023 18:23:34: World save writing finished
+10/21/2023 18:23:34: World saved ( 855.883ms )
+10/21/2023 18:23:34: Considering autobackup. World time: 6855.04, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 18:23:34: No autobackup needed yet...
+10/21/2023 18:23:36: Setting selected recipe 2
+10/21/2023 18:23:40: Starting music morning
+10/21/2023 18:23:41: Stopped music home at 538137
+10/21/2023 18:24:15: Starting music blackforest
+10/21/2023 18:24:15: Resumed music blackforest at 2936236
+10/21/2023 18:24:24: Loading dungeon
+10/21/2023 18:24:24: Dungeon loaded with 26 rooms from old format in 12.01 ms.
+10/21/2023 18:24:46: Loading dungeon
+10/21/2023 18:24:46: Dungeon loaded with 26 rooms in 13.0108 ms.
+10/21/2023 18:25:34: Setting selected recipe 2
+10/21/2023 18:26:37: Loading dungeon
+10/21/2023 18:26:37: Dungeon loaded with 32 rooms in 18.0149 ms.
+10/21/2023 18:26:37: Loading dungeon
+10/21/2023 18:26:37: Dungeon loaded with 27 rooms in 11.0098 ms.
+10/21/2023 18:26:59: Loading dungeon
+10/21/2023 18:26:59: Dungeon loaded with 19 rooms from old format in 8.007 ms.
+10/21/2023 18:27:26: Loading dungeon
+10/21/2023 18:27:26: Dungeon loaded with 32 rooms in 17.0246 ms.
+10/21/2023 18:27:26: Loading dungeon
+10/21/2023 18:27:26: Dungeon loaded with 19 rooms from old format in 7.0063 ms.
+10/21/2023 18:28:27: Loading dungeon
+10/21/2023 18:28:27: Dungeon loaded with 24 rooms from old format in 13.5149 ms.
+10/21/2023 18:28:41: Loading dungeon
+10/21/2023 18:28:41: Dungeon loaded with 24 rooms from old format in 14.5167 ms.
+10/21/2023 18:29:19: Skipping unloading unused assets
+10/21/2023 18:29:22: Force generating hmap (-128.0, 0.0, 576.0)
+10/21/2023 18:29:50: Loading dungeon
+10/21/2023 18:29:50: Dungeon loaded with 40 rooms from old format in 15.0146 ms.
+10/21/2023 18:30:25: Stopped music blackforest at 1201184
+10/21/2023 18:30:25: Starting music meadows
+10/21/2023 18:30:57: Activating default element Continue
+10/21/2023 18:32:11: Setting selected recipe 0
+10/21/2023 18:32:47: Stopped music meadows at 6234681
+10/21/2023 18:32:47: Starting music blackforest
+10/21/2023 18:32:47: Resumed music blackforest at 1201184
+10/21/2023 18:33:34: HIT Weakspot:WEAKSPOT_HEAD
+10/21/2023 18:34:01: Loading dungeon
+10/21/2023 18:34:01: Dungeon loaded with 33 rooms from old format in 21.0179 ms.
+10/21/2023 18:34:21: Setting selected recipe 0
+10/21/2023 18:34:41: Disabling PlayerBase  character_trigger
+10/21/2023 18:34:42: Disabling PlayerBase  character_trigger
+10/21/2023 18:34:42: Disabling PlayerBase  character_trigger
+10/21/2023 18:34:43: Disabling PlayerBase  character_trigger
+10/21/2023 18:34:59: Placed piece_workbench
+10/21/2023 18:34:59: Disabling PlayerBase  character_trigger
+10/21/2023 18:35:00: Setting selected recipe 0
+10/21/2023 18:35:06: Disabling PlayerBase  character_trigger
+10/21/2023 18:35:13: Placed piece_chest_wood
+10/21/2023 18:35:14: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:35:14: Setting selected recipe 0
+10/21/2023 18:35:37: Setting selected recipe 2
+10/21/2023 18:35:42: Setting selected recipe 2
+10/21/2023 18:35:44: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:35:44: Setting selected recipe 2
+10/21/2023 18:35:53: Update PlayFab entity token
+10/21/2023 18:35:53: Setting selected recipe 2
+10/21/2023 18:36:17: Spawned Troll x 1
+10/21/2023 18:37:00: Loading dungeon
+10/21/2023 18:37:00: Dungeon loaded with 33 rooms from old format in 21.0196 ms.
+10/21/2023 18:37:13: Im still nto the owner
+10/21/2023 18:37:13: Im still nto the owner
+10/21/2023 18:37:14: Im still nto the owner
+10/21/2023 18:37:14: Im still nto the owner
+10/21/2023 18:37:14: Im still nto the owner
+10/21/2023 18:37:14: Im finally the owner
+10/21/2023 18:37:18: Stopped music blackforest at 2891440
+10/21/2023 18:37:18: Starting music meadows
+10/21/2023 18:37:18: Resumed music meadows at 6234681
+10/21/2023 18:38:55: Setting selected recipe 2
+10/21/2023 18:39:01: Loading dungeon
+10/21/2023 18:39:01: Dungeon loaded with 40 rooms from old format in 15.013 ms.
+10/21/2023 18:39:21: Stopped music meadows at 1961636
+10/21/2023 18:39:21: Starting music meadows
+10/21/2023 18:39:21: Resumed music meadows at 1961636
+10/21/2023 18:39:28: Force generating hmap (-256.0, 0.0, 448.0)
+10/21/2023 18:39:28: Force generating hmap (-256.0, 0.0, 512.0)
+10/21/2023 18:39:28: Force generating hmap (-320.0, 0.0, 448.0)
+10/21/2023 18:39:28: Force generating hmap (-320.0, 0.0, 512.0)
+10/21/2023 18:39:51: Stopped music meadows at 1333113
+10/21/2023 18:39:51: Starting music meadows
+10/21/2023 18:39:51: Resumed music meadows at 1333113
+10/21/2023 18:40:30: Setting selected recipe 2
+10/21/2023 18:40:32: Player -1518247414 wants to open Container   im: 822577307
+10/21/2023 18:40:32:   in use
+10/21/2023 18:40:44: Setting selected recipe 0
+10/21/2023 18:40:44: Button pressed RepairButton  frame:906588
+10/21/2023 18:40:44: Button pressed RepairButton  frame:906604
+10/21/2023 18:40:45: Button pressed RepairButton  frame:906618
+10/21/2023 18:40:47: Setting selected recipe 0
+10/21/2023 18:40:47: Button pressed RepairButton  frame:906773
+10/21/2023 18:40:47: Button pressed RepairButton  frame:906791
+10/21/2023 18:40:48: Button pressed RepairButton  frame:906805
+10/21/2023 18:40:48: Button pressed RepairButton  frame:906820
+10/21/2023 18:40:48: Button pressed RepairButton  frame:906833
+10/21/2023 18:40:48: Button pressed RepairButton  frame:906861
+10/21/2023 18:40:49: Stopped music meadows at 2563679
+10/21/2023 18:40:49: Starting music home
+10/21/2023 18:40:54: Stopped music home at 193804
+10/21/2023 18:40:54: Starting music meadows
+10/21/2023 18:40:54: Resumed music meadows at 2563679
+10/21/2023 18:40:54: Setting selected recipe 0
+10/21/2023 18:40:56: Button pressed StackAll  frame:907436
+10/21/2023 18:41:00: Setting selected recipe 0
+10/21/2023 18:41:01: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:04: Setting selected recipe 0
+10/21/2023 18:41:04: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:09: Setting selected recipe 0
+10/21/2023 18:41:09: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:12: Setting selected recipe 0
+10/21/2023 18:41:12: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:15: Setting selected recipe 0
+10/21/2023 18:41:15: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:20: Setting selected recipe 0
+10/21/2023 18:41:20: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:24: Setting selected recipe 0
+10/21/2023 18:41:25: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:29: Setting selected recipe 0
+10/21/2023 18:41:30: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:34: Setting selected recipe 0
+10/21/2023 18:41:35: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:39: Setting selected recipe 0
+10/21/2023 18:41:39: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:44: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:44: Setting selected recipe 1
+10/21/2023 18:41:44: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:55: Setting selected recipe 1
+10/21/2023 18:41:56: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:56: Setting selected recipe 1
+10/21/2023 18:41:57: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:41:59: Stopped music meadows at 2861913
+10/21/2023 18:41:59: Starting music home
+10/21/2023 18:41:59: Resumed music home at 193804
+10/21/2023 18:42:52: Stopped music home at 2361407
+10/21/2023 18:42:52: Starting music meadows
+10/21/2023 18:42:52: Resumed music meadows at 2861913
+10/21/2023 18:43:30: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:43:30: Setting selected recipe 1
+10/21/2023 18:43:33: Setting selected recipe 1
+10/21/2023 18:43:38: Setting selected recipe 1
+10/21/2023 18:43:44: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:43:44: Setting selected recipe 1
+10/21/2023 18:43:49: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 18:43:58: Stopped music meadows at 2879788
+10/21/2023 18:43:58: Starting music home
+10/21/2023 18:43:58: Resumed music home at 2361407
+10/21/2023 18:44:00: Placed piece_banner08
+10/21/2023 18:44:02: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:44:03: Setting selected recipe 1
+10/21/2023 18:44:12: Setting selected recipe 16
+10/21/2023 18:44:13: Button pressed RepairButton  frame:920906
+10/21/2023 18:44:16: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 18:44:16:   but they are already the owner
+10/21/2023 18:44:16: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 18:44:19: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:44:19: Setting selected recipe 1
+10/21/2023 18:44:19: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:44:19: Stopped music home at 958675
+10/21/2023 18:44:19: Starting music meadows
+10/21/2023 18:44:19: Resumed music meadows at 2879788
+10/21/2023 18:44:28: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:44:28: Setting selected recipe 1
+10/21/2023 18:44:28: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:44:33: Setting selected recipe 1
+10/21/2023 18:44:34: Starting music evening
+10/21/2023 18:44:35: Stopped music meadows at 702777
+10/21/2023 18:44:37: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:44:37: Setting selected recipe 1
+10/21/2023 18:44:37: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:44:41: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:44:41: Setting selected recipe 1
+10/21/2023 18:44:41: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:44:52: Setting selected recipe 0
+10/21/2023 18:44:57: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:44:57: Setting selected recipe 0
+10/21/2023 18:44:58: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 18:44:58: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 18:45:13: Is mine
+10/21/2023 18:45:13: Not current spawn point
+10/21/2023 18:45:13: exporeusre check 1  True
+10/21/2023 18:45:21: Starting music home
+10/21/2023 18:45:21: Resumed music home at 958675
+10/21/2023 18:45:44: Is mine
+10/21/2023 18:45:44: is current spawnpoint
+10/21/2023 18:45:44: exporeusre check 1  True
+10/21/2023 18:45:44: Ignoring 2 colliders
+10/21/2023 18:45:45: Time 1051002.31998095, day:583    nextm:1051470.00001073  skipspeed:38.9733358149727
+10/21/2023 18:45:50: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2912 unused Assets to reduce memory usage. Loaded Objects now: 2044704.
+Total: 697.616600 ms (FindLiveObjects: 115.021100 ms CreateObjectMapping: 27.690100 ms MarkObjects: 545.089400 ms  DeleteObjects: 9.815600 ms)
+
+10/21/2023 18:45:58: Uncompressed size 8394243
+10/21/2023 18:45:58: Compressed size 17127
+10/21/2023 18:45:58: Considering autobackup. World time: 8198, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 18:45:58: No autobackup needed yet...
+10/21/2023 18:45:58: PrepareSave: clone done in 26ms
+10/21/2023 18:45:58: PrepareSave: ZDOExtraData.PrepareSave done in 57 ms
+10/21/2023 18:45:58: World save writing starting
+10/21/2023 18:45:58: World save writing started
+10/21/2023 18:45:59: Saved 421946 ZDOs
+10/21/2023 18:45:59: World save writing finishing
+10/21/2023 18:45:59: World save writing finished
+10/21/2023 18:45:59: World saved ( 912.6832ms )
+10/21/2023 18:45:59: Considering autobackup. World time: 8199.1, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 18:45:59: No autobackup needed yet...
+10/21/2023 18:46:05: Starting music morning
+10/21/2023 18:46:05: Setting selected recipe 1
+10/21/2023 18:46:06: Stopped music home at 1950278
+10/21/2023 18:46:39: Starting music home
+10/21/2023 18:46:39: Resumed music home at 1950278
+10/21/2023 18:47:48: Stopped music home at 3008678
+10/21/2023 18:47:48: Starting music home
+10/21/2023 18:47:48: Resumed music home at 3008678
+10/21/2023 18:47:49: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 18:48:18: Stopped music home at 1342521
+10/21/2023 18:48:18: Starting music meadows
+10/21/2023 18:48:18: Resumed music meadows at 702777
+10/21/2023 18:48:21: Setting selected recipe 1
+10/21/2023 18:48:23: Queue unlock msg:$msg_newmaterial:$item_iron
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_chest_iron
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_legs_iron
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_arrow_iron
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_atgeir_iron
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_axe_iron
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_bow_huntsman
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_helmet_iron
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_ironnails
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_mace_iron
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_pickaxe_iron
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_shield_banded
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_shield_iron_tower
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_sword_iron
+10/21/2023 18:48:23: Queue unlock msg:$msg_newrecipe:$item_tankard_anniversary
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_cookingstation_iron
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_stonecutter
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_forge_ext4
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_forge_ext6
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_ironfloorSmall
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_ironfloor
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_ironwallSmall
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_ironwall
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_woodironpole
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_woodironbeam
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_woodironbeam_26
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_woodironbeam_45
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_irongate
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_chest
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_chestprivate
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_groundtorch
+10/21/2023 18:48:23: Queue unlock msg:$msg_newpiece:$piece_groundtorchblue
+10/21/2023 18:49:14: Stopped music meadows at 2477126
+10/21/2023 18:49:14: Starting music home
+10/21/2023 18:49:14: Resumed music home at 1342521
+10/21/2023 18:50:13: Setting selected recipe 1
+10/21/2023 18:50:20: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:50:20: Setting selected recipe 1
+10/21/2023 18:50:21: Stopped music home at 2956934
+10/21/2023 18:50:21: Starting music meadows
+10/21/2023 18:50:21: Resumed music meadows at 2477126
+10/21/2023 18:50:27: Stopped music meadows at 240844
+10/21/2023 18:50:27: Starting music home
+10/21/2023 18:50:27: Resumed music home at 2956934
+10/21/2023 18:52:41: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:52:58: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:53:11: Update PlayFab entity token
+10/21/2023 18:53:31: Stopped music home at 8094643
+10/21/2023 18:53:31: Starting music meadows
+10/21/2023 18:53:31: Resumed music meadows at 240844
+10/21/2023 18:53:31: Setting selected recipe 1
+10/21/2023 18:53:38: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:53:38: Setting selected recipe 1
+10/21/2023 18:53:48: Setting selected recipe 1
+10/21/2023 18:53:53: Setting selected recipe 1
+10/21/2023 18:53:58: Setting selected recipe 1
+10/21/2023 18:54:03: Setting selected recipe 1
+10/21/2023 18:54:12: Stopped music meadows at 1821388
+10/21/2023 18:54:12: Starting music home
+10/21/2023 18:54:12: Resumed music home at 8094643
+10/21/2023 18:54:14: Placed piece_banner09
+10/21/2023 18:54:39: Setting selected recipe 1
+10/21/2023 18:54:43: Setting selected recipe 1
+10/21/2023 18:55:00: Placed piece_table
+10/21/2023 18:56:02: Player -1518247414 wants to pickup Wood(Clone)   im: 822577307
+10/21/2023 18:56:14: Stopped music home at 5363500
+10/21/2023 18:56:14: Starting music meadows
+10/21/2023 18:56:14: Resumed music meadows at 1821388
+10/21/2023 18:56:28: Player -1518247414 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 18:57:03: Stopped music meadows at 2181715
+10/21/2023 18:57:03: Starting music meadows
+10/21/2023 18:57:03: Resumed music meadows at 2181715
+10/21/2023 18:57:05: Player 822577307 wants to open Container   im: 822577307
+10/21/2023 18:57:05: Setting selected recipe 1
+10/21/2023 18:57:06: Button pressed TakeAll  frame:974786
+10/21/2023 18:57:17: RPC_Disconnect
+10/21/2023 18:57:17: Destroying abandoned non persistent zdo -1518247414:15313 owner -1518247414
+10/21/2023 18:57:17: Destroying abandoned non persistent zdo -1518247414:15409 owner -1518247414
+10/21/2023 18:57:17: Destroying abandoned non persistent zdo -1518247414:14469 owner -1518247414
+10/21/2023 18:57:17: Destroying abandoned non persistent zdo -1518247414:1 owner -1518247414
+10/21/2023 18:57:17: Destroying abandoned non persistent zdo -1518247414:15408 owner -1518247414
+10/21/2023 18:57:17: Destroying abandoned non persistent zdo -1518247414:12120 owner -1518247414
+10/21/2023 18:57:17: Destroying abandoned non persistent zdo -1518247414:15169 owner -1518247414
+10/21/2023 18:57:17: Destroying abandoned non persistent zdo -1518247414:15407 owner -1518247414
+10/21/2023 18:57:17: Destroying abandoned non persistent zdo -1518247414:15063 owner -1518247414
+10/21/2023 18:57:17: Destroying abandoned non persistent zdo -1518247414:13591 owner -1518247414
+10/21/2023 18:57:17: Destroying abandoned non persistent zdo -1518247414:15405 owner -1518247414
+10/21/2023 18:57:17: Destroying abandoned non persistent zdo -1518247414:15406 owner -1518247414
+10/21/2023 18:57:17: Disposing socket
+10/21/2023 18:57:17: Closing socket 76561198147279331
+10/21/2023 18:57:17:   send queue size:0
+10/21/2023 18:57:17: Disposing socket
+10/21/2023 18:57:17: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+10/21/2023 18:57:17: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+10/21/2023 18:57:17: Got status changed msg k_ESteamNetworkingConnectionState_None
+10/21/2023 18:59:15: Setting selected recipe 1
+10/21/2023 19:00:04: Player 822577307 wants to open piece_chest_wood(Clone)   im: 822577307
+10/21/2023 19:00:04: Setting selected recipe 1
+10/21/2023 19:00:05: Player 822577307 wants to stack all in piece_chest_wood(Clone)   im: 822577307
+10/21/2023 19:00:07: Stopped music meadows at 8124748
+10/21/2023 19:00:07: Starting music meadows
+10/21/2023 19:00:07: Resumed music meadows at 8124748
+10/21/2023 19:00:11: Stopped music meadows at 144883
+10/21/2023 19:00:11: Starting music home
+10/21/2023 19:00:11: Resumed music home at 5363500
+10/21/2023 19:01:34: Setting selected recipe 1
+10/21/2023 19:01:39: Activating default element Continue
+10/21/2023 19:01:44: Skipping unloading unused assets
+10/21/2023 19:02:49: Activating default element Button_no
+10/21/2023 19:02:50: Game - OnApplicationQuit
+10/21/2023 19:02:50: Shuting down
+10/21/2023 19:02:51: Uncompressed size 8394243
+10/21/2023 19:02:51: Compressed size 17127
+10/21/2023 19:02:51: Considering autobackup. World time: 9139.7, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 19:02:51: Overwrite our newest autobackup since the second one isn't so old
+10/21/2023 19:02:51: Replacing backup file: terry_backup_auto-20231021170222
+10/21/2023 19:02:51: Saving backup at: terry_backup_auto-20231021190251
+10/21/2023 19:02:51: ZNet Shutdown
+10/21/2023 19:02:51: PrepareSave: clone done in 28ms
+10/21/2023 19:02:51: PrepareSave: ZDOExtraData.PrepareSave done in 60 ms
+10/21/2023 19:02:51: World save writing starting
+10/21/2023 19:02:51: World save writing started
+10/21/2023 19:02:51: Saved 421944 ZDOs
+10/21/2023 19:02:51: World save writing finishing
+10/21/2023 19:02:51: World save writing finished
+10/21/2023 19:02:51: World saved ( 803.9191ms )
+10/21/2023 19:02:51: Considering autobackup. World time: 9139.7, short time: 7200, long time: 43200, backup count: 4
+10/21/2023 19:02:51: Overwrite our newest autobackup since the second one isn't so old
+10/21/2023 19:02:51: Replacing backup file: Famheim_backup_auto-20231021170222
+10/21/2023 19:02:51: Saving backup at: Famheim_backup_auto-20231021190251
+10/21/2023 19:02:51: World auto backup saved ( 00:00:00.0160138ms )
+10/21/2023 19:02:52: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+10/21/2023 19:02:52: Sending disconnect msg
 ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-10/21/2023 16:09:42: Stopping build thread
+10/21/2023 19:02:52: Disposing socket
+10/21/2023 19:02:52: Stopping listening socket
+10/21/2023 19:02:52: Last socket, unregistering callback
+10/21/2023 19:02:52: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+10/21/2023 19:02:52: Stopping build thread
 
-Unloading 1250 unused Assets to reduce memory usage. Loaded Objects now: 2039781.
-Total: 622.028700 ms (FindLiveObjects: 89.808500 ms CreateObjectMapping: 26.926600 ms MarkObjects: 498.610500 ms  DeleteObjects: 6.682800 ms)
+Unloading 2112 unused Assets to reduce memory usage. Loaded Objects now: 2043938.
+Total: 670.077500 ms (FindLiveObjects: 97.344000 ms CreateObjectMapping: 27.715400 ms MarkObjects: 535.225900 ms  DeleteObjects: 9.791800 ms)
 
 Setting up 16 worker threads for Enlighten.
-  Thread -> id: f7c -> priority: 1 
-  Thread -> id: 4350 -> priority: 1 
-  Thread -> id: 3b4c -> priority: 1 
-  Thread -> id: 2724 -> priority: 1 
-  Thread -> id: c0c -> priority: 1 
-  Thread -> id: 4d6c -> priority: 1 
-  Thread -> id: 2488 -> priority: 1 
-  Thread -> id: 225c -> priority: 1 
-  Thread -> id: 5180 -> priority: 1 
-  Thread -> id: 3f3c -> priority: 1 
-  Thread -> id: 1ed8 -> priority: 1 
-  Thread -> id: 3efc -> priority: 1 
-  Thread -> id: 3118 -> priority: 1 
-  Thread -> id: 4ca4 -> priority: 1 
-  Thread -> id: 3a08 -> priority: 1 
-  Thread -> id: 4ef0 -> priority: 1 
-10/21/2023 16:09:45: Local player destroyed
-10/21/2023 16:09:46: Steam manager on destroy
-10/21/2023 16:09:46: ZNet OnDestroy
-10/21/2023 16:09:46: Net scene destroyed
+  Thread -> id: 2d18 -> priority: 1 
+  Thread -> id: 39d4 -> priority: 1 
+  Thread -> id: 4214 -> priority: 1 
+  Thread -> id: 14c4 -> priority: 1 
+  Thread -> id: 4860 -> priority: 1 
+  Thread -> id: 4644 -> priority: 1 
+  Thread -> id: 4a0c -> priority: 1 
+  Thread -> id: 1134 -> priority: 1 
+  Thread -> id: 2950 -> priority: 1 
+  Thread -> id: 1c84 -> priority: 1 
+  Thread -> id: 1c54 -> priority: 1 
+  Thread -> id: 3130 -> priority: 1 
+  Thread -> id: 2240 -> priority: 1 
+  Thread -> id: 26b8 -> priority: 1 
+  Thread -> id: 1c30 -> priority: 1 
+  Thread -> id: 1be4 -> priority: 1 
+10/21/2023 19:02:55: Steam manager on destroy
+10/21/2023 19:02:55: ZNet OnDestroy
+10/21/2023 19:02:55: Net scene destroyed
+10/21/2023 19:02:55: Local player destroyed
