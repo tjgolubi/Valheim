@@ -17,530 +17,1438 @@ Using XInput
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.712400 ms
-10/25/2023 12:47:10: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/25/2023 12:47:10: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/25/2023 12:47:10: Starting to load scene:start
+UnloadTime: 0.539700 ms
+10/25/2023 13:10:26: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/25/2023 13:10:26: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/25/2023 13:10:26: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.935500 ms
+UnloadTime: 4.774900 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-10/25/2023 12:47:16: Using environment steamid 892970
-10/25/2023 12:47:16: Using steam APPID:892970
-10/25/2023 12:47:16: Authentication:k_ESteamNetworkingAvailability_Attempting
-10/25/2023 12:47:16: Steam initialized, persona:tjgolubi
-10/25/2023 12:47:16: PlayFab custom ID set to "Steam_76561198290658520"
-10/25/2023 12:47:16: Using default prefs
-10/25/2023 12:47:16: Valheim version: 0.217.25 (network version 15)
-10/25/2023 12:47:16: Worldgenerator version setup:2
-10/25/2023 12:47:16: Render threading mode:MultiThreaded
-10/25/2023 12:47:16: Set button "CamZoomIn" to None!
-10/25/2023 12:47:16: Set button "CamZoomOut" to None!
-10/25/2023 12:47:16: Set button "CamZoomIn" to None!
-10/25/2023 12:47:16: Set button "CamZoomOut" to None!
-10/25/2023 12:47:16: Loaded localization file #0 - 'localization' language: 'English'
-10/25/2023 12:47:16: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/25/2023 12:47:16: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/25/2023 12:47:16: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/25/2023 12:47:16: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/25/2023 12:47:17: Loaded localization file #0 - 'localization' language: 'English'
-10/25/2023 12:47:17: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/25/2023 12:47:17: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/25/2023 12:47:17: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/25/2023 12:47:17: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/25/2023 12:47:17: Missing audio clip in music respawn
-10/25/2023 12:47:17: Checking for installed DLCs
-10/25/2023 12:47:17: DLC:beta installed:False
-10/25/2023 12:47:17: Builder started
-10/25/2023 12:47:17: Sending PlayFab login request (attempt 1)
-10/25/2023 12:47:17: Ticket is System.Byte[] of length 369
-10/25/2023 12:47:17: Session auth respons callback
-10/25/2023 12:47:17: Starting music menu
+10/25/2023 13:10:33: Using environment steamid 892970
+10/25/2023 13:10:33: Using steam APPID:892970
+10/25/2023 13:10:33: Authentication:k_ESteamNetworkingAvailability_Attempting
+10/25/2023 13:10:33: Steam initialized, persona:tjgolubi
+10/25/2023 13:10:33: PlayFab custom ID set to "Steam_76561198290658520"
+10/25/2023 13:10:33: Using default prefs
+10/25/2023 13:10:33: Valheim version: 0.217.25 (network version 15)
+10/25/2023 13:10:33: Worldgenerator version setup:2
+10/25/2023 13:10:33: Render threading mode:MultiThreaded
+10/25/2023 13:10:33: Set button "CamZoomIn" to None!
+10/25/2023 13:10:33: Set button "CamZoomOut" to None!
+10/25/2023 13:10:33: Set button "CamZoomIn" to None!
+10/25/2023 13:10:33: Set button "CamZoomOut" to None!
+10/25/2023 13:10:33: Loaded localization file #0 - 'localization' language: 'English'
+10/25/2023 13:10:33: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/25/2023 13:10:33: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/25/2023 13:10:33: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/25/2023 13:10:33: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/25/2023 13:10:33: Loaded localization file #0 - 'localization' language: 'English'
+10/25/2023 13:10:33: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/25/2023 13:10:33: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/25/2023 13:10:33: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/25/2023 13:10:33: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/25/2023 13:10:33: Missing audio clip in music respawn
+10/25/2023 13:10:33: Checking for installed DLCs
+10/25/2023 13:10:33: DLC:beta installed:False
+10/25/2023 13:10:33: Builder started
+10/25/2023 13:10:33: Sending PlayFab login request (attempt 1)
+10/25/2023 13:10:33: Session auth respons callback
+10/25/2023 13:10:33: Ticket is System.Byte[] of length 369
+10/25/2023 13:10:33: Starting music menu
 
 Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156123.
-Total: 110.905000 ms (FindLiveObjects: 5.606900 ms CreateObjectMapping: 9.835500 ms MarkObjects: 95.296100 ms  DeleteObjects: 0.166300 ms)
+Total: 111.171600 ms (FindLiveObjects: 5.671300 ms CreateObjectMapping: 9.665800 ms MarkObjects: 95.680900 ms  DeleteObjects: 0.153300 ms)
 
-10/25/2023 12:47:17: PlayFab logged in as "Steam_76561198290658520"
-10/25/2023 12:47:17: PlayFab local entity ID is DBA9D3993BEC7B4F
+10/25/2023 13:10:34: PlayFab logged in as "Steam_76561198290658520"
+10/25/2023 13:10:34: PlayFab local entity ID is DBA9D3993BEC7B4F
 Event.Use() should not be called for events of type repaint
-10/25/2023 12:49:00: Activating default element Start game
-10/25/2023 12:49:01: show character selection
-10/25/2023 12:49:02: Button pressed Start  frame:6459
-10/25/2023 12:49:02: OnCharacterStart
-10/25/2023 12:49:08: Button pressed Start  frame:6845
-10/25/2023 12:49:09: Loading main scene
+10/25/2023 13:10:41: Activating default element Start game
+10/25/2023 13:10:43: show character selection
+10/25/2023 13:10:43: Button pressed Start  frame:798
+10/25/2023 13:10:43: OnCharacterStart
+10/25/2023 13:10:47: Button pressed Server Options  frame:1001
+10/25/2023 13:11:05: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 2
+10/25/2023 13:11:05: No autobackup needed yet...
+10/25/2023 13:11:08: Button pressed Back  frame:2250
+10/25/2023 13:11:08: show character selection
+10/25/2023 13:11:09: Button pressed Start  frame:2348
+10/25/2023 13:11:09: OnCharacterStart
+10/25/2023 13:11:16: Button pressed Start  frame:2730
+10/25/2023 13:11:17: Loading main scene
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.998900 ms
-10/25/2023 12:49:10: Steam initialized, persona:tjgolubi
-10/25/2023 12:49:10: PlayFab custom ID set to "Steam_76561198290658520"
-10/25/2023 12:49:10: Using default prefs
-10/25/2023 12:49:10: Loading player profile terry
-10/25/2023 12:49:10: isModded: False
-10/25/2023 12:49:10: Zonesystem Awake 6935
-10/25/2023 12:49:10: DungeonDB Awake 6935
-10/25/2023 12:49:10: Steam initialized, persona:tjgolubi
-10/25/2023 12:49:10: Worldgenerator version setup:2
-10/25/2023 12:49:11: Audioman already exist, destroying self
-10/25/2023 12:49:11: Checking for installed DLCs
-10/25/2023 12:49:11: DLC:beta installed:False
+UnloadTime: 9.288100 ms
+10/25/2023 13:11:17: Steam initialized, persona:tjgolubi
+10/25/2023 13:11:17: PlayFab custom ID set to "Steam_76561198290658520"
+10/25/2023 13:11:17: Using default prefs
+10/25/2023 13:11:17: Loading player profile terry
+10/25/2023 13:11:17: isModded: False
+10/25/2023 13:11:17: Zonesystem Awake 2821
+10/25/2023 13:11:17: DungeonDB Awake 2821
+10/25/2023 13:11:17: Steam initialized, persona:tjgolubi
+10/25/2023 13:11:17: Worldgenerator version setup:2
+10/25/2023 13:11:19: Audioman already exist, destroying self
+10/25/2023 13:11:19: Checking for installed DLCs
+10/25/2023 13:11:19: DLC:beta installed:False
 
-Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 159947.
-Total: 92.864900 ms (FindLiveObjects: 4.816100 ms CreateObjectMapping: 9.256300 ms MarkObjects: 78.123600 ms  DeleteObjects: 0.668700 ms)
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 159958.
+Total: 93.848100 ms (FindLiveObjects: 4.744400 ms CreateObjectMapping: 8.762200 ms MarkObjects: 79.717400 ms  DeleteObjects: 0.623900 ms)
 
-10/25/2023 12:49:15: Zonesystem Start 6935
-10/25/2023 12:49:15: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-10/25/2023 12:49:15: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-10/25/2023 12:49:15: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-10/25/2023 12:49:15: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-10/25/2023 12:49:15: DungeonDB Start 6935
-10/25/2023 12:49:15: ZRpc timeout set to 30s 
-10/25/2023 12:49:15: ZNET START
-10/25/2023 12:49:15: Load world: Famheim (Famheim)
-10/25/2023 12:49:15: Loading 421364 zdos, my sessionID: 1259296567, data version: 32
-10/25/2023 12:49:15: Creating ZDOs
-10/25/2023 12:49:15: Loading in ZDOs
-10/25/2023 12:49:16: Adding to Dictionary
-10/25/2023 12:49:16: Adding to Sectors
-10/25/2023 12:49:16: Connecting Portals, Spawners & ZSyncTransforms
+10/25/2023 13:11:22: Zonesystem Start 2821
+10/25/2023 13:11:23: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+10/25/2023 13:11:23: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+10/25/2023 13:11:23: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+10/25/2023 13:11:23: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+10/25/2023 13:11:23: DungeonDB Start 2821
+10/25/2023 13:11:23: ZRpc timeout set to 30s 
+10/25/2023 13:11:23: ZNET START
+10/25/2023 13:11:23: Load world: Famheim (Famheim)
+10/25/2023 13:11:23: Loading 420731 zdos, my sessionID: 2314519850, data version: 32
+10/25/2023 13:11:23: Creating ZDOs
+10/25/2023 13:11:23: Loading in ZDOs
+10/25/2023 13:11:23: Adding to Dictionary
+10/25/2023 13:11:23: Adding to Sectors
+10/25/2023 13:11:23: Connecting Portals, Spawners & ZSyncTransforms
 ConnectSpawners => Connected 0 spawners and 568 'done' spawners.
-10/25/2023 12:49:16: Loaded 10076 locations
-10/25/2023 12:49:16: Unloading unused assets
+10/25/2023 13:11:23: Loaded 10076 locations
+10/25/2023 13:11:23: Unloading unused assets
 Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-10/25/2023 12:49:16: Ticket is System.Byte[] of length 369
-10/25/2023 12:49:16: Session auth respons callback
-10/25/2023 12:49:21: Unpacking compressed mapdata 17252
-10/25/2023 12:49:21: Activating default element Texts
+10/25/2023 13:11:24: Starting respawn
+10/25/2023 13:11:24: Session auth respons callback
+10/25/2023 13:11:29: Unpacking compressed mapdata 17252
+10/25/2023 13:11:29: Activating default element Texts
+10/25/2023 13:11:29: tip:$loadscreen_tip12
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1733253.
-Total: 527.258800 ms (FindLiveObjects: 78.473000 ms CreateObjectMapping: 26.470300 ms MarkObjects: 421.427600 ms  DeleteObjects: 0.887600 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733265.
+Total: 527.458600 ms (FindLiveObjects: 78.543700 ms CreateObjectMapping: 26.143700 ms MarkObjects: 422.014000 ms  DeleteObjects: 0.757000 ms)
 
-10/25/2023 12:49:22: Starting respawn
-10/25/2023 12:49:22: tip:$loadscreen_tip03
-10/25/2023 12:49:25: Force generating hmap (-256.0, 0.0, 512.0)
-10/25/2023 12:49:25: Force generating hmap (-320.0, 0.0, 448.0)
-10/25/2023 12:49:25: Force generating hmap (-256.0, 0.0, 448.0)
-10/25/2023 12:49:25: Force generating hmap (-320.0, 0.0, 512.0)
-10/25/2023 12:49:26: Force generating hmap (-128.0, 0.0, 576.0)
-10/25/2023 12:49:30: Spawned after 8.019994
-10/25/2023 12:49:30: Skipping unloading unused assets
-10/25/2023 12:49:30: Minimap: Adding unique location (131.9, 39.6, 260.8)
-10/25/2023 12:49:30: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
-10/25/2023 12:49:30: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
-10/25/2023 12:49:34: Activating default element Continue
-10/25/2023 12:49:36: Activating default element Button_no
-10/25/2023 12:49:36: Shuting down
-10/25/2023 12:49:36: Uncompressed size 8394618
-10/25/2023 12:49:36: Compressed size 17252
-10/25/2023 12:49:36: Considering autobackup. World time: 11.88, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 12:49:36: Skipping backup. World session not long enough.
-10/25/2023 12:49:36: ZNet Shutdown
-10/25/2023 12:49:37: PrepareSave: clone done in 29ms
-10/25/2023 12:49:37: PrepareSave: ZDOExtraData.PrepareSave done in 47 ms
-10/25/2023 12:49:37: World save writing starting
-10/25/2023 12:49:37: World save writing started
-10/25/2023 12:49:37: Saved 421364 ZDOs
-10/25/2023 12:49:37: World save writing finishing
-10/25/2023 12:49:37: World save writing finished
-10/25/2023 12:49:37: World saved ( 766.7421ms )
-10/25/2023 12:49:37: Considering autobackup. World time: 11.88, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 12:49:37: Skipping backup. World session not long enough.
-10/25/2023 12:49:38: Unloading unused assets
+10/25/2023 13:11:33: Force generating hmap (-256.0, 0.0, 448.0)
+10/25/2023 13:11:33: Force generating hmap (-320.0, 0.0, 448.0)
+10/25/2023 13:11:33: Force generating hmap (-320.0, 0.0, 512.0)
+10/25/2023 13:11:33: Force generating hmap (-256.0, 0.0, 512.0)
+10/25/2023 13:11:33: Force generating hmap (-128.0, 0.0, 576.0)
+10/25/2023 13:11:37: Spawned after 8.019994
+10/25/2023 13:11:37: Skipping unloading unused assets
+10/25/2023 13:11:37: Minimap: Adding unique location (131.9, 39.6, 260.8)
+10/25/2023 13:11:37: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
+10/25/2023 13:11:37: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
+10/25/2023 13:11:39: Starting music meadows
+10/25/2023 13:11:39: Resumed music meadows at 0
+10/25/2023 13:11:57: Placed mud_road_v2
+10/25/2023 13:11:58: Placed mud_road_v2
+10/25/2023 13:11:58: Placed mud_road_v2
+10/25/2023 13:11:59: Placed mud_road_v2
+10/25/2023 13:12:02: Placed mud_road_v2
+10/25/2023 13:12:03: Placed mud_road_v2
+10/25/2023 13:12:05: Placed mud_road_v2
+10/25/2023 13:12:05: Placed mud_road_v2
+10/25/2023 13:12:06: Placed mud_road_v2
+10/25/2023 13:12:06: Placed mud_road_v2
+10/25/2023 13:12:06: Placed mud_road_v2
+10/25/2023 13:12:08: Placed mud_road_v2
+10/25/2023 13:12:09: Placed mud_road_v2
+10/25/2023 13:12:09: Placed mud_road_v2
+10/25/2023 13:12:10: Placed mud_road_v2
+10/25/2023 13:12:11: Placed mud_road_v2
+10/25/2023 13:12:11: Placed mud_road_v2
+10/25/2023 13:12:12: Placed mud_road_v2
+10/25/2023 13:12:13: Placed mud_road_v2
+10/25/2023 13:12:13: Placed mud_road_v2
+10/25/2023 13:12:13: Placed mud_road_v2
+10/25/2023 13:12:14: Placed mud_road_v2
+10/25/2023 13:12:15: Placed mud_road_v2
+10/25/2023 13:12:16: Placed mud_road_v2
+10/25/2023 13:12:16: Placed mud_road_v2
+10/25/2023 13:12:18: Placed mud_road_v2
+10/25/2023 13:12:20: Placed mud_road_v2
+10/25/2023 13:12:20: Placed mud_road_v2
+10/25/2023 13:12:22: Placed mud_road_v2
+10/25/2023 13:12:22: Placed mud_road_v2
+10/25/2023 13:12:24: Placed mud_road_v2
+10/25/2023 13:12:25: Placed mud_road_v2
+10/25/2023 13:12:26: Placed mud_road_v2
+10/25/2023 13:12:27: Placed mud_road_v2
+10/25/2023 13:12:28: Placed mud_road_v2
+10/25/2023 13:12:29: Placed mud_road_v2
+10/25/2023 13:12:30: Placed mud_road_v2
+10/25/2023 13:12:31: Placed mud_road_v2
+10/25/2023 13:12:33: Placed mud_road_v2
+10/25/2023 13:12:34: Placed mud_road_v2
+10/25/2023 13:12:36: Placed mud_road_v2
+10/25/2023 13:12:37: Placed mud_road_v2
+10/25/2023 13:12:38: Placed mud_road_v2
+10/25/2023 13:12:40: Placed mud_road_v2
+10/25/2023 13:12:41: Placed mud_road_v2
+10/25/2023 13:12:43: Placed mud_road_v2
+10/25/2023 13:12:44: Placed mud_road_v2
+10/25/2023 13:12:45: Placed mud_road_v2
+10/25/2023 13:12:47: Placed mud_road_v2
+10/25/2023 13:12:55: Placed raise_v2
+10/25/2023 13:12:56: Placed raise_v2
+10/25/2023 13:12:58: Placed raise_v2
+10/25/2023 13:12:58: Placed raise_v2
+10/25/2023 13:13:00: Placed raise_v2
+10/25/2023 13:13:01: Placed raise_v2
+10/25/2023 13:13:02: Placed raise_v2
+10/25/2023 13:13:04: Placed raise_v2
+10/25/2023 13:13:05: Placed raise_v2
+10/25/2023 13:13:06: Placed raise_v2
+10/25/2023 13:13:07: Placed raise_v2
+10/25/2023 13:13:09: Placed raise_v2
+10/25/2023 13:13:10: Placed raise_v2
+10/25/2023 13:13:13: Placed raise_v2
+10/25/2023 13:13:14: Placed raise_v2
+10/25/2023 13:13:19: Placed mud_road_v2
+10/25/2023 13:13:20: Placed mud_road_v2
+10/25/2023 13:13:20: Placed mud_road_v2
+10/25/2023 13:13:21: Placed mud_road_v2
+10/25/2023 13:13:21: Placed mud_road_v2
+10/25/2023 13:13:22: Placed mud_road_v2
+10/25/2023 13:13:22: Placed mud_road_v2
+10/25/2023 13:13:23: Placed mud_road_v2
+10/25/2023 13:13:24: Placed mud_road_v2
+10/25/2023 13:13:24: Placed mud_road_v2
+10/25/2023 13:13:25: Placed mud_road_v2
+10/25/2023 13:13:26: Placed mud_road_v2
+10/25/2023 13:13:26: Placed mud_road_v2
+10/25/2023 13:13:27: Placed mud_road_v2
+10/25/2023 13:13:27: Placed mud_road_v2
+10/25/2023 13:13:28: Placed mud_road_v2
+10/25/2023 13:13:29: Placed mud_road_v2
+10/25/2023 13:13:30: Placed mud_road_v2
+10/25/2023 13:13:31: Placed mud_road_v2
+10/25/2023 13:13:35: Placed mud_road_v2
+10/25/2023 13:13:36: Placed mud_road_v2
+10/25/2023 13:13:37: Placed mud_road_v2
+10/25/2023 13:13:38: Placed mud_road_v2
+10/25/2023 13:13:41: Placed mud_road_v2
+10/25/2023 13:13:42: Placed mud_road_v2
+10/25/2023 13:13:44: Placed mud_road_v2
+10/25/2023 13:13:46: Placed mud_road_v2
+10/25/2023 13:14:16: Placed wood_pole2
+10/25/2023 13:14:31: Placed wood_beam
+10/25/2023 13:14:36: Placed wood_beam
+10/25/2023 13:14:38: Placed wood_beam
+10/25/2023 13:15:12: Placed wood_beam
+10/25/2023 13:15:48: Placed wood_wall_log_4x0.5
+10/25/2023 13:16:13: Placed wood_wall_log_4x0.5
+10/25/2023 13:16:18: Placed wood_wall_log_4x0.5
+10/25/2023 13:16:33: Placed wood_wall_log_4x0.5
+10/25/2023 13:16:36: Placed wood_wall_log_4x0.5
+10/25/2023 13:16:46: Placed wood_wall_log_4x0.5
+10/25/2023 13:16:57: Placed wood_wall_log_4x0.5
+10/25/2023 13:17:00: Placed wood_wall_log_4x0.5
+10/25/2023 13:17:03: Placed wood_wall_log_4x0.5
+10/25/2023 13:17:06: Placed wood_wall_log_4x0.5
+10/25/2023 13:17:12: Placed wood_wall_log_4x0.5
+10/25/2023 13:17:15: Placed wood_wall_log_4x0.5
+10/25/2023 13:17:20: Placed wood_wall_log_4x0.5
+10/25/2023 13:17:29: Placed wood_wall_log_4x0.5
+10/25/2023 13:17:34: Update PlayFab entity token
+10/25/2023 13:17:41: Placed wood_wall_log_4x0.5
+10/25/2023 13:17:46: Placed wood_wall_log_4x0.5
+10/25/2023 13:17:50: Placed wood_wall_log_4x0.5
+10/25/2023 13:17:55: Placed wood_wall_log_4x0.5
+10/25/2023 13:18:04: Placed wood_wall_log_4x0.5
+10/25/2023 13:18:46: Starting music evening
+10/25/2023 13:18:47: Stopped music meadows at 9145585
+10/25/2023 13:18:47: Spawned Greydwarf_Elite x 1
+10/25/2023 13:19:04: Placed wood_wall_log_4x0.5
+10/25/2023 13:19:09: Placed wood_wall_log_4x0.5
+10/25/2023 13:19:20: Placed wood_wall_log_4x0.5
+10/25/2023 13:19:24: Placed wood_wall_log_4x0.5
+10/25/2023 13:19:36: Placed wood_wall_log_4x0.5
+10/25/2023 13:19:46: Placed wood_wall_log_4x0.5
+10/25/2023 13:19:50: Placed wood_wall_log_4x0.5
+10/25/2023 13:19:54: Placed wood_wall_log_4x0.5
+10/25/2023 13:20:01: Placed wood_wall_log_4x0.5
+10/25/2023 13:20:04: Placed wood_wall_log_4x0.5
+10/25/2023 13:20:05: Placed wood_wall_log_4x0.5
+10/25/2023 13:20:10: Placed wood_wall_log_4x0.5
+10/25/2023 13:20:17: Placed wood_wall_log_4x0.5
+10/25/2023 13:20:20: Placed wood_wall_log_4x0.5
+10/25/2023 13:20:24: Placed wood_wall_log_4x0.5
+10/25/2023 13:20:33: Placed wood_wall_log_4x0.5
+10/25/2023 13:20:51: Spawned Greydwarf x 3
+10/25/2023 13:20:51: Spawned Greydwarf_Shaman x 1
+10/25/2023 13:20:51: Spawned Greydwarf_Shaman x 1
+10/25/2023 13:20:51: Spawned FireFlies x 1
+10/25/2023 13:20:51: Spawned FireFlies x 1
+10/25/2023 13:24:59: Spawned FireFlies x 1
+10/25/2023 13:25:02: Placed wood_beam
+10/25/2023 13:25:36: Placed wood_pole
+10/25/2023 13:25:47: Spawned FireFlies x 1
+10/25/2023 13:26:02: Placed wood_beam
+10/25/2023 13:26:06: Placed wood_beam
+10/25/2023 13:26:10: Placed wood_beam
+10/25/2023 13:26:25: Placed wood_beam
+10/25/2023 13:26:32: Placed wood_pole2
+10/25/2023 13:26:41: Placed wood_beam
+10/25/2023 13:26:47: Placed wood_beam
+10/25/2023 13:26:49: Placed wood_beam
+10/25/2023 13:27:03: Placed wood_pole2
+10/25/2023 13:27:12: Placed wood_beam
+10/25/2023 13:27:17: Placed wood_beam
+10/25/2023 13:27:23: Placed wood_pole2
+10/25/2023 13:27:33: Placed wood_beam
+10/25/2023 13:27:36: Placed wood_beam
+10/25/2023 13:27:38: Placed wood_beam
+10/25/2023 13:27:44: Placed wood_beam
+10/25/2023 13:27:47: Starting music morning
+10/25/2023 13:28:19: Placed wood_pole2
+10/25/2023 13:28:21: Starting music meadows
+10/25/2023 13:28:26: Placed wood_beam
+10/25/2023 13:28:38: Placed wood_beam
+10/25/2023 13:28:40: Placed wood_beam
+10/25/2023 13:28:51: Placed wood_pole_log_4
+10/25/2023 13:28:59: Placed wood_beam
+10/25/2023 13:29:00: Placed wood_beam
+10/25/2023 13:29:04: Placed wood_beam
+10/25/2023 13:29:09: Placed wood_beam
+10/25/2023 13:29:17: Placed wood_pole_log_4
+10/25/2023 13:29:41: Placed wood_beam
+10/25/2023 13:29:45: Placed wood_beam
+10/25/2023 13:29:50: Placed wood_beam
+10/25/2023 13:29:59: Placed wood_pole_log_4
+10/25/2023 13:30:12: Placed wood_pole_log_4
+10/25/2023 13:31:54: Placed wood_beam
+10/25/2023 13:32:00: Placed wood_beam
+10/25/2023 13:32:02: Placed wood_beam
+10/25/2023 13:32:03: Placed wood_beam
+10/25/2023 13:32:06: Placed wood_beam
+10/25/2023 13:32:15: Placed wood_pole_log_4
+10/25/2023 13:32:21: Placed wood_pole_log_4
+10/25/2023 13:32:29: Placed wood_beam
+10/25/2023 13:32:35: Placed wood_beam
+10/25/2023 13:32:41: Placed wood_beam
+10/25/2023 13:32:57: Placed wood_pole_log_4
+10/25/2023 13:33:04: Placed wood_beam
+10/25/2023 13:33:05: Placed wood_beam
+10/25/2023 13:33:07: Placed wood_beam
+10/25/2023 13:33:17: Placed wood_pole_log_4
+10/25/2023 13:33:29: Placed wood_beam
+10/25/2023 13:34:08: Placed wood_pole_log_4
+10/25/2023 13:34:22: Placed wood_beam
+10/25/2023 13:34:23: Placed wood_beam
+10/25/2023 13:34:27: Placed wood_beam
+10/25/2023 13:34:29: Placed wood_beam
+10/25/2023 13:34:30: Placed wood_beam
+10/25/2023 13:34:31: Placed wood_beam
+10/25/2023 13:34:33: Placed wood_beam
+10/25/2023 13:34:46: Placed wood_pole_log_4
+10/25/2023 13:34:59: Placed wood_beam
+10/25/2023 13:35:01: Placed wood_beam
+10/25/2023 13:35:04: Placed wood_beam
+10/25/2023 13:35:11: Placed wood_pole_log_4
+10/25/2023 13:35:22: Placed wood_beam
+10/25/2023 13:35:25: Placed wood_beam
+10/25/2023 13:35:29: Placed wood_beam
+10/25/2023 13:35:32: Placed wood_beam
+10/25/2023 13:35:37: Placed wood_beam
+10/25/2023 13:36:57: Update PlayFab entity token
+10/25/2023 13:41:17: Uncompressed size 8394618
+10/25/2023 13:41:17: Compressed size 17252
+10/25/2023 13:41:17: Considering autobackup. World time: 1787.74, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 13:41:17: Time to overwrite our last autobackup
+10/25/2023 13:41:17: Replacing backup file: terry_backup_auto-20231024100012
+10/25/2023 13:41:17: Saving backup at: terry_backup_auto-20231025134117
+10/25/2023 13:41:17: Sending message to save player profiles
+10/25/2023 13:41:17: PrepareSave: clone done in 27ms
+10/25/2023 13:41:17: PrepareSave: ZDOExtraData.PrepareSave done in 58 ms
+10/25/2023 13:41:17: World save writing starting
+10/25/2023 13:41:17: World save writing started
+10/25/2023 13:41:18: Saved 420770 ZDOs
+10/25/2023 13:41:18: World save writing finishing
+10/25/2023 13:41:18: World save writing finished
+10/25/2023 13:41:18: World saved ( 829.9846ms )
+10/25/2023 13:41:18: Considering autobackup. World time: 1788.78, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 13:41:18: No autobackup needed yet...
+10/25/2023 13:41:49: hit mine rock 4
+10/25/2023 13:41:49: hit mine rock 1
+10/25/2023 13:41:50: hit mine rock 4
+10/25/2023 13:41:50: hit mine rock 1
+10/25/2023 13:41:52: hit mine rock 4
+10/25/2023 13:41:52: Suport time 0.4882813
+10/25/2023 13:41:52: hit mine rock 1
+10/25/2023 13:41:52: Suport time 0.1220703
+10/25/2023 13:42:02: hit mine rock 3
+10/25/2023 13:42:02: Suport time 0.1220703
+10/25/2023 13:42:07: hit mine rock 0
+10/25/2023 13:42:07: Suport time 0.1220703
+10/25/2023 13:42:10: hit mine rock 2
+10/25/2023 13:42:12: hit mine rock 2
+10/25/2023 13:44:29: Placed wood_pole_log_4
+10/25/2023 13:44:49: Placed wood_pole_log_4
+10/25/2023 13:45:18: Placed wood_pole_log_4
+10/25/2023 13:45:29: Placed wood_pole_log_4
+10/25/2023 13:46:06: Placed wood_beam
+10/25/2023 13:46:07: Placed wood_beam
+10/25/2023 13:46:09: Placed wood_beam
+10/25/2023 13:46:10: Placed wood_beam
+10/25/2023 13:46:16: Placed wood_pole_log_4
+10/25/2023 13:46:25: Placed wood_pole_log_4
+10/25/2023 13:46:35: Placed wood_beam
+10/25/2023 13:46:37: Placed wood_beam
+10/25/2023 13:46:40: Placed wood_beam
+10/25/2023 13:46:42: Placed wood_beam
+10/25/2023 13:47:41: Placed raise_v2
+10/25/2023 13:47:43: Placed raise_v2
+10/25/2023 13:47:44: Placed raise_v2
+10/25/2023 13:47:45: Placed raise_v2
+10/25/2023 13:47:46: Placed raise_v2
+10/25/2023 13:47:50: Placed raise_v2
+10/25/2023 13:47:53: Placed raise_v2
+10/25/2023 13:47:55: Placed raise_v2
+10/25/2023 13:47:56: Placed raise_v2
+10/25/2023 13:47:57: Placed raise_v2
+10/25/2023 13:47:58: Placed raise_v2
+10/25/2023 13:47:59: Placed raise_v2
+10/25/2023 13:48:00: Placed raise_v2
+10/25/2023 13:48:02: Placed raise_v2
+10/25/2023 13:48:05: Placed raise_v2
+10/25/2023 13:48:06: Placed raise_v2
+10/25/2023 13:48:07: Placed raise_v2
+10/25/2023 13:48:08: Placed raise_v2
+10/25/2023 13:48:09: Placed raise_v2
+10/25/2023 13:48:10: Placed raise_v2
+10/25/2023 13:48:11: Placed raise_v2
+10/25/2023 13:48:12: Placed raise_v2
+10/25/2023 13:48:15: Placed raise_v2
+10/25/2023 13:48:16: Placed raise_v2
+10/25/2023 13:48:17: Placed raise_v2
+10/25/2023 13:48:17: Placed raise_v2
+10/25/2023 13:48:20: Placed raise_v2
+10/25/2023 13:48:21: Placed raise_v2
+10/25/2023 13:48:22: Placed raise_v2
+10/25/2023 13:48:23: Placed raise_v2
+10/25/2023 13:48:25: Placed raise_v2
+10/25/2023 13:48:27: Placed raise_v2
+10/25/2023 13:48:28: Placed raise_v2
+10/25/2023 13:48:30: Placed raise_v2
+10/25/2023 13:48:32: Placed raise_v2
+10/25/2023 13:48:32: Placed raise_v2
+10/25/2023 13:48:34: Placed raise_v2
+10/25/2023 13:48:36: Placed raise_v2
+10/25/2023 13:48:36: Placed raise_v2
+10/25/2023 13:48:38: Placed raise_v2
+10/25/2023 13:48:41: Placed raise_v2
+10/25/2023 13:48:42: Placed raise_v2
+10/25/2023 13:48:44: Placed raise_v2
+10/25/2023 13:48:45: Placed raise_v2
+10/25/2023 13:48:46: Starting music evening
+10/25/2023 13:48:47: Stopped music meadows at 5532250
+10/25/2023 13:48:57: Player 2314519850 wants to open piece_chest(Clone)   im: 2314519850
+10/25/2023 13:48:57: Setting selected recipe 0
+10/25/2023 13:49:05: Player 2314519850 wants to open piece_chest(Clone)   im: 2314519850
+10/25/2023 13:49:05: Setting selected recipe 0
+10/25/2023 13:49:16: Spawned Greydwarf_Elite x 1
+10/25/2023 13:49:16: Spawned Greydwarf_Shaman x 1
+10/25/2023 13:49:16: Spawned FireFlies x 1
+10/25/2023 13:49:16: Spawned FireFlies x 1
+10/25/2023 13:49:16: Spawned FireFlies x 1
+10/25/2023 13:49:40: Spawned FireFlies x 1
+10/25/2023 13:50:15: Placed woodwall
+10/25/2023 13:50:35: Placed wood_beam
+10/25/2023 13:50:59: Placed wood_beam
+10/25/2023 13:51:03: Placed wood_beam
+10/25/2023 13:51:13: Placed woodwall
+10/25/2023 13:51:18: Setting selected recipe 0
+10/25/2023 13:51:24: Spawned Greydwarf x 3
+10/25/2023 13:51:24: Setting selected recipe 1
+10/25/2023 13:51:25: Button pressed RepairButton  frame:248553
+10/25/2023 13:51:25: Button pressed RepairButton  frame:248583
+10/25/2023 13:51:37: Placed woodwall
+10/25/2023 13:51:40: Spawned FireFlies x 1
+10/25/2023 13:51:49: Placed woodwall
+10/25/2023 13:51:51: Placed woodwall
+10/25/2023 13:51:55: Placed woodwall
+10/25/2023 13:52:00: Placed woodwall
+10/25/2023 13:52:07: Placed woodwall
+10/25/2023 13:52:18: Placed woodwall
+10/25/2023 13:52:28: Spawned Greydwarf_Shaman x 1
+10/25/2023 13:52:28: Disabling PlayerBase  character_trigger
+10/25/2023 13:52:32: Placed fire_pit
+10/25/2023 13:52:35: Starting music home
+10/25/2023 13:52:38: Disabling PlayerBase  character_trigger
+10/25/2023 13:52:40: Disabling OnboardTrigger  character_trigger
+10/25/2023 13:52:40: Disabling FloatCollider  Ignore Raycast
+10/25/2023 13:52:48: Disabling PlayerBase  character_trigger
+10/25/2023 13:52:54: Placed bed
+10/25/2023 13:52:57: Has no creator
+10/25/2023 13:52:57: exporeusre check 0.9411765  True
+10/25/2023 13:52:58: Is mine
+10/25/2023 13:52:58: is current spawnpoint
+10/25/2023 13:52:58: exporeusre check 0.9411765  True
+10/25/2023 13:52:58: Ignoring 2 colliders
+10/25/2023 13:52:59: Time 1157384.87973547, day:642    nextm:1157670.00001073  skipspeed:23.7600229382515
+10/25/2023 13:53:01: Stopped music home at 1166591
+10/25/2023 13:53:04: Spawned FireFlies x 1
+10/25/2023 13:53:04: Spawned FireFlies x 1
+10/25/2023 13:53:04: Unloading unused assets
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
-10/25/2023 12:49:38: Sending disconnect msg
-ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-10/25/2023 12:49:38: Local player destroyed
 
-Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 1736163.
-Total: 530.178200 ms (FindLiveObjects: 77.627200 ms CreateObjectMapping: 26.508100 ms MarkObjects: 425.090000 ms  DeleteObjects: 0.952600 ms)
+Unloading 6867 unused Assets to reduce memory usage. Loaded Objects now: 2007048.
+Total: 662.318800 ms (FindLiveObjects: 104.143600 ms CreateObjectMapping: 27.754300 ms MarkObjects: 512.517400 ms  DeleteObjects: 17.903000 ms)
 
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-10/25/2023 12:49:38: ZNet OnDestroy
-10/25/2023 12:49:38: Net scene destroyed
-UnloadTime: 665.970300 ms
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-10/25/2023 12:49:39: Steam initialized, persona:tjgolubi
-10/25/2023 12:49:39: PlayFab custom ID set to "Steam_76561198290658520"
-10/25/2023 12:49:39: Using default prefs
-10/25/2023 12:49:39: Valheim version: 0.217.25 (network version 15)
-10/25/2023 12:49:39: Worldgenerator version setup:2
-10/25/2023 12:49:39: Render threading mode:MultiThreaded
-10/25/2023 12:49:39: Audioman already exist, destroying self
-10/25/2023 12:49:39: Checking for installed DLCs
-10/25/2023 12:49:39: DLC:beta installed:False
-
-Unloading 6505 unused Assets to reduce memory usage. Loaded Objects now: 155679.
-Total: 245.148300 ms (FindLiveObjects: 5.517300 ms CreateObjectMapping: 7.946300 ms MarkObjects: 224.857000 ms  DeleteObjects: 6.827400 ms)
-
-Event.Use() should not be called for events of type repaint
-10/25/2023 12:49:39: Session auth respons callback
-10/25/2023 12:49:39: Starting music menu
-10/25/2023 12:49:39: Activating default element Start game
-Event.Use() should not be called for events of type repaint
-Event.Use() should not be called for events of type repaint
-10/25/2023 12:49:41: Activating default element Start game
-10/25/2023 12:49:45: show character selection
-10/25/2023 12:49:46: Button pressed Start  frame:8905
-10/25/2023 12:49:46: OnCharacterStart
-10/25/2023 12:49:48: Button pressed Server Options  frame:9043
-10/25/2023 12:50:01: Button pressed Done  frame:9802
-10/25/2023 12:50:01: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 12:50:01: No autobackup needed yet...
-10/25/2023 12:50:03: Button pressed Start  frame:9935
-10/25/2023 12:50:04: Loading main scene
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.797400 ms
-10/25/2023 12:50:04: Steam initialized, persona:tjgolubi
-10/25/2023 12:50:04: PlayFab custom ID set to "Steam_76561198290658520"
-10/25/2023 12:50:04: Using default prefs
-10/25/2023 12:50:04: Loading player profile terry
-10/25/2023 12:50:04: isModded: False
-10/25/2023 12:50:04: Zonesystem Awake 10025
-10/25/2023 12:50:04: DungeonDB Awake 10025
-10/25/2023 12:50:04: Steam initialized, persona:tjgolubi
-10/25/2023 12:50:04: Worldgenerator version setup:2
-10/25/2023 12:50:06: Audioman already exist, destroying self
-10/25/2023 12:50:06: Checking for installed DLCs
-10/25/2023 12:50:06: DLC:beta installed:False
-
-Unloading 123 unused Assets to reduce memory usage. Loaded Objects now: 159954.
-Total: 190.992200 ms (FindLiveObjects: 5.325000 ms CreateObjectMapping: 8.721400 ms MarkObjects: 176.240300 ms  DeleteObjects: 0.705300 ms)
-
-10/25/2023 12:50:09: Zonesystem Start 10025
-10/25/2023 12:50:10: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-10/25/2023 12:50:10: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-10/25/2023 12:50:10: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-10/25/2023 12:50:10: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-10/25/2023 12:50:10: DungeonDB Start 10025
-10/25/2023 12:50:10: ZRpc timeout set to 30s 
-10/25/2023 12:50:10: ZNET START
-10/25/2023 12:50:10: Load world: Famheim (Famheim)
-10/25/2023 12:50:10: Loading 421364 zdos, my sessionID: 1526128583, data version: 32
-10/25/2023 12:50:10: Creating ZDOs
-10/25/2023 12:50:10: Loading in ZDOs
-10/25/2023 12:50:10: Adding to Dictionary
-10/25/2023 12:50:10: Adding to Sectors
-10/25/2023 12:50:10: Connecting Portals, Spawners & ZSyncTransforms
-ConnectSpawners => Connected 0 spawners and 568 'done' spawners.
-10/25/2023 12:50:10: Loaded 10076 locations
-10/25/2023 12:50:10: Unloading unused assets
-Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-10/25/2023 12:50:10: Starting respawn
-10/25/2023 12:50:10: Session auth respons callback
-10/25/2023 12:50:15: Unpacking compressed mapdata 17252
-10/25/2023 12:50:16: Activating default element Texts
-10/25/2023 12:50:16: tip:$loadscreen_tip08
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733257.
-Total: 551.146700 ms (FindLiveObjects: 80.273700 ms CreateObjectMapping: 26.677400 ms MarkObjects: 443.489400 ms  DeleteObjects: 0.705900 ms)
-
-10/25/2023 12:50:20: Force generating hmap (-256.0, 0.0, 512.0)
-10/25/2023 12:50:20: Force generating hmap (-256.0, 0.0, 448.0)
-10/25/2023 12:50:20: Force generating hmap (-320.0, 0.0, 448.0)
-10/25/2023 12:50:20: Force generating hmap (-320.0, 0.0, 512.0)
-10/25/2023 12:50:20: Force generating hmap (-128.0, 0.0, 576.0)
-10/25/2023 12:50:24: Spawned after 8.019994
-10/25/2023 12:50:24: Skipping unloading unused assets
-10/25/2023 12:50:24: Minimap: Adding unique location (131.9, 39.6, 260.8)
-10/25/2023 12:50:24: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
-10/25/2023 12:50:24: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
-10/25/2023 12:50:30: Spawned Greydwarf x 1
-10/25/2023 12:50:52: Disabling PlayerBase  character_trigger
-10/25/2023 12:50:52: Disabling PlayerBase  character_trigger
-10/25/2023 12:50:54: Spawned FireFlies x 1
-10/25/2023 12:51:19: Placed wood_stair
-10/25/2023 12:51:24: Disabling jump_trigger  character_trigger
-10/25/2023 12:51:24: Disabling jump_trigger (1)  character_trigger
-10/25/2023 12:51:24: Disabling jump_trigger (2)  character_trigger
-10/25/2023 12:51:41: Placed piece_chest
-10/25/2023 12:51:43: Placed piece_chest
-10/25/2023 12:51:45: Placed piece_chest
-10/25/2023 12:51:56: Placed piece_chest
-10/25/2023 12:52:06: Spawned FireFlies x 1
-10/25/2023 12:52:07: Placed piece_chest
-10/25/2023 12:52:12: Placed piece_chest
-10/25/2023 12:52:18: Placed piece_chest
-10/25/2023 12:52:23: Placed piece_chest
-10/25/2023 12:52:31: Placed piece_chest
-10/25/2023 12:52:37: Placed piece_chest
-10/25/2023 12:52:40: Placed piece_chest
-10/25/2023 12:52:44: Placed piece_chest
-10/25/2023 12:52:48: Activating default element Continue
-10/25/2023 12:52:49: Activating default element Button_no
-10/25/2023 12:52:50: Shuting down
-10/25/2023 12:52:50: Uncompressed size 8394618
-10/25/2023 12:52:50: Compressed size 17252
-10/25/2023 12:52:50: Considering autobackup. World time: 151.52, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 12:52:50: Skipping backup. World session not long enough.
-10/25/2023 12:52:50: ZNet Shutdown
-10/25/2023 12:52:50: PrepareSave: clone done in 35ms
-10/25/2023 12:52:50: PrepareSave: ZDOExtraData.PrepareSave done in 35 ms
-10/25/2023 12:52:50: World save writing starting
-10/25/2023 12:52:50: World save writing started
-10/25/2023 12:52:50: Saved 421377 ZDOs
-10/25/2023 12:52:51: World save writing finishing
-10/25/2023 12:52:51: World save writing finished
-10/25/2023 12:52:51: World saved ( 706.2909ms )
-10/25/2023 12:52:51: Considering autobackup. World time: 151.52, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 12:52:51: Skipping backup. World session not long enough.
-10/25/2023 12:52:51: Unloading unused assets
+10/25/2023 13:53:12: Uncompressed size 8394618
+10/25/2023 13:53:12: Compressed size 17252
+10/25/2023 13:53:12: Considering autobackup. World time: 2502, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 13:53:12: No autobackup needed yet...
+10/25/2023 13:53:12: PrepareSave: clone done in 24ms
+10/25/2023 13:53:12: PrepareSave: ZDOExtraData.PrepareSave done in 47 ms
+10/25/2023 13:53:12: World save writing starting
+10/25/2023 13:53:12: World save writing started
+10/25/2023 13:53:12: Spawned FireFlies x 1
+10/25/2023 13:53:13: Saved 420774 ZDOs
+10/25/2023 13:53:13: World save writing finishing
+10/25/2023 13:53:13: World save writing finished
+10/25/2023 13:53:13: World saved ( 843.4678ms )
+10/25/2023 13:53:13: Considering autobackup. World time: 2503.02, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 13:53:13: No autobackup needed yet...
+10/25/2023 13:53:15: Starting music home
+10/25/2023 13:53:15: Resumed music home at 1166591
+10/25/2023 13:53:18: Starting music morning
+10/25/2023 13:53:18: Stopped music home at 1312414
+10/25/2023 13:53:39: Placed raise_v2
+10/25/2023 13:53:41: Placed raise_v2
+10/25/2023 13:53:43: Placed raise_v2
+10/25/2023 13:53:44: Placed raise_v2
+10/25/2023 13:53:45: Placed raise_v2
+10/25/2023 13:53:47: Placed raise_v2
+10/25/2023 13:53:48: Placed raise_v2
+10/25/2023 13:53:49: Placed raise_v2
+10/25/2023 13:53:52: Starting music meadows
+10/25/2023 13:53:52: Resumed music meadows at 5532250
+10/25/2023 13:53:54: Placed raise_v2
+10/25/2023 13:53:59: Placed raise_v2
+10/25/2023 13:54:01: Placed raise_v2
+10/25/2023 13:54:04: Placed raise_v2
+10/25/2023 13:54:08: Placed raise_v2
+10/25/2023 13:54:11: Placed raise_v2
+10/25/2023 13:54:19: Placed raise_v2
+10/25/2023 13:54:22: Placed raise_v2
+10/25/2023 13:54:24: Placed raise_v2
+10/25/2023 13:54:27: Placed raise_v2
+10/25/2023 13:54:28: Placed raise_v2
+10/25/2023 13:54:29: Placed raise_v2
+10/25/2023 13:54:30: Placed raise_v2
+10/25/2023 13:54:30: Placed raise_v2
+10/25/2023 13:54:31: Placed raise_v2
+10/25/2023 13:54:32: Placed raise_v2
+10/25/2023 13:54:33: Placed raise_v2
+10/25/2023 13:54:35: Update PlayFab entity token
+10/25/2023 13:54:35: Placed raise_v2
+10/25/2023 13:54:40: Placed raise_v2
+10/25/2023 13:54:44: Placed raise_v2
+10/25/2023 13:54:46: Placed raise_v2
+10/25/2023 13:54:51: Placed raise_v2
+10/25/2023 13:54:51: Placed raise_v2
+10/25/2023 13:54:56: Placed raise_v2
+10/25/2023 13:54:58: Placed raise_v2
+10/25/2023 13:54:59: Placed raise_v2
+10/25/2023 13:54:59: Placed raise_v2
+10/25/2023 13:55:01: Placed raise_v2
+10/25/2023 13:55:02: Placed raise_v2
+10/25/2023 13:55:02: Placed raise_v2
+10/25/2023 13:55:03: Placed raise_v2
+10/25/2023 13:55:04: Placed raise_v2
+10/25/2023 13:55:05: Placed raise_v2
+10/25/2023 13:55:05: Placed raise_v2
+10/25/2023 13:55:05: Placed raise_v2
+10/25/2023 13:55:07: Placed raise_v2
+10/25/2023 13:55:07: Placed raise_v2
+10/25/2023 13:55:08: Placed raise_v2
+10/25/2023 13:55:10: Placed raise_v2
+10/25/2023 13:55:13: Placed raise_v2
+10/25/2023 13:55:15: Placed raise_v2
+10/25/2023 13:55:17: Placed raise_v2
+10/25/2023 13:55:18: Placed raise_v2
+10/25/2023 13:55:19: Placed raise_v2
+10/25/2023 13:55:20: Placed raise_v2
+10/25/2023 13:55:21: Placed raise_v2
+10/25/2023 13:55:22: Placed raise_v2
+10/25/2023 13:55:23: Placed raise_v2
+10/25/2023 13:55:26: Placed raise_v2
+10/25/2023 13:55:27: Placed raise_v2
+10/25/2023 13:55:28: Placed raise_v2
+10/25/2023 13:55:30: Placed raise_v2
+10/25/2023 13:55:31: Placed raise_v2
+10/25/2023 13:55:34: Placed raise_v2
+10/25/2023 13:55:36: Placed raise_v2
+10/25/2023 13:55:37: Placed raise_v2
+10/25/2023 13:55:39: Placed raise_v2
+10/25/2023 13:55:40: Placed raise_v2
+10/25/2023 13:55:42: Placed raise_v2
+10/25/2023 13:55:44: Placed raise_v2
+10/25/2023 13:55:46: Placed raise_v2
+10/25/2023 13:55:47: Placed raise_v2
+10/25/2023 13:55:49: Placed raise_v2
+10/25/2023 13:55:50: Placed raise_v2
+10/25/2023 13:55:52: Placed raise_v2
+10/25/2023 13:55:57: Placed raise_v2
+10/25/2023 13:55:57: Placed raise_v2
+10/25/2023 13:55:58: Placed raise_v2
+10/25/2023 13:55:59: Placed raise_v2
+10/25/2023 13:56:00: Placed raise_v2
+10/25/2023 13:56:03: Placed raise_v2
+10/25/2023 13:56:05: Placed raise_v2
+10/25/2023 13:56:06: Placed raise_v2
+10/25/2023 13:56:06: Placed raise_v2
+10/25/2023 13:56:07: Placed raise_v2
+10/25/2023 13:56:10: Placed raise_v2
+10/25/2023 13:56:10: Placed raise_v2
+10/25/2023 13:56:11: Placed raise_v2
+10/25/2023 13:56:16: Placed raise_v2
+10/25/2023 13:56:18: Placed raise_v2
+10/25/2023 13:56:19: Placed raise_v2
+10/25/2023 13:56:22: Placed raise_v2
+10/25/2023 13:56:23: Placed raise_v2
+10/25/2023 13:56:24: Placed raise_v2
+10/25/2023 13:56:25: Placed raise_v2
+10/25/2023 13:56:33: Placed raise_v2
+10/25/2023 13:56:40: Placed raise_v2
+10/25/2023 13:56:41: Placed raise_v2
+10/25/2023 13:56:46: Placed raise_v2
+10/25/2023 13:56:51: Placed raise_v2
+10/25/2023 13:56:52: Placed raise_v2
+10/25/2023 13:56:54: Placed raise_v2
+10/25/2023 13:56:56: Placed raise_v2
+10/25/2023 13:56:57: Placed raise_v2
+10/25/2023 13:56:59: Placed raise_v2
+10/25/2023 13:57:00: Placed raise_v2
+10/25/2023 13:57:01: Placed raise_v2
+10/25/2023 13:57:02: Placed raise_v2
+10/25/2023 13:57:04: Placed raise_v2
+10/25/2023 13:57:06: Placed raise_v2
+10/25/2023 13:57:07: Placed raise_v2
+10/25/2023 13:57:09: Placed raise_v2
+10/25/2023 13:57:15: Placed raise_v2
+10/25/2023 13:57:16: Placed raise_v2
+10/25/2023 13:57:17: Placed raise_v2
+10/25/2023 13:57:21: Placed raise_v2
+10/25/2023 13:57:23: Placed raise_v2
+10/25/2023 13:57:25: Placed raise_v2
+10/25/2023 13:57:27: Placed raise_v2
+10/25/2023 13:57:29: Placed raise_v2
+10/25/2023 13:57:31: Placed raise_v2
+10/25/2023 13:57:32: Placed raise_v2
+10/25/2023 13:57:34: Placed raise_v2
+10/25/2023 13:57:35: Placed raise_v2
+10/25/2023 13:57:36: Placed raise_v2
+10/25/2023 13:57:39: Placed raise_v2
+10/25/2023 13:57:43: Placed raise_v2
+10/25/2023 13:57:44: Placed raise_v2
+10/25/2023 13:57:45: Placed raise_v2
+10/25/2023 13:57:46: Placed raise_v2
+10/25/2023 13:57:51: Placed raise_v2
+10/25/2023 13:57:53: Placed raise_v2
+10/25/2023 13:57:54: Placed raise_v2
+10/25/2023 13:57:55: Placed raise_v2
+10/25/2023 13:57:56: Placed raise_v2
+10/25/2023 13:57:57: Placed raise_v2
+10/25/2023 13:57:58: Placed raise_v2
+10/25/2023 13:57:59: Placed raise_v2
+10/25/2023 13:58:02: Placed raise_v2
+10/25/2023 13:58:03: Placed raise_v2
+10/25/2023 13:58:04: Placed raise_v2
+10/25/2023 13:58:05: Placed raise_v2
+10/25/2023 13:58:08: Placed raise_v2
+10/25/2023 13:58:09: Placed raise_v2
+10/25/2023 13:58:10: Placed raise_v2
+10/25/2023 13:58:12: Placed raise_v2
+10/25/2023 13:58:13: Placed raise_v2
+10/25/2023 13:58:14: Placed raise_v2
+10/25/2023 13:58:16: Placed raise_v2
+10/25/2023 13:58:17: Placed raise_v2
+10/25/2023 13:58:19: Placed raise_v2
+10/25/2023 13:58:24: Placed raise_v2
+10/25/2023 13:58:25: Placed raise_v2
+10/25/2023 13:58:26: Placed raise_v2
+10/25/2023 13:58:29: Placed raise_v2
+10/25/2023 13:58:30: Placed raise_v2
+10/25/2023 13:58:31: Placed raise_v2
+10/25/2023 13:58:32: Placed raise_v2
+10/25/2023 13:58:35: Placed raise_v2
+10/25/2023 13:58:36: Placed raise_v2
+10/25/2023 13:58:36: Placed raise_v2
+10/25/2023 13:58:37: Placed raise_v2
+10/25/2023 13:58:41: Placed raise_v2
+10/25/2023 13:58:45: Placed raise_v2
+10/25/2023 13:58:47: Placed raise_v2
+10/25/2023 13:58:49: Placed raise_v2
+10/25/2023 13:58:52: Placed raise_v2
+10/25/2023 13:58:53: Placed raise_v2
+10/25/2023 13:58:57: Placed raise_v2
+10/25/2023 13:59:23: Disabling PlayerBase  character_trigger
+10/25/2023 13:59:31: Placed wood_pole2
+10/25/2023 13:59:42: Placed wood_pole2
+10/25/2023 13:59:50: Placed wood_pole
+10/25/2023 14:00:02: Placed wood_beam
+10/25/2023 14:00:04: Placed wood_beam
+10/25/2023 14:00:07: Placed wood_beam
+10/25/2023 14:02:28: Placed mud_road_v2
+10/25/2023 14:02:28: Placed mud_road_v2
+10/25/2023 14:02:30: Placed mud_road_v2
+10/25/2023 14:02:31: Placed mud_road_v2
+10/25/2023 14:02:36: Placed mud_road_v2
+10/25/2023 14:02:38: Placed mud_road_v2
+10/25/2023 14:02:39: Placed mud_road_v2
+10/25/2023 14:02:42: Placed mud_road_v2
+10/25/2023 14:02:43: Placed mud_road_v2
+10/25/2023 14:02:44: Placed mud_road_v2
+10/25/2023 14:02:45: Placed mud_road_v2
+10/25/2023 14:02:45: Placed mud_road_v2
+10/25/2023 14:02:46: Placed mud_road_v2
+10/25/2023 14:02:46: Placed mud_road_v2
+10/25/2023 14:02:47: Placed mud_road_v2
+10/25/2023 14:02:48: Placed mud_road_v2
+10/25/2023 14:02:49: Placed mud_road_v2
+10/25/2023 14:02:50: Placed mud_road_v2
+10/25/2023 14:02:51: Placed mud_road_v2
+10/25/2023 14:02:52: Placed mud_road_v2
+10/25/2023 14:02:53: Placed mud_road_v2
+10/25/2023 14:02:54: Placed mud_road_v2
+10/25/2023 14:02:55: Placed mud_road_v2
+10/25/2023 14:02:56: Placed mud_road_v2
+10/25/2023 14:02:57: Placed mud_road_v2
+10/25/2023 14:02:58: Placed mud_road_v2
+10/25/2023 14:02:58: Placed mud_road_v2
+10/25/2023 14:03:00: Placed mud_road_v2
+10/25/2023 14:03:00: Placed mud_road_v2
+10/25/2023 14:03:01: Placed mud_road_v2
+10/25/2023 14:03:02: Placed mud_road_v2
+10/25/2023 14:03:03: Placed mud_road_v2
+10/25/2023 14:03:03: Placed mud_road_v2
+10/25/2023 14:03:04: Placed mud_road_v2
+10/25/2023 14:03:06: Placed mud_road_v2
+10/25/2023 14:03:07: Placed mud_road_v2
+10/25/2023 14:03:08: Placed mud_road_v2
+10/25/2023 14:03:09: Placed mud_road_v2
+10/25/2023 14:03:10: Placed mud_road_v2
+10/25/2023 14:03:11: Placed mud_road_v2
+10/25/2023 14:03:12: Placed mud_road_v2
+10/25/2023 14:03:15: Placed mud_road_v2
+10/25/2023 14:03:16: Placed mud_road_v2
+10/25/2023 14:03:17: Placed mud_road_v2
+10/25/2023 14:03:18: Placed mud_road_v2
+10/25/2023 14:03:19: Placed mud_road_v2
+10/25/2023 14:03:19: Placed mud_road_v2
+10/25/2023 14:03:20: Placed mud_road_v2
+10/25/2023 14:03:22: Placed mud_road_v2
+10/25/2023 14:03:23: Placed mud_road_v2
+10/25/2023 14:03:24: Placed mud_road_v2
+10/25/2023 14:03:26: Placed mud_road_v2
+10/25/2023 14:03:28: Placed mud_road_v2
+10/25/2023 14:03:29: Placed mud_road_v2
+10/25/2023 14:03:29: Placed mud_road_v2
+10/25/2023 14:03:31: Placed mud_road_v2
+10/25/2023 14:03:32: Placed mud_road_v2
+10/25/2023 14:03:33: Placed mud_road_v2
+10/25/2023 14:03:34: Placed mud_road_v2
+10/25/2023 14:03:38: Placed mud_road_v2
+10/25/2023 14:03:39: Placed mud_road_v2
+10/25/2023 14:03:41: Placed mud_road_v2
+10/25/2023 14:03:42: Placed mud_road_v2
+10/25/2023 14:03:43: Placed mud_road_v2
+10/25/2023 14:03:48: Placed mud_road_v2
+10/25/2023 14:03:48: Placed mud_road_v2
+10/25/2023 14:03:49: Placed mud_road_v2
+10/25/2023 14:03:49: Placed mud_road_v2
+10/25/2023 14:03:50: Placed mud_road_v2
+10/25/2023 14:03:51: Placed mud_road_v2
+10/25/2023 14:03:52: Placed mud_road_v2
+10/25/2023 14:03:52: Placed mud_road_v2
+10/25/2023 14:03:53: Placed mud_road_v2
+10/25/2023 14:03:54: Placed mud_road_v2
+10/25/2023 14:03:55: Placed mud_road_v2
+10/25/2023 14:03:56: Placed mud_road_v2
+10/25/2023 14:03:57: Placed mud_road_v2
+10/25/2023 14:03:58: Placed mud_road_v2
+10/25/2023 14:03:59: Placed mud_road_v2
+10/25/2023 14:04:00: Placed mud_road_v2
+10/25/2023 14:04:02: Placed mud_road_v2
+10/25/2023 14:04:02: Placed mud_road_v2
+10/25/2023 14:04:03: Placed mud_road_v2
+10/25/2023 14:04:04: Placed mud_road_v2
+10/25/2023 14:04:05: Placed mud_road_v2
+10/25/2023 14:04:06: Placed mud_road_v2
+10/25/2023 14:04:08: Placed mud_road_v2
+10/25/2023 14:04:09: Placed mud_road_v2
+10/25/2023 14:04:10: Placed mud_road_v2
+10/25/2023 14:04:11: Placed mud_road_v2
+10/25/2023 14:04:15: Placed mud_road_v2
+10/25/2023 14:04:16: Placed mud_road_v2
+10/25/2023 14:04:17: Placed mud_road_v2
+10/25/2023 14:04:24: Placed mud_road_v2
+10/25/2023 14:04:24: Placed mud_road_v2
+10/25/2023 14:04:25: Placed mud_road_v2
+10/25/2023 14:04:25: Placed mud_road_v2
+10/25/2023 14:04:26: Placed mud_road_v2
+10/25/2023 14:05:02: Placed mud_road_v2
+10/25/2023 14:05:03: Placed mud_road_v2
+10/25/2023 14:05:04: Placed mud_road_v2
+10/25/2023 14:05:04: Placed mud_road_v2
+10/25/2023 14:05:05: Placed mud_road_v2
+10/25/2023 14:05:06: Placed mud_road_v2
+10/25/2023 14:05:07: Placed mud_road_v2
+10/25/2023 14:05:08: Placed mud_road_v2
+10/25/2023 14:05:10: Placed mud_road_v2
+10/25/2023 14:05:11: Placed mud_road_v2
+10/25/2023 14:05:13: Placed mud_road_v2
+10/25/2023 14:05:15: Placed mud_road_v2
+10/25/2023 14:05:16: Placed mud_road_v2
+10/25/2023 14:05:17: Placed mud_road_v2
+10/25/2023 14:05:18: Placed mud_road_v2
+10/25/2023 14:05:19: Placed mud_road_v2
+10/25/2023 14:05:34: Placed mud_road_v2
+10/25/2023 14:05:37: Placed mud_road_v2
+10/25/2023 14:05:38: Placed mud_road_v2
+10/25/2023 14:05:39: Placed mud_road_v2
+10/25/2023 14:05:40: Placed mud_road_v2
+10/25/2023 14:08:13: Placed mud_road_v2
+10/25/2023 14:08:13: Placed mud_road_v2
+10/25/2023 14:08:14: Placed mud_road_v2
+10/25/2023 14:08:14: Placed mud_road_v2
+10/25/2023 14:08:15: Placed mud_road_v2
+10/25/2023 14:08:16: Placed mud_road_v2
+10/25/2023 14:08:16: Placed mud_road_v2
+10/25/2023 14:08:17: Placed mud_road_v2
+10/25/2023 14:08:18: Placed mud_road_v2
+10/25/2023 14:08:19: Placed mud_road_v2
+10/25/2023 14:08:20: Placed mud_road_v2
+10/25/2023 14:08:20: Placed mud_road_v2
+10/25/2023 14:08:21: Placed mud_road_v2
+10/25/2023 14:08:22: Placed mud_road_v2
+10/25/2023 14:08:22: Placed mud_road_v2
+10/25/2023 14:08:23: Placed mud_road_v2
+10/25/2023 14:08:24: Placed mud_road_v2
+10/25/2023 14:08:24: Placed mud_road_v2
+10/25/2023 14:08:25: Placed mud_road_v2
+10/25/2023 14:08:26: Placed mud_road_v2
+10/25/2023 14:08:28: Placed mud_road_v2
+10/25/2023 14:08:29: Placed mud_road_v2
+10/25/2023 14:08:30: Placed mud_road_v2
+10/25/2023 14:08:31: Placed mud_road_v2
+10/25/2023 14:08:33: Placed mud_road_v2
+10/25/2023 14:08:34: Placed mud_road_v2
+10/25/2023 14:08:35: Placed mud_road_v2
+10/25/2023 14:08:37: Placed mud_road_v2
+10/25/2023 14:08:38: Placed mud_road_v2
+10/25/2023 14:08:39: Placed mud_road_v2
+10/25/2023 14:08:41: Placed mud_road_v2
+10/25/2023 14:09:04: Placed mud_road_v2
+10/25/2023 14:09:05: Placed mud_road_v2
+10/25/2023 14:09:05: Placed mud_road_v2
+10/25/2023 14:09:13: Placed mud_road_v2
+10/25/2023 14:09:13: Placed mud_road_v2
+10/25/2023 14:09:14: Placed mud_road_v2
+10/25/2023 14:09:15: Placed mud_road_v2
+10/25/2023 14:09:16: Placed mud_road_v2
+10/25/2023 14:09:17: Placed mud_road_v2
+10/25/2023 14:09:18: Placed mud_road_v2
+10/25/2023 14:09:21: Placed mud_road_v2
+10/25/2023 14:09:22: Placed mud_road_v2
+10/25/2023 14:09:23: Placed mud_road_v2
+10/25/2023 14:09:25: Placed mud_road_v2
+10/25/2023 14:09:26: Placed mud_road_v2
+10/25/2023 14:09:28: Placed mud_road_v2
+10/25/2023 14:09:29: Placed mud_road_v2
+10/25/2023 14:09:31: Placed mud_road_v2
+10/25/2023 14:09:33: Placed mud_road_v2
+10/25/2023 14:09:49: Placed mud_road_v2
+10/25/2023 14:09:50: Placed mud_road_v2
+10/25/2023 14:09:50: Placed mud_road_v2
+10/25/2023 14:09:51: Placed mud_road_v2
+10/25/2023 14:09:53: Placed mud_road_v2
+10/25/2023 14:09:54: Placed mud_road_v2
+10/25/2023 14:10:07: Placed mud_road_v2
+10/25/2023 14:10:08: Placed mud_road_v2
+10/25/2023 14:10:09: Placed mud_road_v2
+10/25/2023 14:10:10: Placed mud_road_v2
+10/25/2023 14:10:11: Placed mud_road_v2
+10/25/2023 14:10:12: Placed mud_road_v2
+10/25/2023 14:10:13: Placed mud_road_v2
+10/25/2023 14:10:16: Placed mud_road_v2
+10/25/2023 14:10:17: Placed mud_road_v2
+10/25/2023 14:10:18: Placed mud_road_v2
+10/25/2023 14:10:34: Placed mud_road_v2
+10/25/2023 14:10:35: Placed mud_road_v2
+10/25/2023 14:10:36: Placed mud_road_v2
+10/25/2023 14:10:37: Placed mud_road_v2
+10/25/2023 14:10:37: Placed mud_road_v2
+10/25/2023 14:10:38: Update PlayFab entity token
+10/25/2023 14:10:39: Placed mud_road_v2
+10/25/2023 14:10:40: Placed mud_road_v2
+10/25/2023 14:10:42: Placed mud_road_v2
+10/25/2023 14:10:43: Placed mud_road_v2
+10/25/2023 14:10:45: Placed mud_road_v2
+10/25/2023 14:10:46: Placed mud_road_v2
+10/25/2023 14:11:01: Placed mud_road_v2
+10/25/2023 14:11:03: Placed mud_road_v2
+10/25/2023 14:11:06: Placed mud_road_v2
+10/25/2023 14:11:07: Placed mud_road_v2
+10/25/2023 14:11:09: Placed mud_road_v2
+10/25/2023 14:11:10: Placed mud_road_v2
+10/25/2023 14:11:12: Placed mud_road_v2
+10/25/2023 14:11:27: Placed mud_road_v2
+10/25/2023 14:11:28: Placed mud_road_v2
+10/25/2023 14:11:29: Placed mud_road_v2
+10/25/2023 14:11:30: Placed mud_road_v2
+10/25/2023 14:11:30: Skipping unloading unused assets
+10/25/2023 14:11:31: Placed mud_road_v2
+10/25/2023 14:11:31: Placed mud_road_v2
+10/25/2023 14:11:32: Placed mud_road_v2
+10/25/2023 14:11:33: Placed mud_road_v2
+10/25/2023 14:11:34: Placed mud_road_v2
+10/25/2023 14:11:36: Placed mud_road_v2
+10/25/2023 14:11:39: Placed mud_road_v2
+10/25/2023 14:11:41: Placed mud_road_v2
+10/25/2023 14:11:42: Placed mud_road_v2
+10/25/2023 14:11:49: Placed mud_road_v2
+10/25/2023 14:11:50: Placed mud_road_v2
+10/25/2023 14:11:53: Placed mud_road_v2
+10/25/2023 14:12:22: Placed mud_road_v2
+10/25/2023 14:12:23: Placed mud_road_v2
+10/25/2023 14:12:24: Placed mud_road_v2
+10/25/2023 14:12:25: Placed mud_road_v2
+10/25/2023 14:12:25: Placed mud_road_v2
+10/25/2023 14:12:26: Placed mud_road_v2
+10/25/2023 14:12:27: Placed mud_road_v2
+10/25/2023 14:12:28: Placed mud_road_v2
+10/25/2023 14:12:28: Placed mud_road_v2
+10/25/2023 14:12:29: Placed mud_road_v2
+10/25/2023 14:12:31: Placed mud_road_v2
+10/25/2023 14:12:33: Placed mud_road_v2
+10/25/2023 14:12:34: Placed mud_road_v2
+10/25/2023 14:12:34: Placed mud_road_v2
+10/25/2023 14:12:35: Placed mud_road_v2
+10/25/2023 14:12:36: Placed mud_road_v2
+10/25/2023 14:12:37: Placed mud_road_v2
+10/25/2023 14:12:37: Placed mud_road_v2
+10/25/2023 14:12:38: Placed mud_road_v2
+10/25/2023 14:12:39: Placed mud_road_v2
+10/25/2023 14:12:40: Placed mud_road_v2
+10/25/2023 14:12:40: Placed mud_road_v2
+10/25/2023 14:12:47: Placed mud_road_v2
+10/25/2023 14:12:47: Placed mud_road_v2
+10/25/2023 14:12:48: Placed mud_road_v2
+10/25/2023 14:12:48: Placed mud_road_v2
+10/25/2023 14:12:48: Placed mud_road_v2
+10/25/2023 14:12:50: Placed mud_road_v2
+10/25/2023 14:12:50: Placed mud_road_v2
+10/25/2023 14:12:51: Placed mud_road_v2
+10/25/2023 14:12:51: Placed mud_road_v2
+10/25/2023 14:12:52: Placed mud_road_v2
+10/25/2023 14:12:52: Placed mud_road_v2
+10/25/2023 14:12:54: Placed mud_road_v2
+10/25/2023 14:12:55: Placed mud_road_v2
+10/25/2023 14:12:57: Placed mud_road_v2
+10/25/2023 14:12:58: Placed mud_road_v2
+10/25/2023 14:13:00: Placed mud_road_v2
+10/25/2023 14:13:01: Placed mud_road_v2
+10/25/2023 14:13:03: Placed mud_road_v2
+10/25/2023 14:13:04: Placed mud_road_v2
+10/25/2023 14:13:05: Placed mud_road_v2
+10/25/2023 14:13:06: Placed mud_road_v2
+10/25/2023 14:14:13: Starting music evening
+10/25/2023 14:14:14: Stopped music meadows at 1172057
+10/25/2023 14:14:16: Spawned Greydwarf x 1
+10/25/2023 14:14:16: Spawned Greydwarf x 2
+10/25/2023 14:14:16: Spawned Greydwarf_Elite x 1
+10/25/2023 14:14:16: Spawned Greydwarf_Shaman x 1
+10/25/2023 14:14:16: Spawned Greydwarf_Shaman x 1
+10/25/2023 14:14:16: Spawned FireFlies x 1
+10/25/2023 14:14:16: Spawned FireFlies x 1
+10/25/2023 14:14:23: Is mine
+10/25/2023 14:14:23: is current spawnpoint
+10/25/2023 14:14:23: exporeusre check 0.9411765  True
+10/25/2023 14:14:23: Ignoring 2 colliders
+10/25/2023 14:14:24: Time 1158942.47998229, day:643    nextm:1159470.00001073  skipspeed:43.9600023701787
+10/25/2023 14:14:28: Spawned FireFlies x 1
+10/25/2023 14:14:29: Unloading unused assets
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-10/25/2023 12:52:51: Sending disconnect msg
-ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-10/25/2023 12:52:51: Local player destroyed
 
-Unloading 1423 unused Assets to reduce memory usage. Loaded Objects now: 1738977.
-Total: 572.745000 ms (FindLiveObjects: 86.444800 ms CreateObjectMapping: 26.526700 ms MarkObjects: 456.968500 ms  DeleteObjects: 2.804500 ms)
+Unloading 1282 unused Assets to reduce memory usage. Loaded Objects now: 2006569.
+Total: 642.287200 ms (FindLiveObjects: 101.719800 ms CreateObjectMapping: 26.980700 ms MarkObjects: 509.324400 ms  DeleteObjects: 4.262100 ms)
 
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-10/25/2023 12:52:52: ZNet OnDestroy
-10/25/2023 12:52:52: Net scene destroyed
-UnloadTime: 676.489900 ms
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-10/25/2023 12:52:52: Steam initialized, persona:tjgolubi
-10/25/2023 12:52:52: PlayFab custom ID set to "Steam_76561198290658520"
-10/25/2023 12:52:52: Using default prefs
-10/25/2023 12:52:52: Valheim version: 0.217.25 (network version 15)
-10/25/2023 12:52:52: Worldgenerator version setup:2
-10/25/2023 12:52:52: Render threading mode:MultiThreaded
-10/25/2023 12:52:52: Audioman already exist, destroying self
-10/25/2023 12:52:52: Checking for installed DLCs
-10/25/2023 12:52:52: DLC:beta installed:False
-
-Unloading 6567 unused Assets to reduce memory usage. Loaded Objects now: 155684.
-Total: 261.421500 ms (FindLiveObjects: 6.073600 ms CreateObjectMapping: 9.987600 ms MarkObjects: 238.455700 ms  DeleteObjects: 6.904200 ms)
-
-Event.Use() should not be called for events of type repaint
-10/25/2023 12:52:53: Ticket is System.Byte[] of length 369
-10/25/2023 12:52:53: Session auth respons callback
-10/25/2023 12:52:53: Starting music menu
-10/25/2023 12:52:53: Activating default element Start game
-Event.Use() should not be called for events of type repaint
-Event.Use() should not be called for events of type repaint
-10/25/2023 12:52:54: Activating default element Start game
-10/25/2023 12:52:55: show character selection
-10/25/2023 12:52:56: Button pressed Start  frame:25462
-10/25/2023 12:52:56: OnCharacterStart
-10/25/2023 12:52:59: Button pressed Server Options  frame:25637
-10/25/2023 12:53:19: Button pressed Done  frame:26848
-10/25/2023 12:53:19: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 12:53:19: No autobackup needed yet...
-10/25/2023 12:53:24: Button pressed New world  frame:27154
-10/25/2023 12:53:24: Activating default element NameField
-10/25/2023 12:53:28: Button pressed Cancel  frame:27407
-10/25/2023 12:53:35: Button pressed Start  frame:27823
-10/25/2023 12:53:37: Loading main scene
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.964300 ms
-10/25/2023 12:53:37: Steam initialized, persona:tjgolubi
-10/25/2023 12:53:37: PlayFab custom ID set to "Steam_76561198290658520"
-10/25/2023 12:53:37: Using default prefs
-10/25/2023 12:53:37: Loading player profile terry
-10/25/2023 12:53:37: isModded: False
-10/25/2023 12:53:37: Zonesystem Awake 27914
-10/25/2023 12:53:37: DungeonDB Awake 27914
-10/25/2023 12:53:37: Steam initialized, persona:tjgolubi
-10/25/2023 12:53:37: Worldgenerator version setup:2
-10/25/2023 12:53:39: Audioman already exist, destroying self
-10/25/2023 12:53:39: Checking for installed DLCs
-10/25/2023 12:53:39: DLC:beta installed:False
-
-Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 159965.
-Total: 204.811800 ms (FindLiveObjects: 5.525400 ms CreateObjectMapping: 7.680000 ms MarkObjects: 190.873600 ms  DeleteObjects: 0.732600 ms)
-
-10/25/2023 12:53:42: Zonesystem Start 27914
-10/25/2023 12:53:42: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-10/25/2023 12:53:42: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-10/25/2023 12:53:42: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-10/25/2023 12:53:42: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-10/25/2023 12:53:42: DungeonDB Start 27914
-10/25/2023 12:53:43: ZRpc timeout set to 30s 
-10/25/2023 12:53:43: ZNET START
-10/25/2023 12:53:43: Load world: Famheim (Famheim)
-10/25/2023 12:53:43: Loading 421377 zdos, my sessionID: 853631129, data version: 32
-10/25/2023 12:53:43: Creating ZDOs
-10/25/2023 12:53:43: Loading in ZDOs
-10/25/2023 12:53:43: Adding to Dictionary
-10/25/2023 12:53:43: Adding to Sectors
-10/25/2023 12:53:43: Connecting Portals, Spawners & ZSyncTransforms
-ConnectSpawners => Connected 0 spawners and 568 'done' spawners.
-10/25/2023 12:53:43: Loaded 10076 locations
-10/25/2023 12:53:43: Unloading unused assets
-Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-10/25/2023 12:53:43: Starting respawn
-10/25/2023 12:53:43: Session auth respons callback
-10/25/2023 12:53:48: Unpacking compressed mapdata 17252
-10/25/2023 12:53:48: Activating default element Texts
-10/25/2023 12:53:48: tip:$loadscreen_tip13
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733268.
-Total: 565.439300 ms (FindLiveObjects: 77.926300 ms CreateObjectMapping: 26.735200 ms MarkObjects: 459.880700 ms  DeleteObjects: 0.896600 ms)
-
-10/25/2023 12:53:53: Force generating hmap (-256.0, 0.0, 512.0)
-10/25/2023 12:53:53: Force generating hmap (-320.0, 0.0, 448.0)
-10/25/2023 12:53:53: Force generating hmap (-256.0, 0.0, 448.0)
-10/25/2023 12:53:53: Force generating hmap (-320.0, 0.0, 512.0)
-10/25/2023 12:53:53: Force generating hmap (-128.0, 0.0, 576.0)
-10/25/2023 12:53:53: Force generating hmap (-128.0, 0.0, 640.0)
-10/25/2023 12:53:57: Spawned after 8.019994
-10/25/2023 12:53:57: Skipping unloading unused assets
-10/25/2023 12:53:57: Minimap: Adding unique location (131.9, 39.6, 260.8)
-10/25/2023 12:53:57: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
-10/25/2023 12:53:57: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
-10/25/2023 12:54:08: Setting selected recipe 0
-10/25/2023 12:54:13: Disabling PlayerBase  character_trigger
-10/25/2023 12:54:13: Disabling PlayerBase  character_trigger
-10/25/2023 12:54:17: Update PlayFab entity token
-10/25/2023 12:55:56: Starting music morning
-10/25/2023 12:56:30: Starting music meadows
-10/25/2023 12:56:43: Stopped music meadows at 540959
-10/25/2023 12:56:43: Starting music home
-10/25/2023 12:57:13: Stopped music home at 1335935
-10/25/2023 12:57:13: Starting music meadows
-10/25/2023 12:57:13: Resumed music meadows at 540959
-10/25/2023 13:00:12: Disabling PlayerBase  character_trigger
-10/25/2023 13:00:12: Disabling FireArea  character_trigger
-10/25/2023 13:00:13: Disabling jump_trigger  character_trigger
-10/25/2023 13:00:13: Disabling jump_trigger (1)  character_trigger
-10/25/2023 13:00:13: Disabling jump_trigger (2)  character_trigger
-10/25/2023 13:00:13: Disabling collider_block  blocker
-10/25/2023 13:00:14: Disabling Blocker  blocker
-10/25/2023 13:00:14: Disabling Capsule_blockplayer  blocker
-10/25/2023 13:00:14: Disabling PlayerBase  character_trigger
-10/25/2023 13:00:26: Placed piece_workbench
-10/25/2023 13:00:26: Disabling PlayerBase  character_trigger
-10/25/2023 13:00:35: Disabling PlayerBase  character_trigger
-10/25/2023 13:00:43: Placed piece_workbench
-10/25/2023 13:00:43: Disabling PlayerBase  character_trigger
-10/25/2023 13:00:52: Disabling PlayerBase  character_trigger
-10/25/2023 13:01:09: Placed piece_workbench
-10/25/2023 13:01:09: Disabling PlayerBase  character_trigger
-10/25/2023 13:01:14: Disabling jump_trigger  character_trigger
-10/25/2023 13:01:14: Disabling jump_trigger (1)  character_trigger
-10/25/2023 13:01:14: Disabling jump_trigger (2)  character_trigger
-10/25/2023 13:01:23: Placed wood_roof
-10/25/2023 13:01:27: Placed wood_roof
-10/25/2023 13:01:35: Placed woodwall
-10/25/2023 13:01:39: Placed woodwall
-10/25/2023 13:01:41: Setting selected recipe 11
-10/25/2023 13:01:42: Button pressed RepairButton  frame:69125
-10/25/2023 13:01:51: Disabling jump_trigger  character_trigger
-10/25/2023 13:01:51: Disabling jump_trigger (1)  character_trigger
-10/25/2023 13:01:51: Disabling jump_trigger (2)  character_trigger
-10/25/2023 13:02:20: Disabling PlayerBase  character_trigger
-10/25/2023 13:02:22: Placed piece_workbench
-10/25/2023 13:02:22: Disabling PlayerBase  character_trigger
-10/25/2023 13:02:31: Disabling PlayerBase  character_trigger
-10/25/2023 13:02:34: Disabling Capsule_blockplayer  blocker
-10/25/2023 13:02:34: Disabling Blocker  blocker
-10/25/2023 13:02:34: Disabling collider_block  blocker
-10/25/2023 13:03:41: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:03:41: Setting selected recipe 1
-10/25/2023 13:03:47: Button pressed StackAll  frame:80617
-10/25/2023 13:03:51: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:03:51: Setting selected recipe 0
-10/25/2023 13:04:14: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:04:14: Setting selected recipe 0
-10/25/2023 13:04:15: Button pressed StackAll  frame:83344
-10/25/2023 13:04:26: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:04:26: Setting selected recipe 0
-10/25/2023 13:04:26: Button pressed StackAll  frame:84506
-10/25/2023 13:04:30: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:04:30: Setting selected recipe 0
-10/25/2023 13:04:34: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:04:34: Setting selected recipe 0
-10/25/2023 13:04:36: Button pressed StackAll  frame:85453
-10/25/2023 13:04:44: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:04:44: Setting selected recipe 0
-10/25/2023 13:05:09: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:05:09: Setting selected recipe 1
-10/25/2023 13:05:11: Button pressed StackAll  frame:89108
-10/25/2023 13:05:13: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:05:13: Setting selected recipe 0
-10/25/2023 13:05:14: Button pressed StackAll  frame:89394
-10/25/2023 13:05:19: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:05:19: Setting selected recipe 0
-10/25/2023 13:05:44: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:05:44: Setting selected recipe 1
-10/25/2023 13:05:44: Button pressed StackAll  frame:92601
-10/25/2023 13:05:46: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:05:46: Setting selected recipe 0
-10/25/2023 13:05:47: Button pressed StackAll  frame:92848
-10/25/2023 13:06:05: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:06:05: Setting selected recipe 1
-10/25/2023 13:06:06: Button pressed StackAll  frame:94950
-10/25/2023 13:06:11: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:06:11: Setting selected recipe 0
-10/25/2023 13:06:57: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:06:57: Setting selected recipe 1
-10/25/2023 13:06:58: Button pressed StackAll  frame:100724
-10/25/2023 13:07:00: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:07:00: Setting selected recipe 1
-10/25/2023 13:07:02: Button pressed StackAll  frame:101224
-10/25/2023 13:07:05: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:07:05: Setting selected recipe 1
-10/25/2023 13:07:07: Button pressed StackAll  frame:101727
-10/25/2023 13:08:20: Setting selected recipe 1
-10/25/2023 13:08:23: Setting selected recipe 1
-10/25/2023 13:08:25: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:08:25: Setting selected recipe 1
-10/25/2023 13:08:26: Button pressed StackAll  frame:110047
-10/25/2023 13:08:28: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:08:28: Setting selected recipe 0
-10/25/2023 13:08:29: Button pressed StackAll  frame:110387
-10/25/2023 13:08:56: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:08:56: Setting selected recipe 1
-10/25/2023 13:08:57: Button pressed StackAll  frame:113478
-10/25/2023 13:08:59: Player 853631129 wants to open piece_chest(Clone)   im: 853631129
-10/25/2023 13:08:59: Setting selected recipe 0
-10/25/2023 13:09:00: Button pressed StackAll  frame:113831
-10/25/2023 13:09:39: Activating default element Continue
-10/25/2023 13:09:40: Activating default element Button_no
-10/25/2023 13:09:45: Game - OnApplicationQuit
-10/25/2023 13:09:45: Shuting down
-10/25/2023 13:09:45: Uncompressed size 8394618
-10/25/2023 13:09:45: Compressed size 17252
-10/25/2023 13:09:45: Considering autobackup. World time: 949.74, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 13:09:45: Skipping backup. World session not long enough.
-10/25/2023 13:09:45: ZNet Shutdown
-10/25/2023 13:09:45: PrepareSave: clone done in 39ms
-10/25/2023 13:09:45: PrepareSave: ZDOExtraData.PrepareSave done in 32 ms
-10/25/2023 13:09:45: World save writing starting
-10/25/2023 13:09:45: World save writing started
-10/25/2023 13:09:46: Saved 420731 ZDOs
-10/25/2023 13:09:46: World save writing finishing
-10/25/2023 13:09:46: World save writing finished
-10/25/2023 13:09:46: World saved ( 802.5971ms )
-10/25/2023 13:09:46: Considering autobackup. World time: 949.74, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 13:09:46: Skipping backup. World session not long enough.
-10/25/2023 13:09:46: Unloading unused assets
+10/25/2023 14:14:32: Spawned FireFlies x 1
+10/25/2023 14:14:37: Uncompressed size 8394618
+10/25/2023 14:14:37: Compressed size 17252
+10/25/2023 14:14:37: Considering autobackup. World time: 3786, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 14:14:37: No autobackup needed yet...
+10/25/2023 14:14:37: PrepareSave: clone done in 31ms
+10/25/2023 14:14:37: PrepareSave: ZDOExtraData.PrepareSave done in 33 ms
+10/25/2023 14:14:37: World save writing starting
+10/25/2023 14:14:37: World save writing started
+10/25/2023 14:14:38: Saved 420752 ZDOs
+10/25/2023 14:14:38: World save writing finishing
+10/25/2023 14:14:38: World save writing finished
+10/25/2023 14:14:38: World saved ( 874.9419ms )
+10/25/2023 14:14:38: Considering autobackup. World time: 3787.06, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 14:14:38: No autobackup needed yet...
+10/25/2023 14:14:44: Starting music morning
+10/25/2023 14:14:47: Player 2314519850 wants to open piece_chest(Clone)   im: 2314519850
+10/25/2023 14:14:47: Setting selected recipe 0
+10/25/2023 14:15:18: Starting music meadows
+10/25/2023 14:15:18: Resumed music meadows at 1172057
+10/25/2023 14:15:42: Placed mud_road_v2
+10/25/2023 14:15:43: Placed mud_road_v2
+10/25/2023 14:15:44: Placed mud_road_v2
+10/25/2023 14:15:45: Placed mud_road_v2
+10/25/2023 14:15:46: Placed mud_road_v2
+10/25/2023 14:15:47: Placed mud_road_v2
+10/25/2023 14:15:48: Placed mud_road_v2
+10/25/2023 14:15:48: Placed mud_road_v2
+10/25/2023 14:15:50: Placed mud_road_v2
+10/25/2023 14:15:50: Placed mud_road_v2
+10/25/2023 14:15:51: Placed mud_road_v2
+10/25/2023 14:15:52: Placed mud_road_v2
+10/25/2023 14:15:53: Placed mud_road_v2
+10/25/2023 14:15:54: Placed mud_road_v2
+10/25/2023 14:15:54: Placed mud_road_v2
+10/25/2023 14:15:55: Placed mud_road_v2
+10/25/2023 14:15:57: Placed mud_road_v2
+10/25/2023 14:15:58: Placed mud_road_v2
+10/25/2023 14:15:58: Placed mud_road_v2
+10/25/2023 14:15:59: Placed mud_road_v2
+10/25/2023 14:16:00: Placed mud_road_v2
+10/25/2023 14:16:01: Placed mud_road_v2
+10/25/2023 14:16:02: Placed mud_road_v2
+10/25/2023 14:16:04: Placed mud_road_v2
+10/25/2023 14:16:05: Placed mud_road_v2
+10/25/2023 14:16:06: Placed mud_road_v2
+10/25/2023 14:16:07: Placed mud_road_v2
+10/25/2023 14:16:07: Placed mud_road_v2
+10/25/2023 14:16:08: Placed mud_road_v2
+10/25/2023 14:16:11: Placed mud_road_v2
+10/25/2023 14:16:11: Placed mud_road_v2
+10/25/2023 14:16:12: Placed mud_road_v2
+10/25/2023 14:16:13: Placed mud_road_v2
+10/25/2023 14:16:14: Placed mud_road_v2
+10/25/2023 14:16:14: Placed mud_road_v2
+10/25/2023 14:16:15: Placed mud_road_v2
+10/25/2023 14:16:17: Placed mud_road_v2
+10/25/2023 14:16:19: Placed mud_road_v2
+10/25/2023 14:16:20: Placed mud_road_v2
+10/25/2023 14:16:22: Placed mud_road_v2
+10/25/2023 14:16:22: Placed mud_road_v2
+10/25/2023 14:16:23: Placed mud_road_v2
+10/25/2023 14:16:24: Placed mud_road_v2
+10/25/2023 14:16:25: Placed mud_road_v2
+10/25/2023 14:16:25: Placed mud_road_v2
+10/25/2023 14:16:26: Placed mud_road_v2
+10/25/2023 14:16:28: Placed mud_road_v2
+10/25/2023 14:16:29: Placed mud_road_v2
+10/25/2023 14:16:30: Placed mud_road_v2
+10/25/2023 14:16:30: Placed mud_road_v2
+10/25/2023 14:16:31: Placed mud_road_v2
+10/25/2023 14:16:32: Placed mud_road_v2
+10/25/2023 14:16:33: Placed mud_road_v2
+10/25/2023 14:16:35: Placed mud_road_v2
+10/25/2023 14:16:35: Placed mud_road_v2
+10/25/2023 14:16:36: Placed mud_road_v2
+10/25/2023 14:16:45: Placed mud_road_v2
+10/25/2023 14:16:46: Placed mud_road_v2
+10/25/2023 14:16:47: Placed mud_road_v2
+10/25/2023 14:16:49: Placed mud_road_v2
+10/25/2023 14:16:52: Placed mud_road_v2
+10/25/2023 14:16:52: Placed mud_road_v2
+10/25/2023 14:16:53: Placed mud_road_v2
+10/25/2023 14:16:54: Placed mud_road_v2
+10/25/2023 14:16:55: Placed mud_road_v2
+10/25/2023 14:16:55: Placed mud_road_v2
+10/25/2023 14:16:56: Placed mud_road_v2
+10/25/2023 14:16:57: Placed mud_road_v2
+10/25/2023 14:16:58: Placed mud_road_v2
+10/25/2023 14:16:58: Placed mud_road_v2
+10/25/2023 14:16:59: Placed mud_road_v2
+10/25/2023 14:17:01: Placed mud_road_v2
+10/25/2023 14:17:01: Placed mud_road_v2
+10/25/2023 14:17:02: Placed mud_road_v2
+10/25/2023 14:17:03: Placed mud_road_v2
+10/25/2023 14:17:04: Placed mud_road_v2
+10/25/2023 14:17:05: Placed mud_road_v2
+10/25/2023 14:17:06: Placed mud_road_v2
+10/25/2023 14:17:07: Placed mud_road_v2
+10/25/2023 14:17:08: Placed mud_road_v2
+10/25/2023 14:17:08: Placed mud_road_v2
+10/25/2023 14:17:10: Placed mud_road_v2
+10/25/2023 14:17:11: Placed mud_road_v2
+10/25/2023 14:17:12: Placed mud_road_v2
+10/25/2023 14:17:13: Placed mud_road_v2
+10/25/2023 14:17:13: Placed mud_road_v2
+10/25/2023 14:17:14: Placed mud_road_v2
+10/25/2023 14:17:15: Placed mud_road_v2
+10/25/2023 14:17:16: Placed mud_road_v2
+10/25/2023 14:17:17: Placed mud_road_v2
+10/25/2023 14:17:18: Placed mud_road_v2
+10/25/2023 14:17:19: Placed mud_road_v2
+10/25/2023 14:17:19: Placed mud_road_v2
+10/25/2023 14:17:21: Placed mud_road_v2
+10/25/2023 14:17:22: Placed mud_road_v2
+10/25/2023 14:17:23: Placed mud_road_v2
+10/25/2023 14:17:24: Placed mud_road_v2
+10/25/2023 14:17:25: Placed mud_road_v2
+10/25/2023 14:17:26: Placed mud_road_v2
+10/25/2023 14:17:27: Placed mud_road_v2
+10/25/2023 14:17:28: Placed mud_road_v2
+10/25/2023 14:17:29: Placed mud_road_v2
+10/25/2023 14:17:30: Placed mud_road_v2
+10/25/2023 14:17:32: Placed mud_road_v2
+10/25/2023 14:17:33: Placed mud_road_v2
+10/25/2023 14:17:34: Placed mud_road_v2
+10/25/2023 14:17:35: Placed mud_road_v2
+10/25/2023 14:17:36: Placed mud_road_v2
+10/25/2023 14:17:37: Placed mud_road_v2
+10/25/2023 14:17:39: Placed mud_road_v2
+10/25/2023 14:17:40: Placed mud_road_v2
+10/25/2023 14:17:41: Placed mud_road_v2
+10/25/2023 14:17:44: Placed mud_road_v2
+10/25/2023 14:17:46: Placed mud_road_v2
+10/25/2023 14:17:46: Placed mud_road_v2
+10/25/2023 14:17:47: Placed mud_road_v2
+10/25/2023 14:17:48: Placed mud_road_v2
+10/25/2023 14:17:49: Placed mud_road_v2
+10/25/2023 14:17:49: Placed mud_road_v2
+10/25/2023 14:17:51: Placed mud_road_v2
+10/25/2023 14:17:51: Placed mud_road_v2
+10/25/2023 14:17:52: Placed mud_road_v2
+10/25/2023 14:17:53: Placed mud_road_v2
+10/25/2023 14:18:02: Placed mud_road_v2
+10/25/2023 14:18:02: Placed mud_road_v2
+10/25/2023 14:18:04: Placed mud_road_v2
+10/25/2023 14:18:08: Placed mud_road_v2
+10/25/2023 14:18:12: Placed mud_road_v2
+10/25/2023 14:18:13: Placed mud_road_v2
+10/25/2023 14:18:14: Placed mud_road_v2
+10/25/2023 14:18:15: Placed mud_road_v2
+10/25/2023 14:18:16: Placed mud_road_v2
+10/25/2023 14:18:41: Placed mud_road_v2
+10/25/2023 14:18:42: Placed mud_road_v2
+10/25/2023 14:18:42: Placed mud_road_v2
+10/25/2023 14:18:43: Placed mud_road_v2
+10/25/2023 14:18:44: Placed mud_road_v2
+10/25/2023 14:18:57: Placed mud_road_v2
+10/25/2023 14:18:59: Placed mud_road_v2
+10/25/2023 14:19:00: Placed mud_road_v2
+10/25/2023 14:19:03: Placed mud_road_v2
+10/25/2023 14:19:05: Placed mud_road_v2
+10/25/2023 14:19:07: Placed mud_road_v2
+10/25/2023 14:19:08: Placed mud_road_v2
+10/25/2023 14:19:09: Placed mud_road_v2
+10/25/2023 14:19:11: Placed mud_road_v2
+10/25/2023 14:19:15: Placed mud_road_v2
+10/25/2023 14:19:16: Placed mud_road_v2
+10/25/2023 14:19:18: Placed mud_road_v2
+10/25/2023 14:19:20: Placed mud_road_v2
+10/25/2023 14:19:21: Placed mud_road_v2
+10/25/2023 14:19:23: Placed mud_road_v2
+10/25/2023 14:19:25: Placed mud_road_v2
+10/25/2023 14:19:27: Placed mud_road_v2
+10/25/2023 14:19:28: Placed mud_road_v2
+10/25/2023 14:19:47: Placed mud_road_v2
+10/25/2023 14:19:48: Placed mud_road_v2
+10/25/2023 14:19:49: Placed mud_road_v2
+10/25/2023 14:19:51: Placed mud_road_v2
+10/25/2023 14:19:53: Placed mud_road_v2
+10/25/2023 14:19:55: Placed mud_road_v2
+10/25/2023 14:19:56: Placed mud_road_v2
+10/25/2023 14:20:21: Placed mud_road_v2
+10/25/2023 14:20:22: Placed mud_road_v2
+10/25/2023 14:20:23: Placed mud_road_v2
+10/25/2023 14:20:25: Placed mud_road_v2
+10/25/2023 14:20:26: Placed mud_road_v2
+10/25/2023 14:20:27: Placed mud_road_v2
+10/25/2023 14:20:30: Placed mud_road_v2
+10/25/2023 14:20:46: Placed mud_road_v2
+10/25/2023 14:20:48: Placed mud_road_v2
+10/25/2023 14:21:00: Setting selected recipe 1
+10/25/2023 14:21:01: Button pressed RepairButton  frame:434472
+10/25/2023 14:21:01: Button pressed RepairButton  frame:434512
+10/25/2023 14:21:25: Placed wood_beam
+10/25/2023 14:21:28: Placed wood_beam
+10/25/2023 14:21:35: Placed wood_beam
+10/25/2023 14:21:37: Placed wood_beam
+10/25/2023 14:21:39: Placed wood_beam
+10/25/2023 14:21:40: Placed wood_beam
+10/25/2023 14:21:42: Placed wood_beam
+10/25/2023 14:21:44: Placed wood_beam
+10/25/2023 14:21:51: Placed wood_beam
+10/25/2023 14:21:52: Placed wood_beam
+10/25/2023 14:22:02: Placed mud_road_v2
+10/25/2023 14:22:03: Placed mud_road_v2
+10/25/2023 14:22:03: Placed mud_road_v2
+10/25/2023 14:22:04: Placed mud_road_v2
+10/25/2023 14:22:06: Placed mud_road_v2
+10/25/2023 14:22:07: Placed mud_road_v2
+10/25/2023 14:22:08: Placed mud_road_v2
+10/25/2023 14:22:09: Placed mud_road_v2
+10/25/2023 14:22:10: Placed mud_road_v2
+10/25/2023 14:22:12: Placed mud_road_v2
+10/25/2023 14:22:13: Placed mud_road_v2
+10/25/2023 14:22:17: Placed mud_road_v2
+10/25/2023 14:22:17: Placed mud_road_v2
+10/25/2023 14:22:20: Placed mud_road_v2
+10/25/2023 14:22:21: Placed mud_road_v2
+10/25/2023 14:22:22: Placed mud_road_v2
+10/25/2023 14:22:23: Placed mud_road_v2
+10/25/2023 14:22:24: Placed mud_road_v2
+10/25/2023 14:22:25: Placed mud_road_v2
+10/25/2023 14:22:27: Placed mud_road_v2
+10/25/2023 14:22:29: Placed mud_road_v2
+10/25/2023 14:22:29: Placed mud_road_v2
+10/25/2023 14:22:32: Placed mud_road_v2
+10/25/2023 14:22:33: Placed mud_road_v2
+10/25/2023 14:22:34: Placed mud_road_v2
+10/25/2023 14:22:40: Placed mud_road_v2
+10/25/2023 14:22:43: Placed mud_road_v2
+10/25/2023 14:22:47: Placed mud_road_v2
+10/25/2023 14:23:01: Placed mud_road_v2
+10/25/2023 14:23:02: Placed mud_road_v2
+10/25/2023 14:23:04: Placed mud_road_v2
+10/25/2023 14:23:07: Placed mud_road_v2
+10/25/2023 14:23:09: Placed mud_road_v2
+10/25/2023 14:23:11: Placed mud_road_v2
+10/25/2023 14:23:13: Placed mud_road_v2
+10/25/2023 14:23:24: Placed mud_road_v2
+10/25/2023 14:23:25: Placed mud_road_v2
+10/25/2023 14:23:36: Placed mud_road_v2
+10/25/2023 14:23:38: Placed mud_road_v2
+10/25/2023 14:23:39: Placed mud_road_v2
+10/25/2023 14:23:41: Placed mud_road_v2
+10/25/2023 14:23:51: Placed wood_beam
+10/25/2023 14:23:53: Placed wood_beam
+10/25/2023 14:23:55: Placed wood_beam
+10/25/2023 14:23:56: Placed wood_beam
+10/25/2023 14:23:58: Placed wood_beam
+10/25/2023 14:24:00: Placed wood_beam
+10/25/2023 14:24:18: Placed mud_road_v2
+10/25/2023 14:24:19: Placed mud_road_v2
+10/25/2023 14:24:20: Placed mud_road_v2
+10/25/2023 14:24:21: Placed mud_road_v2
+10/25/2023 14:24:23: Placed mud_road_v2
+10/25/2023 14:24:24: Placed mud_road_v2
+10/25/2023 14:24:26: Placed mud_road_v2
+10/25/2023 14:24:29: Placed mud_road_v2
+10/25/2023 14:24:30: Placed mud_road_v2
+10/25/2023 14:24:34: Placed mud_road_v2
+10/25/2023 14:24:35: Placed mud_road_v2
+10/25/2023 14:24:36: Placed mud_road_v2
+10/25/2023 14:24:37: Placed mud_road_v2
+10/25/2023 14:24:38: Placed mud_road_v2
+10/25/2023 14:24:39: Placed mud_road_v2
+10/25/2023 14:24:40: Placed mud_road_v2
+10/25/2023 14:24:41: Placed mud_road_v2
+10/25/2023 14:24:44: Placed mud_road_v2
+10/25/2023 14:24:46: Placed mud_road_v2
+10/25/2023 14:25:32: Update PlayFab entity token
+10/25/2023 14:25:44: Placed mud_road_v2
+10/25/2023 14:25:45: Placed mud_road_v2
+10/25/2023 14:25:46: Placed mud_road_v2
+10/25/2023 14:25:47: Placed mud_road_v2
+10/25/2023 14:25:48: Placed mud_road_v2
+10/25/2023 14:25:49: Placed mud_road_v2
+10/25/2023 14:25:51: Placed mud_road_v2
+10/25/2023 14:25:52: Placed mud_road_v2
+10/25/2023 14:25:53: Placed mud_road_v2
+10/25/2023 14:25:54: Placed mud_road_v2
+10/25/2023 14:25:56: Placed mud_road_v2
+10/25/2023 14:25:57: Placed mud_road_v2
+10/25/2023 14:25:58: Placed mud_road_v2
+10/25/2023 14:25:59: Placed mud_road_v2
+10/25/2023 14:26:01: Placed mud_road_v2
+10/25/2023 14:26:02: Placed mud_road_v2
+10/25/2023 14:26:03: Placed mud_road_v2
+10/25/2023 14:26:05: Placed mud_road_v2
+10/25/2023 14:26:07: Placed mud_road_v2
+10/25/2023 14:26:08: Placed mud_road_v2
+10/25/2023 14:26:09: Placed mud_road_v2
+10/25/2023 14:26:11: Placed mud_road_v2
+10/25/2023 14:26:13: Placed mud_road_v2
+10/25/2023 14:26:14: Placed mud_road_v2
+10/25/2023 14:26:15: Placed mud_road_v2
+10/25/2023 14:26:16: Placed mud_road_v2
+10/25/2023 14:26:17: Placed mud_road_v2
+10/25/2023 14:26:18: Placed mud_road_v2
+10/25/2023 14:26:19: Placed mud_road_v2
+10/25/2023 14:26:20: Placed mud_road_v2
+10/25/2023 14:26:22: Placed mud_road_v2
+10/25/2023 14:26:23: Placed mud_road_v2
+10/25/2023 14:26:29: Placed mud_road_v2
+10/25/2023 14:26:30: Placed mud_road_v2
+10/25/2023 14:26:31: Placed mud_road_v2
+10/25/2023 14:26:32: Placed mud_road_v2
+10/25/2023 14:26:33: Placed mud_road_v2
+10/25/2023 14:26:35: Placed mud_road_v2
+10/25/2023 14:26:36: Placed mud_road_v2
+10/25/2023 14:26:36: Placed mud_road_v2
+10/25/2023 14:26:46: Placed mud_road_v2
+10/25/2023 14:26:46: Placed mud_road_v2
+10/25/2023 14:26:47: Placed mud_road_v2
+10/25/2023 14:26:48: Placed mud_road_v2
+10/25/2023 14:26:49: Placed mud_road_v2
+10/25/2023 14:26:50: Placed mud_road_v2
+10/25/2023 14:27:07: Placed mud_road_v2
+10/25/2023 14:27:08: Placed mud_road_v2
+10/25/2023 14:27:08: Placed mud_road_v2
+10/25/2023 14:27:09: Placed mud_road_v2
+10/25/2023 14:27:10: Placed mud_road_v2
+10/25/2023 14:27:11: Placed mud_road_v2
+10/25/2023 14:27:11: Placed mud_road_v2
+10/25/2023 14:27:12: Placed mud_road_v2
+10/25/2023 14:27:13: Placed mud_road_v2
+10/25/2023 14:27:15: Placed mud_road_v2
+10/25/2023 14:27:16: Placed mud_road_v2
+10/25/2023 14:27:24: Placed mud_road_v2
+10/25/2023 14:27:25: Placed mud_road_v2
+10/25/2023 14:27:26: Placed mud_road_v2
+10/25/2023 14:27:27: Placed mud_road_v2
+10/25/2023 14:27:29: Placed mud_road_v2
+10/25/2023 14:27:30: Placed mud_road_v2
+10/25/2023 14:27:31: Placed mud_road_v2
+10/25/2023 14:27:32: Placed mud_road_v2
+10/25/2023 14:27:33: Placed mud_road_v2
+10/25/2023 14:27:34: Placed mud_road_v2
+10/25/2023 14:27:35: Placed mud_road_v2
+10/25/2023 14:27:36: Placed mud_road_v2
+10/25/2023 14:27:37: Placed mud_road_v2
+10/25/2023 14:27:38: Placed mud_road_v2
+10/25/2023 14:27:40: Placed mud_road_v2
+10/25/2023 14:27:43: Placed mud_road_v2
+10/25/2023 14:27:45: Placed mud_road_v2
+10/25/2023 14:27:45: Placed mud_road_v2
+10/25/2023 14:27:46: Placed mud_road_v2
+10/25/2023 14:27:48: Placed mud_road_v2
+10/25/2023 14:27:49: Placed mud_road_v2
+10/25/2023 14:27:50: Placed mud_road_v2
+10/25/2023 14:27:51: Placed mud_road_v2
+10/25/2023 14:27:52: Placed mud_road_v2
+10/25/2023 14:27:53: Placed mud_road_v2
+10/25/2023 14:27:56: Placed mud_road_v2
+10/25/2023 14:28:01: Placed mud_road_v2
+10/25/2023 14:28:03: Placed mud_road_v2
+10/25/2023 14:28:05: Placed mud_road_v2
+10/25/2023 14:28:06: Placed mud_road_v2
+10/25/2023 14:28:06: Placed mud_road_v2
+10/25/2023 14:28:07: Placed mud_road_v2
+10/25/2023 14:28:08: Placed mud_road_v2
+10/25/2023 14:28:10: Placed mud_road_v2
+10/25/2023 14:28:12: Placed mud_road_v2
+10/25/2023 14:28:13: Placed mud_road_v2
+10/25/2023 14:28:20: Placed wood_beam
+10/25/2023 14:28:22: Placed wood_beam
+10/25/2023 14:28:26: Placed wood_beam
+10/25/2023 14:28:30: Placed wood_beam
+10/25/2023 14:28:32: Placed wood_beam
+10/25/2023 14:28:34: Placed wood_beam
+10/25/2023 14:28:39: Placed mud_road_v2
+10/25/2023 14:28:40: Placed mud_road_v2
+10/25/2023 14:28:41: Placed mud_road_v2
+10/25/2023 14:28:41: Placed mud_road_v2
+10/25/2023 14:28:42: Placed mud_road_v2
+10/25/2023 14:28:43: Placed mud_road_v2
+10/25/2023 14:28:44: Placed mud_road_v2
+10/25/2023 14:28:45: Placed mud_road_v2
+10/25/2023 14:28:46: Placed mud_road_v2
+10/25/2023 14:28:47: Placed mud_road_v2
+10/25/2023 14:28:48: Placed mud_road_v2
+10/25/2023 14:28:49: Placed mud_road_v2
+10/25/2023 14:28:50: Placed mud_road_v2
+10/25/2023 14:28:53: Placed mud_road_v2
+10/25/2023 14:28:54: Placed mud_road_v2
+10/25/2023 14:28:58: Placed mud_road_v2
+10/25/2023 14:29:00: Placed mud_road_v2
+10/25/2023 14:29:01: Placed mud_road_v2
+10/25/2023 14:29:28: Placed mud_road_v2
+10/25/2023 14:29:29: Placed mud_road_v2
+10/25/2023 14:29:29: Placed mud_road_v2
+10/25/2023 14:29:31: Placed mud_road_v2
+10/25/2023 14:29:32: Placed mud_road_v2
+10/25/2023 14:29:32: Placed mud_road_v2
+10/25/2023 14:29:33: Placed mud_road_v2
+10/25/2023 14:29:34: Placed mud_road_v2
+10/25/2023 14:29:35: Placed mud_road_v2
+10/25/2023 14:29:35: Placed mud_road_v2
+10/25/2023 14:29:59: Placed mud_road_v2
+10/25/2023 14:30:01: Placed mud_road_v2
+10/25/2023 14:30:18: Placed mud_road_v2
+10/25/2023 14:30:20: Placed mud_road_v2
+10/25/2023 14:30:22: Placed mud_road_v2
+10/25/2023 14:30:24: Placed mud_road_v2
+10/25/2023 14:30:34: Placed mud_road_v2
+10/25/2023 14:30:35: Placed mud_road_v2
+10/25/2023 14:30:36: Placed mud_road_v2
+10/25/2023 14:30:40: Placed mud_road_v2
+10/25/2023 14:30:42: Placed mud_road_v2
+10/25/2023 14:30:46: Placed mud_road_v2
+10/25/2023 14:30:48: Placed mud_road_v2
+10/25/2023 14:31:02: Placed mud_road_v2
+10/25/2023 14:31:03: Placed mud_road_v2
+10/25/2023 14:31:05: Placed mud_road_v2
+10/25/2023 14:31:11: Placed mud_road_v2
+10/25/2023 14:31:12: Placed mud_road_v2
+10/25/2023 14:31:14: Placed mud_road_v2
+10/25/2023 14:31:15: Placed mud_road_v2
+10/25/2023 14:31:16: Placed mud_road_v2
+10/25/2023 14:31:18: Placed mud_road_v2
+10/25/2023 14:31:19: Placed mud_road_v2
+10/25/2023 14:31:35: Placed mud_road_v2
+10/25/2023 14:31:35: Placed mud_road_v2
+10/25/2023 14:31:36: Placed mud_road_v2
+10/25/2023 14:31:36: Placed mud_road_v2
+10/25/2023 14:31:37: Placed mud_road_v2
+10/25/2023 14:31:38: Placed mud_road_v2
+10/25/2023 14:32:28: Activating default element Continue
+10/25/2023 14:32:29: Activating default element Button_no
+10/25/2023 14:32:30: Game - OnApplicationQuit
+10/25/2023 14:32:30: Shuting down
+10/25/2023 14:32:30: Uncompressed size 8394618
+10/25/2023 14:32:30: Compressed size 17252
+10/25/2023 14:32:30: Considering autobackup. World time: 4857.58, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 14:32:30: No autobackup needed yet...
+10/25/2023 14:32:30: ZNet Shutdown
+10/25/2023 14:32:30: PrepareSave: clone done in 32ms
+10/25/2023 14:32:30: PrepareSave: ZDOExtraData.PrepareSave done in 49 ms
+10/25/2023 14:32:30: World save writing starting
+10/25/2023 14:32:30: World save writing started
+10/25/2023 14:32:31: Saved 420761 ZDOs
+10/25/2023 14:32:31: World save writing finishing
+10/25/2023 14:32:31: World save writing finished
+10/25/2023 14:32:31: World saved ( 767.636ms )
+10/25/2023 14:32:31: Considering autobackup. World time: 4857.58, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 14:32:31: Time to overwrite our last autobackup
+10/25/2023 14:32:31: Replacing backup file: Famheim_backup_auto-20231022151519
+10/25/2023 14:32:31: Saving backup at: Famheim_backup_auto-20231025143230
+10/25/2023 14:32:31: World auto backup saved ( 00:00:00.0145161ms )
+10/25/2023 14:32:31: Unloading unused assets
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-10/25/2023 13:09:46: Sending disconnect msg
+10/25/2023 14:32:31: Sending disconnect msg
 ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-10/25/2023 13:09:46: Stopping build thread
+10/25/2023 14:32:31: Stopping build thread
 
-Unloading 17712 unused Assets to reduce memory usage. Loaded Objects now: 1989160.
-Total: 700.396600 ms (FindLiveObjects: 89.924100 ms CreateObjectMapping: 28.351600 ms MarkObjects: 540.779900 ms  DeleteObjects: 41.340600 ms)
+Unloading 1147 unused Assets to reduce memory usage. Loaded Objects now: 1992219.
+Total: 619.101500 ms (FindLiveObjects: 88.742100 ms CreateObjectMapping: 27.344000 ms MarkObjects: 499.037700 ms  DeleteObjects: 3.977500 ms)
 
 Setting up 16 worker threads for Enlighten.
-  Thread -> id: 43e4 -> priority: 1 
-  Thread -> id: 4cc0 -> priority: 1 
-  Thread -> id: 3a58 -> priority: 1 
-  Thread -> id: 49dc -> priority: 1 
-  Thread -> id: 3c48 -> priority: 1 
-  Thread -> id: 2f84 -> priority: 1 
-  Thread -> id: 3720 -> priority: 1 
-  Thread -> id: 440 -> priority: 1 
-  Thread -> id: 37f8 -> priority: 1 
-  Thread -> id: cec -> priority: 1 
-  Thread -> id: 50c8 -> priority: 1 
-  Thread -> id: 1144 -> priority: 1 
-  Thread -> id: 4b60 -> priority: 1 
-  Thread -> id: 4710 -> priority: 1 
-  Thread -> id: 6ac -> priority: 1 
-  Thread -> id: 3878 -> priority: 1 
-10/25/2023 13:09:49: Local player destroyed
-10/25/2023 13:09:49: ZNet OnDestroy
-10/25/2023 13:09:50: Net scene destroyed
-10/25/2023 13:09:50: Steam manager on destroy
+  Thread -> id: 40f4 -> priority: 1 
+  Thread -> id: 4394 -> priority: 1 
+  Thread -> id: 36e8 -> priority: 1 
+  Thread -> id: 302c -> priority: 1 
+  Thread -> id: 50f0 -> priority: 1 
+  Thread -> id: 194 -> priority: 1 
+  Thread -> id: 18c -> priority: 1 
+  Thread -> id: 30d8 -> priority: 1 
+  Thread -> id: 4804 -> priority: 1 
+  Thread -> id: 36d4 -> priority: 1 
+  Thread -> id: 2e2c -> priority: 1 
+  Thread -> id: 4658 -> priority: 1 
+  Thread -> id: 1c14 -> priority: 1 
+  Thread -> id: 6b4 -> priority: 1 
+  Thread -> id: b18 -> priority: 1 
+  Thread -> id: 1aec -> priority: 1 
+10/25/2023 14:32:34: Local player destroyed
+10/25/2023 14:32:34: ZNet OnDestroy
+10/25/2023 14:32:34: Net scene destroyed
+10/25/2023 14:32:35: Steam manager on destroy
