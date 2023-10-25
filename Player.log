@@ -10,2127 +10,521 @@ Direct3D:
     VRAM:     8032 MB
     Driver:   31.0.15.4584
 Begin MonoManager ReloadAssembly
-- Completed reload, in  1.256 seconds
+- Completed reload, in  1.180 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using XInput
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.718400 ms
-10/25/2023 10:21:46: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/25/2023 10:21:46: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/25/2023 10:21:46: Starting to load scene:start
+UnloadTime: 0.490500 ms
+10/25/2023 12:28:25: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/25/2023 12:28:25: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/25/2023 12:28:25: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.887900 ms
+UnloadTime: 4.709600 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-10/25/2023 10:21:53: Using environment steamid 892970
-10/25/2023 10:21:53: Using steam APPID:892970
-10/25/2023 10:21:53: Authentication:k_ESteamNetworkingAvailability_Attempting
-10/25/2023 10:21:53: Steam initialized, persona:tjgolubi
-10/25/2023 10:21:53: PlayFab custom ID set to "Steam_76561198290658520"
-10/25/2023 10:21:53: Using default prefs
-10/25/2023 10:21:53: Valheim version: 0.217.25 (network version 15)
-10/25/2023 10:21:53: Worldgenerator version setup:2
-10/25/2023 10:21:53: Render threading mode:MultiThreaded
-10/25/2023 10:21:53: Set button "CamZoomIn" to None!
-10/25/2023 10:21:53: Set button "CamZoomOut" to None!
-10/25/2023 10:21:53: Set button "CamZoomIn" to None!
-10/25/2023 10:21:53: Set button "CamZoomOut" to None!
-10/25/2023 10:21:53: Loaded localization file #0 - 'localization' language: 'English'
-10/25/2023 10:21:53: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/25/2023 10:21:53: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/25/2023 10:21:53: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/25/2023 10:21:53: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/25/2023 10:21:53: Loaded localization file #0 - 'localization' language: 'English'
-10/25/2023 10:21:53: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/25/2023 10:21:53: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/25/2023 10:21:53: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/25/2023 10:21:53: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/25/2023 10:21:53: Missing audio clip in music respawn
-10/25/2023 10:21:54: Checking for installed DLCs
-10/25/2023 10:21:54: DLC:beta installed:False
-10/25/2023 10:21:54: Builder started
-10/25/2023 10:21:54: Sending PlayFab login request (attempt 1)
-10/25/2023 10:21:54: Ticket is System.Byte[] of length 369
-10/25/2023 10:21:54: Session auth respons callback
-10/25/2023 10:21:54: Starting music menu
+10/25/2023 12:28:32: Using environment steamid 892970
+10/25/2023 12:28:32: Using steam APPID:892970
+10/25/2023 12:28:32: Authentication:k_ESteamNetworkingAvailability_Attempting
+10/25/2023 12:28:32: Steam initialized, persona:tjgolubi
+10/25/2023 12:28:32: PlayFab custom ID set to "Steam_76561198290658520"
+10/25/2023 12:28:32: Using default prefs
+10/25/2023 12:28:32: Valheim version: 0.217.25 (network version 15)
+10/25/2023 12:28:32: Worldgenerator version setup:2
+10/25/2023 12:28:32: Render threading mode:MultiThreaded
+10/25/2023 12:28:32: Set button "CamZoomIn" to None!
+10/25/2023 12:28:32: Set button "CamZoomOut" to None!
+10/25/2023 12:28:32: Set button "CamZoomIn" to None!
+10/25/2023 12:28:32: Set button "CamZoomOut" to None!
+10/25/2023 12:28:32: Loaded localization file #0 - 'localization' language: 'English'
+10/25/2023 12:28:32: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/25/2023 12:28:32: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/25/2023 12:28:32: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/25/2023 12:28:32: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/25/2023 12:28:32: Loaded localization file #0 - 'localization' language: 'English'
+10/25/2023 12:28:32: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/25/2023 12:28:32: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/25/2023 12:28:32: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/25/2023 12:28:32: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/25/2023 12:28:32: Missing audio clip in music respawn
+10/25/2023 12:28:32: Checking for installed DLCs
+10/25/2023 12:28:32: DLC:beta installed:False
+10/25/2023 12:28:32: Builder started
+10/25/2023 12:28:32: Sending PlayFab login request (attempt 1)
+10/25/2023 12:28:33: Ticket is System.Byte[] of length 369
+10/25/2023 12:28:33: Session auth respons callback
+10/25/2023 12:28:33: Starting music menu
 
 Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156123.
-Total: 110.525200 ms (FindLiveObjects: 5.476300 ms CreateObjectMapping: 9.928800 ms MarkObjects: 94.962800 ms  DeleteObjects: 0.157100 ms)
+Total: 108.471600 ms (FindLiveObjects: 5.671900 ms CreateObjectMapping: 9.216600 ms MarkObjects: 93.429600 ms  DeleteObjects: 0.153200 ms)
 
-10/25/2023 10:21:54: PlayFab logged in as "Steam_76561198290658520"
-10/25/2023 10:21:54: PlayFab local entity ID is DBA9D3993BEC7B4F
-10/25/2023 10:22:00: show character selection
-10/25/2023 10:22:02: OnCharacterStart
-10/25/2023 10:22:13: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 2
-10/25/2023 10:22:13: Time to overwrite our last autobackup
-10/25/2023 10:22:13: Replacing backup file: Famheim_backup_auto-20231024183818
-10/25/2023 10:22:13: Saving backup at: Famheim_backup_auto-20231025102213
-10/25/2023 10:22:17: Loading main scene
+10/25/2023 12:28:33: PlayFab logged in as "Steam_76561198290658520"
+10/25/2023 12:28:33: PlayFab local entity ID is DBA9D3993BEC7B4F
+Event.Use() should not be called for events of type repaint
+10/25/2023 12:28:43: Activating default element Start game
+10/25/2023 12:28:44: show character selection
+10/25/2023 12:28:46: Button pressed Start  frame:1034
+10/25/2023 12:28:46: OnCharacterStart
+10/25/2023 12:28:49: Button pressed Start  frame:1174
+10/25/2023 12:28:50: Loading main scene
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.734100 ms
-10/25/2023 10:22:17: Steam initialized, persona:tjgolubi
-10/25/2023 10:22:17: PlayFab custom ID set to "Steam_76561198290658520"
-10/25/2023 10:22:17: Using default prefs
-10/25/2023 10:22:17: Loading player profile terry
-10/25/2023 10:22:17: isModded: False
-10/25/2023 10:22:17: Zonesystem Awake 1579
-10/25/2023 10:22:17: DungeonDB Awake 1579
-10/25/2023 10:22:17: Steam initialized, persona:tjgolubi
-10/25/2023 10:22:17: Worldgenerator version setup:2
-10/25/2023 10:22:19: Audioman already exist, destroying self
-10/25/2023 10:22:19: Checking for installed DLCs
-10/25/2023 10:22:19: DLC:beta installed:False
+UnloadTime: 9.028800 ms
+10/25/2023 12:28:50: Steam initialized, persona:tjgolubi
+10/25/2023 12:28:50: PlayFab custom ID set to "Steam_76561198290658520"
+10/25/2023 12:28:50: Using default prefs
+10/25/2023 12:28:50: Loading player profile terry
+10/25/2023 12:28:50: isModded: False
+10/25/2023 12:28:50: Zonesystem Awake 1264
+10/25/2023 12:28:50: DungeonDB Awake 1264
+10/25/2023 12:28:50: Steam initialized, persona:tjgolubi
+10/25/2023 12:28:50: Worldgenerator version setup:2
+10/25/2023 12:28:52: Audioman already exist, destroying self
+10/25/2023 12:28:52: Checking for installed DLCs
+10/25/2023 12:28:52: DLC:beta installed:False
 
-Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 159911.
-Total: 89.973600 ms (FindLiveObjects: 4.726800 ms CreateObjectMapping: 8.840400 ms MarkObjects: 75.771200 ms  DeleteObjects: 0.634900 ms)
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 159947.
+Total: 94.644600 ms (FindLiveObjects: 4.904300 ms CreateObjectMapping: 10.249100 ms MarkObjects: 78.859700 ms  DeleteObjects: 0.631000 ms)
 
-10/25/2023 10:22:22: Zonesystem Start 1579
-10/25/2023 10:22:22: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-10/25/2023 10:22:22: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-10/25/2023 10:22:22: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-10/25/2023 10:22:22: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-10/25/2023 10:22:22: DungeonDB Start 1579
-10/25/2023 10:22:22: ZRpc timeout set to 30s 
-10/25/2023 10:22:22: ZNET START
-10/25/2023 10:22:22: Load world: Famheim (Famheim)
-10/25/2023 10:22:22: Loading 421545 zdos, my sessionID: 2264627408, data version: 32
-10/25/2023 10:22:22: Creating ZDOs
-10/25/2023 10:22:22: Loading in ZDOs
-10/25/2023 10:22:23: Adding to Dictionary
-10/25/2023 10:22:23: Adding to Sectors
-10/25/2023 10:22:23: Connecting Portals, Spawners & ZSyncTransforms
+10/25/2023 12:28:55: Zonesystem Start 1264
+10/25/2023 12:28:56: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+10/25/2023 12:28:56: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+10/25/2023 12:28:56: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+10/25/2023 12:28:56: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+10/25/2023 12:28:56: DungeonDB Start 1264
+10/25/2023 12:28:56: ZRpc timeout set to 30s 
+10/25/2023 12:28:56: ZNET START
+10/25/2023 12:28:56: Load world: Famheim (Famheim)
+10/25/2023 12:28:56: Loading 421397 zdos, my sessionID: 2463319677, data version: 32
+10/25/2023 12:28:56: Creating ZDOs
+10/25/2023 12:28:56: Loading in ZDOs
+10/25/2023 12:28:56: Adding to Dictionary
+10/25/2023 12:28:56: Adding to Sectors
+10/25/2023 12:28:56: Connecting Portals, Spawners & ZSyncTransforms
 ConnectSpawners => Connected 5 spawners and 563 'done' spawners.
-10/25/2023 10:22:23: Loaded 10076 locations
-10/25/2023 10:22:23: Unloading unused assets
+10/25/2023 12:28:57: Loaded 10076 locations
+10/25/2023 12:28:57: Unloading unused assets
 Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-10/25/2023 10:22:23: Starting respawn
-10/25/2023 10:22:23: Session auth respons callback
-10/25/2023 10:22:28: Unpacking compressed mapdata 17252
-10/25/2023 10:22:28: tip:$loadscreen_tip10
+10/25/2023 12:28:57: Starting respawn
+10/25/2023 12:28:57: Session auth respons callback
+10/25/2023 12:29:02: Unpacking compressed mapdata 17252
+10/25/2023 12:29:02: Activating default element Texts
+10/25/2023 12:29:02: tip:$loadscreen_tip12
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733257.
-Total: 516.636300 ms (FindLiveObjects: 79.013000 ms CreateObjectMapping: 25.854600 ms MarkObjects: 411.103300 ms  DeleteObjects: 0.665100 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733254.
+Total: 515.129400 ms (FindLiveObjects: 78.117100 ms CreateObjectMapping: 26.299800 ms MarkObjects: 410.053600 ms  DeleteObjects: 0.658600 ms)
 
-10/25/2023 10:22:32: Force generating hmap (-256.0, 0.0, 448.0)
-10/25/2023 10:22:32: Force generating hmap (-320.0, 0.0, 448.0)
-10/25/2023 10:22:32: Force generating hmap (-320.0, 0.0, 512.0)
-10/25/2023 10:22:32: Force generating hmap (-256.0, 0.0, 512.0)
-10/25/2023 10:22:33: Force generating hmap (-128.0, 0.0, 576.0)
-10/25/2023 10:22:37: Spawned after 8.019994
-10/25/2023 10:22:37: Skipping unloading unused assets
-10/25/2023 10:22:37: Minimap: Adding unique location (131.9, 39.6, 260.8)
-10/25/2023 10:22:37: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
-10/25/2023 10:22:37: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
-10/25/2023 10:22:39: Starting music home
-10/25/2023 10:22:39: Resumed music home at 0
-Joystick connected ("Controller (Xbox One For Windows)").
-10/25/2023 10:22:58: Stopped music home at 854246
-10/25/2023 10:22:58: Starting music meadows
-10/25/2023 10:22:58: Resumed music meadows at 0
-10/25/2023 10:23:27: Player 2264627408 wants to open Container   im: 2264627408
-10/25/2023 10:23:27: Setting selected recipe 0
-10/25/2023 10:23:49: Disabling PlayerBase  character_trigger
-10/25/2023 10:23:49: Disabling PlayerBase  character_trigger
-10/25/2023 10:23:53: Disabling PlayerBase  character_trigger
-10/25/2023 10:24:01: Setting selected recipe 0
-10/25/2023 10:24:27: Placed piece_chest
-10/25/2023 10:24:31: Placed piece_chest
-10/25/2023 10:24:34: Placed piece_chest
-10/25/2023 10:24:37: Placed piece_chest
-10/25/2023 10:25:22: Placed wood_pole
-10/25/2023 10:25:33: Placed wood_beam
-10/25/2023 10:25:37: Placed wood_beam
-10/25/2023 10:25:41: Placed wood_beam
-10/25/2023 10:25:48: Placed wood_pole
-10/25/2023 10:25:53: Placed wood_beam
-10/25/2023 10:26:02: Placed wood_pole
-10/25/2023 10:26:05: Placed wood_pole
-10/25/2023 10:26:18: Placed wood_floor
-10/25/2023 10:26:20: Placed wood_floor
-10/25/2023 10:26:43: Placed piece_chest
-10/25/2023 10:26:54: Placed piece_chest
-10/25/2023 10:27:06: Placed piece_chest
-10/25/2023 10:27:13: Placed piece_chest
-10/25/2023 10:27:29: Placed piece_chest
-10/25/2023 10:27:39: Placed piece_chest
-10/25/2023 10:27:46: Placed piece_chest
-10/25/2023 10:27:53: Placed piece_chest
-10/25/2023 10:28:07: Placed wood_pole
-10/25/2023 10:28:09: Placed wood_pole
-10/25/2023 10:28:16: Placed wood_pole
-10/25/2023 10:28:18: Placed wood_pole
-10/25/2023 10:28:32: Placed wood_floor
-10/25/2023 10:28:43: Placed wood_floor
-10/25/2023 10:28:54: Update PlayFab entity token
-10/25/2023 10:29:00: Placed wood_pole
-10/25/2023 10:29:03: Placed wood_pole
-10/25/2023 10:29:08: Placed wood_pole
-10/25/2023 10:29:11: Placed wood_pole
-10/25/2023 10:29:32: Setting selected recipe 0
-10/25/2023 10:29:36: Disabling PlayerBase  character_trigger
-10/25/2023 10:29:37: Disabling PlayerBase  character_trigger
-10/25/2023 10:29:51: Placed wood_stair
-10/25/2023 10:29:57: Disabling PlayerBase  character_trigger
-10/25/2023 10:29:57: Disabling PlayerBase  character_trigger
-10/25/2023 10:30:15: Disabling PlayerBase  character_trigger
-10/25/2023 10:30:15: Disabling PlayerBase  character_trigger
-10/25/2023 10:30:26: Disabling PlayerBase  character_trigger
-10/25/2023 10:30:27: Disabling PlayerBase  character_trigger
-10/25/2023 10:30:38: Placed piece_chest
-10/25/2023 10:30:46: Placed piece_chest
-10/25/2023 10:30:51: Placed piece_chest
-10/25/2023 10:31:02: Placed piece_chest
-10/25/2023 10:31:09: Placed piece_chest
-10/25/2023 10:31:16: Placed piece_chest
-10/25/2023 10:31:22: Placed piece_chest
-10/25/2023 10:31:27: Placed piece_chest
-10/25/2023 10:32:01: Player 2264627408 wants to open Container   im: 2264627408
-10/25/2023 10:32:01: Setting selected recipe 0
-10/25/2023 10:32:36: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:32:36: Setting selected recipe 0
-10/25/2023 10:32:37: Button pressed TakeAll  frame:60784
-10/25/2023 10:32:44: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:32:44: Setting selected recipe 0
-10/25/2023 10:32:45: Button pressed TakeAll  frame:61373
-10/25/2023 10:32:53: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:32:53: Setting selected recipe 0
-10/25/2023 10:32:57: Button pressed StackAll  frame:62422
-10/25/2023 10:33:21: Placed piece_chest
-10/25/2023 10:33:23: Setting selected recipe 0
-10/25/2023 10:33:37: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:33:37: Setting selected recipe 0
-10/25/2023 10:34:15: Setting selected recipe 0
-10/25/2023 10:34:21: Setting selected recipe 0
-10/25/2023 10:34:37: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:34:37: Setting selected recipe 0
-10/25/2023 10:34:38: Button pressed TakeAll  frame:70469
-10/25/2023 10:34:40: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:34:40: Setting selected recipe 0
-10/25/2023 10:34:40: Button pressed TakeAll  frame:70689
-10/25/2023 10:34:43: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:34:43: Setting selected recipe 0
-10/25/2023 10:34:43: Button pressed TakeAll  frame:70904
-10/25/2023 10:34:51: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:34:51: Setting selected recipe 0
-10/25/2023 10:34:53: Button pressed StackAll  frame:71700
-10/25/2023 10:34:56: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:34:56: Setting selected recipe 0
-10/25/2023 10:35:00: Button pressed StackAll  frame:72307
-10/25/2023 10:35:07: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:35:07: Setting selected recipe 0
-10/25/2023 10:35:09: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:35:09: Setting selected recipe 0
-10/25/2023 10:35:11: Button pressed TakeAll  frame:73270
-10/25/2023 10:35:18: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:35:18: Setting selected recipe 0
-10/25/2023 10:35:19: Button pressed TakeAll  frame:73982
-10/25/2023 10:35:19: Added to stack50 18
-10/25/2023 10:35:21: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:35:21: Setting selected recipe 0
-10/25/2023 10:35:22: Button pressed TakeAll  frame:74229
-10/25/2023 10:35:25: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:35:25: Setting selected recipe 0
-10/25/2023 10:35:26: Button pressed TakeAll  frame:74560
-10/25/2023 10:35:33: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:35:33: Setting selected recipe 0
-10/25/2023 10:35:33: Button pressed TakeAll  frame:75157
-10/25/2023 10:35:35: Button pressed StackAll  frame:75373
-10/25/2023 10:35:38: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:35:38: Setting selected recipe 0
-10/25/2023 10:35:40: Button pressed StackAll  frame:75820
-10/25/2023 10:35:47: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:35:47: Setting selected recipe 0
-10/25/2023 10:35:49: Button pressed TakeAll  frame:76548
-10/25/2023 10:35:53: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:35:53: Setting selected recipe 0
-10/25/2023 10:35:54: Button pressed TakeAll  frame:76945
-10/25/2023 10:35:54: Added to stack50 18
-10/25/2023 10:35:56: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:35:56: Setting selected recipe 0
-10/25/2023 10:35:57: Button pressed TakeAll  frame:77214
-10/25/2023 10:36:01: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:36:01: Setting selected recipe 0
-10/25/2023 10:36:02: Button pressed TakeAll  frame:77560
-10/25/2023 10:36:08: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:36:08: Setting selected recipe 0
-10/25/2023 10:36:11: Button pressed StackAll  frame:78304
-10/25/2023 10:36:13: Setting selected recipe 0
-10/25/2023 10:36:15: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:36:15: Setting selected recipe 0
-10/25/2023 10:36:18: Button pressed StackAll  frame:78863
-10/25/2023 10:36:20: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:36:20: Setting selected recipe 0
-10/25/2023 10:36:31: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:36:31: Setting selected recipe 0
-10/25/2023 10:36:33: Button pressed TakeAll  frame:80164
-10/25/2023 10:36:35: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:36:35: Setting selected recipe 0
-10/25/2023 10:36:35: Button pressed TakeAll  frame:80387
-10/25/2023 10:36:40: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:36:40: Setting selected recipe 0
-10/25/2023 10:36:42: Button pressed TakeAll  frame:80875
-10/25/2023 10:36:48: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:36:48: Setting selected recipe 0
-10/25/2023 10:36:49: Button pressed StackAll  frame:81444
-10/25/2023 10:36:52: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:36:52: Setting selected recipe 0
-10/25/2023 10:36:54: Button pressed StackAll  frame:81873
-10/25/2023 10:36:57: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:36:57: Setting selected recipe 0
-10/25/2023 10:37:05: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:37:05: Setting selected recipe 0
-10/25/2023 10:37:06: Button pressed TakeAll  frame:82816
-10/25/2023 10:37:08: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:37:08: Setting selected recipe 0
-10/25/2023 10:37:09: Button pressed TakeAll  frame:83062
-10/25/2023 10:37:09: Added to stack50 18
-10/25/2023 10:37:11: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:37:11: Setting selected recipe 0
-10/25/2023 10:37:12: Button pressed TakeAll  frame:83275
-10/25/2023 10:37:15: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:37:15: Setting selected recipe 0
-10/25/2023 10:37:16: Button pressed TakeAll  frame:83567
-10/25/2023 10:37:21: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:37:21: Setting selected recipe 0
-10/25/2023 10:37:22: Button pressed TakeAll  frame:84041
-10/25/2023 10:37:25: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:37:25: Setting selected recipe 0
-10/25/2023 10:37:25: Button pressed TakeAll  frame:84309
-10/25/2023 10:37:33: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:37:33: Setting selected recipe 0
-10/25/2023 10:37:34: Button pressed TakeAll  frame:85037
-10/25/2023 10:37:37: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:37:37: Setting selected recipe 0
-10/25/2023 10:37:37: Button pressed TakeAll  frame:85244
-10/25/2023 10:37:39: Button pressed StackAll  frame:85423
-10/25/2023 10:37:43: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:37:43: Setting selected recipe 0
-10/25/2023 10:37:44: Button pressed StackAll  frame:85758
-10/25/2023 10:37:46: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:37:46: Setting selected recipe 0
-10/25/2023 10:37:48: Button pressed StackAll  frame:86119
-10/25/2023 10:37:55: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:37:55: Setting selected recipe 0
-10/25/2023 10:37:56: Button pressed TakeAll  frame:86711
-10/25/2023 10:37:59: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:37:59: Setting selected recipe 0
-10/25/2023 10:37:59: Button pressed TakeAll  frame:86969
-10/25/2023 10:38:15: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:38:15: Setting selected recipe 0
-10/25/2023 10:38:16: Button pressed StackAll  frame:88290
-10/25/2023 10:38:27: Disabling PlayerBase  character_trigger
-10/25/2023 10:38:27: Disabling PlayerBase  character_trigger
-10/25/2023 10:39:14: Starting music evening
-10/25/2023 10:39:15: Stopped music meadows at 4258337
-10/25/2023 10:39:18: Setting selected recipe 0
-10/25/2023 10:39:34: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:39:34: Setting selected recipe 0
-10/25/2023 10:39:35: Button pressed TakeAll  frame:94271
-10/25/2023 10:39:38: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:39:38: Setting selected recipe 0
-10/25/2023 10:39:39: Button pressed TakeAll  frame:94517
-10/25/2023 10:39:41: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:39:41: Setting selected recipe 0
-10/25/2023 10:39:42: Button pressed TakeAll  frame:94663
-10/25/2023 10:39:50: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:39:50: Setting selected recipe 0
-10/25/2023 10:39:51: Button pressed StackAll  frame:95169
-10/25/2023 10:39:54: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:39:54: Setting selected recipe 0
-10/25/2023 10:39:56: Button pressed StackAll  frame:95469
-10/25/2023 10:40:04: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:40:04: Setting selected recipe 0
-10/25/2023 10:40:04: Button pressed TakeAll  frame:95959
-10/25/2023 10:40:11: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:40:11: Setting selected recipe 0
-10/25/2023 10:40:13: Button pressed TakeAll  frame:96517
-10/25/2023 10:40:15: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:40:15: Setting selected recipe 0
-10/25/2023 10:40:15: Spawned Greydwarf_Shaman x 1
-10/25/2023 10:40:16: Button pressed TakeAll  frame:96698
-10/25/2023 10:40:21: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:40:21: Setting selected recipe 0
-10/25/2023 10:40:22: Button pressed TakeAll  frame:97119
-10/25/2023 10:40:28: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:40:28: Setting selected recipe 0
-10/25/2023 10:40:29: Button pressed StackAll  frame:97704
-10/25/2023 10:40:32: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:40:32: Setting selected recipe 0
-10/25/2023 10:40:33: Button pressed StackAll  frame:98001
-10/25/2023 10:40:36: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:40:36: Setting selected recipe 0
-10/25/2023 10:40:37: Button pressed StackAll  frame:98410
-10/25/2023 10:40:45: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:40:45: Setting selected recipe 0
-10/25/2023 10:41:03: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:41:03: Setting selected recipe 0
-10/25/2023 10:41:05: Button pressed StackAll  frame:100906
-10/25/2023 10:41:14: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:41:14: Setting selected recipe 0
-10/25/2023 10:41:14: Button pressed TakeAll  frame:101681
-10/25/2023 10:41:16: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:41:16: Setting selected recipe 0
-10/25/2023 10:41:17: Button pressed TakeAll  frame:101881
-10/25/2023 10:41:19: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:41:19: Setting selected recipe 0
-10/25/2023 10:41:20: Button pressed TakeAll  frame:102073
-10/25/2023 10:41:22: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:41:22: Setting selected recipe 0
-10/25/2023 10:41:23: Button pressed TakeAll  frame:102299
-10/25/2023 10:41:31: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:41:31: Setting selected recipe 0
-10/25/2023 10:41:33: Button pressed StackAll  frame:103167
-10/25/2023 10:41:36: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:41:36: Setting selected recipe 0
-10/25/2023 10:41:37: Button pressed StackAll  frame:103557
-10/25/2023 10:41:39: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:41:39: Setting selected recipe 0
-10/25/2023 10:41:39: Button pressed StackAll  frame:103791
-10/25/2023 10:41:47: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:41:47: Setting selected recipe 0
-10/25/2023 10:41:48: Button pressed TakeAll  frame:104532
-10/25/2023 10:41:50: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:41:50: Setting selected recipe 0
-10/25/2023 10:41:51: Button pressed TakeAll  frame:104755
-10/25/2023 10:42:04: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:42:04: Setting selected recipe 0
-10/25/2023 10:42:05: Button pressed TakeAll  frame:105808
-10/25/2023 10:42:13: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:42:13: Setting selected recipe 0
-10/25/2023 10:42:16: Button pressed StackAll  frame:106829
-10/25/2023 10:42:19: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:42:19: Setting selected recipe 0
-10/25/2023 10:42:20: Button pressed StackAll  frame:107287
-10/25/2023 10:42:28: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:42:28: Setting selected recipe 0
-10/25/2023 10:42:29: Button pressed TakeAll  frame:108029
-10/25/2023 10:42:30: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:42:30: Setting selected recipe 0
-10/25/2023 10:42:31: Button pressed TakeAll  frame:108259
-10/25/2023 10:42:33: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:42:33: Setting selected recipe 0
-10/25/2023 10:42:34: Button pressed TakeAll  frame:108451
-10/25/2023 10:42:44: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:42:44: Setting selected recipe 0
-10/25/2023 10:42:45: Button pressed StackAll  frame:109443
-10/25/2023 10:42:47: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:42:47: Setting selected recipe 0
-10/25/2023 10:42:49: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:42:49: Setting selected recipe 0
-10/25/2023 10:42:53: Setting selected recipe 0
-10/25/2023 10:42:57: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:42:57: Setting selected recipe 0
-10/25/2023 10:43:13: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:43:13: Setting selected recipe 0
-10/25/2023 10:43:21: Setting selected recipe 0
-10/25/2023 10:43:27: drop all 50  50
-10/25/2023 10:43:27: drop all 50  50
-10/25/2023 10:43:28: drop all 50  50
-10/25/2023 10:43:29: drop all 50  50
-10/25/2023 10:43:29: drop all 50  50
-10/25/2023 10:43:31: drop all 50  50
-10/25/2023 10:43:31: drop all 50  50
-10/25/2023 10:43:32: drop all 50  50
-10/25/2023 10:43:32: drop all 50  50
-10/25/2023 10:43:33: drop all 50  50
-10/25/2023 10:43:33: drop all 50  50
-10/25/2023 10:43:34: drop all 50  50
-10/25/2023 10:43:56: Placed wood_stair
-10/25/2023 10:44:04: Placed wood_stair
-10/25/2023 10:44:23: Spawned Greydwarf_Elite x 1
-10/25/2023 10:44:29: Placed wood_floor
-10/25/2023 10:44:38: Placed wood_floor
-10/25/2023 10:44:49: Placed wood_floor
-10/25/2023 10:45:10: Disabling PlayerBase  character_trigger
-10/25/2023 10:45:10: Disabling PlayerBase  character_trigger
-10/25/2023 10:45:23: Placed piece_chest
-10/25/2023 10:45:30: Placed piece_chest
-10/25/2023 10:46:21: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:46:21: Setting selected recipe 0
-10/25/2023 10:46:25: Button pressed StackAll  frame:130726
-10/25/2023 10:46:32: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:46:32: Setting selected recipe 0
-10/25/2023 10:46:33: Button pressed TakeAll  frame:131472
-10/25/2023 10:46:37: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:46:37: Setting selected recipe 0
-10/25/2023 10:46:39: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:46:39: Setting selected recipe 0
-10/25/2023 10:46:43: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:46:43: Setting selected recipe 0
-10/25/2023 10:46:44: Button pressed TakeAll  frame:132386
-10/25/2023 10:46:44: Added to stack50 18
-10/25/2023 10:46:44: Added to stack50 45
-10/25/2023 10:46:46: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:46:46: Setting selected recipe 0
-10/25/2023 10:46:47: Button pressed TakeAll  frame:132658
-10/25/2023 10:47:00: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:47:00: Setting selected recipe 0
-10/25/2023 10:47:01: Button pressed TakeAll  frame:133858
-10/25/2023 10:47:10: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:47:10: Setting selected recipe 0
-10/25/2023 10:47:11: Button pressed StackAll  frame:134755
-10/25/2023 10:47:13: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:47:13: Setting selected recipe 0
-10/25/2023 10:47:14: Button pressed StackAll  frame:135127
-10/25/2023 10:47:22: Update PlayFab entity token
-10/25/2023 10:47:43: Disabling PlayerBase  character_trigger
-10/25/2023 10:47:43: Disabling PlayerBase  character_trigger
-10/25/2023 10:48:16: Starting music morning
-10/25/2023 10:48:49: Starting music meadows
-10/25/2023 10:49:37: Disabling PlayerBase  character_trigger
-10/25/2023 10:49:37: Disabling PlayerBase  character_trigger
-10/25/2023 10:50:03: Placed wood_pole
-10/25/2023 10:50:09: Placed wood_pole
-10/25/2023 10:50:13: Placed wood_pole
-10/25/2023 10:50:39: Placed wood_floor
-10/25/2023 10:50:42: Placed wood_floor
-10/25/2023 10:50:48: Placed wood_floor
-10/25/2023 10:50:51: Placed wood_floor
-10/25/2023 10:50:57: Placed wood_floor
-10/25/2023 10:50:58: Placed wood_floor
-10/25/2023 10:51:00: Placed wood_floor
-10/25/2023 10:51:03: Placed wood_floor
-10/25/2023 10:51:08: Placed wood_floor
-10/25/2023 10:51:10: Placed wood_floor
-10/25/2023 10:51:14: Placed wood_floor
-10/25/2023 10:51:19: Placed wood_floor
-10/25/2023 10:51:24: Placed wood_floor
-10/25/2023 10:51:57: Placed wood_pole
-10/25/2023 10:52:03: Placed wood_pole
-10/25/2023 10:52:09: Placed wood_pole
-10/25/2023 10:52:15: Placed wood_pole
-10/25/2023 10:52:17: Uncompressed size 8394618
-10/25/2023 10:52:17: Compressed size 17252
-10/25/2023 10:52:17: Considering autobackup. World time: 1787.94, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 10:52:17: Time to overwrite our last autobackup
-10/25/2023 10:52:17: Replacing backup file: terry_backup_auto-20231023005228
-10/25/2023 10:52:17: Saving backup at: terry_backup_auto-20231025105217
-10/25/2023 10:52:17: Sending message to save player profiles
-10/25/2023 10:52:17: PrepareSave: clone done in 38ms
-10/25/2023 10:52:17: PrepareSave: ZDOExtraData.PrepareSave done in 49 ms
-10/25/2023 10:52:17: World save writing starting
-10/25/2023 10:52:17: World save writing started
-10/25/2023 10:52:18: Saved 421531 ZDOs
-10/25/2023 10:52:18: World save writing finishing
-10/25/2023 10:52:18: World save writing finished
-10/25/2023 10:52:18: World saved ( 834.1845ms )
-10/25/2023 10:52:18: Considering autobackup. World time: 1788.98, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 10:52:18: No autobackup needed yet...
-10/25/2023 10:52:51: Placed wood_floor
-10/25/2023 10:52:56: Placed wood_floor
-10/25/2023 10:52:58: Placed wood_floor
-10/25/2023 10:53:01: Placed wood_floor
-10/25/2023 10:53:03: Placed wood_floor
-10/25/2023 10:53:09: Placed wood_floor
-10/25/2023 10:53:16: Placed wood_floor
-10/25/2023 10:53:22: Placed wood_floor
-10/25/2023 10:53:24: Placed wood_floor
-10/25/2023 10:53:28: Placed wood_floor
-10/25/2023 10:53:32: Placed wood_floor
-10/25/2023 10:54:16: Placed wood_pole
-10/25/2023 10:54:32: Placed wood_pole
-10/25/2023 10:54:35: Placed wood_pole
-10/25/2023 10:54:36: Placed wood_pole
-10/25/2023 10:54:43: Placed wood_pole
-10/25/2023 10:54:46: Placed wood_pole
-10/25/2023 10:54:47: Placed wood_pole
-10/25/2023 10:54:49: Placed wood_pole
-10/25/2023 10:55:01: Player onboard, total onboard 1
-10/25/2023 10:55:02: Player over board, players left 0
-10/25/2023 10:55:09: Placed wood_pole
-10/25/2023 10:55:11: Placed wood_pole
-10/25/2023 10:55:17: Placed wood_pole
-10/25/2023 10:55:19: Placed wood_pole
-10/25/2023 10:55:20: Placed wood_pole
-10/25/2023 10:55:48: Placed wood_stair
-10/25/2023 10:56:02: Placed piece_chest
-10/25/2023 10:56:07: Placed piece_chest
-10/25/2023 10:56:17: Placed piece_chest
-10/25/2023 10:56:22: Placed piece_chest
-10/25/2023 10:56:31: Placed piece_chest
-10/25/2023 10:56:37: Placed piece_chest
-10/25/2023 10:56:48: Placed piece_chest
-10/25/2023 10:56:56: Placed piece_chest
-10/25/2023 10:57:03: Placed piece_chest
-10/25/2023 10:57:10: Placed piece_chest
-10/25/2023 10:57:12: Placed piece_chest
-10/25/2023 10:57:21: Placed piece_chest
-10/25/2023 10:57:32: Placed piece_chest
-10/25/2023 10:57:39: Placed piece_chest
-10/25/2023 10:57:45: Placed piece_chest
-10/25/2023 10:57:50: Placed piece_chest
-10/25/2023 10:57:55: Placed piece_chest
-10/25/2023 10:58:02: Placed piece_chest
-10/25/2023 10:58:26: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:58:26: Setting selected recipe 0
-10/25/2023 10:58:27: Button pressed TakeAll  frame:188892
-10/25/2023 10:58:28: Stopped music meadows at 6112516
-10/25/2023 10:58:28: Starting music meadows
-10/25/2023 10:58:28: Resumed music meadows at 6112516
-10/25/2023 10:58:31: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:58:31: Setting selected recipe 0
-10/25/2023 10:58:31: Button pressed TakeAll  frame:189284
-10/25/2023 10:58:34: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:58:34: Setting selected recipe 0
-10/25/2023 10:58:35: Button pressed TakeAll  frame:189609
-10/25/2023 10:58:44: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:58:44: Setting selected recipe 0
-10/25/2023 10:58:45: Button pressed TakeAll  frame:190503
-10/25/2023 10:58:48: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:58:48: Setting selected recipe 0
-10/25/2023 10:58:48: Button pressed TakeAll  frame:190849
-10/25/2023 10:58:51: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:58:51: Setting selected recipe 0
-10/25/2023 10:58:51: Button pressed TakeAll  frame:191140
-10/25/2023 10:58:53: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:58:53: Setting selected recipe 0
-10/25/2023 10:58:54: Button pressed TakeAll  frame:191396
-10/25/2023 10:59:04: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 10:59:04: Setting selected recipe 0
-10/25/2023 10:59:11: Spawned Neck x 1
-10/25/2023 10:59:16: Stopped music meadows at 2119622
-10/25/2023 10:59:16: Starting music meadows
-10/25/2023 10:59:16: Resumed music meadows at 2119622
-10/25/2023 10:59:17: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 10:59:17: Setting selected recipe 0
-10/25/2023 10:59:33: Button pressed StackAll  frame:195152
-10/25/2023 10:59:56: Button pressed StackAll  frame:197504
-10/25/2023 11:00:01: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:00:01: Setting selected recipe 0
-10/25/2023 11:00:17: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:00:17: Setting selected recipe 0
-10/25/2023 11:00:18: Button pressed TakeAll  frame:199601
-10/25/2023 11:00:20: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:00:20: Setting selected recipe 0
-10/25/2023 11:00:21: Button pressed TakeAll  frame:199865
-10/25/2023 11:00:31: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:00:31: Setting selected recipe 0
-10/25/2023 11:00:35: Button pressed StackAll  frame:201185
-10/25/2023 11:00:37: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:00:37: Setting selected recipe 0
-10/25/2023 11:00:39: Button pressed TakeAll  frame:201584
-10/25/2023 11:00:41: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:00:41: Setting selected recipe 0
-10/25/2023 11:01:02: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:01:02: Setting selected recipe 0
-10/25/2023 11:01:02: Button pressed TakeAll  frame:203666
-10/25/2023 11:01:05: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:01:05: Setting selected recipe 0
-10/25/2023 11:01:05: Button pressed TakeAll  frame:203962
-10/25/2023 11:01:07: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:01:07: Setting selected recipe 0
-10/25/2023 11:01:09: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:01:09: Setting selected recipe 0
-10/25/2023 11:01:11: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:01:11: Setting selected recipe 0
-10/25/2023 11:01:12: Button pressed TakeAll  frame:204584
-10/25/2023 11:01:15: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:01:15: Setting selected recipe 0
-10/25/2023 11:01:15: Button pressed TakeAll  frame:204896
-10/25/2023 11:01:17: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:01:17: Setting selected recipe 0
-10/25/2023 11:01:18: Button pressed TakeAll  frame:205114
-10/25/2023 11:01:25: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:01:25: Setting selected recipe 0
-10/25/2023 11:01:26: Button pressed TakeAll  frame:205942
-10/25/2023 11:01:37: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:01:37: Setting selected recipe 0
-10/25/2023 11:01:42: Button pressed StackAll  frame:207641
-10/25/2023 11:02:11: Button pressed StackAll  frame:210808
-10/25/2023 11:02:15: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:02:15: Setting selected recipe 0
-10/25/2023 11:02:22: Button pressed StackAll  frame:212082
-10/25/2023 11:02:27: Button pressed StackAll  frame:212660
-10/25/2023 11:02:49: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:02:49: Setting selected recipe 0
-10/25/2023 11:02:49: Player 2264627408 wants to stack all in piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:03:04: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:03:04: Setting selected recipe 0
-10/25/2023 11:03:04: Button pressed TakeAll  frame:216507
-10/25/2023 11:03:07: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:03:07: Setting selected recipe 0
-10/25/2023 11:03:08: Button pressed TakeAll  frame:216832
-10/25/2023 11:03:09: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:03:09: Setting selected recipe 0
-10/25/2023 11:03:10: Button pressed TakeAll  frame:217020
-10/25/2023 11:03:11: Stopped music meadows at 2738737
-10/25/2023 11:03:11: Starting music home
-10/25/2023 11:03:11: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:03:11: Setting selected recipe 0
-10/25/2023 11:03:12: Button pressed TakeAll  frame:217199
-10/25/2023 11:03:14: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:03:14: Setting selected recipe 0
-10/25/2023 11:03:15: Button pressed TakeAll  frame:217434
-10/25/2023 11:03:19: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:03:19: Setting selected recipe 0
-10/25/2023 11:03:22: Button pressed TakeAll  frame:218064
-10/25/2023 11:03:23: Setting selected recipe 0
-10/25/2023 11:03:24: Setting selected recipe 0
-10/25/2023 11:03:27: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:03:27: Setting selected recipe 0
-10/25/2023 11:03:27: Button pressed TakeAll  frame:218507
-10/25/2023 11:03:29: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:03:29: Setting selected recipe 0
-10/25/2023 11:03:29: Button pressed TakeAll  frame:218667
-10/25/2023 11:03:35: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:03:35: Setting selected recipe 0
-10/25/2023 11:03:37: Button pressed TakeAll  frame:219402
-10/25/2023 11:03:42: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:03:42: Setting selected recipe 0
-10/25/2023 11:03:59: Setting selected recipe 0
-10/25/2023 11:04:04: Setting selected recipe 0
-10/25/2023 11:04:06: drop all 50  50
-10/25/2023 11:04:07: drop all 50  50
-10/25/2023 11:04:07: drop all 50  50
-10/25/2023 11:04:08: drop all 50  50
-10/25/2023 11:04:15: Stopped music home at 2841215
-10/25/2023 11:04:15: Starting music meadows
-10/25/2023 11:04:15: Resumed music meadows at 2738737
-10/25/2023 11:04:17: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:04:17: Setting selected recipe 0
-10/25/2023 11:04:20: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:04:20: Setting selected recipe 0
-10/25/2023 11:04:26: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:04:26: Setting selected recipe 0
-10/25/2023 11:04:31: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:04:31: Setting selected recipe 0
-10/25/2023 11:04:40: Button pressed StackAll  frame:225756
-10/25/2023 11:04:44: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:04:44: Setting selected recipe 0
-10/25/2023 11:04:51: Button pressed TakeAll  frame:226945
-10/25/2023 11:04:56: Item is not in this container
-10/25/2023 11:04:56: Setting selected recipe 0
-10/25/2023 11:04:59: Button pressed StackAll  frame:227707
-10/25/2023 11:05:05: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:05:05: Setting selected recipe 0
-10/25/2023 11:05:09: Button pressed StackAll  frame:228729
-10/25/2023 11:05:18: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:05:18: Setting selected recipe 0
-10/25/2023 11:05:22: Button pressed StackAll  frame:230193
-10/25/2023 11:05:25: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:05:25: Setting selected recipe 0
-10/25/2023 11:05:31: Setting selected recipe 0
-10/25/2023 11:05:45: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:05:45: Setting selected recipe 0
-10/25/2023 11:05:47: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:05:47: Setting selected recipe 0
-10/25/2023 11:05:49: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:05:49: Setting selected recipe 0
-10/25/2023 11:05:51: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:05:51: Setting selected recipe 0
-10/25/2023 11:06:15: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:06:15: Setting selected recipe 0
-10/25/2023 11:06:18: Button pressed TakeAll  frame:235486
-10/25/2023 11:06:24: Stopped music meadows at 8432458
-10/25/2023 11:06:24: Starting music home
-10/25/2023 11:06:24: Resumed music home at 2841215
-10/25/2023 11:06:42: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:06:42: Setting selected recipe 0
-10/25/2023 11:06:42: Button pressed TakeAll  frame:237921
-10/25/2023 11:06:47: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:06:47: Setting selected recipe 0
-10/25/2023 11:06:48: Button pressed TakeAll  frame:238510
-10/25/2023 11:07:01: Stopped music home at 1624761
-10/25/2023 11:07:01: Starting music meadows
-10/25/2023 11:07:01: Resumed music meadows at 8432458
-10/25/2023 11:07:01: Update PlayFab entity token
-10/25/2023 11:07:02: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:07:02: Setting selected recipe 0
-10/25/2023 11:07:04: Button pressed StackAll  frame:240109
-10/25/2023 11:07:09: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:07:09: Setting selected recipe 0
-10/25/2023 11:07:10: Button pressed TakeAll  frame:240693
-10/25/2023 11:07:12: Button pressed StackAll  frame:240869
-10/25/2023 11:07:24: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:07:24: Setting selected recipe 0
-10/25/2023 11:07:25: Button pressed TakeAll  frame:242002
-10/25/2023 11:07:38: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:07:38: Setting selected recipe 0
-10/25/2023 11:07:42: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:07:42: Setting selected recipe 0
-10/25/2023 11:07:44: Stopped music meadows at 616360
-10/25/2023 11:07:44: Starting music meadows
-10/25/2023 11:07:44: Resumed music meadows at 616360
-10/25/2023 11:07:49: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:07:49: Setting selected recipe 0
-10/25/2023 11:07:50: Button pressed StackAll  frame:244670
-10/25/2023 11:08:19: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:08:19: Setting selected recipe 0
-10/25/2023 11:08:20: Button pressed TakeAll  frame:247208
-10/25/2023 11:08:37: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:08:37: Setting selected recipe 0
-10/25/2023 11:08:38: Button pressed TakeAll  frame:248918
-10/25/2023 11:08:40: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:08:40: Setting selected recipe 0
-10/25/2023 11:08:41: Button pressed TakeAll  frame:249226
-10/25/2023 11:08:42: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:08:42: Setting selected recipe 0
-10/25/2023 11:08:43: Button pressed TakeAll  frame:249453
-10/25/2023 11:08:43: Stopped music meadows at 2606956
-10/25/2023 11:08:43: Starting music home
-10/25/2023 11:08:43: Resumed music home at 1624761
-10/25/2023 11:08:45: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:08:45: Setting selected recipe 0
-10/25/2023 11:08:45: Button pressed TakeAll  frame:249721
-10/25/2023 11:08:48: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:08:48: Setting selected recipe 0
-10/25/2023 11:08:48: Button pressed TakeAll  frame:250057
-10/25/2023 11:08:51: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:08:51: Setting selected recipe 0
-10/25/2023 11:08:52: Button pressed TakeAll  frame:250416
-10/25/2023 11:08:54: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:08:54: Setting selected recipe 0
-10/25/2023 11:08:57: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:08:57: Setting selected recipe 0
-10/25/2023 11:08:57: Button pressed TakeAll  frame:250999
-10/25/2023 11:09:00: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:09:00: Setting selected recipe 0
-10/25/2023 11:09:01: Button pressed TakeAll  frame:251403
-10/25/2023 11:09:14: Starting music evening
-10/25/2023 11:09:15: Stopped music home at 3049132
-10/25/2023 11:09:19: Spawned Greydwarf x 3
-10/25/2023 11:09:19: Spawned FireFlies x 1
-10/25/2023 11:09:19: Spawned FireFlies x 1
-10/25/2023 11:09:19: Spawned FireFlies x 1
-10/25/2023 11:09:26: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:09:26: Setting selected recipe 0
-10/25/2023 11:09:29: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:09:29: Setting selected recipe 0
-10/25/2023 11:09:33: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:09:33: Setting selected recipe 0
-10/25/2023 11:09:38: Button pressed StackAll  frame:254489
-10/25/2023 11:09:43: Spawned Greydwarf_Elite x 1
-10/25/2023 11:09:43: Spawned Greydwarf_Shaman x 1
-10/25/2023 11:09:43: Spawned FireFlies x 1
-10/25/2023 11:09:45: Button pressed StackAll  frame:254856
-10/25/2023 11:09:53: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:09:53: Setting selected recipe 0
-10/25/2023 11:09:56: Button pressed StackAll  frame:255501
-10/25/2023 11:10:12: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:10:12: Setting selected recipe 0
-10/25/2023 11:10:13: Button pressed TakeAll  frame:256519
-10/25/2023 11:10:18: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:10:18: Setting selected recipe 0
-10/25/2023 11:10:19: Button pressed TakeAll  frame:256948
-10/25/2023 11:10:27: Starting music home
-10/25/2023 11:10:27: Resumed music home at 3049132
-10/25/2023 11:10:32: Stopped music home at 3274923
-10/25/2023 11:10:36: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:10:36: Setting selected recipe 0
-10/25/2023 11:10:37: Button pressed StackAll  frame:258336
-10/25/2023 11:10:48: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:10:48: Setting selected recipe 0
-10/25/2023 11:10:52: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:10:52: Setting selected recipe 0
-10/25/2023 11:10:53: Button pressed TakeAll  frame:259639
-10/25/2023 11:10:55: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:10:55: Setting selected recipe 0
-10/25/2023 11:10:57: Button pressed StackAll  frame:260037
-10/25/2023 11:11:08: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:11:08: Setting selected recipe 0
-10/25/2023 11:11:09: Button pressed TakeAll  frame:261074
-10/25/2023 11:11:12: Button pressed StackAll  frame:261379
-10/25/2023 11:11:18: Starting music home
-10/25/2023 11:11:18: Resumed music home at 3274923
-10/25/2023 11:11:24: Stopped music home at 3543991
-10/25/2023 11:11:27: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:11:27: Setting selected recipe 0
-10/25/2023 11:11:29: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:11:29: Setting selected recipe 0
-10/25/2023 11:11:43: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:11:43: Setting selected recipe 0
-10/25/2023 11:11:46: Button pressed TakeAll  frame:264431
-10/25/2023 11:11:48: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:11:48: Setting selected recipe 0
-10/25/2023 11:11:49: Button pressed TakeAll  frame:264696
-10/25/2023 11:11:56: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:11:56: Setting selected recipe 0
-10/25/2023 11:11:57: Button pressed TakeAll  frame:265444
-10/25/2023 11:11:59: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:11:59: Setting selected recipe 1
-10/25/2023 11:11:59: Button pressed TakeAll  frame:265673
-10/25/2023 11:12:03: Starting music home
-10/25/2023 11:12:03: Resumed music home at 3543991
-10/25/2023 11:12:11: Spawned FireFlies x 1
-10/25/2023 11:12:12: Stopped music home at 3931600
-10/25/2023 11:12:15: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:12:15: Setting selected recipe 1
-10/25/2023 11:12:17: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:12:17: Setting selected recipe 1
-10/25/2023 11:12:19: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:12:19: Setting selected recipe 1
-10/25/2023 11:12:23: Button pressed StackAll  frame:267782
-10/25/2023 11:12:35: Spawned FireFlies x 1
-10/25/2023 11:12:43: Loading dungeon
-10/25/2023 11:12:43: Dungeon loaded with 40 rooms from old format in 15.0127 ms.
-10/25/2023 11:12:43: Spawned FireFlies x 1
-10/25/2023 11:12:43: Spawned FireFlies x 1
-10/25/2023 11:12:47: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:12:47: Setting selected recipe 1
-10/25/2023 11:12:49: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:12:49: Setting selected recipe 1
-10/25/2023 11:12:52: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:12:52: Setting selected recipe 1
-10/25/2023 11:12:52: Button pressed StackAll  frame:270612
-10/25/2023 11:13:03: Starting music home
-10/25/2023 11:13:03: Resumed music home at 3931600
-10/25/2023 11:13:08: Stopped music home at 4141398
-10/25/2023 11:13:14: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:13:14: Setting selected recipe 0
-10/25/2023 11:13:15: Button pressed TakeAll  frame:272467
-10/25/2023 11:13:19: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:13:19: Setting selected recipe 0
-10/25/2023 11:13:22: Starting music home
-10/25/2023 11:13:22: Resumed music home at 4141398
-10/25/2023 11:13:27: Stopped music home at 4354018
-10/25/2023 11:13:30: Loading dungeon
-10/25/2023 11:13:30: Dungeon loaded with 40 rooms from old format in 20.5278 ms.
-10/25/2023 11:13:37: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:13:37: Setting selected recipe 0
-10/25/2023 11:13:38: Button pressed StackAll  frame:274565
-10/25/2023 11:13:49: Starting music home
-10/25/2023 11:13:49: Resumed music home at 4354018
-10/25/2023 11:13:58: Stopped music home at 364089
-10/25/2023 11:14:05: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:14:05: Setting selected recipe 0
-10/25/2023 11:14:06: Button pressed TakeAll  frame:277060
-10/25/2023 11:14:08: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:14:08: Setting selected recipe 0
-10/25/2023 11:14:09: Button pressed TakeAll  frame:277333
-10/25/2023 11:14:10: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:14:10: Setting selected recipe 0
-10/25/2023 11:14:11: Button pressed TakeAll  frame:277504
-10/25/2023 11:14:13: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:14:13: Setting selected recipe 0
-10/25/2023 11:14:13: Button pressed TakeAll  frame:277703
-10/25/2023 11:14:19: Starting music home
-10/25/2023 11:14:19: Resumed music home at 364089
-10/25/2023 11:14:27: Spawned FireFlies x 1
-10/25/2023 11:14:28: Stopped music home at 375379
-10/25/2023 11:14:31: Spawned Greydwarf_Shaman x 1
-10/25/2023 11:14:32: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:14:32: Setting selected recipe 0
-10/25/2023 11:14:34: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:14:34: Setting selected recipe 0
-10/25/2023 11:14:37: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:14:37: Setting selected recipe 0
-10/25/2023 11:14:39: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:14:39: Setting selected recipe 0
-10/25/2023 11:14:42: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:14:42: Setting selected recipe 0
-10/25/2023 11:14:45: Button pressed StackAll  frame:280870
-10/25/2023 11:14:51: Spawned FireFlies x 1
-10/25/2023 11:14:54: Starting music home
-10/25/2023 11:14:54: Resumed music home at 375379
-10/25/2023 11:14:59: Stopped music home at 220147
-10/25/2023 11:15:42: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:15:42: Setting selected recipe 0
-10/25/2023 11:15:44: Button pressed StackAll  frame:286183
-10/25/2023 11:15:45: Button pressed TakeAll  frame:286261
-10/25/2023 11:15:47: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:15:47: Setting selected recipe 0
-10/25/2023 11:15:47: Button pressed TakeAll  frame:286490
-10/25/2023 11:15:49: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:15:49: Setting selected recipe 0
-10/25/2023 11:15:49: Button pressed TakeAll  frame:286690
-10/25/2023 11:15:51: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:15:51: Setting selected recipe 0
-10/25/2023 11:15:52: Button pressed TakeAll  frame:286926
-10/25/2023 11:15:55: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:15:55: Setting selected recipe 0
-10/25/2023 11:15:59: Starting music home
-10/25/2023 11:15:59: Resumed music home at 220147
-10/25/2023 11:16:08: Stopped music home at 594585
-10/25/2023 11:16:11: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:16:11: Setting selected recipe 0
-10/25/2023 11:16:14: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:16:14: Setting selected recipe 0
-10/25/2023 11:16:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:16:16: Setting selected recipe 0
-10/25/2023 11:16:21: Button pressed StackAll  frame:289752
-10/25/2023 11:16:30: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:16:30: Setting selected recipe 0
-10/25/2023 11:17:06: Starting music home
-10/25/2023 11:17:06: Resumed music home at 594585
-10/25/2023 11:17:10: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:17:10: Setting selected recipe 0
-10/25/2023 11:17:10: Button pressed TakeAll  frame:294620
-10/25/2023 11:17:18: Stopped music home at 1106380
-10/25/2023 11:17:19: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:17:19: Setting selected recipe 0
-10/25/2023 11:17:19: Spawned FireFlies x 1
-10/25/2023 11:17:20: Button pressed StackAll  frame:295509
-10/25/2023 11:17:27: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:17:27: Setting selected recipe 0
-10/25/2023 11:17:28: Button pressed StackAll  frame:296409
-10/25/2023 11:17:40: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:17:40: Setting selected recipe 0
-10/25/2023 11:17:40: Player 2264627408 wants to stack all in piece_chest(Clone)   im: 2264627408
-10/25/2023 11:17:47: Spawned FireFlies x 1
-10/25/2023 11:17:47: Spawned FireFlies x 1
-10/25/2023 11:17:47: Spawned FireFlies x 1
-10/25/2023 11:17:49: Loading dungeon
-10/25/2023 11:17:49: Dungeon loaded with 40 rooms from old format in 14.0117 ms.
-10/25/2023 11:17:54: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:17:54: Setting selected recipe 0
-10/25/2023 11:17:55: Player 2264627408 wants to stack all in piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:18:06: Starting music home
-10/25/2023 11:18:06: Resumed music home at 1106380
-10/25/2023 11:18:12: Stopped music home at 1356632
-10/25/2023 11:18:16: Starting music morning
-10/25/2023 11:18:24: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:18:24: Setting selected recipe 0
-10/25/2023 11:18:36: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:18:36: Setting selected recipe 0
-10/25/2023 11:18:40: Button pressed TakeAll  frame:302552
-10/25/2023 11:18:44: Setting selected recipe 0
-10/25/2023 11:18:45: Button pressed RepairButton  frame:302868
-10/25/2023 11:18:49: Starting music meadows
-10/25/2023 11:18:53: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:18:53: Setting selected recipe 0
-10/25/2023 11:19:08: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:19:08: Setting selected recipe 0
-10/25/2023 11:19:12: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:19:12: Setting selected recipe 0
-10/25/2023 11:19:13: Button pressed TakeAll  frame:304621
-10/25/2023 11:19:38: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:19:38: Setting selected recipe 0
-10/25/2023 11:19:41: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:19:41: Setting selected recipe 0
-10/25/2023 11:19:41: Stopped music meadows at 2262623
-10/25/2023 11:19:41: Starting music meadows
-10/25/2023 11:19:41: Resumed music meadows at 2262623
-10/25/2023 11:19:43: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:19:43: Setting selected recipe 0
-10/25/2023 11:19:45: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:19:45: Setting selected recipe 0
-10/25/2023 11:20:12: Stopped music meadows at 1352870
-10/25/2023 11:20:12: Starting music meadows
-10/25/2023 11:20:12: Resumed music meadows at 1352870
-10/25/2023 11:20:29: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:20:29: Setting selected recipe 0
-10/25/2023 11:20:30: Button pressed TakeAll  frame:309508
-10/25/2023 11:20:33: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:20:33: Setting selected recipe 0
-10/25/2023 11:20:33: Button pressed TakeAll  frame:309744
-10/25/2023 11:20:38: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:20:38: Setting selected recipe 0
-10/25/2023 11:20:39: Button pressed TakeAll  frame:310143
-10/25/2023 11:20:42: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:20:42: Setting selected recipe 0
-10/25/2023 11:20:45: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:20:45: Setting selected recipe 0
-10/25/2023 11:20:46: Button pressed TakeAll  frame:310728
-10/25/2023 11:20:48: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:20:48: Setting selected recipe 0
-10/25/2023 11:20:48: Button pressed TakeAll  frame:310881
-10/25/2023 11:20:49: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:20:49: Setting selected recipe 0
-10/25/2023 11:20:50: Button pressed TakeAll  frame:311047
-10/25/2023 11:20:52: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:20:52: Setting selected recipe 0
-10/25/2023 11:20:52: Button pressed TakeAll  frame:311233
-10/25/2023 11:21:00: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:21:00: Setting selected recipe 0
-10/25/2023 11:21:00: Button pressed TakeAll  frame:311852
-10/25/2023 11:21:02: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:21:02: Setting selected recipe 0
-10/25/2023 11:21:17: Stopped music meadows at 2876025
-10/25/2023 11:21:17: Starting music meadows
-10/25/2023 11:21:17: Resumed music meadows at 2876025
-10/25/2023 11:21:18: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:21:18: Setting selected recipe 0
-10/25/2023 11:21:26: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:21:26: Setting selected recipe 0
-10/25/2023 11:21:30: Button pressed StackAll  frame:314150
-10/25/2023 11:21:33: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:21:33: Setting selected recipe 0
-10/25/2023 11:21:36: Button pressed StackAll  frame:314627
-10/25/2023 11:21:45: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:21:45: Setting selected recipe 0
-10/25/2023 11:21:49: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:21:49: Setting selected recipe 0
-10/25/2023 11:21:53: Button pressed StackAll  frame:316045
-10/25/2023 11:22:05: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:22:05: Setting selected recipe 0
-10/25/2023 11:22:12: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:22:12: Setting selected recipe 0
-10/25/2023 11:22:14: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:22:14: Setting selected recipe 0
-10/25/2023 11:22:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:22:16: Setting selected recipe 0
-10/25/2023 11:22:17: Uncompressed size 8394618
-10/25/2023 11:22:17: Compressed size 17252
-10/25/2023 11:22:17: Considering autobackup. World time: 3587.9, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 11:22:17: No autobackup needed yet...
-10/25/2023 11:22:17: Sending message to save player profiles
-10/25/2023 11:22:17: PrepareSave: clone done in 26ms
-10/25/2023 11:22:17: PrepareSave: ZDOExtraData.PrepareSave done in 52 ms
-10/25/2023 11:22:17: World save writing starting
-10/25/2023 11:22:17: World save writing started
-10/25/2023 11:22:18: Saved 421562 ZDOs
-10/25/2023 11:22:18: World save writing finishing
-10/25/2023 11:22:18: World save writing finished
-10/25/2023 11:22:18: World saved ( 859.3702ms )
-10/25/2023 11:22:18: Considering autobackup. World time: 3588.96, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 11:22:18: No autobackup needed yet...
-10/25/2023 11:22:19: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:22:19: Setting selected recipe 0
-10/25/2023 11:22:26: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:22:26: Setting selected recipe 0
-10/25/2023 11:22:29: Unloading unused assets
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 20515 unused Assets to reduce memory usage. Loaded Objects now: 2060104.
-Total: 705.002300 ms (FindLiveObjects: 112.942700 ms CreateObjectMapping: 28.851000 ms MarkObjects: 516.438300 ms  DeleteObjects: 46.770000 ms)
-
-10/25/2023 11:22:31: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:22:31: Setting selected recipe 0
-10/25/2023 11:22:50: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:22:50: Setting selected recipe 0
-10/25/2023 11:22:56: Setting selected recipe 0
-10/25/2023 11:23:00: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:23:00: Setting selected recipe 0
-10/25/2023 11:23:07: Stopped music meadows at 4844179
-10/25/2023 11:23:07: Starting music home
-10/25/2023 11:23:07: Resumed music home at 1356632
-10/25/2023 11:23:18: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:23:18: Setting selected recipe 0
-10/25/2023 11:23:28: Button pressed TakeAll  frame:324772
-10/25/2023 11:23:31: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:23:31: Setting selected recipe 0
-10/25/2023 11:23:32: Button pressed TakeAll  frame:325137
-10/25/2023 11:23:41: Setting selected recipe 0
-10/25/2023 11:23:42: Button pressed RepairButton  frame:326057
-10/25/2023 11:23:44: Setting selected recipe 0
-10/25/2023 11:23:45: Button pressed RepairButton  frame:326341
-10/25/2023 11:23:45: Button pressed RepairButton  frame:326368
-10/25/2023 11:23:45: Button pressed RepairButton  frame:326396
-10/25/2023 11:23:45: Button pressed RepairButton  frame:326416
-10/25/2023 11:23:52: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:23:52: Setting selected recipe 0
-10/25/2023 11:23:52: Stopped music home at 2002963
-10/25/2023 11:23:52: Starting music meadows
-10/25/2023 11:23:52: Resumed music meadows at 4844179
-10/25/2023 11:24:06: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:24:06: Setting selected recipe 0
-10/25/2023 11:24:11: Stopped music meadows at 808147
-10/25/2023 11:24:11: Starting music home
-10/25/2023 11:24:11: Resumed music home at 2002963
-10/25/2023 11:24:26: Stopped music home at 2681279
-10/25/2023 11:24:26: Starting music meadows
-10/25/2023 11:24:26: Resumed music meadows at 808147
-10/25/2023 11:24:27: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:24:27: Setting selected recipe 0
-10/25/2023 11:24:43: Setting selected recipe 0
-10/25/2023 11:24:44: Stopped music meadows at 798739
-10/25/2023 11:24:44: Starting music meadows
-10/25/2023 11:24:44: Resumed music meadows at 798739
-10/25/2023 11:24:46: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:24:46: Setting selected recipe 0
-10/25/2023 11:24:48: Button pressed StackAll  frame:332194
-10/25/2023 11:24:52: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:24:52: Setting selected recipe 0
-10/25/2023 11:24:54: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:24:54: Setting selected recipe 0
-10/25/2023 11:24:56: Button pressed StackAll  frame:332862
-10/25/2023 11:25:01: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:25:01: Setting selected recipe 0
-10/25/2023 11:25:04: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:25:04: Setting selected recipe 0
-10/25/2023 11:25:04: Button pressed StackAll  frame:333702
-10/25/2023 11:25:12: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:25:12: Setting selected recipe 0
-10/25/2023 11:25:13: Button pressed StackAll  frame:334521
-10/25/2023 11:25:33: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:25:33: Setting selected recipe 0
-10/25/2023 11:25:36: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:25:36: Setting selected recipe 0
-10/25/2023 11:25:39: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:25:39: Setting selected recipe 0
-10/25/2023 11:25:41: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:25:41: Setting selected recipe 0
-10/25/2023 11:25:42: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:25:42: Setting selected recipe 0
-10/25/2023 11:25:45: Button pressed TakeAll  frame:337373
-10/25/2023 11:25:47: Button pressed StackAll  frame:337538
-10/25/2023 11:25:55: Button pressed TakeAll  frame:338277
-10/25/2023 11:26:08: Button pressed StackAll  frame:339600
-10/25/2023 11:26:19: Button pressed StackAll  frame:340657
-10/25/2023 11:26:21: Update PlayFab entity token
-10/25/2023 11:26:27: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:26:27: Setting selected recipe 0
-10/25/2023 11:26:31: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:26:31: Setting selected recipe 0
-10/25/2023 11:26:35: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:26:35: Setting selected recipe 0
-10/25/2023 11:26:36: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:26:36: Setting selected recipe 0
-10/25/2023 11:26:41: Button pressed TakeAll  frame:342886
-10/25/2023 11:26:47: Button pressed StackAll  frame:343557
-10/25/2023 11:26:54: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:26:54: Setting selected recipe 0
-10/25/2023 11:26:58: Button pressed StackAll  frame:344614
-10/25/2023 11:27:04: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:27:04: Setting selected recipe 0
-10/25/2023 11:27:14: Setting selected recipe 0
-10/25/2023 11:27:17: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:27:17: Setting selected recipe 0
-10/25/2023 11:27:18: Button pressed StackAll  frame:346632
-10/25/2023 11:27:24: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:27:24: Setting selected recipe 0
-10/25/2023 11:27:39: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:27:39: Setting selected recipe 0
-10/25/2023 11:27:47: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:27:47: Setting selected recipe 0
-10/25/2023 11:27:49: Button pressed StackAll  frame:349745
-10/25/2023 11:27:55: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:27:55: Setting selected recipe 0
-10/25/2023 11:27:58: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:27:58: Setting selected recipe 0
-10/25/2023 11:28:00: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:28:00: Setting selected recipe 0
-10/25/2023 11:28:12: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:28:12: Setting selected recipe 0
-10/25/2023 11:28:19: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:28:19: Setting selected recipe 0
-10/25/2023 11:28:21: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:28:21: Setting selected recipe 0
-10/25/2023 11:28:28: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:28:28: Setting selected recipe 0
-10/25/2023 11:28:31: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:28:31: Setting selected recipe 0
-10/25/2023 11:28:50: Added to stack20 2
-10/25/2023 11:28:53: Setting selected recipe 0
-10/25/2023 11:28:54: Setting selected recipe 0
-10/25/2023 11:28:56: Setting selected recipe 0
-10/25/2023 11:28:57: Setting selected recipe 0
-10/25/2023 11:29:01: Setting selected recipe 0
-10/25/2023 11:29:04: Setting selected recipe 0
-10/25/2023 11:29:06: Setting selected recipe 0
-10/25/2023 11:29:09: Setting selected recipe 0
-10/25/2023 11:29:12: Setting selected recipe 0
-10/25/2023 11:29:13: Button pressed StackAll  frame:358219
-10/25/2023 11:29:22: Setting selected recipe 0
-10/25/2023 11:29:29: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:29:29: Setting selected recipe 0
-10/25/2023 11:29:33: Button pressed StackAll  frame:360319
-10/25/2023 11:29:42: Setting selected recipe 0
-10/25/2023 11:29:44: Setting selected recipe 0
-10/25/2023 11:29:49: Item is not in this container
-10/25/2023 11:29:49: Setting selected recipe 0
-10/25/2023 11:29:51: Setting selected recipe 0
-10/25/2023 11:29:52: Item is not in this container
-10/25/2023 11:29:52: Setting selected recipe 0
-10/25/2023 11:29:53: Item is not in this container
-10/25/2023 11:29:53: Setting selected recipe 0
-10/25/2023 11:29:55: Item is not in this container
-10/25/2023 11:29:55: Setting selected recipe 0
-10/25/2023 11:29:57: Setting selected recipe 0
-10/25/2023 11:30:08: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:30:08: Setting selected recipe 0
-10/25/2023 11:30:30: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:30:30: Setting selected recipe 0
-10/25/2023 11:30:40: Loading dungeon
-10/25/2023 11:30:40: Dungeon loaded with 40 rooms from old format in 14.0121 ms.
-10/25/2023 11:30:47: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:30:47: Setting selected recipe 1
-10/25/2023 11:31:00: Setting selected recipe 0
-10/25/2023 11:31:04: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:31:04: Setting selected recipe 0
-10/25/2023 11:31:06: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:31:06: Setting selected recipe 0
-10/25/2023 11:31:09: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:31:09: Setting selected recipe 0
-10/25/2023 11:31:10: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:31:10: Setting selected recipe 0
-10/25/2023 11:31:28: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:31:28: Setting selected recipe 0
-10/25/2023 11:31:29: Button pressed TakeAll  frame:371200
-10/25/2023 11:31:31: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:31:31: Setting selected recipe 0
-10/25/2023 11:31:32: Button pressed TakeAll  frame:371509
-10/25/2023 11:31:38: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:31:38: Setting selected recipe 0
-10/25/2023 11:31:38: Button pressed TakeAll  frame:372086
-10/25/2023 11:31:45: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:31:45: Setting selected recipe 0
-10/25/2023 11:31:45: Button pressed TakeAll  frame:372720
-10/25/2023 11:31:57: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:31:57: Setting selected recipe 0
-10/25/2023 11:32:08: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:32:08: Setting selected recipe 0
-10/25/2023 11:32:10: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:32:10: Setting selected recipe 0
-10/25/2023 11:32:13: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:32:13: Setting selected recipe 0
-10/25/2023 11:32:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:32:16: Setting selected recipe 0
-10/25/2023 11:32:19: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:32:19: Setting selected recipe 0
-10/25/2023 11:32:24: Button pressed StackAll  frame:376227
-10/25/2023 11:33:49: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:33:49: Setting selected recipe 0
-10/25/2023 11:34:13: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:34:13: Setting selected recipe 0
-10/25/2023 11:34:16: Stopped music meadows at 5791703
-10/25/2023 11:34:16: Starting music home
-10/25/2023 11:34:16: Button pressed TakeAll  frame:386902
-10/25/2023 11:34:18: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:34:18: Setting selected recipe 0
-10/25/2023 11:34:19: Button pressed TakeAll  frame:387256
-10/25/2023 11:34:21: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:34:21: Setting selected recipe 0
-10/25/2023 11:34:28: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:34:28: Setting selected recipe 0
-10/25/2023 11:34:33: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:34:33: Setting selected recipe 0
-10/25/2023 11:34:34: Button pressed TakeAll  frame:388988
-10/25/2023 11:34:36: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:34:36: Setting selected recipe 0
-10/25/2023 11:34:36: Button pressed TakeAll  frame:389286
-10/25/2023 11:34:47: Stopped music home at 1377331
-10/25/2023 11:34:47: Starting music meadows
-10/25/2023 11:34:47: Resumed music meadows at 5791703
-10/25/2023 11:34:53: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:34:53: Setting selected recipe 0
-10/25/2023 11:34:54: Button pressed TakeAll  frame:391124
-10/25/2023 11:34:57: Button pressed StackAll  frame:391413
-10/25/2023 11:35:08: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:35:08: Setting selected recipe 0
-10/25/2023 11:35:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:35:16: Setting selected recipe 0
-10/25/2023 11:35:19: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:35:19: Setting selected recipe 0
-10/25/2023 11:35:20: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:35:20: Setting selected recipe 0
-10/25/2023 11:35:22: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:35:22: Setting selected recipe 0
-10/25/2023 11:35:33: Setting selected recipe 0
-10/25/2023 11:35:34: Button pressed RepairButton  frame:395135
-10/25/2023 11:35:40: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:35:40: Setting selected recipe 0
-10/25/2023 11:35:41: Stopped music meadows at 2398099
-10/25/2023 11:35:41: Starting music meadows
-10/25/2023 11:35:41: Resumed music meadows at 2398099
-10/25/2023 11:35:44: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:35:44: Setting selected recipe 0
-10/25/2023 11:35:56: Setting selected recipe 0
-10/25/2023 11:36:07: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:36:07: Setting selected recipe 0
-10/25/2023 11:36:10: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:36:10: Setting selected recipe 0
-10/25/2023 11:36:14: Button pressed TakeAll  frame:399400
-10/25/2023 11:36:18: Button pressed StackAll  frame:399887
-10/25/2023 11:36:45: Player 2264627408 wants to open Container   im: 2264627408
-10/25/2023 11:36:45: Setting selected recipe 1
-10/25/2023 11:36:47: Button pressed StackAll  frame:402368
-10/25/2023 11:36:52: Spawned Seagal x 1
-10/25/2023 11:37:02: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:37:02: Setting selected recipe 0
-10/25/2023 11:37:04: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:37:04: Setting selected recipe 0
-10/25/2023 11:37:06: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:37:06: Setting selected recipe 0
-10/25/2023 11:37:21: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:37:21: Setting selected recipe 0
-10/25/2023 11:37:21: Button pressed TakeAll  frame:405826
-10/25/2023 11:37:21: Stopped music meadows at 4406707
-10/25/2023 11:37:21: Starting music home
-10/25/2023 11:37:21: Resumed music home at 1377331
-10/25/2023 11:37:23: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:37:23: Setting selected recipe 0
-10/25/2023 11:37:23: Button pressed TakeAll  frame:406105
-10/25/2023 11:37:25: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:37:25: Setting selected recipe 0
-10/25/2023 11:37:26: Button pressed TakeAll  frame:406405
-10/25/2023 11:37:47: Stopped music home at 1147775
-10/25/2023 11:37:47: Starting music meadows
-10/25/2023 11:37:47: Resumed music meadows at 4406707
-10/25/2023 11:37:49: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:37:49: Setting selected recipe 0
-10/25/2023 11:37:51: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:37:51: Setting selected recipe 0
-10/25/2023 11:37:52: Button pressed TakeAll  frame:409157
-10/25/2023 11:37:56: Button pressed StackAll  frame:409579
-10/25/2023 11:38:05: Button pressed StackAll  frame:410537
-10/25/2023 11:38:20: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:38:20: Setting selected recipe 0
-10/25/2023 11:38:23: Button pressed StackAll  frame:412478
-10/25/2023 11:38:27: Button pressed StackAll  frame:413011
-10/25/2023 11:38:35: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:38:35: Setting selected recipe 0
-10/25/2023 11:38:38: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:38:38: Setting selected recipe 0
-10/25/2023 11:38:40: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:38:40: Setting selected recipe 0
-10/25/2023 11:38:49: Setting selected recipe 0
-10/25/2023 11:38:51: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:38:51: Setting selected recipe 0
-10/25/2023 11:38:56: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:38:56: Setting selected recipe 0
-10/25/2023 11:38:57: Button pressed TakeAll  frame:416428
-10/25/2023 11:39:01: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:39:01: Setting selected recipe 0
-10/25/2023 11:39:15: Starting music evening
-10/25/2023 11:39:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:39:16: Setting selected recipe 0
-10/25/2023 11:39:16: Stopped music meadows at 3909023
-10/25/2023 11:39:18: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:39:18: Setting selected recipe 0
-10/25/2023 11:39:22: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:39:22: Setting selected recipe 0
-10/25/2023 11:39:24: Spawned FireFlies x 1
-10/25/2023 11:39:27: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:39:27: Setting selected recipe 0
-10/25/2023 11:39:29: Button pressed TakeAll  frame:419451
-10/25/2023 11:39:31: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:39:31: Setting selected recipe 0
-10/25/2023 11:39:36: Button pressed StackAll  frame:419922
-10/25/2023 11:39:40: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:39:40: Setting selected recipe 0
-10/25/2023 11:39:43: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:39:43: Setting selected recipe 0
-10/25/2023 11:39:45: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:39:45: Setting selected recipe 0
-10/25/2023 11:39:46: Button pressed TakeAll  frame:420520
-10/25/2023 11:39:49: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:39:49: Setting selected recipe 0
-10/25/2023 11:39:52: Spawned Greydwarf_Shaman x 1
-10/25/2023 11:39:52: Button pressed StackAll  frame:420858
-10/25/2023 11:39:56: Setting selected recipe 0
-10/25/2023 11:40:00: Setting selected recipe 0
-10/25/2023 11:40:02: Setting selected recipe 0
-10/25/2023 11:40:04: Setting selected recipe 0
-10/25/2023 11:40:08: Setting selected recipe 0
-10/25/2023 11:40:09: Setting selected recipe 0
-10/25/2023 11:40:10: Setting selected recipe 0
-10/25/2023 11:40:12: Spawned Greydwarf x 2
-10/25/2023 11:40:12: Setting selected recipe 0
-10/25/2023 11:40:22: Starting music home
-10/25/2023 11:40:22: Resumed music home at 1147775
-10/25/2023 11:40:24: Spawned Greydwarf_Elite x 1
-10/25/2023 11:40:42: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:40:42: Setting selected recipe 0
-10/25/2023 11:40:44: Button pressed TakeAll  frame:424923
-10/25/2023 11:40:54: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:40:54: Setting selected recipe 0
-10/25/2023 11:40:57: Button pressed TakeAll  frame:426261
-10/25/2023 11:41:14: Stopped music home at 2303078
-10/25/2023 11:41:16: Spawned Greydwarf_Shaman x 1
-10/25/2023 11:41:16: Spawned FireFlies x 1
-10/25/2023 11:41:18: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:41:18: Setting selected recipe 0
-10/25/2023 11:41:20: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:41:20: Setting selected recipe 0
-10/25/2023 11:41:27: Button pressed StackAll  frame:428884
-10/25/2023 11:41:30: Setting selected recipe 0
-10/25/2023 11:41:31: Setting selected recipe 0
-10/25/2023 11:41:36: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:41:36: Setting selected recipe 0
-10/25/2023 11:41:59: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:41:59: Setting selected recipe 0
-10/25/2023 11:42:04: Button pressed StackAll  frame:432271
-10/25/2023 11:42:04: Spawned FireFlies x 1
-10/25/2023 11:42:09: Button pressed StackAll  frame:432699
-10/25/2023 11:42:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:42:16: Setting selected recipe 0
-10/25/2023 11:42:17: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:42:17: Setting selected recipe 0
-10/25/2023 11:42:19: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:42:19: Setting selected recipe 0
-10/25/2023 11:42:20: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:42:20: Setting selected recipe 0
-10/25/2023 11:42:27: Button pressed TakeAll  frame:434382
-10/25/2023 11:42:35: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:42:35: Setting selected recipe 0
-10/25/2023 11:42:39: Button pressed StackAll  frame:435388
-10/25/2023 11:42:41: Button pressed StackAll  frame:435529
-10/25/2023 11:42:42: Button pressed StackAll  frame:435626
-10/25/2023 11:42:45: Button pressed StackAll  frame:435865
-10/25/2023 11:42:59: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:42:59: Setting selected recipe 0
-10/25/2023 11:43:06: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:43:06: Setting selected recipe 0
-10/25/2023 11:43:08: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:43:08: Setting selected recipe 0
-10/25/2023 11:43:11: Button pressed TakeAll  frame:438326
-10/25/2023 11:43:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:43:16: Setting selected recipe 0
-10/25/2023 11:43:18: Button pressed StackAll  frame:439048
-10/25/2023 11:43:24: Spawned Greydwarf x 1
-10/25/2023 11:43:28: Setting selected recipe 0
-10/25/2023 11:43:31: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:43:31: Setting selected recipe 0
-10/25/2023 11:43:32: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:43:32: Setting selected recipe 0
-10/25/2023 11:43:34: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:43:34: Setting selected recipe 0
-10/25/2023 11:43:47: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:43:47: Setting selected recipe 0
-10/25/2023 11:44:00: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:44:00: Setting selected recipe 0
-10/25/2023 11:44:04: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:44:04: Setting selected recipe 0
-10/25/2023 11:44:05: Button pressed TakeAll  frame:443624
-10/25/2023 11:44:07: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:44:07: Setting selected recipe 0
-10/25/2023 11:44:08: Button pressed StackAll  frame:443936
-10/25/2023 11:44:09: Button pressed StackAll  frame:444096
-10/25/2023 11:44:41: Setting selected recipe 0
-10/25/2023 11:44:47: Setting selected recipe 0
-10/25/2023 11:44:52: Spawned FireFlies x 1
-10/25/2023 11:44:55: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:44:55: Setting selected recipe 0
-10/25/2023 11:44:57: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:44:57: Setting selected recipe 0
-10/25/2023 11:44:58: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:44:58: Setting selected recipe 0
-10/25/2023 11:45:00: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:00: Setting selected recipe 0
-10/25/2023 11:45:04: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:04: Setting selected recipe 0
-10/25/2023 11:45:11: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:11: Setting selected recipe 0
-10/25/2023 11:45:13: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:13: Setting selected recipe 0
-10/25/2023 11:45:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:16: Setting selected recipe 0
-10/25/2023 11:45:16: Spawned FireFlies x 1
-10/25/2023 11:45:19: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:19: Setting selected recipe 0
-10/25/2023 11:45:37: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:37: Setting selected recipe 0
-10/25/2023 11:45:39: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:39: Setting selected recipe 0
-10/25/2023 11:45:40: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:40: Setting selected recipe 0
-10/25/2023 11:45:42: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:42: Setting selected recipe 0
-10/25/2023 11:45:44: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:44: Setting selected recipe 0
-10/25/2023 11:45:45: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:45: Setting selected recipe 0
-10/25/2023 11:45:47: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:47: Setting selected recipe 0
-10/25/2023 11:45:48: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:48: Setting selected recipe 0
-10/25/2023 11:45:51: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:51: Setting selected recipe 0
-10/25/2023 11:45:53: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:53: Setting selected recipe 0
-10/25/2023 11:45:55: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:45:55: Setting selected recipe 0
-10/25/2023 11:46:04: Spawned FireFlies x 1
-10/25/2023 11:46:08: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:46:08: Setting selected recipe 0
-10/25/2023 11:46:11: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:46:11: Setting selected recipe 0
-10/25/2023 11:46:13: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:46:13: Setting selected recipe 0
-10/25/2023 11:46:18: Button pressed TakeAll  frame:457133
-10/25/2023 11:46:21: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:46:21: Setting selected recipe 0
-10/25/2023 11:46:40: Update PlayFab entity token
-10/25/2023 11:46:45: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:46:45: Setting selected recipe 0
-10/25/2023 11:46:56: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:46:56: Setting selected recipe 0
-10/25/2023 11:47:07: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:47:07: Setting selected recipe 0
-10/25/2023 11:47:16: Spawned FireFlies x 1
-10/25/2023 11:47:30: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:47:30: Setting selected recipe 0
-10/25/2023 11:48:04: Spawned FireFlies x 1
-10/25/2023 11:48:10: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:48:10: Setting selected recipe 0
-10/25/2023 11:48:12: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:48:12: Setting selected recipe 0
-10/25/2023 11:48:16: Starting music morning
-10/25/2023 11:48:36: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:48:36: Setting selected recipe 0
-10/25/2023 11:48:50: Starting music meadows
-10/25/2023 11:48:59: Placed wood_stair
-10/25/2023 11:49:31: Disabling PlayerBase  character_trigger
-10/25/2023 11:49:31: Disabling PlayerBase  character_trigger
-10/25/2023 11:50:00: Setting selected recipe 0
-10/25/2023 11:50:13: Disabling PlayerBase  character_trigger
-10/25/2023 11:50:13: Disabling PlayerBase  character_trigger
-10/25/2023 11:50:51: Placed piece_chest
-10/25/2023 11:51:02: Placed piece_chest
-10/25/2023 11:51:06: Placed piece_chest
-10/25/2023 11:51:17: Placed piece_chest
-10/25/2023 11:51:23: Placed piece_chest
-10/25/2023 11:51:41: Placed piece_chest
-10/25/2023 11:51:48: Placed piece_chest
-10/25/2023 11:51:51: Placed piece_chest
-10/25/2023 11:51:54: Placed piece_chest
-10/25/2023 11:52:00: Placed piece_chest
-10/25/2023 11:52:04: Placed piece_chest
-10/25/2023 11:52:09: Placed piece_chest
-10/25/2023 11:52:14: Placed piece_chest
-10/25/2023 11:52:17: Uncompressed size 8394618
-10/25/2023 11:52:17: Compressed size 17252
-10/25/2023 11:52:17: Considering autobackup. World time: 5387.32, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 11:52:17: No autobackup needed yet...
-10/25/2023 11:52:17: Sending message to save player profiles
-10/25/2023 11:52:17: PrepareSave: clone done in 26ms
-10/25/2023 11:52:17: PrepareSave: ZDOExtraData.PrepareSave done in 48 ms
-10/25/2023 11:52:17: World save writing starting
-10/25/2023 11:52:17: World save writing started
-10/25/2023 11:52:18: Saved 421574 ZDOs
-10/25/2023 11:52:18: World save writing finishing
-10/25/2023 11:52:18: World save writing finished
-10/25/2023 11:52:18: World saved ( 869.044ms )
-10/25/2023 11:52:18: Considering autobackup. World time: 5388.38, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 11:52:18: No autobackup needed yet...
-10/25/2023 11:52:49: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:52:49: Setting selected recipe 0
-10/25/2023 11:52:54: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:52:54: Setting selected recipe 0
-10/25/2023 11:52:58: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:52:58: Setting selected recipe 0
-10/25/2023 11:53:08: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:53:08: Setting selected recipe 0
-10/25/2023 11:53:12: Button pressed TakeAll  frame:490291
-10/25/2023 11:53:15: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:53:15: Setting selected recipe 0
-10/25/2023 11:53:29: Setting selected recipe 0
-10/25/2023 11:53:32: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:53:32: Setting selected recipe 0
-10/25/2023 11:53:48: Placed piece_chest
-10/25/2023 11:53:51: Placed piece_chest
-10/25/2023 11:53:54: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:53:54: Setting selected recipe 0
-10/25/2023 11:53:55: Button pressed TakeAll  frame:493917
-10/25/2023 11:53:57: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:53:57: Setting selected recipe 0
-10/25/2023 11:54:28: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:54:28: Setting selected recipe 0
-10/25/2023 11:54:29: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:54:29: Setting selected recipe 0
-10/25/2023 11:54:32: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:54:32: Setting selected recipe 0
-10/25/2023 11:54:36: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:54:36: Setting selected recipe 0
-10/25/2023 11:54:38: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:54:38: Setting selected recipe 0
-10/25/2023 11:54:40: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:54:40: Setting selected recipe 0
-10/25/2023 11:54:42: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:54:42: Setting selected recipe 0
-10/25/2023 11:54:44: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:54:44: Setting selected recipe 0
-10/25/2023 11:54:47: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:54:47: Setting selected recipe 0
-10/25/2023 11:54:49: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:54:49: Setting selected recipe 0
-10/25/2023 11:54:50: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:54:50: Setting selected recipe 0
-10/25/2023 11:54:53: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:54:53: Setting selected recipe 0
-10/25/2023 11:55:13: Item is not in this container
-10/25/2023 11:55:13: Setting selected recipe 0
-10/25/2023 11:55:21: Setting selected recipe 0
-10/25/2023 11:55:23: Setting selected recipe 0
-10/25/2023 11:55:26: Setting selected recipe 0
-10/25/2023 11:55:30: Setting selected recipe 0
-10/25/2023 11:55:35: Item is not in this container
-10/25/2023 11:55:35: Setting selected recipe 0
-10/25/2023 11:55:41: Setting selected recipe 0
-10/25/2023 11:55:45: Setting selected recipe 0
-10/25/2023 11:55:47: Item is not in this container
-10/25/2023 11:55:47: Setting selected recipe 0
-10/25/2023 11:55:49: Item is not in this container
-10/25/2023 11:55:49: Setting selected recipe 0
-10/25/2023 11:55:58: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:55:58: Setting selected recipe 0
-10/25/2023 11:56:10: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:56:10: Setting selected recipe 0
-10/25/2023 11:56:14: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:56:14: Setting selected recipe 0
-10/25/2023 11:56:25: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:56:25: Setting selected recipe 0
-10/25/2023 11:56:35: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:56:35: Setting selected recipe 0
-10/25/2023 11:56:37: Button pressed TakeAll  frame:509093
-10/25/2023 11:56:41: Stopped music meadows at 1355831
-10/25/2023 11:56:41: Starting music meadows
-10/25/2023 11:56:41: Resumed music meadows at 1355831
-10/25/2023 11:56:42: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:56:42: Setting selected recipe 0
-10/25/2023 11:56:44: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:56:44: Setting selected recipe 0
-10/25/2023 11:56:46: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:56:46: Setting selected recipe 0
-10/25/2023 11:56:48: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:56:48: Setting selected recipe 0
-10/25/2023 11:56:50: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:56:50: Setting selected recipe 0
-10/25/2023 11:56:57: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:56:57: Setting selected recipe 0
-10/25/2023 11:56:59: Button pressed TakeAll  frame:511116
-10/25/2023 11:57:01: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:57:01: Setting selected recipe 0
-10/25/2023 11:57:03: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:57:03: Setting selected recipe 0
-10/25/2023 11:57:05: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:57:05: Setting selected recipe 0
-10/25/2023 11:57:11: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 11:57:11: Setting selected recipe 0
-10/25/2023 11:57:12: Button pressed TakeAll  frame:512148
-10/25/2023 11:57:40: Stopped music meadows at 2580614
-10/25/2023 11:57:40: Starting music meadows
-10/25/2023 11:57:40: Resumed music meadows at 2580614
-10/25/2023 11:57:41: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:57:41: Setting selected recipe 0
-10/25/2023 11:57:43: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:57:43: Setting selected recipe 0
-10/25/2023 11:57:48: Button pressed StackAll  frame:515521
-10/25/2023 11:57:58: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:57:58: Setting selected recipe 0
-10/25/2023 11:58:08: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:08: Setting selected recipe 0
-10/25/2023 11:58:10: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:10: Setting selected recipe 0
-10/25/2023 11:58:14: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:14: Setting selected recipe 0
-10/25/2023 11:58:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:16: Setting selected recipe 0
-10/25/2023 11:58:18: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:18: Setting selected recipe 0
-10/25/2023 11:58:23: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:23: Setting selected recipe 0
-10/25/2023 11:58:26: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:26: Setting selected recipe 0
-10/25/2023 11:58:28: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:28: Setting selected recipe 0
-10/25/2023 11:58:30: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:30: Setting selected recipe 0
-10/25/2023 11:58:34: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:34: Setting selected recipe 0
-10/25/2023 11:58:36: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:36: Setting selected recipe 0
-10/25/2023 11:58:38: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:38: Setting selected recipe 0
-10/25/2023 11:58:50: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:50: Setting selected recipe 0
-10/25/2023 11:58:52: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:52: Setting selected recipe 0
-10/25/2023 11:58:55: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:58:55: Setting selected recipe 0
-10/25/2023 11:59:01: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:59:01: Setting selected recipe 0
-10/25/2023 11:59:03: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:59:03: Setting selected recipe 0
-10/25/2023 11:59:06: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:59:06: Setting selected recipe 0
-10/25/2023 11:59:10: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:59:10: Setting selected recipe 0
-10/25/2023 11:59:18: Button pressed TakeAll  frame:524653
-10/25/2023 11:59:21: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:59:21: Setting selected recipe 0
-10/25/2023 11:59:23: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:59:23: Setting selected recipe 0
-10/25/2023 11:59:28: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:59:28: Setting selected recipe 0
-10/25/2023 11:59:30: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:59:30: Setting selected recipe 0
-10/25/2023 11:59:36: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:59:36: Setting selected recipe 0
-10/25/2023 11:59:38: Button pressed StackAll  frame:526777
-10/25/2023 11:59:44: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:59:44: Setting selected recipe 0
-10/25/2023 11:59:57: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:59:57: Setting selected recipe 0
-10/25/2023 11:59:58: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 11:59:58: Setting selected recipe 0
-10/25/2023 12:00:00: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:00:00: Setting selected recipe 0
-10/25/2023 12:00:03: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:00:03: Setting selected recipe 0
-10/25/2023 12:00:05: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:00:05: Setting selected recipe 0
-10/25/2023 12:00:09: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:00:09: Setting selected recipe 0
-10/25/2023 12:00:10: Button pressed TakeAll  frame:530206
-10/25/2023 12:00:13: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:00:13: Setting selected recipe 0
-10/25/2023 12:00:14: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:00:14: Setting selected recipe 0
-10/25/2023 12:00:25: Setting selected recipe 0
-10/25/2023 12:00:47: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 12:00:47: Setting selected recipe 0
-10/25/2023 12:00:49: Button pressed TakeAll  frame:534393
-10/25/2023 12:00:50: Stopped music meadows at 8391935
-10/25/2023 12:00:50: Starting music home
-10/25/2023 12:00:51: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 12:00:51: Setting selected recipe 0
-10/25/2023 12:00:52: Button pressed TakeAll  frame:534748
-10/25/2023 12:01:03: Stopped music home at 572006
-10/25/2023 12:01:03: Starting music meadows
-10/25/2023 12:01:03: Resumed music meadows at 8391935
-10/25/2023 12:01:04: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:01:04: Setting selected recipe 0
-10/25/2023 12:01:32: Stopped music meadows at 1269139
-10/25/2023 12:01:32: Starting music home
-10/25/2023 12:01:32: Resumed music home at 572006
-10/25/2023 12:01:47: Stopped music home at 651033
-10/25/2023 12:01:47: Starting music meadows
-10/25/2023 12:01:47: Resumed music meadows at 1269139
-10/25/2023 12:02:46: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 12:02:46: Setting selected recipe 0
-10/25/2023 12:02:47: Button pressed TakeAll  frame:545848
-10/25/2023 12:03:20: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:03:20: Setting selected recipe 0
-10/25/2023 12:03:21: Stopped music meadows at 4168684
-10/25/2023 12:03:21: Starting music meadows
-10/25/2023 12:03:21: Resumed music meadows at 4168684
-10/25/2023 12:03:41: Stopped music meadows at 888115
-10/25/2023 12:03:41: Starting music home
-10/25/2023 12:03:41: Resumed music home at 651033
-10/25/2023 12:04:14: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 12:04:14: Setting selected recipe 0
-10/25/2023 12:04:16: Button pressed TakeAll  frame:554827
-10/25/2023 12:04:22: Update PlayFab entity token
-10/25/2023 12:04:45: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 12:04:45: Setting selected recipe 0
-10/25/2023 12:04:47: Button pressed TakeAll  frame:558051
-10/25/2023 12:04:56: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 12:04:56: Setting selected recipe 0
-10/25/2023 12:04:57: Button pressed TakeAll  frame:558710
-10/25/2023 12:05:00: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 12:05:00: Setting selected recipe 0
-10/25/2023 12:05:01: Button pressed TakeAll  frame:559013
-10/25/2023 12:05:03: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 12:05:03: Setting selected recipe 0
-10/25/2023 12:05:04: Button pressed TakeAll  frame:559274
-10/25/2023 12:05:05: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 12:05:05: Setting selected recipe 0
-10/25/2023 12:05:14: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 12:05:14: Setting selected recipe 0
-10/25/2023 12:05:16: Button pressed TakeAll  frame:560272
-10/25/2023 12:05:26: Setting selected recipe 0
-10/25/2023 12:05:31: Setting selected recipe 0
-10/25/2023 12:05:38: Setting selected recipe 0
-10/25/2023 12:05:45: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 12:05:45: Setting selected recipe 0
-10/25/2023 12:05:48: Button pressed StackAll  frame:562661
-10/25/2023 12:05:50: Setting selected recipe 0
-10/25/2023 12:05:59: Stopped music home at 6061574
-10/25/2023 12:05:59: Starting music meadows
-10/25/2023 12:05:59: Resumed music meadows at 888115
-10/25/2023 12:05:59: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:05:59: Setting selected recipe 0
-10/25/2023 12:06:00: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:06:00: Setting selected recipe 0
-10/25/2023 12:06:02: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:06:02: Setting selected recipe 0
-10/25/2023 12:06:09: Setting selected recipe 0
-10/25/2023 12:06:12: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:06:12: Setting selected recipe 0
-10/25/2023 12:06:14: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:06:14: Setting selected recipe 0
-10/25/2023 12:06:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:06:16: Setting selected recipe 0
-10/25/2023 12:06:18: Button pressed StackAll  frame:565669
-10/25/2023 12:06:31: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:06:31: Setting selected recipe 0
-10/25/2023 12:06:35: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:06:35: Setting selected recipe 0
-10/25/2023 12:06:41: Button pressed StackAll  frame:568165
-10/25/2023 12:06:45: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:06:45: Setting selected recipe 0
-10/25/2023 12:06:51: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:06:51: Setting selected recipe 0
-10/25/2023 12:06:53: Button pressed StackAll  frame:569540
-10/25/2023 12:06:55: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:06:55: Setting selected recipe 0
-10/25/2023 12:06:57: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:06:57: Setting selected recipe 0
-10/25/2023 12:06:59: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:06:59: Setting selected recipe 0
-10/25/2023 12:07:04: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:07:04: Setting selected recipe 0
-10/25/2023 12:07:06: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:07:06: Setting selected recipe 0
-10/25/2023 12:07:09: Button pressed StackAll  frame:571296
-10/25/2023 12:07:13: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:07:13: Setting selected recipe 0
-10/25/2023 12:07:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:07:16: Setting selected recipe 0
-10/25/2023 12:07:20: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:07:20: Setting selected recipe 0
-10/25/2023 12:07:27: Button pressed TakeAll  frame:573365
-10/25/2023 12:07:31: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:07:31: Setting selected recipe 0
-10/25/2023 12:07:34: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:07:34: Setting selected recipe 0
-10/25/2023 12:07:37: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:07:37: Setting selected recipe 0
-10/25/2023 12:07:47: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:07:47: Setting selected recipe 0
-10/25/2023 12:07:54: Button pressed TakeAll  frame:576449
-10/25/2023 12:09:15: Starting music evening
-10/25/2023 12:09:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:09:16: Setting selected recipe 0
-10/25/2023 12:09:16: Stopped music meadows at 8696755
-10/25/2023 12:09:20: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:09:20: Setting selected recipe 0
-10/25/2023 12:09:36: Spawned FireFlies x 1
-10/25/2023 12:09:45: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:09:45: Setting selected recipe 0
-10/25/2023 12:10:00: Spawned FireFlies x 1
-10/25/2023 12:10:06: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:10:06: Setting selected recipe 0
-10/25/2023 12:10:08: Spawned Greydwarf_Elite x 1
-10/25/2023 12:10:08: Spawned Greydwarf_Shaman x 1
-10/25/2023 12:10:08: Button pressed TakeAll  frame:589147
-10/25/2023 12:10:11: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:10:11: Setting selected recipe 0
-10/25/2023 12:10:16: Spawned Greydwarf_Shaman x 1
-10/25/2023 12:10:21: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:10:21: Setting selected recipe 0
-10/25/2023 12:10:23: Button pressed TakeAll  frame:590191
-10/25/2023 12:10:24: Spawned FireFlies x 1
-10/25/2023 12:10:26: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:10:26: Setting selected recipe 0
-10/25/2023 12:10:27: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:10:27: Setting selected recipe 0
-10/25/2023 12:10:38: Button pressed TakeAll  frame:591404
-10/25/2023 12:10:42: Button pressed TakeAll  frame:591736
-10/25/2023 12:10:46: Button pressed StackAll  frame:592065
-10/25/2023 12:10:48: Spawned FireFlies x 1
-10/25/2023 12:10:52: Button pressed StackAll  frame:592546
-10/25/2023 12:11:04: Button pressed StackAll  frame:593488
-10/25/2023 12:11:07: Button pressed StackAll  frame:593768
-10/25/2023 12:11:29: Starting music home
-10/25/2023 12:11:29: Resumed music home at 6061574
-10/25/2023 12:11:35: Stopped music home at 282239
-10/25/2023 12:12:41: Starting music home
-10/25/2023 12:12:41: Resumed music home at 282239
-10/25/2023 12:12:45: Player 2264627408 wants to open piece_chest_wood(Clone)   im: 2264627408
-10/25/2023 12:12:45: Setting selected recipe 0
-10/25/2023 12:12:50: Button pressed StackAll  frame:602848
-10/25/2023 12:12:51: Button pressed TakeAll  frame:602941
-10/25/2023 12:13:01: Stopped music home at 905990
-10/25/2023 12:13:04: Spawned FireFlies x 1
-10/25/2023 12:13:04: Spawned FireFlies x 1
-10/25/2023 12:13:06: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:13:06: Setting selected recipe 0
-10/25/2023 12:13:08: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:13:08: Setting selected recipe 0
-10/25/2023 12:13:10: Button pressed StackAll  frame:604632
-10/25/2023 12:13:26: Button pressed StackAll  frame:606272
-10/25/2023 12:13:30: Setting selected recipe 0
-10/25/2023 12:13:34: Setting selected recipe 0
-10/25/2023 12:13:37: Setting selected recipe 0
-10/25/2023 12:13:39: Setting selected recipe 0
-10/25/2023 12:13:40: Setting selected recipe 0
-10/25/2023 12:13:41: Setting selected recipe 0
-10/25/2023 12:13:55: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:13:55: Setting selected recipe 0
-10/25/2023 12:13:58: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:13:58: Setting selected recipe 0
-10/25/2023 12:14:00: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:00: Setting selected recipe 0
-10/25/2023 12:14:03: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:03: Setting selected recipe 0
-10/25/2023 12:14:07: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:07: Setting selected recipe 0
-10/25/2023 12:14:12: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:12: Setting selected recipe 0
-10/25/2023 12:14:14: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:14: Setting selected recipe 0
-10/25/2023 12:14:16: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:16: Setting selected recipe 0
-10/25/2023 12:14:20: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:20: Setting selected recipe 0
-10/25/2023 12:14:28: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:28: Setting selected recipe 0
-10/25/2023 12:14:31: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:31: Setting selected recipe 0
-10/25/2023 12:14:38: Button pressed StackAll  frame:613591
-10/25/2023 12:14:42: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:42: Setting selected recipe 0
-10/25/2023 12:14:43: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:43: Setting selected recipe 0
-10/25/2023 12:14:46: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:46: Setting selected recipe 0
-10/25/2023 12:14:51: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:51: Setting selected recipe 0
-10/25/2023 12:14:54: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:54: Setting selected recipe 0
-10/25/2023 12:14:56: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:56: Setting selected recipe 0
-10/25/2023 12:14:59: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:14:59: Setting selected recipe 0
-10/25/2023 12:15:01: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:15:01: Setting selected recipe 0
-10/25/2023 12:15:03: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:15:03: Setting selected recipe 0
-10/25/2023 12:15:06: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:15:06: Setting selected recipe 0
-10/25/2023 12:15:11: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:15:11: Setting selected recipe 0
-10/25/2023 12:15:19: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:15:19: Setting selected recipe 0
-10/25/2023 12:15:21: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:15:21: Setting selected recipe 0
-10/25/2023 12:15:24: Button pressed TakeAll  frame:618317
-10/25/2023 12:15:28: Spawned FireFlies x 1
-10/25/2023 12:15:28: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:15:28: Setting selected recipe 0
-10/25/2023 12:15:31: Button pressed StackAll  frame:619154
-10/25/2023 12:15:41: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:15:41: Setting selected recipe 0
-10/25/2023 12:15:44: Button pressed StackAll  frame:620500
-10/25/2023 12:15:46: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:15:46: Setting selected recipe 0
-10/25/2023 12:15:52: Spawned FireFlies x 1
-10/25/2023 12:15:58: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:15:58: Setting selected recipe 0
-10/25/2023 12:16:01: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:16:01: Setting selected recipe 0
-10/25/2023 12:16:02: Button pressed StackAll  frame:622416
-10/25/2023 12:16:06: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:16:06: Setting selected recipe 0
-10/25/2023 12:16:08: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:16:08: Setting selected recipe 0
-10/25/2023 12:16:11: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:16:11: Setting selected recipe 0
-10/25/2023 12:16:12: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:16:12: Setting selected recipe 0
-10/25/2023 12:16:15: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:16:15: Setting selected recipe 0
-10/25/2023 12:16:20: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:16:20: Setting selected recipe 0
-10/25/2023 12:16:24: Spawned Greydwarf x 3
-10/25/2023 12:16:29: Starting music home
-10/25/2023 12:16:29: Resumed music home at 905990
-10/25/2023 12:16:35: Stopped music home at 265305
-10/25/2023 12:16:35: Starting music home
-10/25/2023 12:16:35: Resumed music home at 265305
-10/25/2023 12:17:27: Disabling PlayerBase  character_trigger
-10/25/2023 12:17:27: Disabling PlayerBase  character_trigger
-10/25/2023 12:18:16: Starting music morning
-10/25/2023 12:18:17: Stopped music home at 4507372
-10/25/2023 12:18:51: Starting music home
-10/25/2023 12:18:51: Resumed music home at 4507372
-10/25/2023 12:22:17: Uncompressed size 8394618
-10/25/2023 12:22:17: Compressed size 17252
-10/25/2023 12:22:17: Considering autobackup. World time: 7187.28, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 12:22:17: No autobackup needed yet...
-10/25/2023 12:22:17: Sending message to save player profiles
-10/25/2023 12:22:17: PrepareSave: clone done in 27ms
-10/25/2023 12:22:17: PrepareSave: ZDOExtraData.PrepareSave done in 48 ms
-10/25/2023 12:22:17: World save writing starting
-10/25/2023 12:22:17: World save writing started
-10/25/2023 12:22:18: Saved 421406 ZDOs
-10/25/2023 12:22:18: World save writing finishing
-10/25/2023 12:22:18: World save writing finished
-10/25/2023 12:22:18: World saved ( 883.8288ms )
-10/25/2023 12:22:18: Considering autobackup. World time: 7188.359, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 12:22:18: Overwrite our newest autobackup since the second one isn't so old
-10/25/2023 12:22:18: Replacing backup file: Famheim_backup_auto-20231025102213
-10/25/2023 12:22:18: Saving backup at: Famheim_backup_auto-20231025122217
-10/25/2023 12:22:18: World auto backup saved ( 00:00:00.0170191ms )
-10/25/2023 12:22:30: Unloading unused assets
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 12249 unused Assets to reduce memory usage. Loaded Objects now: 2040209.
-Total: 685.521700 ms (FindLiveObjects: 117.562400 ms CreateObjectMapping: 28.379100 ms MarkObjects: 510.137200 ms  DeleteObjects: 29.442600 ms)
-
-10/25/2023 12:23:01: Disabling collider_block  blocker
-10/25/2023 12:23:01: Disabling Blocker  blocker
-10/25/2023 12:23:02: Disabling Capsule_blockplayer  blocker
-10/25/2023 12:23:02: Disabling PlayerBase  character_trigger
-10/25/2023 12:23:03: Disabling PlayerBase  character_trigger
-10/25/2023 12:23:15: Placed piece_stonecutter
-10/25/2023 12:23:28: Stopped music home at 4062530
-10/25/2023 12:23:28: Starting music meadows
-10/25/2023 12:23:41: Update PlayFab entity token
-10/25/2023 12:24:06: Stopped music meadows at 1701907
-10/25/2023 12:24:07: Starting music home
-10/25/2023 12:24:07: Resumed music home at 4062530
-10/25/2023 12:24:10: Stopped music home at 131711
-10/25/2023 12:24:10: Starting music meadows
-10/25/2023 12:24:10: Resumed music meadows at 1701907
-10/25/2023 12:24:13: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:24:13: Setting selected recipe 0
-10/25/2023 12:24:15: Button pressed TakeAll  frame:663696
-10/25/2023 12:24:22: Setting selected recipe 0
-10/25/2023 12:24:24: Setting selected recipe 0
-10/25/2023 12:24:29: Setting selected recipe 0
-10/25/2023 12:24:30: Setting selected recipe 0
-10/25/2023 12:24:33: Setting selected recipe 0
-10/25/2023 12:24:35: Setting selected recipe 0
-10/25/2023 12:24:38: Setting selected recipe 0
-10/25/2023 12:24:40: Setting selected recipe 0
-10/25/2023 12:24:44: Setting selected recipe 0
-10/25/2023 12:24:48: Setting selected recipe 0
-10/25/2023 12:25:13: Player 2264627408 wants to open Container   im: 2264627408
-10/25/2023 12:25:13: Setting selected recipe 0
-10/25/2023 12:25:14: Button pressed StackAll  frame:669948
-10/25/2023 12:26:54: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:26:54: Setting selected recipe 0
-10/25/2023 12:26:57: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:26:57: Setting selected recipe 0
-10/25/2023 12:27:01: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:27:01: Setting selected recipe 0
-10/25/2023 12:27:05: Player 2264627408 wants to open piece_chest(Clone)   im: 2264627408
-10/25/2023 12:27:05: Setting selected recipe 0
-10/25/2023 12:27:31: Activating default element Continue
-10/25/2023 12:27:34: Activating default element Button_no
-10/25/2023 12:27:35: Game - OnApplicationQuit
-10/25/2023 12:27:35: Shuting down
-10/25/2023 12:27:35: Uncompressed size 8394618
-10/25/2023 12:27:35: Compressed size 17252
-10/25/2023 12:27:35: Considering autobackup. World time: 7500.359, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 12:27:35: No autobackup needed yet...
-10/25/2023 12:27:35: ZNet Shutdown
-10/25/2023 12:27:35: PrepareSave: clone done in 26ms
-10/25/2023 12:27:35: PrepareSave: ZDOExtraData.PrepareSave done in 49 ms
-10/25/2023 12:27:35: World save writing starting
-10/25/2023 12:27:35: World save writing started
-10/25/2023 12:27:36: Saved 421397 ZDOs
-10/25/2023 12:27:36: World save writing finishing
-10/25/2023 12:27:36: World save writing finished
-10/25/2023 12:27:36: World saved ( 765.4664ms )
-10/25/2023 12:27:36: Considering autobackup. World time: 7500.359, short time: 7200, long time: 43200, backup count: 4
-10/25/2023 12:27:36: No autobackup needed yet...
-10/25/2023 12:27:36: Unloading unused assets
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-10/25/2023 12:27:36: Sending disconnect msg
+10/25/2023 12:29:06: Force generating hmap (-256.0, 0.0, 512.0)
+10/25/2023 12:29:06: Force generating hmap (-320.0, 0.0, 448.0)
+10/25/2023 12:29:06: Force generating hmap (-256.0, 0.0, 448.0)
+10/25/2023 12:29:06: Force generating hmap (-320.0, 0.0, 512.0)
+10/25/2023 12:29:06: Force generating hmap (-128.0, 0.0, 576.0)
+10/25/2023 12:29:07: Force generating hmap (-128.0, 0.0, 640.0)
+10/25/2023 12:29:11: Spawned after 8.019994
+10/25/2023 12:29:11: Skipping unloading unused assets
+10/25/2023 12:29:11: Minimap: Adding unique location (131.9, 39.6, 260.8)
+10/25/2023 12:29:11: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
+10/25/2023 12:29:11: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
+10/25/2023 12:29:13: Starting music meadows
+10/25/2023 12:29:13: Resumed music meadows at 0
+10/25/2023 12:29:15: Activating default element Continue
+10/25/2023 12:29:17: Activating default element Button_no
+10/25/2023 12:29:18: Shuting down
+10/25/2023 12:29:18: Uncompressed size 8394618
+10/25/2023 12:29:18: Compressed size 17252
+10/25/2023 12:29:18: Considering autobackup. World time: 12.5, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 12:29:18: Skipping backup. World session not long enough.
+10/25/2023 12:29:18: ZNet Shutdown
+10/25/2023 12:29:18: PrepareSave: clone done in 31ms
+10/25/2023 12:29:18: PrepareSave: ZDOExtraData.PrepareSave done in 39 ms
+10/25/2023 12:29:18: World save writing starting
+10/25/2023 12:29:18: World save writing started
+10/25/2023 12:29:19: Saved 421397 ZDOs
+10/25/2023 12:29:19: World save writing finishing
+10/25/2023 12:29:19: World save writing finished
+10/25/2023 12:29:19: World saved ( 738.3877ms )
+10/25/2023 12:29:19: Considering autobackup. World time: 12.5, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 12:29:19: Skipping backup. World session not long enough.
+10/25/2023 12:29:19: Unloading unused assets
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+10/25/2023 12:29:19: Sending disconnect msg
 ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-10/25/2023 12:27:36: Stopping build thread
+10/25/2023 12:29:19: Local player destroyed
 
-Unloading 2890 unused Assets to reduce memory usage. Loaded Objects now: 2055518.
-Total: 635.520800 ms (FindLiveObjects: 97.381700 ms CreateObjectMapping: 27.453800 ms MarkObjects: 505.047800 ms  DeleteObjects: 5.637100 ms)
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 1736219.
+Total: 522.695800 ms (FindLiveObjects: 78.666300 ms CreateObjectMapping: 26.814800 ms MarkObjects: 416.455200 ms  DeleteObjects: 0.759000 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+10/25/2023 12:29:21: ZNet OnDestroy
+10/25/2023 12:29:21: Net scene destroyed
+UnloadTime: 655.299900 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+10/25/2023 12:29:21: Steam initialized, persona:tjgolubi
+10/25/2023 12:29:21: PlayFab custom ID set to "Steam_76561198290658520"
+10/25/2023 12:29:21: Using default prefs
+10/25/2023 12:29:21: Valheim version: 0.217.25 (network version 15)
+10/25/2023 12:29:21: Worldgenerator version setup:2
+10/25/2023 12:29:21: Render threading mode:MultiThreaded
+10/25/2023 12:29:21: Audioman already exist, destroying self
+10/25/2023 12:29:21: Checking for installed DLCs
+10/25/2023 12:29:21: DLC:beta installed:False
+
+Unloading 6504 unused Assets to reduce memory usage. Loaded Objects now: 155678.
+Total: 240.086600 ms (FindLiveObjects: 6.177800 ms CreateObjectMapping: 9.402200 ms MarkObjects: 217.718300 ms  DeleteObjects: 6.788100 ms)
+
+Event.Use() should not be called for events of type repaint
+10/25/2023 12:29:21: Session auth respons callback
+10/25/2023 12:29:21: Starting music menu
+10/25/2023 12:29:21: Activating default element Start game
+Event.Use() should not be called for events of type repaint
+Event.Use() should not be called for events of type repaint
+10/25/2023 12:29:22: Stopped music meadows at 401721
+10/25/2023 12:29:23: Activating default element Start game
+10/25/2023 12:29:26: show character selection
+10/25/2023 12:29:26: Button pressed Start  frame:3296
+10/25/2023 12:29:26: OnCharacterStart
+10/25/2023 12:29:28: Button pressed Server Options  frame:3389
+10/25/2023 12:30:18: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 12:30:18: No autobackup needed yet...
+10/25/2023 12:30:26: Button pressed Start  frame:6882
+10/25/2023 12:30:28: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.277600 ms
+10/25/2023 12:30:28: Steam initialized, persona:tjgolubi
+10/25/2023 12:30:28: PlayFab custom ID set to "Steam_76561198290658520"
+10/25/2023 12:30:28: Using default prefs
+10/25/2023 12:30:28: Loading player profile terry
+10/25/2023 12:30:28: isModded: False
+10/25/2023 12:30:28: Zonesystem Awake 6972
+10/25/2023 12:30:28: DungeonDB Awake 6972
+10/25/2023 12:30:28: Steam initialized, persona:tjgolubi
+10/25/2023 12:30:28: Worldgenerator version setup:2
+10/25/2023 12:30:30: Audioman already exist, destroying self
+10/25/2023 12:30:30: Checking for installed DLCs
+10/25/2023 12:30:30: DLC:beta installed:False
+
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 159964.
+Total: 185.667900 ms (FindLiveObjects: 5.409000 ms CreateObjectMapping: 8.568300 ms MarkObjects: 170.963100 ms  DeleteObjects: 0.727300 ms)
+
+10/25/2023 12:30:33: Zonesystem Start 6972
+10/25/2023 12:30:33: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+10/25/2023 12:30:33: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+10/25/2023 12:30:33: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+10/25/2023 12:30:33: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+10/25/2023 12:30:33: DungeonDB Start 6972
+10/25/2023 12:30:34: ZRpc timeout set to 30s 
+10/25/2023 12:30:34: ZNET START
+10/25/2023 12:30:34: Load world: Famheim (Famheim)
+10/25/2023 12:30:34: Loading 421397 zdos, my sessionID: 485865197, data version: 32
+10/25/2023 12:30:34: Creating ZDOs
+10/25/2023 12:30:34: Loading in ZDOs
+10/25/2023 12:30:34: Adding to Dictionary
+10/25/2023 12:30:34: Adding to Sectors
+10/25/2023 12:30:34: Connecting Portals, Spawners & ZSyncTransforms
+ConnectSpawners => Connected 5 spawners and 563 'done' spawners.
+10/25/2023 12:30:34: Loaded 10076 locations
+10/25/2023 12:30:34: Unloading unused assets
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+10/25/2023 12:30:34: Starting respawn
+10/25/2023 12:30:34: Ticket is System.Byte[] of length 369
+10/25/2023 12:30:34: Session auth respons callback
+10/25/2023 12:30:39: Unpacking compressed mapdata 17252
+10/25/2023 12:30:39: Activating default element Texts
+10/25/2023 12:30:39: tip:$loadscreen_tip14
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733267.
+Total: 534.432800 ms (FindLiveObjects: 80.832100 ms CreateObjectMapping: 25.856100 ms MarkObjects: 426.862500 ms  DeleteObjects: 0.881800 ms)
+
+10/25/2023 12:30:43: Force generating hmap (-256.0, 0.0, 512.0)
+10/25/2023 12:30:43: Force generating hmap (-320.0, 0.0, 448.0)
+10/25/2023 12:30:43: Force generating hmap (-256.0, 0.0, 448.0)
+10/25/2023 12:30:43: Force generating hmap (-320.0, 0.0, 512.0)
+10/25/2023 12:30:44: Force generating hmap (-128.0, 0.0, 576.0)
+10/25/2023 12:30:44: Force generating hmap (-128.0, 0.0, 640.0)
+10/25/2023 12:30:48: Spawned after 8.019994
+10/25/2023 12:30:48: Skipping unloading unused assets
+10/25/2023 12:30:48: Minimap: Adding unique location (131.9, 39.6, 260.8)
+10/25/2023 12:30:48: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
+10/25/2023 12:30:48: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
+10/25/2023 12:30:50: Starting music meadows
+10/25/2023 12:30:50: Resumed music meadows at 401721
+10/25/2023 12:31:07: Setting selected recipe 0
+10/25/2023 12:31:09: Setting selected recipe 0
+10/25/2023 12:31:10: Button pressed RepairButton  frame:10261
+10/25/2023 12:31:11: Stopped music meadows at 937036
+10/25/2023 12:31:11: Starting music home
+10/25/2023 12:31:11: Resumed music home at 0
+10/25/2023 12:31:47: Setting selected recipe 0
+10/25/2023 12:33:00: Setting selected recipe 0
+10/25/2023 12:33:08: Disabling PlayerBase  character_trigger
+10/25/2023 12:33:18: Setting selected recipe 0
+10/25/2023 12:33:23: Setting selected recipe 0
+10/25/2023 12:33:27: drop all 2  2
+10/25/2023 12:33:34: drop all 2  2
+10/25/2023 12:33:47: Setting selected recipe 0
+10/25/2023 12:33:48: Disabling PlayerBase  character_trigger
+10/25/2023 12:33:52: Placed forge
+10/25/2023 12:33:52: Disabling PlayerBase  character_trigger
+10/25/2023 12:33:52: Disabling PlayerBase  character_trigger
+10/25/2023 12:33:52: Disabling PlayerBase  character_trigger
+10/25/2023 12:33:52: Disabling PlayerBase  character_trigger
+10/25/2023 12:33:57: Disabling PlayerBase  character_trigger
+10/25/2023 12:34:02: Disabling PlayerBase  character_trigger
+10/25/2023 12:34:04: Disabling PlayerBase  character_trigger
+10/25/2023 12:34:05: Disabling PlayerBase  character_trigger
+10/25/2023 12:34:05: Disabling Capsule_blockplayer  blocker
+10/25/2023 12:34:05: Disabling Blocker  blocker
+10/25/2023 12:34:05: Disabling collider_block  blocker
+10/25/2023 12:34:24: Stopped music home at 373653
+10/25/2023 12:34:24: Starting music meadows
+10/25/2023 12:34:24: Resumed music meadows at 937036
+10/25/2023 12:34:26: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:34:26: Setting selected recipe 0
+10/25/2023 12:34:28: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:34:28: Setting selected recipe 0
+10/25/2023 12:34:30: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:34:30: Setting selected recipe 0
+10/25/2023 12:34:32: Button pressed StackAll  frame:29719
+10/25/2023 12:34:48: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:34:48: Setting selected recipe 0
+10/25/2023 12:34:57: Setting selected recipe 0
+10/25/2023 12:34:59: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:34:59: Setting selected recipe 0
+10/25/2023 12:35:01: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:01: Setting selected recipe 0
+10/25/2023 12:35:02: Button pressed StackAll  frame:33150
+10/25/2023 12:35:07: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:07: Setting selected recipe 0
+10/25/2023 12:35:07: Button pressed StackAll  frame:33742
+10/25/2023 12:35:12: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:12: Setting selected recipe 0
+10/25/2023 12:35:13: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:13: Setting selected recipe 0
+10/25/2023 12:35:15: Button pressed StackAll  frame:34538
+10/25/2023 12:35:22: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:22: Setting selected recipe 0
+10/25/2023 12:35:23: Button pressed StackAll  frame:35412
+10/25/2023 12:35:27: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:27: Setting selected recipe 0
+10/25/2023 12:35:29: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:29: Setting selected recipe 0
+10/25/2023 12:35:32: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:32: Setting selected recipe 0
+10/25/2023 12:35:32: Button pressed StackAll  frame:36431
+10/25/2023 12:35:33: Update PlayFab entity token
+10/25/2023 12:35:38: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:38: Setting selected recipe 0
+10/25/2023 12:35:42: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:42: Setting selected recipe 0
+10/25/2023 12:35:44: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:44: Setting selected recipe 0
+10/25/2023 12:35:45: Button pressed StackAll  frame:37760
+10/25/2023 12:35:49: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:49: Setting selected recipe 0
+10/25/2023 12:35:50: Button pressed StackAll  frame:38260
+10/25/2023 12:35:58: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:35:58: Setting selected recipe 0
+10/25/2023 12:35:59: Button pressed StackAll  frame:39312
+10/25/2023 12:36:15: Setting selected recipe 0
+10/25/2023 12:36:18: drop all 4  4
+10/25/2023 12:36:25: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:36:25: Setting selected recipe 0
+10/25/2023 12:36:42: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:36:42: Setting selected recipe 0
+10/25/2023 12:36:45: Button pressed StackAll  frame:44560
+10/25/2023 12:37:02: Stopped music meadows at 6956275
+10/25/2023 12:37:02: Starting music home
+10/25/2023 12:37:02: Resumed music home at 373653
+10/25/2023 12:38:05: Setting selected recipe 1
+10/25/2023 12:38:06: Stopped music home at 2808287
+10/25/2023 12:38:06: Starting music meadows
+10/25/2023 12:38:06: Resumed music meadows at 6956275
+10/25/2023 12:38:07: Setting selected recipe 1
+10/25/2023 12:38:14: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:38:14: Setting selected recipe 1
+10/25/2023 12:38:15: Button pressed StackAll  frame:53547
+10/25/2023 12:38:21: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:38:21: Setting selected recipe 1
+10/25/2023 12:38:25: Button pressed StackAll  frame:54687
+10/25/2023 12:38:34: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:38:34: Setting selected recipe 0
+10/25/2023 12:38:35: Button pressed StackAll  frame:55871
+10/25/2023 12:38:38: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:38:38: Setting selected recipe 0
+10/25/2023 12:38:41: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:38:41: Setting selected recipe 0
+10/25/2023 12:38:42: Button pressed StackAll  frame:56591
+10/25/2023 12:38:45: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:38:45: Setting selected recipe 0
+10/25/2023 12:38:47: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:38:47: Setting selected recipe 0
+10/25/2023 12:38:49: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:38:49: Setting selected recipe 0
+10/25/2023 12:38:51: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:38:51: Setting selected recipe 0
+10/25/2023 12:38:53: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:38:53: Setting selected recipe 0
+10/25/2023 12:38:54: Button pressed StackAll  frame:57959
+10/25/2023 12:38:57: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:38:57: Setting selected recipe 0
+10/25/2023 12:38:59: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:38:59: Setting selected recipe 0
+10/25/2023 12:39:00: Button pressed StackAll  frame:58567
+10/25/2023 12:39:22: Stopped music meadows at 600299
+10/25/2023 12:39:22: Starting music meadows
+10/25/2023 12:39:22: Resumed music meadows at 600299
+10/25/2023 12:39:49: Stopped music meadows at 1812049
+10/25/2023 12:39:49: Starting music meadows
+10/25/2023 12:39:49: Resumed music meadows at 1812049
+10/25/2023 12:39:52: Setting selected recipe 1
+10/25/2023 12:39:55: Setting selected recipe 1
+10/25/2023 12:39:57: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:39:57: Setting selected recipe 1
+10/25/2023 12:40:00: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:40:00: Setting selected recipe 1
+10/25/2023 12:40:02: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:40:02: Setting selected recipe 1
+10/25/2023 12:40:05: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:40:05: Setting selected recipe 1
+10/25/2023 12:40:07: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:40:07: Setting selected recipe 1
+10/25/2023 12:40:09: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:40:09: Setting selected recipe 1
+10/25/2023 12:40:12: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:40:12: Setting selected recipe 1
+10/25/2023 12:40:15: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:40:15: Setting selected recipe 1
+10/25/2023 12:40:17: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:40:17: Setting selected recipe 1
+10/25/2023 12:40:19: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:40:19: Setting selected recipe 1
+10/25/2023 12:40:21: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:40:21: Setting selected recipe 1
+10/25/2023 12:40:22: Button pressed StackAll  frame:67274
+10/25/2023 12:40:26: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:40:26: Setting selected recipe 1
+10/25/2023 12:40:27: Button pressed StackAll  frame:67745
+10/25/2023 12:40:43: Stopped music meadows at 4195095
+10/25/2023 12:40:43: Starting music home
+10/25/2023 12:40:43: Resumed music home at 2808287
+10/25/2023 12:41:32: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:41:32: Setting selected recipe 1
+10/25/2023 12:41:33: Stopped music home at 4980594
+10/25/2023 12:41:33: Starting music meadows
+10/25/2023 12:41:33: Resumed music meadows at 4195095
+10/25/2023 12:41:34: Button pressed StackAll  frame:74753
+10/25/2023 12:41:46: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:41:46: Setting selected recipe 0
+10/25/2023 12:41:47: Button pressed StackAll  frame:76197
+10/25/2023 12:41:49: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:41:49: Setting selected recipe 0
+10/25/2023 12:41:51: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:41:51: Setting selected recipe 0
+10/25/2023 12:41:51: Button pressed StackAll  frame:76677
+10/25/2023 12:41:57: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:41:57: Setting selected recipe 0
+10/25/2023 12:41:58: Button pressed StackAll  frame:77475
+10/25/2023 12:42:05: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:42:05: Setting selected recipe 0
+10/25/2023 12:42:12: Starting music evening
+10/25/2023 12:42:13: Stopped music meadows at 5993904
+10/25/2023 12:42:14: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:42:14: Setting selected recipe 0
+10/25/2023 12:42:19: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:42:19: Setting selected recipe 0
+10/25/2023 12:42:21: Button pressed TakeAll  frame:79981
+10/25/2023 12:42:28: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:42:28: Setting selected recipe 0
+10/25/2023 12:42:30: Button pressed StackAll  frame:80602
+10/25/2023 12:42:33: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:42:33: Setting selected recipe 0
+10/25/2023 12:42:34: Button pressed TakeAll  frame:80908
+10/25/2023 12:42:37: Setting selected recipe 0
+10/25/2023 12:42:38: drop all 50  50
+10/25/2023 12:42:45: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:42:45: Setting selected recipe 0
+10/25/2023 12:42:46: Button pressed StackAll  frame:81627
+10/25/2023 12:42:50: Spawned FireFlies x 1
+10/25/2023 12:42:51: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:42:51: Setting selected recipe 0
+10/25/2023 12:42:52: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:42:52: Setting selected recipe 0
+10/25/2023 12:42:54: Button pressed StackAll  frame:82083
+10/25/2023 12:42:58: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:42:58: Setting selected recipe 0
+10/25/2023 12:43:09: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:43:09: Setting selected recipe 0
+10/25/2023 12:43:14: Spawned FireFlies x 1
+10/25/2023 12:43:18: Starting music home
+10/25/2023 12:43:18: Resumed music home at 4980594
+10/25/2023 12:43:18: Spawned Greydwarf_Elite x 1
+10/25/2023 12:43:18: Spawned Greydwarf_Shaman x 1
+10/25/2023 12:45:11: Placed wood_floor
+10/25/2023 12:45:16: Placed wood_floor
+10/25/2023 12:45:17: Placed wood_floor
+10/25/2023 12:45:19: Placed wood_floor
+10/25/2023 12:45:30: Spawned Greydwarf x 2
+10/25/2023 12:45:30: Spawned FireFlies x 1
+10/25/2023 12:45:30: Spawned FireFlies x 1
+10/25/2023 12:45:32: Stopped music home at 2763284
+10/25/2023 12:45:32: Setting selected recipe 0
+10/25/2023 12:45:37: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:45:37: Setting selected recipe 0
+10/25/2023 12:45:39: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:45:39: Setting selected recipe 0
+10/25/2023 12:45:39: Button pressed StackAll  frame:96963
+10/25/2023 12:45:48: Player 485865197 wants to open piece_chest(Clone)   im: 485865197
+10/25/2023 12:45:48: Setting selected recipe 0
+10/25/2023 12:45:49: Button pressed StackAll  frame:97946
+10/25/2023 12:46:23: Activating default element Continue
+10/25/2023 12:46:28: Activating default element Button_no
+10/25/2023 12:46:31: Game - OnApplicationQuit
+10/25/2023 12:46:31: Shuting down
+10/25/2023 12:46:31: Uncompressed size 8394618
+10/25/2023 12:46:32: Compressed size 17252
+10/25/2023 12:46:32: Considering autobackup. World time: 942.9399, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 12:46:32: Skipping backup. World session not long enough.
+10/25/2023 12:46:32: ZNet Shutdown
+10/25/2023 12:46:32: PrepareSave: clone done in 36ms
+10/25/2023 12:46:32: PrepareSave: ZDOExtraData.PrepareSave done in 31 ms
+10/25/2023 12:46:32: World save writing starting
+10/25/2023 12:46:32: World save writing started
+10/25/2023 12:46:32: Saved 421364 ZDOs
+10/25/2023 12:46:32: World save writing finishing
+10/25/2023 12:46:32: World save writing finished
+10/25/2023 12:46:32: World saved ( 802.4595ms )
+10/25/2023 12:46:32: Considering autobackup. World time: 942.9399, short time: 7200, long time: 43200, backup count: 4
+10/25/2023 12:46:32: Skipping backup. World session not long enough.
+10/25/2023 12:46:33: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+10/25/2023 12:46:33: Sending disconnect msg
+ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+10/25/2023 12:46:33: Stopping build thread
+
+Unloading 11082 unused Assets to reduce memory usage. Loaded Objects now: 2053567.
+Total: 654.074400 ms (FindLiveObjects: 91.293500 ms CreateObjectMapping: 28.290000 ms MarkObjects: 512.736400 ms  DeleteObjects: 21.754300 ms)
 
 Setting up 16 worker threads for Enlighten.
-  Thread -> id: d98 -> priority: 1 
-  Thread -> id: 41d4 -> priority: 1 
-  Thread -> id: 1aa4 -> priority: 1 
-  Thread -> id: 347c -> priority: 1 
-  Thread -> id: 2a44 -> priority: 1 
-  Thread -> id: 3890 -> priority: 1 
-  Thread -> id: 578c -> priority: 1 
-  Thread -> id: 564 -> priority: 1 
-  Thread -> id: 5464 -> priority: 1 
-  Thread -> id: 4540 -> priority: 1 
-  Thread -> id: 99c -> priority: 1 
-  Thread -> id: 2bf4 -> priority: 1 
-  Thread -> id: 56f4 -> priority: 1 
-  Thread -> id: 5380 -> priority: 1 
-  Thread -> id: 4230 -> priority: 1 
-  Thread -> id: 3a58 -> priority: 1 
-10/25/2023 12:27:39: Steam manager on destroy
-10/25/2023 12:27:39: Local player destroyed
-10/25/2023 12:27:39: ZNet OnDestroy
-10/25/2023 12:27:39: Net scene destroyed
+  Thread -> id: 2964 -> priority: 1 
+  Thread -> id: 1aa0 -> priority: 1 
+  Thread -> id: 5310 -> priority: 1 
+  Thread -> id: 351c -> priority: 1 
+  Thread -> id: 363c -> priority: 1 
+  Thread -> id: 2630 -> priority: 1 
+  Thread -> id: 1540 -> priority: 1 
+  Thread -> id: 3b58 -> priority: 1 
+  Thread -> id: 4060 -> priority: 1 
+  Thread -> id: 370c -> priority: 1 
+  Thread -> id: 22ac -> priority: 1 
+  Thread -> id: 4368 -> priority: 1 
+  Thread -> id: 26b0 -> priority: 1 
+  Thread -> id: d48 -> priority: 1 
+  Thread -> id: 3168 -> priority: 1 
+  Thread -> id: 29a0 -> priority: 1 
+10/25/2023 12:46:35: Local player destroyed
+10/25/2023 12:46:35: ZNet OnDestroy
+10/25/2023 12:46:36: Net scene destroyed
+10/25/2023 12:46:36: Steam manager on destroy
