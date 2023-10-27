@@ -17,784 +17,887 @@ Using XInput
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.566600 ms
-10/27/2023 00:23:11: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/27/2023 00:23:11: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/27/2023 00:23:11: Starting to load scene:start
+UnloadTime: 0.552500 ms
+10/27/2023 12:20:02: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/27/2023 12:20:02: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/27/2023 12:20:02: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.709400 ms
+UnloadTime: 7.411300 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-10/27/2023 00:23:17: Using environment steamid 892970
-10/27/2023 00:23:17: Using steam APPID:892970
-10/27/2023 00:23:17: Authentication:k_ESteamNetworkingAvailability_Attempting
-10/27/2023 00:23:17: Steam initialized, persona:tjgolubi
-10/27/2023 00:23:17: PlayFab custom ID set to "Steam_76561198290658520"
-10/27/2023 00:23:17: Using default prefs
-10/27/2023 00:23:17: Valheim version: 0.217.25 (network version 15)
-10/27/2023 00:23:17: Worldgenerator version setup:2
-10/27/2023 00:23:17: Render threading mode:MultiThreaded
-10/27/2023 00:23:17: Set button "CamZoomIn" to None!
-10/27/2023 00:23:17: Set button "CamZoomOut" to None!
-10/27/2023 00:23:17: Set button "CamZoomIn" to None!
-10/27/2023 00:23:17: Set button "CamZoomOut" to None!
-10/27/2023 00:23:17: Loaded localization file #0 - 'localization' language: 'English'
-10/27/2023 00:23:17: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/27/2023 00:23:17: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/27/2023 00:23:17: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/27/2023 00:23:17: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/27/2023 00:23:17: Loaded localization file #0 - 'localization' language: 'English'
-10/27/2023 00:23:17: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/27/2023 00:23:17: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/27/2023 00:23:17: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/27/2023 00:23:17: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/27/2023 00:23:18: Missing audio clip in music respawn
-10/27/2023 00:23:18: Checking for installed DLCs
-10/27/2023 00:23:18: DLC:beta installed:False
-10/27/2023 00:23:18: Builder started
-10/27/2023 00:23:18: Sending PlayFab login request (attempt 1)
-10/27/2023 00:23:18: Ticket is System.Byte[] of length 369
-10/27/2023 00:23:18: Session auth respons callback
-10/27/2023 00:23:18: Starting music menu
+10/27/2023 12:20:09: Using environment steamid 892970
+10/27/2023 12:20:09: Using steam APPID:892970
+10/27/2023 12:20:09: Authentication:k_ESteamNetworkingAvailability_Attempting
+10/27/2023 12:20:09: Steam initialized, persona:tjgolubi
+10/27/2023 12:20:09: PlayFab custom ID set to "Steam_76561198290658520"
+10/27/2023 12:20:09: Using default prefs
+10/27/2023 12:20:09: Valheim version: 0.217.25 (network version 15)
+10/27/2023 12:20:09: Worldgenerator version setup:2
+10/27/2023 12:20:09: Render threading mode:MultiThreaded
+10/27/2023 12:20:09: Set button "CamZoomIn" to None!
+10/27/2023 12:20:09: Set button "CamZoomOut" to None!
+10/27/2023 12:20:09: Set button "CamZoomIn" to None!
+10/27/2023 12:20:09: Set button "CamZoomOut" to None!
+10/27/2023 12:20:09: Loaded localization file #0 - 'localization' language: 'English'
+10/27/2023 12:20:09: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/27/2023 12:20:09: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/27/2023 12:20:09: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/27/2023 12:20:09: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/27/2023 12:20:09: Loaded localization file #0 - 'localization' language: 'English'
+10/27/2023 12:20:09: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/27/2023 12:20:09: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/27/2023 12:20:09: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/27/2023 12:20:09: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/27/2023 12:20:09: Missing audio clip in music respawn
+10/27/2023 12:20:09: Checking for installed DLCs
+10/27/2023 12:20:09: DLC:beta installed:False
+10/27/2023 12:20:09: Builder started
+10/27/2023 12:20:10: Sending PlayFab login request (attempt 1)
+10/27/2023 12:20:10: Ticket is System.Byte[] of length 369
+10/27/2023 12:20:10: Session auth respons callback
+10/27/2023 12:20:10: Starting music menu
 
 Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156123.
-Total: 111.422300 ms (FindLiveObjects: 5.710800 ms CreateObjectMapping: 10.275500 ms MarkObjects: 95.278300 ms  DeleteObjects: 0.157300 ms)
+Total: 113.895700 ms (FindLiveObjects: 5.643700 ms CreateObjectMapping: 10.490900 ms MarkObjects: 97.582500 ms  DeleteObjects: 0.178400 ms)
 
-10/27/2023 00:23:18: PlayFab logged in as "Steam_76561198290658520"
-10/27/2023 00:23:18: PlayFab local entity ID is DBA9D3993BEC7B4F
-10/27/2023 00:23:27: show character selection
-10/27/2023 00:23:28: OnCharacterStart
-10/27/2023 00:23:35: Loading main scene
+10/27/2023 12:20:10: PlayFab logged in as "Steam_76561198290658520"
+10/27/2023 12:20:10: PlayFab local entity ID is DBA9D3993BEC7B4F
+Event.Use() should not be called for events of type repaint
+10/27/2023 12:20:53: Activating default element Start game
+10/27/2023 12:20:55: show character selection
+10/27/2023 12:20:55: Button pressed Start  frame:2943
+10/27/2023 12:20:55: OnCharacterStart
+10/27/2023 12:20:57: Button pressed Start  frame:3013
+10/27/2023 12:20:58: Loading main scene
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.976700 ms
-10/27/2023 00:23:35: Steam initialized, persona:tjgolubi
-10/27/2023 00:23:35: PlayFab custom ID set to "Steam_76561198290658520"
-10/27/2023 00:23:35: Using default prefs
-10/27/2023 00:23:35: Loading player profile terry
-10/27/2023 00:23:35: isModded: False
-10/27/2023 00:23:35: Zonesystem Awake 1250
-10/27/2023 00:23:35: DungeonDB Awake 1250
-10/27/2023 00:23:35: Steam initialized, persona:tjgolubi
-10/27/2023 00:23:35: Worldgenerator version setup:2
-10/27/2023 00:23:37: Audioman already exist, destroying self
-10/27/2023 00:23:37: Checking for installed DLCs
-10/27/2023 00:23:37: DLC:beta installed:False
+UnloadTime: 8.821700 ms
+10/27/2023 12:20:58: Steam initialized, persona:tjgolubi
+10/27/2023 12:20:58: PlayFab custom ID set to "Steam_76561198290658520"
+10/27/2023 12:20:58: Using default prefs
+10/27/2023 12:20:58: Loading player profile terry
+10/27/2023 12:20:58: isModded: False
+10/27/2023 12:20:58: Zonesystem Awake 3104
+10/27/2023 12:20:58: DungeonDB Awake 3104
+10/27/2023 12:20:58: Steam initialized, persona:tjgolubi
+10/27/2023 12:20:58: Worldgenerator version setup:2
+10/27/2023 12:21:00: Audioman already exist, destroying self
+10/27/2023 12:21:00: Checking for installed DLCs
+10/27/2023 12:21:00: DLC:beta installed:False
 
-Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 159900.
-Total: 90.139300 ms (FindLiveObjects: 4.756300 ms CreateObjectMapping: 8.572700 ms MarkObjects: 76.147700 ms  DeleteObjects: 0.662400 ms)
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 159947.
+Total: 89.418600 ms (FindLiveObjects: 4.719300 ms CreateObjectMapping: 9.019900 ms MarkObjects: 74.990900 ms  DeleteObjects: 0.688200 ms)
 
-10/27/2023 00:23:40: Zonesystem Start 1250
-10/27/2023 00:23:40: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-10/27/2023 00:23:40: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-10/27/2023 00:23:40: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-10/27/2023 00:23:40: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-10/27/2023 00:23:40: DungeonDB Start 1250
-10/27/2023 00:23:41: ZRpc timeout set to 30s 
-10/27/2023 00:23:41: ZNET START
-10/27/2023 00:23:41: Load world: Famheim (Famheim)
-10/27/2023 00:23:41: Loading 421688 zdos, my sessionID: 1853417393, data version: 32
-10/27/2023 00:23:41: Creating ZDOs
-10/27/2023 00:23:41: Loading in ZDOs
-10/27/2023 00:23:41: Adding to Dictionary
-10/27/2023 00:23:41: Adding to Sectors
-10/27/2023 00:23:41: Connecting Portals, Spawners & ZSyncTransforms
+10/27/2023 12:21:03: Zonesystem Start 3104
+10/27/2023 12:21:03: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+10/27/2023 12:21:03: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+10/27/2023 12:21:03: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+10/27/2023 12:21:03: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+10/27/2023 12:21:04: DungeonDB Start 3104
+10/27/2023 12:21:04: ZRpc timeout set to 30s 
+10/27/2023 12:21:04: ZNET START
+10/27/2023 12:21:04: Load world: Famheim (Famheim)
+10/27/2023 12:21:04: Loading 421922 zdos, my sessionID: 1334702176, data version: 32
+10/27/2023 12:21:04: Creating ZDOs
+10/27/2023 12:21:04: Loading in ZDOs
+10/27/2023 12:21:04: Adding to Dictionary
+10/27/2023 12:21:04: Adding to Sectors
+10/27/2023 12:21:04: Connecting Portals, Spawners & ZSyncTransforms
 ConnectSpawners => Connected 0 spawners and 568 'done' spawners.
-10/27/2023 00:23:41: Loaded 10076 locations
-10/27/2023 00:23:41: Unloading unused assets
+10/27/2023 12:21:04: Loaded 10076 locations
+10/27/2023 12:21:04: Unloading unused assets
 Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-10/27/2023 00:23:41: Starting respawn
-10/27/2023 00:23:41: Session auth respons callback
-10/27/2023 00:23:47: Unpacking compressed mapdata 17252
-10/27/2023 00:23:47: tip:$loadscreen_tip04
+10/27/2023 12:21:04: Starting respawn
+10/27/2023 12:21:04: Session auth respons callback
+10/27/2023 12:21:10: Unpacking compressed mapdata 17252
+10/27/2023 12:21:10: Activating default element Texts
+10/27/2023 12:21:10: tip:$loadscreen_tip25
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733246.
-Total: 521.829800 ms (FindLiveObjects: 77.656600 ms CreateObjectMapping: 24.800200 ms MarkObjects: 418.678800 ms  DeleteObjects: 0.694000 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733254.
+Total: 521.237500 ms (FindLiveObjects: 77.846500 ms CreateObjectMapping: 25.972700 ms MarkObjects: 416.755200 ms  DeleteObjects: 0.662800 ms)
 
-10/27/2023 00:23:51: Force generating hmap (-256.0, 0.0, 448.0)
-10/27/2023 00:23:51: Force generating hmap (-320.0, 0.0, 448.0)
-10/27/2023 00:23:51: Force generating hmap (-320.0, 0.0, 512.0)
-10/27/2023 00:23:51: Force generating hmap (-256.0, 0.0, 512.0)
-10/27/2023 00:23:52: Force generating hmap (-192.0, 0.0, 320.0)
-10/27/2023 00:23:52: Force generating hmap (-128.0, 0.0, 320.0)
-10/27/2023 00:23:52: Force generating hmap (-128.0, 0.0, 576.0)
-10/27/2023 00:23:55: Spawned after 8.019994
-10/27/2023 00:23:55: Skipping unloading unused assets
-10/27/2023 00:23:55: Minimap: Adding unique location (131.9, 39.6, 260.8)
-10/27/2023 00:23:55: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
-10/27/2023 00:23:55: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
-10/27/2023 00:23:57: Starting music home
-10/27/2023 00:23:57: Resumed music home at 0
-10/27/2023 00:24:18: Disabling PlayerBase  character_trigger
-10/27/2023 00:24:18: Disabling PlayerBase  character_trigger
-10/27/2023 00:24:26: Placed piece_chest_wood
-10/27/2023 00:25:17: Disabling PlayerBase  character_trigger
-10/27/2023 00:25:17: Disabling PlayerBase  character_trigger
-10/27/2023 00:26:47: Disabling jump_trigger  character_trigger
-10/27/2023 00:26:47: Disabling jump_trigger (1)  character_trigger
-10/27/2023 00:26:47: Disabling jump_trigger (2)  character_trigger
-10/27/2023 00:26:53: Placed woodwall
-10/27/2023 00:28:27: Stopped music home at 3732309
-10/27/2023 00:28:27: Starting music home
-10/27/2023 00:28:27: Resumed music home at 3732309
-10/27/2023 00:28:27: Stopped music home at 1881
-10/27/2023 00:28:27: Starting music meadows
-10/27/2023 00:28:27: Resumed music meadows at 0
-10/27/2023 00:28:31: Stopped music meadows at 174047
-10/27/2023 00:28:31: Starting music home
-10/27/2023 00:28:31: Resumed music home at 1881
-10/27/2023 00:28:35: Stopped music home at 185336
-10/27/2023 00:28:35: Starting music meadows
-10/27/2023 00:28:35: Resumed music meadows at 174047
-10/27/2023 00:28:41: Stopped music meadows at 439352
-10/27/2023 00:28:41: Starting music home
-10/27/2023 00:28:41: Resumed music home at 185336
-10/27/2023 00:28:52: Stopped music home at 678315
-10/27/2023 00:28:52: Starting music meadows
-10/27/2023 00:28:52: Resumed music meadows at 439352
-10/27/2023 00:29:17: Stopped music meadows at 1071571
-10/27/2023 00:29:17: Starting music meadows
-10/27/2023 00:29:17: Resumed music meadows at 1071571
-10/27/2023 00:29:48: Loading dungeon
-10/27/2023 00:29:48: Dungeon loaded with 40 rooms from old format in 15.9747 ms.
-10/27/2023 00:30:08: Placed mud_road_v2
-10/27/2023 00:30:09: Placed mud_road_v2
-10/27/2023 00:30:18: Update PlayFab entity token
-10/27/2023 00:30:28: Placed mud_road_v2
-10/27/2023 00:30:29: Placed mud_road_v2
-10/27/2023 00:30:30: Placed mud_road_v2
-10/27/2023 00:30:32: Placed mud_road_v2
-10/27/2023 00:30:33: Placed mud_road_v2
-10/27/2023 00:30:34: Placed mud_road_v2
-10/27/2023 00:30:35: Placed mud_road_v2
-10/27/2023 00:30:36: Placed mud_road_v2
-10/27/2023 00:30:39: Placed mud_road_v2
-10/27/2023 00:30:42: Placed mud_road_v2
-10/27/2023 00:30:54: Disabling collider_block  blocker
-10/27/2023 00:30:54: Disabling Blocker  blocker
-10/27/2023 00:30:54: Disabling Capsule_blockplayer  blocker
-10/27/2023 00:30:54: Disabling PlayerBase  character_trigger
-10/27/2023 00:30:55: Disabling PlayerBase  character_trigger
-10/27/2023 00:30:57: Placed piece_stonecutter
-10/27/2023 00:31:04: Placed paved_road_v2
-10/27/2023 00:31:07: Placed paved_road_v2
-10/27/2023 00:31:11: Placed paved_road_v2
-10/27/2023 00:31:14: Placed paved_road_v2
-10/27/2023 00:31:15: Placed paved_road_v2
-10/27/2023 00:31:17: Placed paved_road_v2
-10/27/2023 00:31:21: Placed paved_road_v2
-10/27/2023 00:31:23: Placed paved_road_v2
-10/27/2023 00:31:25: Placed paved_road_v2
-10/27/2023 00:31:56: Disabling PlayerBase  character_trigger
-10/27/2023 00:32:09: Disabling PlayerBase  character_trigger
-10/27/2023 00:32:11: Disabling PlayerBase  character_trigger
-10/27/2023 00:32:11: Disabling Capsule_blockplayer  blocker
-10/27/2023 00:32:11: Disabling Blocker  blocker
-10/27/2023 00:32:11: Disabling collider_block  blocker
-10/27/2023 00:32:26: Disabling collider_block  blocker
-10/27/2023 00:32:42: Placed wood_beam_1
-10/27/2023 00:33:17: Loading dungeon
-10/27/2023 00:33:17: Dungeon loaded with 40 rooms from old format in 13.0111 ms.
-10/27/2023 00:33:31: Setting selected recipe 0
-10/27/2023 00:34:12: Placed Oak_Sapling
-10/27/2023 00:34:23: Loading dungeon
-10/27/2023 00:34:23: Dungeon loaded with 40 rooms from old format in 13.0112 ms.
-10/27/2023 00:34:52: Setting selected recipe 0
-10/27/2023 00:35:10: Placed Beech_Sapling
-10/27/2023 00:35:19: Placed Beech_Sapling
-10/27/2023 00:35:43: Placed mud_road_v2
-10/27/2023 00:35:46: Placed mud_road_v2
-10/27/2023 00:35:49: Placed mud_road_v2
-10/27/2023 00:35:55: Placed mud_road_v2
-10/27/2023 00:36:01: Placed mud_road_v2
-10/27/2023 00:36:06: Placed mud_road_v2
-10/27/2023 00:36:11: Placed mud_road_v2
-10/27/2023 00:36:44: Player 1853417393 wants to open Container   im: 1853417393
-10/27/2023 00:36:44: Setting selected recipe 0
-10/27/2023 00:36:45: Setting selected recipe 0
-10/27/2023 00:37:16: Loading dungeon
-10/27/2023 00:37:16: Dungeon loaded with 40 rooms from old format in 14.0141 ms.
-10/27/2023 00:38:04: Stopped music meadows at 3840484
-10/27/2023 00:38:04: Starting music meadows
-10/27/2023 00:38:04: Resumed music meadows at 3840484
-10/27/2023 00:38:12: Stopped music meadows at 4214922
-10/27/2023 00:38:12: Starting music home
-10/27/2023 00:39:34: Placed wood_floor
-10/27/2023 00:39:37: Placed wood_floor
-10/27/2023 00:40:14: Stopped music home at 5341862
-10/27/2023 00:40:14: Starting music home
-10/27/2023 00:40:14: Resumed music home at 5341862
-10/27/2023 00:41:03: Disabling PlayerBase  character_trigger
-10/27/2023 00:41:09: Setting selected recipe 0
-10/27/2023 00:41:15: Disabling PlayerBase  character_trigger
-10/27/2023 00:41:40: Setting selected recipe 0
-10/27/2023 00:41:44: Disabling PlayerBase  character_trigger
-10/27/2023 00:42:24: Placed bed
-10/27/2023 00:42:25: Setting selected recipe 0
-10/27/2023 00:43:34: Disabling PlayerBase  character_trigger
-10/27/2023 00:43:36: Disabling PlayerBase  character_trigger
-10/27/2023 00:43:36: Disabling FireWarmth  character_trigger
-10/27/2023 00:43:36: Disabling PlayerBase  character_trigger
-10/27/2023 00:43:37: Disabling PlayerBase  character_trigger
-10/27/2023 00:43:56: Starting music evening
-10/27/2023 00:43:57: Stopped music home at 1730287
-10/27/2023 00:44:02: Placed piece_walltorch
-10/27/2023 00:44:06: Spawned Greydwarf_Elite x 1
-10/27/2023 00:44:06: Spawned Greydwarf_Shaman x 1
-10/27/2023 00:44:28: Placed piece_walltorch
-10/27/2023 00:44:44: Starting music home
-10/27/2023 00:44:44: Resumed music home at 1730287
-10/27/2023 00:44:52: Placed piece_walltorch
-10/27/2023 00:45:10: Placed piece_walltorch
-10/27/2023 00:45:33: Placed piece_walltorch
-10/27/2023 00:45:37: Disabling PlayerBase  character_trigger
-10/27/2023 00:45:48: Placed piece_walltorch
-10/27/2023 00:45:55: Disabling PlayerBase  character_trigger
-10/27/2023 00:46:01: Disabling PlayerBase  character_trigger
-10/27/2023 00:46:01: Disabling FireArea  character_trigger
-10/27/2023 00:46:42: Update PlayFab entity token
-10/27/2023 00:46:51: Setting selected recipe 1
-10/27/2023 00:46:55: Button pressed RepairButton  frame:131281
-10/27/2023 00:46:55: Button pressed RepairButton  frame:131323
-10/27/2023 00:46:59: Setting selected recipe 0
-10/27/2023 00:47:00: Button pressed RepairButton  frame:131796
-10/27/2023 00:47:00: Button pressed RepairButton  frame:131834
-10/27/2023 00:47:01: Button pressed RepairButton  frame:131864
-10/27/2023 00:47:41: Disabling jump_trigger  character_trigger
-10/27/2023 00:47:41: Disabling jump_trigger (1)  character_trigger
-10/27/2023 00:47:41: Disabling jump_trigger (2)  character_trigger
-10/27/2023 00:47:44: Disabling jump_trigger  character_trigger
-10/27/2023 00:47:44: Disabling jump_trigger (1)  character_trigger
-10/27/2023 00:47:44: Disabling jump_trigger (2)  character_trigger
-10/27/2023 00:48:00: Placed wood_floor
-10/27/2023 00:48:03: Placed wood_floor
-10/27/2023 00:48:07: Placed wood_floor
-10/27/2023 00:48:13: Placed wood_floor
-10/27/2023 00:48:15: Placed wood_floor
-10/27/2023 00:48:18: Placed wood_floor
-10/27/2023 00:48:21: Placed wood_floor
-10/27/2023 00:48:49: Disabling PlayerBase  character_trigger
-10/27/2023 00:48:50: Disabling Capsule_blockplayer  blocker
-10/27/2023 00:48:50: Disabling PlayerBase  character_trigger
-10/27/2023 00:48:51: Disabling PlayerBase  character_trigger
-10/27/2023 00:49:23: Placed piece_workbench_ext2
-10/27/2023 00:49:46: Placed wood_floor_1x1
-10/27/2023 00:49:54: Stopped music home at 7263287
-10/27/2023 00:50:05: Placed wood_stair
-10/27/2023 00:50:24: Placed piece_workbench_ext1
-10/27/2023 00:50:35: Starting music home
-10/27/2023 00:50:35: Resumed music home at 7263287
-10/27/2023 00:50:47: Stopped music home at 7831530
-10/27/2023 00:51:15: Placed piece_workbench_ext3
-10/27/2023 00:51:18: Disabling PlayerBase  character_trigger
-10/27/2023 00:51:18: Disabling PlayerBase  character_trigger
-10/27/2023 00:51:34: Setting selected recipe 0
-10/27/2023 00:51:36: Setting selected recipe 0
-10/27/2023 00:52:16: Placed wood_floor_1x1
-10/27/2023 00:52:21: Placed wood_floor_1x1
-10/27/2023 00:52:24: Placed wood_floor_1x1
-10/27/2023 00:52:39: Placed wood_stair
-10/27/2023 00:52:56: Placed forge_ext2
-10/27/2023 00:52:58: Starting music morning
-10/27/2023 00:53:32: Starting music meadows
-10/27/2023 00:53:35: Uncompressed size 8394618
-10/27/2023 00:53:35: Compressed size 17252
-10/27/2023 00:53:35: Considering autobackup. World time: 1787.66, short time: 7200, long time: 43200, backup count: 4
-10/27/2023 00:53:35: No autobackup needed yet...
-10/27/2023 00:53:35: Sending message to save player profiles
-10/27/2023 00:53:35: PrepareSave: clone done in 28ms
-10/27/2023 00:53:35: PrepareSave: ZDOExtraData.PrepareSave done in 57 ms
-10/27/2023 00:53:35: World save writing starting
-10/27/2023 00:53:35: World save writing started
-10/27/2023 00:53:36: Saved 421700 ZDOs
-10/27/2023 00:53:36: World save writing finishing
-10/27/2023 00:53:36: World save writing finished
-10/27/2023 00:53:36: World saved ( 826.0112ms )
-10/27/2023 00:53:36: Considering autobackup. World time: 1788.7, short time: 7200, long time: 43200, backup count: 4
-10/27/2023 00:53:36: No autobackup needed yet...
-10/27/2023 00:53:51: Placed wood_floor_1x1
-10/27/2023 00:53:55: Placed wood_floor_1x1
-10/27/2023 00:54:03: Placed wood_floor_1x1
-10/27/2023 00:54:09: Placed wood_stair
-10/27/2023 00:54:43: Placed forge_ext4
-10/27/2023 00:56:05: Placed forge_ext5
-10/27/2023 00:57:04: Placed wood_stair
-10/27/2023 00:57:30: Placed forge_ext5
-10/27/2023 00:58:06: Disabling PlayerBase  character_trigger
-10/27/2023 00:58:06: Disabling PlayerBase  character_trigger
-10/27/2023 00:58:07: Disabling PlayerBase  character_trigger
-10/27/2023 00:58:09: Disabling PlayerBase  character_trigger
-10/27/2023 00:58:09: Disabling PlayerBase  character_trigger
-10/27/2023 00:58:16: Stopped music meadows at 2836581
-10/27/2023 00:58:16: Starting music meadows
-10/27/2023 00:58:16: Resumed music meadows at 2836581
-10/27/2023 00:59:43: Disabling PlayerBase  character_trigger
-10/27/2023 00:59:43: Disabling PlayerBase  character_trigger
-10/27/2023 00:59:50: Placed wood_floor_1x1
-10/27/2023 00:59:51: Placed wood_floor_1x1
-10/27/2023 01:00:01: Placed wood_stair
-10/27/2023 01:00:07: Disabling PlayerBase  character_trigger
-10/27/2023 01:00:08: Disabling PlayerBase  character_trigger
-10/27/2023 01:02:05: Placed wood_floor_1x1
-10/27/2023 01:02:07: Placed wood_floor_1x1
-10/27/2023 01:02:45: Placed forge_ext4
-10/27/2023 01:03:03: Placed forge_ext2
-10/27/2023 01:03:22: Placed forge_ext5
-10/27/2023 01:05:08: Disabling PlayerBase  character_trigger
-10/27/2023 01:05:15: Placed wood_floor
-10/27/2023 01:05:18: Placed wood_floor
-10/27/2023 01:05:25: Disabling PlayerBase  character_trigger
-10/27/2023 01:05:44: Placed wood_floor
-10/27/2023 01:05:46: Placed wood_floor
-10/27/2023 01:07:08: Placed forge_ext1
-10/27/2023 01:07:37: Update PlayFab entity token
-10/27/2023 01:07:41: Disabling PlayerBase  character_trigger
-10/27/2023 01:07:41: Disabling PlayerBase  character_trigger
-10/27/2023 01:07:44: Setting selected recipe 0
-10/27/2023 01:07:54: Placed piece_workbench_ext2
-10/27/2023 01:08:01: Setting selected recipe 0
-10/27/2023 01:08:06: Setting selected recipe 0
-10/27/2023 01:08:48: Placed piece_workbench_ext3
-10/27/2023 01:08:53: Disabling PlayerBase  character_trigger
-10/27/2023 01:08:54: Disabling PlayerBase  character_trigger
-10/27/2023 01:09:02: Disabling PlayerBase  character_trigger
-10/27/2023 01:09:02: Disabling PlayerBase  character_trigger
-10/27/2023 01:09:03: Disabling PlayerBase  character_trigger
-10/27/2023 01:09:03: Disabling Capsule_blockplayer  blocker
-10/27/2023 01:09:04: Disabling Blocker  blocker
-10/27/2023 01:09:04: Disabling collider_block  blocker
-10/27/2023 01:09:07: Setting selected recipe 0
-10/27/2023 01:09:14: Disabling collider_block  blocker
-10/27/2023 01:09:49: Disabling collider_block  blocker
-10/27/2023 01:09:49: Disabling Blocker  blocker
-10/27/2023 01:09:49: Disabling Capsule_blockplayer  blocker
-10/27/2023 01:09:49: Disabling PlayerBase  character_trigger
-10/27/2023 01:09:52: Disabling PlayerBase  character_trigger
-10/27/2023 01:09:53: Disabling PlayerBase  character_trigger
-10/27/2023 01:10:50: Placed forge_ext6
-10/27/2023 01:10:52: Queue unlock msg:$msg_newstation_level:$piece_forge $msg_level 5
-10/27/2023 01:11:47: Setting selected recipe 0
-10/27/2023 01:11:52: Stopped music meadows at 12576
-10/27/2023 01:11:52: Starting music home
-10/27/2023 01:12:51: Placed wood_beam_1
-10/27/2023 01:12:56: Placed wood_pole2
-10/27/2023 01:13:05: Placed wood_pole
-10/27/2023 01:13:08: Placed wood_pole
-10/27/2023 01:13:16: Placed wood_pole
-10/27/2023 01:13:43: Placed wood_floor
-10/27/2023 01:13:46: Placed wood_floor
-10/27/2023 01:13:48: Placed wood_floor
-10/27/2023 01:13:51: Placed wood_floor
-10/27/2023 01:13:57: Starting music evening
-10/27/2023 01:13:58: Stopped music home at 5515910
-10/27/2023 01:14:01: Placed wood_floor
-10/27/2023 01:14:02: Placed wood_floor
-10/27/2023 01:14:04: Placed wood_floor
-10/27/2023 01:14:06: Placed wood_floor
-10/27/2023 01:14:10: Placed wood_floor
-10/27/2023 01:14:13: Placed wood_floor
-10/27/2023 01:14:16: Placed wood_floor
-10/27/2023 01:14:18: Placed wood_floor
-10/27/2023 01:14:26: Placed wood_floor
-10/27/2023 01:14:28: Placed wood_floor
-10/27/2023 01:14:32: Placed wood_floor
-10/27/2023 01:14:36: Placed wood_floor
-10/27/2023 01:14:44: Starting music home
-10/27/2023 01:14:44: Resumed music home at 5515910
-10/27/2023 01:15:09: Activating default element Continue
-10/27/2023 01:15:16: Unloading unused assets
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+10/27/2023 12:21:14: Force generating hmap (-256.0, 0.0, 448.0)
+10/27/2023 12:21:14: Force generating hmap (-320.0, 0.0, 448.0)
+10/27/2023 12:21:14: Force generating hmap (-320.0, 0.0, 512.0)
+10/27/2023 12:21:14: Force generating hmap (-256.0, 0.0, 512.0)
+10/27/2023 12:21:15: Force generating hmap (-128.0, 0.0, 576.0)
+10/27/2023 12:21:18: Spawned after 8.019994
+10/27/2023 12:21:18: Skipping unloading unused assets
+10/27/2023 12:21:18: Minimap: Adding unique location (131.9, 39.6, 260.8)
+10/27/2023 12:21:18: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
+10/27/2023 12:21:18: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
+10/27/2023 12:21:20: Starting music home
+10/27/2023 12:21:20: Resumed music home at 0
+10/27/2023 12:21:57: Disabling PlayerBase  character_trigger
+10/27/2023 12:21:57: Disabling PlayerBase  character_trigger
+10/27/2023 12:21:57: Disabling FireWarmth  character_trigger
+10/27/2023 12:21:57: Disabling PlayerBase  character_trigger
+10/27/2023 12:22:16: Placed sign
+10/27/2023 12:22:53: Placed sign
+10/27/2023 12:23:11: Placed sign
+10/27/2023 12:23:17: Placed sign
+10/27/2023 12:23:29: Placed sign
+10/27/2023 12:23:35: Placed sign
+10/27/2023 12:23:45: Placed sign
+10/27/2023 12:24:11: Activating default element Continue
+10/27/2023 12:24:12: Set button "CamZoomIn" to None!
+10/27/2023 12:24:12: Set button "CamZoomOut" to None!
+10/27/2023 12:24:12: Current res 3440x1440     3440x1440
+10/27/2023 12:24:12: Activating default element ResetControlls
+10/27/2023 12:24:12: Activating default element ResetControlls
+10/27/2023 12:24:17: Button pressed Back  frame:20281
+10/27/2023 12:24:17: Set button "CamZoomIn" to None!
+10/27/2023 12:24:17: Set button "CamZoomOut" to None!
+10/27/2023 12:24:17: Current res 3440x1440     3440x1440
+10/27/2023 12:24:17: Activating default element Continue
+10/27/2023 12:24:26: Placed sign
+10/27/2023 12:24:36: Placed sign
+10/27/2023 12:24:42: Placed sign
+10/27/2023 12:24:48: Placed sign
+10/27/2023 12:24:55: Placed sign
+10/27/2023 12:25:01: Placed sign
+10/27/2023 12:25:03: Placed sign
+10/27/2023 12:25:15: Placed sign
+10/27/2023 12:25:18: Placed sign
+10/27/2023 12:25:21: Placed sign
+10/27/2023 12:25:26: Placed sign
+10/27/2023 12:25:36: Placed sign
+10/27/2023 12:25:41: Placed sign
+10/27/2023 12:25:53: Placed sign
+10/27/2023 12:26:01: Placed sign
+10/27/2023 12:26:09: Disabling jump_trigger  character_trigger
+10/27/2023 12:26:09: Disabling jump_trigger (1)  character_trigger
+10/27/2023 12:26:09: Disabling jump_trigger (2)  character_trigger
+10/27/2023 12:26:19: Placed woodwall
+10/27/2023 12:26:21: Placed woodwall
+10/27/2023 12:26:45: Disabling jump_trigger  character_trigger
+10/27/2023 12:26:45: Disabling jump_trigger (1)  character_trigger
+10/27/2023 12:26:45: Disabling jump_trigger (2)  character_trigger
+10/27/2023 12:26:53: Placed woodwall
+10/27/2023 12:26:55: Placed woodwall
+10/27/2023 12:26:56: Placed woodwall
+10/27/2023 12:26:57: Placed woodwall
+10/27/2023 12:27:02: Placed woodwall
+10/27/2023 12:27:07: Placed woodwall
+10/27/2023 12:27:09: Placed woodwall
+10/27/2023 12:27:10: Placed woodwall
+10/27/2023 12:27:10: Update PlayFab entity token
+10/27/2023 12:27:11: Placed woodwall
+10/27/2023 12:27:12: Placed woodwall
+10/27/2023 12:27:13: Placed woodwall
+10/27/2023 12:27:20: Disabling PlayerBase  character_trigger
+10/27/2023 12:27:24: Placed piece_walltorch
+10/27/2023 12:27:29: Placed piece_walltorch
+10/27/2023 12:27:31: Placed piece_walltorch
+10/27/2023 12:27:35: Placed piece_walltorch
+10/27/2023 12:27:38: Placed piece_walltorch
+10/27/2023 12:27:46: Placed piece_walltorch
+10/27/2023 12:27:55: Disabling PlayerBase  character_trigger
+10/27/2023 12:28:13: Placed sign
+10/27/2023 12:28:17: Placed sign
+10/27/2023 12:28:27: Placed sign
+10/27/2023 12:28:33: Placed sign
+10/27/2023 12:28:39: Placed sign
+10/27/2023 12:28:45: Placed sign
+10/27/2023 12:29:04: Placed sign
+10/27/2023 12:29:15: Placed sign
+10/27/2023 12:29:18: Placed sign
+10/27/2023 12:29:34: Placed sign
+10/27/2023 12:29:51: Placed sign
+10/27/2023 12:29:57: Placed sign
+10/27/2023 12:30:10: Placed sign
+10/27/2023 12:30:16: Placed sign
+10/27/2023 12:30:22: Placed sign
+10/27/2023 12:30:29: Placed sign
+10/27/2023 12:30:37: Placed sign
+10/27/2023 12:30:43: Placed sign
+10/27/2023 12:30:51: Placed sign
+10/27/2023 12:30:54: Placed sign
+10/27/2023 12:31:02: Placed sign
+10/27/2023 12:31:06: Placed sign
+10/27/2023 12:31:12: Placed sign
+10/27/2023 12:31:23: Disabling PlayerBase  character_trigger
+10/27/2023 12:31:23: Disabling PlayerBase  character_trigger
+10/27/2023 12:31:23: Disabling FireWarmth  character_trigger
+10/27/2023 12:31:23: Disabling PlayerBase  character_trigger
+10/27/2023 12:32:07: Disabling PlayerBase  character_trigger
+10/27/2023 12:32:09: Disabling PlayerBase  character_trigger
+10/27/2023 12:32:09: Disabling FireWarmth  character_trigger
+10/27/2023 12:32:10: Disabling PlayerBase  character_trigger
+10/27/2023 12:32:13: Disabling PlayerBase  character_trigger
+10/27/2023 12:32:13: Disabling FireArea  character_trigger
+10/27/2023 12:32:23: Placed piece_groundtorch
+10/27/2023 12:32:34: Placed piece_groundtorch
+10/27/2023 12:33:07: Disabling PlayerBase  character_trigger
+10/27/2023 12:33:07: Disabling FireArea  character_trigger
+10/27/2023 12:33:08: Disabling PlayerBase  character_trigger
+10/27/2023 12:33:09: Disabling PlayerBase  character_trigger
+10/27/2023 12:33:09: Disabling FireArea  character_trigger
+10/27/2023 12:33:24: Placed wood_pole
+10/27/2023 12:33:36: Placed wood_pole
+10/27/2023 12:33:39: Placed wood_pole
+10/27/2023 12:33:44: Placed wood_pole
+10/27/2023 12:33:48: Placed wood_pole
+10/27/2023 12:34:03: Placed wood_floor
+10/27/2023 12:34:05: Placed wood_floor
+10/27/2023 12:34:07: Placed wood_floor
+10/27/2023 12:34:11: Placed wood_floor
+10/27/2023 12:34:22: Placed wood_pole
+10/27/2023 12:34:27: Placed wood_pole
+10/27/2023 12:34:30: Placed wood_pole
+10/27/2023 12:34:31: Placed wood_pole
+10/27/2023 12:34:37: Placed wood_pole
+10/27/2023 12:34:39: Placed wood_pole
+10/27/2023 12:34:42: Placed wood_pole
+10/27/2023 12:34:44: Placed wood_pole
+10/27/2023 12:34:47: Placed wood_pole
+10/27/2023 12:34:52: Placed wood_pole
+10/27/2023 12:34:57: Placed wood_pole
+10/27/2023 12:34:58: Placed wood_pole
+10/27/2023 12:35:02: Placed wood_pole
+10/27/2023 12:35:27: Disabling PlayerBase  character_trigger
+10/27/2023 12:35:27: Disabling PlayerBase  character_trigger
+10/27/2023 12:35:41: Placed wood_floor
+10/27/2023 12:35:45: Placed wood_floor
+10/27/2023 12:35:47: Placed wood_floor
+10/27/2023 12:35:49: Placed wood_floor
+10/27/2023 12:36:09: Placed wood_beam
+10/27/2023 12:36:10: Placed wood_beam
+10/27/2023 12:36:12: Placed wood_beam
+10/27/2023 12:36:13: Placed wood_beam
+10/27/2023 12:36:15: Placed wood_beam
+10/27/2023 12:36:17: Placed wood_beam
+10/27/2023 12:36:19: Placed wood_beam
+10/27/2023 12:36:22: Placed wood_beam
+10/27/2023 12:36:41: Placed wood_beam
+10/27/2023 12:36:43: Placed wood_beam
+10/27/2023 12:36:44: Placed wood_beam
+10/27/2023 12:36:49: Placed wood_beam
+10/27/2023 12:36:53: Placed wood_beam
+10/27/2023 12:36:55: Placed wood_beam
+10/27/2023 12:36:59: Placed wood_beam
+10/27/2023 12:37:02: Placed wood_beam
+10/27/2023 12:37:42: Placed piece_chest_wood
+10/27/2023 12:37:57: Placed piece_chest_wood
+10/27/2023 12:38:03: Placed piece_chest_wood
+10/27/2023 12:38:08: Starting music evening
+10/27/2023 12:38:09: Stopped music home at 3755513
+10/27/2023 12:38:14: Placed piece_chest_wood
+10/27/2023 12:38:23: Disabling PlayerBase  character_trigger
+10/27/2023 12:38:24: Disabling PlayerBase  character_trigger
+10/27/2023 12:38:40: Disabling PlayerBase  character_trigger
+10/27/2023 12:38:40: Disabling PlayerBase  character_trigger
+10/27/2023 12:38:55: Starting music home
+10/27/2023 12:38:55: Resumed music home at 3755513
+10/27/2023 12:38:57: Placed piece_chest_wood
+10/27/2023 12:39:09: Spawned Greydwarf_Elite x 1
+10/27/2023 12:39:10: Placed piece_chest_wood
+10/27/2023 12:39:16: Disabling PlayerBase  character_trigger
+10/27/2023 12:39:16: Disabling PlayerBase  character_trigger
+10/27/2023 12:39:16: Disabling PlayerBase  character_trigger
+10/27/2023 12:39:16: Disabling FireArea  character_trigger
+10/27/2023 12:39:17: Disabling PlayerBase  character_trigger
+10/27/2023 12:39:43: Placed piece_walltorch
+10/27/2023 12:39:51: Placed piece_walltorch
+10/27/2023 12:40:03: Placed piece_walltorch
+10/27/2023 12:41:13: Spawned Greydwarf_Shaman x 1
+10/27/2023 12:41:23: Placed piece_walltorch
+10/27/2023 12:41:32: Placed piece_walltorch
+10/27/2023 12:41:55: Disabling PlayerBase  character_trigger
+10/27/2023 12:41:58: Disabling PlayerBase  character_trigger
+10/27/2023 12:42:12: Update PlayFab entity token
+10/27/2023 12:42:13: Placed piece_chest_wood
+10/27/2023 12:42:20: Placed piece_chest_wood
+10/27/2023 12:42:26: Placed piece_chest_wood
+10/27/2023 12:42:35: Placed piece_chest_wood
+10/27/2023 12:42:43: Placed piece_chest_wood
+10/27/2023 12:42:49: Placed piece_chest_wood
+10/27/2023 12:43:00: Placed piece_chest_wood
+10/27/2023 12:43:12: Placed piece_chest_wood
+10/27/2023 12:43:20: Placed piece_chest_wood
+10/27/2023 12:43:27: Placed piece_chest_wood
+10/27/2023 12:43:31: Placed piece_chest_wood
+10/27/2023 12:43:37: Placed piece_chest_wood
+10/27/2023 12:43:48: Placed piece_chest_wood
+10/27/2023 12:43:55: Placed piece_chest_wood
+10/27/2023 12:44:11: Placed wood_floor
+10/27/2023 12:44:20: Placed wood_floor
+10/27/2023 12:44:22: Placed wood_floor
+10/27/2023 12:44:24: Placed wood_floor
+10/27/2023 12:44:26: Placed wood_floor
+10/27/2023 12:44:30: Placed wood_floor
+10/27/2023 12:44:32: Placed wood_floor
+10/27/2023 12:44:48: Placed piece_chest_wood
+10/27/2023 12:44:56: Placed piece_chest_wood
+10/27/2023 12:45:05: Placed piece_chest_wood
+10/27/2023 12:45:09: Placed piece_chest_wood
+10/27/2023 12:45:17: Placed piece_chest_wood
+10/27/2023 12:45:20: Placed piece_chest_wood
+10/27/2023 12:45:27: Placed piece_chest_wood
+10/27/2023 12:45:33: Placed piece_chest_wood
+10/27/2023 12:45:44: Placed piece_chest_wood
+10/27/2023 12:45:53: Placed piece_chest_wood
+10/27/2023 12:46:33: Placed wood_beam
+10/27/2023 12:46:35: Placed wood_beam
+10/27/2023 12:46:37: Placed wood_beam
+10/27/2023 12:46:38: Placed wood_beam
+10/27/2023 12:46:51: Disabling PlayerBase  character_trigger
+10/27/2023 12:46:52: Disabling PlayerBase  character_trigger
+10/27/2023 12:46:52: Disabling FireWarmth  character_trigger
+10/27/2023 12:46:52: Disabling PlayerBase  character_trigger
+10/27/2023 12:47:09: Starting music morning
+10/27/2023 12:47:09: Disabling PlayerBase  character_trigger
+10/27/2023 12:47:10: Disabling PlayerBase  character_trigger
+10/27/2023 12:47:10: Disabling FireWarmth  character_trigger
+10/27/2023 12:47:10: Stopped music home at 1169722
+10/27/2023 12:47:10: Disabling PlayerBase  character_trigger
+10/27/2023 12:47:25: Placed sign
+10/27/2023 12:47:34: Placed sign
+10/27/2023 12:47:41: Placed sign
+10/27/2023 12:47:44: Starting music home
+10/27/2023 12:47:44: Resumed music home at 1169722
+10/27/2023 12:47:45: Placed sign
+10/27/2023 12:47:49: Placed sign
+10/27/2023 12:47:58: Placed sign
+10/27/2023 12:48:10: Placed sign
+10/27/2023 12:48:24: Placed sign
+10/27/2023 12:48:35: Placed sign
+10/27/2023 12:48:41: Placed sign
+10/27/2023 12:48:48: Placed sign
+10/27/2023 12:48:57: Placed sign
+10/27/2023 12:49:03: Placed sign
+10/27/2023 12:49:08: Placed sign
+10/27/2023 12:49:11: Placed sign
+10/27/2023 12:49:16: Placed sign
+10/27/2023 12:49:23: Placed sign
+10/27/2023 12:49:28: Placed sign
+10/27/2023 12:49:43: Placed sign
+10/27/2023 12:49:50: Placed sign
+10/27/2023 12:49:55: Placed sign
+10/27/2023 12:50:02: Placed sign
+10/27/2023 12:50:10: Placed sign
+10/27/2023 12:50:18: Placed sign
+10/27/2023 12:50:48: Player 1334702176 wants to open piece_chest_wood(Clone)   im: 1334702176
+10/27/2023 12:50:48: Setting selected recipe 0
+10/27/2023 12:50:58: Uncompressed size 8394618
+10/27/2023 12:50:58: Compressed size 17252
+10/27/2023 12:50:58: Considering autobackup. World time: 1779.4, short time: 7200, long time: 43200, backup count: 4
+10/27/2023 12:50:58: Time to overwrite our last autobackup
+10/27/2023 12:50:58: Replacing backup file: terry_backup_auto-20231025205402
+10/27/2023 12:50:58: Saving backup at: terry_backup_auto-20231027125058
+10/27/2023 12:50:58: Sending message to save player profiles
+10/27/2023 12:50:58: PrepareSave: clone done in 88ms
+10/27/2023 12:50:58: PrepareSave: ZDOExtraData.PrepareSave done in 40 ms
+10/27/2023 12:50:58: World save writing starting
+10/27/2023 12:50:58: World save writing started
+10/27/2023 12:50:59: Saved 422058 ZDOs
+10/27/2023 12:50:59: World save writing finishing
+10/27/2023 12:50:59: World save writing finished
+10/27/2023 12:50:59: World saved ( 739.771ms )
+10/27/2023 12:50:59: Considering autobackup. World time: 1780.34, short time: 7200, long time: 43200, backup count: 4
+10/27/2023 12:50:59: Time to overwrite our last autobackup
+10/27/2023 12:50:59: Replacing backup file: Famheim_backup_auto-20231025230224
+10/27/2023 12:50:59: Saving backup at: Famheim_backup_auto-20231027125058
+10/27/2023 12:50:59: World auto backup saved ( 00:00:00.0150119ms )
+10/27/2023 12:51:14: Placed piece_chest_wood
+10/27/2023 12:51:30: Placed piece_chest_wood
+10/27/2023 12:51:38: Placed piece_chest_wood
+10/27/2023 12:51:48: Placed piece_chest_wood
+10/27/2023 12:52:33: Disabling PlayerBase  character_trigger
+10/27/2023 12:52:34: Disabling PlayerBase  character_trigger
+10/27/2023 12:52:58: Disabling PlayerBase  character_trigger
+10/27/2023 12:53:06: Placed wood_beam
+10/27/2023 12:53:10: Placed wood_beam
+10/27/2023 12:53:17: Disabling PlayerBase  character_trigger
+10/27/2023 12:53:18: Disabling PlayerBase  character_trigger
+10/27/2023 12:53:27: Placed piece_chest_wood
+10/27/2023 12:53:37: Placed piece_chest_wood
+10/27/2023 12:53:44: Placed piece_chest_wood
+10/27/2023 12:53:52: Placed piece_chest_wood
+10/27/2023 12:54:00: Placed wood_beam
+10/27/2023 12:54:02: Placed wood_beam
+10/27/2023 12:54:04: Placed wood_beam
+10/27/2023 12:54:05: Placed wood_beam
+10/27/2023 12:54:22: Placed wood_beam
+10/27/2023 12:54:23: Placed wood_beam
+10/27/2023 12:54:25: Placed wood_beam
+10/27/2023 12:54:27: Placed wood_beam
+10/27/2023 12:54:49: Placed wood_floor
+10/27/2023 12:54:58: Placed wood_floor
+10/27/2023 12:55:13: Setting selected recipe 1
+10/27/2023 12:55:14: Button pressed RepairButton  frame:161614
+10/27/2023 12:55:49: Placed wood_floor
+10/27/2023 12:55:51: Placed wood_floor
+10/27/2023 12:55:54: Placed wood_floor
+10/27/2023 12:55:55: Placed wood_floor
+10/27/2023 12:55:57: Placed wood_floor
+10/27/2023 12:56:19: Placed piece_chest_wood
+10/27/2023 12:56:33: Placed piece_chest_wood
+10/27/2023 12:56:47: Placed piece_chest_wood
+10/27/2023 12:56:56: Placed piece_chest_wood
+10/27/2023 12:57:08: Placed wood_beam
+10/27/2023 12:57:14: Placed wood_beam
+10/27/2023 12:57:15: Placed wood_beam
+10/27/2023 12:57:18: Placed wood_beam
+10/27/2023 12:57:59: Placed sign
+10/27/2023 12:58:06: Placed sign
+10/27/2023 12:58:11: Placed sign
+10/27/2023 12:58:16: Placed sign
+10/27/2023 12:58:27: Placed sign
+10/27/2023 12:58:39: Placed sign
+10/27/2023 12:58:44: Placed sign
+10/27/2023 12:59:09: Placed sign
+10/27/2023 12:59:28: Placed sign
+10/27/2023 12:59:35: Placed sign
+10/27/2023 12:59:52: Placed sign
+10/27/2023 12:59:58: Placed sign
+10/27/2023 13:00:03: Update PlayFab entity token
+10/27/2023 13:00:46: Disabling PlayerBase  character_trigger
+10/27/2023 13:00:46: Disabling PlayerBase  character_trigger
+10/27/2023 13:00:46: Disabling FireWarmth  character_trigger
+10/27/2023 13:00:47: Disabling PlayerBase  character_trigger
+10/27/2023 13:00:47: Disabling PlayerBase  character_trigger
+10/27/2023 13:01:04: Placed piece_walltorch
+10/27/2023 13:01:37: Placed piece_walltorch
+10/27/2023 13:02:10: Placed piece_walltorch
+10/27/2023 13:02:32: Placed piece_walltorch
+10/27/2023 13:02:43: Disabling PlayerBase  character_trigger
+10/27/2023 13:02:58: Placed piece_walltorch
+10/27/2023 13:03:14: Placed piece_walltorch
+10/27/2023 13:04:01: Placed piece_walltorch
+10/27/2023 13:04:17: Disabling PlayerBase  character_trigger
+10/27/2023 13:04:21: Placed piece_walltorch
+10/27/2023 13:04:53: Disabling PlayerBase  character_trigger
+10/27/2023 13:05:10: Stopped music home at 5434841
+10/27/2023 13:05:10: Starting music meadows
+10/27/2023 13:05:27: Placed sign
+10/27/2023 13:05:40: Placed sign
+10/27/2023 13:05:50: Placed sign
+10/27/2023 13:06:01: Stopped music meadows at 2226873
+10/27/2023 13:06:01: Starting music home
+10/27/2023 13:06:01: Resumed music home at 5434841
+10/27/2023 13:06:04: Placed sign
+10/27/2023 13:06:15: Placed sign
+10/27/2023 13:06:28: Placed sign
+10/27/2023 13:06:32: Stopped music home at 1368863
+10/27/2023 13:06:32: Starting music meadows
+10/27/2023 13:06:32: Resumed music meadows at 2226873
+10/27/2023 13:06:36: Placed sign
+10/27/2023 13:06:42: Placed sign
+10/27/2023 13:06:51: Placed sign
+10/27/2023 13:06:55: Stopped music meadows at 1027353
+10/27/2023 13:06:55: Starting music home
+10/27/2023 13:06:55: Resumed music home at 1368863
+10/27/2023 13:07:06: Placed sign
+10/27/2023 13:07:13: Placed sign
+10/27/2023 13:07:22: Placed sign
+10/27/2023 13:07:27: Stopped music home at 1394265
+10/27/2023 13:07:27: Starting music meadows
+10/27/2023 13:07:27: Resumed music meadows at 1027353
+10/27/2023 13:07:29: Placed sign
+10/27/2023 13:07:36: Placed sign
+10/27/2023 13:07:45: Placed sign
+10/27/2023 13:07:50: Placed sign
+10/27/2023 13:08:03: Stopped music meadows at 1617235
+10/27/2023 13:08:03: Starting music home
+10/27/2023 13:08:03: Resumed music home at 1394265
+10/27/2023 13:08:08: Starting music evening
+10/27/2023 13:08:09: Placed sign
+10/27/2023 13:08:09: Stopped music home at 234259
+10/27/2023 13:08:25: Placed sign
+10/27/2023 13:08:35: Placed sign
+10/27/2023 13:08:45: Placed sign
+10/27/2023 13:08:54: Placed sign
+10/27/2023 13:08:58: Placed sign
+10/27/2023 13:09:22: Placed sign
+10/27/2023 13:09:28: Placed sign
+10/27/2023 13:09:51: Placed sign
+10/27/2023 13:10:09: Placed sign
+10/27/2023 13:10:18: Placed sign
+10/27/2023 13:10:26: Placed sign
+10/27/2023 13:10:34: Placed sign
+10/27/2023 13:10:46: Placed sign
+10/27/2023 13:10:51: Placed sign
+10/27/2023 13:11:01: Placed sign
+10/27/2023 13:11:25: Placed sign
+10/27/2023 13:11:43: Placed sign
+10/27/2023 13:11:48: Placed sign
+10/27/2023 13:11:57: Placed sign
+10/27/2023 13:12:06: Placed sign
+10/27/2023 13:12:16: Placed sign
+10/27/2023 13:12:23: Placed sign
+10/27/2023 13:12:32: Placed sign
+10/27/2023 13:12:49: Placed sign
+10/27/2023 13:13:00: Placed sign
+10/27/2023 13:13:10: Placed sign
+10/27/2023 13:13:14: Placed sign
+10/27/2023 13:13:15: Starting music home
+10/27/2023 13:13:15: Resumed music home at 234259
+10/27/2023 13:13:32: Placed sign
+10/27/2023 13:13:35: Placed sign
+10/27/2023 13:13:41: Placed sign
+10/27/2023 13:13:47: Placed sign
+10/27/2023 13:13:53: Stopped music home at 1916409
+10/27/2023 13:14:03: Placed sign
+10/27/2023 13:14:15: Placed sign
+10/27/2023 13:14:17: Spawned Greydwarf_Elite x 1
+10/27/2023 13:14:24: Placed sign
+10/27/2023 13:14:34: Placed sign
+10/27/2023 13:14:35: Starting music home
+10/27/2023 13:14:35: Resumed music home at 1916409
+10/27/2023 13:14:42: Placed sign
+10/27/2023 13:14:50: Placed sign
+10/27/2023 13:14:56: Placed sign
+10/27/2023 13:15:06: Placed sign
+10/27/2023 13:15:12: Stopped music home at 3548696
+10/27/2023 13:15:15: Starting music home
+10/27/2023 13:15:15: Resumed music home at 3548696
+10/27/2023 13:15:56: Disabling PlayerBase  character_trigger
+10/27/2023 13:15:56: Disabling PlayerBase  character_trigger
+10/27/2023 13:15:56: Disabling FireWarmth  character_trigger
+10/27/2023 13:15:57: Disabling PlayerBase  character_trigger
+10/27/2023 13:16:21: Spawned Greydwarf_Shaman x 1
+10/27/2023 13:16:30: Placed bed
+10/27/2023 13:16:41: Placed bed
+10/27/2023 13:16:44: Disabling PlayerBase  character_trigger
+10/27/2023 13:17:00: Placed piece_chest_private
+10/27/2023 13:17:09: Starting music morning
+10/27/2023 13:17:10: Stopped music home at 463968
+10/27/2023 13:17:19: Placed rug_deer
+10/27/2023 13:17:44: Starting music home
+10/27/2023 13:17:44: Resumed music home at 463968
+10/27/2023 13:18:31: Placed piece_table
+10/27/2023 13:18:53: Placed piece_chair02
+10/27/2023 13:19:06: Placed piece_banner08
+10/27/2023 13:19:35: Stopped music home at 4912857
+10/27/2023 13:19:35: Starting music home
+10/27/2023 13:19:35: Resumed music home at 4912857
+10/27/2023 13:19:45: Disabling PlayerBase  character_trigger
+10/27/2023 13:19:45: Disabling PlayerBase  character_trigger
+10/27/2023 13:19:47: Disabling HIT AREA  character_trigger
+10/27/2023 13:19:48: Disabling TELEPORT  character_trigger
+10/27/2023 13:19:48: Disabling PlayerBase  character_trigger
+10/27/2023 13:19:59: Placed portal_wood
+10/27/2023 13:20:09: Placed portal_wood
+10/27/2023 13:20:09: Connected portals 1334702176:428976 <-> 1334702176:428997
+10/27/2023 13:20:09: [ Connected 1 portals ]
+10/27/2023 13:20:18: Update PlayFab entity token
+10/27/2023 13:20:50: Placed sign
+10/27/2023 13:20:58: Uncompressed size 8394618
+10/27/2023 13:20:58: Compressed size 17252
+10/27/2023 13:20:58: Considering autobackup. World time: 3579.32, short time: 7200, long time: 43200, backup count: 4
+10/27/2023 13:20:58: No autobackup needed yet...
+10/27/2023 13:20:58: Sending message to save player profiles
+10/27/2023 13:20:58: PrepareSave: clone done in 90ms
+10/27/2023 13:20:58: PrepareSave: ZDOExtraData.PrepareSave done in 44 ms
+10/27/2023 13:20:58: World save writing starting
+10/27/2023 13:20:58: World save writing started
+10/27/2023 13:20:59: Saved 422152 ZDOs
+10/27/2023 13:20:59: World save writing finishing
+10/27/2023 13:20:59: World save writing finished
+10/27/2023 13:20:59: World saved ( 757.8093ms )
+10/27/2023 13:20:59: Considering autobackup. World time: 3580.26, short time: 7200, long time: 43200, backup count: 4
+10/27/2023 13:20:59: No autobackup needed yet...
+10/27/2023 13:21:19: Unloading unused assets
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 27315 unused Assets to reduce memory usage. Loaded Objects now: 2077852.
-Total: 708.849300 ms (FindLiveObjects: 97.146800 ms CreateObjectMapping: 27.971600 ms MarkObjects: 516.522000 ms  DeleteObjects: 67.208700 ms)
+Unloading 20346 unused Assets to reduce memory usage. Loaded Objects now: 2091754.
+Total: 722.134000 ms (FindLiveObjects: 111.665000 ms CreateObjectMapping: 29.148900 ms MarkObjects: 526.417400 ms  DeleteObjects: 54.902300 ms)
 
-10/27/2023 01:17:01: Placed wood_beam
-10/27/2023 01:17:03: Placed wood_beam
-10/27/2023 01:17:04: Placed wood_beam
-10/27/2023 01:17:06: Placed wood_beam
-10/27/2023 01:17:08: Placed wood_beam
-10/27/2023 01:17:10: Placed wood_beam
-10/27/2023 01:17:12: Placed wood_beam
-10/27/2023 01:17:14: Placed wood_beam
-10/27/2023 01:17:16: Placed wood_beam
-10/27/2023 01:17:17: Placed wood_beam
-10/27/2023 01:17:18: Placed wood_beam
-10/27/2023 01:17:21: Placed wood_beam
-10/27/2023 01:17:22: Placed wood_beam
-10/27/2023 01:17:24: Placed wood_beam
-10/27/2023 01:17:28: Placed wood_beam
-10/27/2023 01:17:30: Placed wood_beam
-10/27/2023 01:17:34: Placed wood_beam
-10/27/2023 01:17:36: Placed wood_beam
-10/27/2023 01:17:38: Placed wood_beam
-10/27/2023 01:17:40: Placed wood_beam
-10/27/2023 01:17:46: Placed wood_beam
-10/27/2023 01:17:48: Placed wood_beam
-10/27/2023 01:17:49: Placed wood_beam
-10/27/2023 01:17:51: Placed wood_beam
-10/27/2023 01:18:12: Disabling PlayerBase  character_trigger
-10/27/2023 01:18:12: Disabling PlayerBase  character_trigger
-10/27/2023 01:18:15: Spawned Greydwarf_Elite x 1
-10/27/2023 01:18:15: Spawned Greydwarf_Shaman x 1
-10/27/2023 01:18:42: Placed piece_chest_wood
-10/27/2023 01:18:58: Placed piece_chest_wood
-10/27/2023 01:19:33: Placed piece_chest_wood
-10/27/2023 01:19:50: Placed piece_chest_wood
-10/27/2023 01:19:58: Placed piece_chest_wood
-10/27/2023 01:20:19: Placed piece_chest_wood
-10/27/2023 01:20:26: Placed piece_chest_wood
-10/27/2023 01:20:37: Placed piece_chest_wood
-10/27/2023 01:20:55: Placed piece_chest_wood
-10/27/2023 01:21:03: Placed piece_chest_wood
-10/27/2023 01:21:13: Placed piece_chest_wood
-10/27/2023 01:21:27: Placed piece_chest_wood
-10/27/2023 01:21:40: Placed piece_chest_wood
-10/27/2023 01:21:50: Placed piece_chest_wood
-10/27/2023 01:22:00: Placed piece_chest_wood
-10/27/2023 01:22:12: Placed piece_chest_wood
-10/27/2023 01:22:40: Placed piece_chest_wood
-10/27/2023 01:22:52: Placed piece_chest_wood
-10/27/2023 01:23:04: Placed piece_chest_wood
-10/27/2023 01:23:16: Placed piece_chest_wood
-10/27/2023 01:23:31: Placed piece_chest_wood
-10/27/2023 01:23:35: Uncompressed size 8394618
-10/27/2023 01:23:35: Compressed size 17252
-10/27/2023 01:23:35: Considering autobackup. World time: 3522.08, short time: 7200, long time: 43200, backup count: 4
-10/27/2023 01:23:35: No autobackup needed yet...
-10/27/2023 01:23:35: Sending message to save player profiles
-10/27/2023 01:23:35: PrepareSave: clone done in 32ms
-10/27/2023 01:23:35: PrepareSave: ZDOExtraData.PrepareSave done in 53 ms
-10/27/2023 01:23:35: World save writing starting
-10/27/2023 01:23:35: World save writing started
-10/27/2023 01:23:36: Saved 421769 ZDOs
-10/27/2023 01:23:36: World save writing finishing
-10/27/2023 01:23:36: World save writing finished
-10/27/2023 01:23:36: World saved ( 828.5573ms )
-10/27/2023 01:23:36: Considering autobackup. World time: 3523.1, short time: 7200, long time: 43200, backup count: 4
-10/27/2023 01:23:36: Overwrite our newest autobackup since the second one isn't so old
-10/27/2023 01:23:36: Replacing backup file: Famheim_backup_auto-20231026230904
-10/27/2023 01:23:36: Saving backup at: Famheim_backup_auto-20231027012335
-10/27/2023 01:23:36: World auto backup saved ( 00:00:00.0190164ms )
-10/27/2023 01:23:41: Placed piece_chest_wood
-10/27/2023 01:23:41: Update PlayFab entity token
-10/27/2023 01:23:47: Placed piece_chest_wood
-10/27/2023 01:23:57: Placed piece_chest_wood
-10/27/2023 01:24:03: Starting music morning
-10/27/2023 01:24:04: Stopped music home at 5817434
-10/27/2023 01:24:05: Placed piece_chest_wood
-10/27/2023 01:24:15: Placed piece_chest_wood
-10/27/2023 01:24:29: Placed piece_chest_wood
-10/27/2023 01:24:37: Placed piece_chest_wood
-10/27/2023 01:24:38: Starting music home
-10/27/2023 01:24:38: Resumed music home at 5817434
-10/27/2023 01:24:46: Placed piece_chest_wood
-10/27/2023 01:24:53: Skipping unloading unused assets
-10/27/2023 01:24:56: Placed piece_chest_wood
-10/27/2023 01:25:09: Placed piece_chest_wood
-10/27/2023 01:25:48: Placed piece_chest_wood
-10/27/2023 01:25:54: Placed piece_chest_wood
-10/27/2023 01:26:53: Placed wood_pole
-10/27/2023 01:26:56: Placed wood_pole
-10/27/2023 01:27:02: Placed wood_floor
-10/27/2023 01:27:03: Placed wood_floor
-10/27/2023 01:27:05: Placed wood_floor
-10/27/2023 01:27:06: Placed wood_floor
-10/27/2023 01:27:07: Placed wood_floor
-10/27/2023 01:27:12: Placed wood_floor
-10/27/2023 01:27:38: Placed piece_chest_wood
-10/27/2023 01:27:48: Placed piece_chest_wood
-10/27/2023 01:28:01: Placed piece_chest_wood
-10/27/2023 01:28:08: Placed piece_chest_wood
-10/27/2023 01:28:18: Placed piece_chest_wood
-10/27/2023 01:28:21: Placed piece_chest_wood
-10/27/2023 01:28:28: Placed piece_chest_wood
-10/27/2023 01:28:33: Placed piece_chest_wood
-10/27/2023 01:28:43: Placed piece_chest_wood
-10/27/2023 01:28:57: Disabling PlayerBase  character_trigger
-10/27/2023 01:28:57: Disabling PlayerBase  character_trigger
-10/27/2023 01:29:10: Disabling PlayerBase  character_trigger
-10/27/2023 01:29:10: Disabling PlayerBase  character_trigger
-10/27/2023 01:29:17: Placed piece_chest_wood
-10/27/2023 01:29:23: Placed piece_chest_wood
-10/27/2023 01:29:29: Placed piece_chest_wood
-10/27/2023 01:29:34: Placed piece_chest_wood
-10/27/2023 01:29:39: Placed piece_chest_wood
-10/27/2023 01:29:46: Placed piece_chest_wood
-10/27/2023 01:29:55: Disabling PlayerBase  character_trigger
-10/27/2023 01:29:55: Disabling PlayerBase  character_trigger
-10/27/2023 01:30:15: Disabling PlayerBase  character_trigger
-10/27/2023 01:30:15: Disabling PlayerBase  character_trigger
-10/27/2023 01:30:15: Disabling FireWarmth  character_trigger
-10/27/2023 01:30:15: Disabling PlayerBase  character_trigger
-10/27/2023 01:31:07: Placed sign
-10/27/2023 01:31:13: Placed sign
-10/27/2023 01:31:21: Placed sign
-10/27/2023 01:31:34: Placed sign
-10/27/2023 01:31:45: Placed sign
-10/27/2023 01:31:52: Placed sign
-10/27/2023 01:32:08: Placed sign
-10/27/2023 01:32:14: Placed sign
-10/27/2023 01:32:34: Placed sign
-10/27/2023 01:32:40: Placed sign
-10/27/2023 01:32:48: Placed sign
-10/27/2023 01:32:57: Placed sign
-10/27/2023 01:33:05: Placed sign
-10/27/2023 01:33:12: Placed sign
-10/27/2023 01:33:26: Placed sign
-10/27/2023 01:33:34: Placed sign
-10/27/2023 01:33:40: Placed sign
-10/27/2023 01:33:45: Placed sign
-10/27/2023 01:33:52: Placed sign
-10/27/2023 01:33:57: Placed sign
-10/27/2023 01:34:02: Placed sign
-10/27/2023 01:34:06: Placed sign
-10/27/2023 01:34:11: Placed sign
-10/27/2023 01:34:17: Placed sign
-10/27/2023 01:34:26: Placed sign
-10/27/2023 01:34:31: Placed sign
-10/27/2023 01:34:37: Placed sign
-10/27/2023 01:34:40: Placed sign
-10/27/2023 01:34:50: Placed sign
-10/27/2023 01:34:54: Placed sign
-10/27/2023 01:35:03: Placed sign
-10/27/2023 01:35:09: Placed sign
-10/27/2023 01:35:16: Placed sign
-10/27/2023 01:35:31: Placed sign
-10/27/2023 01:35:41: Placed sign
-10/27/2023 01:35:55: Placed sign
-10/27/2023 01:36:04: Placed sign
-10/27/2023 01:36:08: Placed sign
-10/27/2023 01:36:13: Placed sign
-10/27/2023 01:36:20: Placed sign
-10/27/2023 01:36:25: Placed sign
-10/27/2023 01:36:32: Placed sign
-10/27/2023 01:36:40: Placed sign
-10/27/2023 01:36:47: Placed sign
-10/27/2023 01:36:54: Placed sign
-10/27/2023 01:38:04: Placed wood_pole
-10/27/2023 01:38:17: Placed wood_pole
-10/27/2023 01:38:24: Update PlayFab entity token
-10/27/2023 01:38:24: Disabling jump_trigger  character_trigger
-10/27/2023 01:38:24: Disabling jump_trigger (1)  character_trigger
-10/27/2023 01:38:24: Disabling jump_trigger (2)  character_trigger
-10/27/2023 01:38:34: Placed wood_floor
-10/27/2023 01:38:36: Placed wood_floor
-10/27/2023 01:38:39: Placed wood_floor
-10/27/2023 01:38:42: Placed wood_floor
-10/27/2023 01:38:56: Placed wood_pole
-10/27/2023 01:39:00: Placed wood_pole
-10/27/2023 01:39:09: Placed wood_floor
-10/27/2023 01:39:12: Placed wood_floor
-10/27/2023 01:39:14: Placed wood_floor
-10/27/2023 01:39:15: Placed wood_floor
-10/27/2023 01:40:17: Placed wood_pole
-10/27/2023 01:40:34: Placed wood_beam_1
-10/27/2023 01:40:38: Placed wood_pole
-10/27/2023 01:41:06: Placed wood_floor
-10/27/2023 01:41:12: Placed wood_floor
-10/27/2023 01:41:14: Placed wood_floor
-10/27/2023 01:41:20: Placed wood_floor
-10/27/2023 01:41:26: Placed wood_floor
-10/27/2023 01:41:27: Placed wood_floor
-10/27/2023 01:41:29: Placed wood_floor
-10/27/2023 01:41:31: Placed wood_floor
-10/27/2023 01:41:41: Placed wood_pole
-10/27/2023 01:41:48: Placed wood_pole
-10/27/2023 01:42:01: Placed wood_floor
-10/27/2023 01:42:05: Placed wood_floor
-10/27/2023 01:42:08: Placed wood_floor
-10/27/2023 01:42:20: Placed wood_floor
-10/27/2023 01:42:23: Placed wood_floor
-10/27/2023 01:42:39: Placed wood_floor
-10/27/2023 01:42:41: Placed wood_floor
-10/27/2023 01:43:01: Placed wood_floor
-10/27/2023 01:43:05: Placed wood_floor
-10/27/2023 01:43:07: Placed wood_floor
-10/27/2023 01:43:10: Placed wood_floor
-10/27/2023 01:43:18: Placed wood_beam
-10/27/2023 01:43:20: Placed wood_beam
-10/27/2023 01:43:23: Placed wood_beam
-10/27/2023 01:43:25: Placed wood_beam
-10/27/2023 01:43:26: Placed wood_beam
-10/27/2023 01:43:28: Placed wood_beam
-10/27/2023 01:43:30: Placed wood_beam
-10/27/2023 01:43:36: Placed wood_beam
-10/27/2023 01:43:40: Placed wood_beam
-10/27/2023 01:43:41: Placed wood_beam
-10/27/2023 01:43:43: Placed wood_beam
-10/27/2023 01:43:48: Placed wood_beam
-10/27/2023 01:43:56: Placed wood_beam
-10/27/2023 01:43:59: Placed wood_beam
-10/27/2023 01:44:01: Placed wood_beam
-10/27/2023 01:44:03: Placed wood_beam
-10/27/2023 01:44:07: Placed wood_beam
-10/27/2023 01:44:08: Placed wood_beam
-10/27/2023 01:44:10: Placed wood_beam
-10/27/2023 01:44:12: Placed wood_beam
-10/27/2023 01:44:20: Placed wood_beam
-10/27/2023 01:44:21: Placed wood_beam
-10/27/2023 01:44:23: Placed wood_beam
-10/27/2023 01:44:54: Activating default element Continue
-10/27/2023 01:44:59: Unloading unused assets
+10/27/2023 13:21:40: Setting selected recipe 0
+10/27/2023 13:21:54: Stopped music home at 6098265
+10/27/2023 13:21:54: Starting music meadows
+10/27/2023 13:21:55: Setting selected recipe 0
+10/27/2023 13:21:58: Setting selected recipe 0
+10/27/2023 13:22:05: Loading dungeon
+10/27/2023 13:22:05: Dungeon loaded with 40 rooms from old format in 17.0139 ms.
+10/27/2023 13:22:10: Player 1334702176 wants to open piece_chest_wood(Clone)   im: 1334702176
+10/27/2023 13:22:10: Setting selected recipe 0
+10/27/2023 13:22:23: Player 1334702176 wants to open piece_chest_wood(Clone)   im: 1334702176
+10/27/2023 13:22:23: Setting selected recipe 0
+10/27/2023 13:22:32: trying to add $item_wood
+10/27/2023 13:22:32: Added ore Wood
+10/27/2023 13:22:33: trying to add $item_wood
+10/27/2023 13:22:33: Added ore Wood
+10/27/2023 13:22:33: trying to add $item_wood
+10/27/2023 13:22:33: Added ore Wood
+10/27/2023 13:22:33: trying to add $item_wood
+10/27/2023 13:22:33: Added ore Wood
+10/27/2023 13:22:33: trying to add $item_wood
+10/27/2023 13:22:33: Added ore Wood
+10/27/2023 13:22:33: trying to add $item_wood
+10/27/2023 13:22:33: Added ore Wood
+10/27/2023 13:22:33: trying to add $item_wood
+10/27/2023 13:22:33: Added ore Wood
+10/27/2023 13:22:34: trying to add $item_wood
+10/27/2023 13:22:34: Added ore Wood
+10/27/2023 13:22:34: trying to add $item_wood
+10/27/2023 13:22:34: Added ore Wood
+10/27/2023 13:22:34: trying to add $item_wood
+10/27/2023 13:22:34: Added ore Wood
+10/27/2023 13:22:34: trying to add $item_wood
+10/27/2023 13:22:34: Added ore Wood
+10/27/2023 13:22:34: trying to add $item_wood
+10/27/2023 13:22:34: Added ore Wood
+10/27/2023 13:22:35: trying to add $item_wood
+10/27/2023 13:22:35: Added ore Wood
+10/27/2023 13:22:35: trying to add $item_wood
+10/27/2023 13:22:35: Added ore Wood
+10/27/2023 13:22:35: trying to add $item_wood
+10/27/2023 13:22:35: Added ore Wood
+10/27/2023 13:22:35: trying to add $item_wood
+10/27/2023 13:22:35: Added ore Wood
+10/27/2023 13:22:35: trying to add $item_wood
+10/27/2023 13:22:35: Added ore Wood
+10/27/2023 13:22:35: trying to add $item_wood
+10/27/2023 13:22:35: Added ore Wood
+10/27/2023 13:22:36: trying to add $item_wood
+10/27/2023 13:22:36: Added ore Wood
+10/27/2023 13:22:36: trying to add $item_wood
+10/27/2023 13:22:36: Added ore Wood
+10/27/2023 13:22:36: trying to add $item_wood
+10/27/2023 13:22:36: Added ore Wood
+10/27/2023 13:22:36: trying to add $item_wood
+10/27/2023 13:22:36: Added ore Wood
+10/27/2023 13:22:36: trying to add $item_wood
+10/27/2023 13:22:36: Added ore Wood
+10/27/2023 13:22:37: trying to add $item_wood
+10/27/2023 13:22:37: Added ore Wood
+10/27/2023 13:22:37: trying to add $item_wood
+10/27/2023 13:22:37: Added ore Wood
+10/27/2023 13:22:37: trying to add $item_wood
+10/27/2023 13:22:37: trying to add $item_wood
+10/27/2023 13:22:40: trying to add $item_wood
+10/27/2023 13:22:40: Added ore Wood
+10/27/2023 13:22:40: trying to add $item_wood
+10/27/2023 13:22:40: Added ore Wood
+10/27/2023 13:22:40: trying to add $item_wood
+10/27/2023 13:22:40: Added ore Wood
+10/27/2023 13:22:40: trying to add $item_wood
+10/27/2023 13:22:40: Added ore Wood
+10/27/2023 13:22:40: trying to add $item_wood
+10/27/2023 13:22:40: Added ore Wood
+10/27/2023 13:22:41: trying to add $item_wood
+10/27/2023 13:22:41: Added ore Wood
+10/27/2023 13:22:41: trying to add $item_wood
+10/27/2023 13:22:41: Added ore Wood
+10/27/2023 13:22:41: trying to add $item_wood
+10/27/2023 13:22:41: Added ore Wood
+10/27/2023 13:22:41: trying to add $item_wood
+10/27/2023 13:22:41: Added ore Wood
+10/27/2023 13:22:41: trying to add $item_wood
+10/27/2023 13:22:41: Added ore Wood
+10/27/2023 13:22:42: trying to add $item_wood
+10/27/2023 13:22:42: Added ore Wood
+10/27/2023 13:22:42: trying to add $item_wood
+10/27/2023 13:22:42: Added ore Wood
+10/27/2023 13:22:42: trying to add $item_wood
+10/27/2023 13:22:42: Added ore Wood
+10/27/2023 13:22:42: trying to add $item_wood
+10/27/2023 13:22:42: Added ore Wood
+10/27/2023 13:22:42: trying to add $item_wood
+10/27/2023 13:22:42: Added ore Wood
+10/27/2023 13:22:42: trying to add $item_wood
+10/27/2023 13:22:42: Added ore Wood
+10/27/2023 13:22:43: trying to add $item_wood
+10/27/2023 13:22:43: Added ore Wood
+10/27/2023 13:22:43: trying to add $item_wood
+10/27/2023 13:22:43: Added ore Wood
+10/27/2023 13:22:43: trying to add $item_wood
+10/27/2023 13:22:43: Added ore Wood
+10/27/2023 13:22:43: trying to add $item_wood
+10/27/2023 13:22:43: Added ore Wood
+10/27/2023 13:22:43: Stopped music meadows at 2196767
+10/27/2023 13:22:43: Starting music home
+10/27/2023 13:22:43: Resumed music home at 6098265
+10/27/2023 13:22:43: trying to add $item_wood
+10/27/2023 13:22:43: Added ore Wood
+10/27/2023 13:22:44: trying to add $item_wood
+10/27/2023 13:22:44: Added ore Wood
+10/27/2023 13:22:44: trying to add $item_wood
+10/27/2023 13:22:44: Added ore Wood
+10/27/2023 13:22:44: trying to add $item_wood
+10/27/2023 13:22:44: Added ore Wood
+10/27/2023 13:22:44: trying to add $item_wood
+10/27/2023 13:22:44: Added ore Wood
+10/27/2023 13:22:45: trying to add $item_wood
+10/27/2023 13:22:45: trying to add $item_wood
+10/27/2023 13:22:49: trying to add $item_wood
+10/27/2023 13:22:49: Added ore Wood
+10/27/2023 13:22:49: trying to add $item_wood
+10/27/2023 13:22:49: Added ore Wood
+10/27/2023 13:22:50: trying to add $item_wood
+10/27/2023 13:22:50: Added ore Wood
+10/27/2023 13:22:50: trying to add $item_wood
+10/27/2023 13:22:50: Added ore Wood
+10/27/2023 13:22:50: trying to add $item_wood
+10/27/2023 13:22:50: Added ore Wood
+10/27/2023 13:22:50: trying to add $item_wood
+10/27/2023 13:22:50: Added ore Wood
+10/27/2023 13:22:50: trying to add $item_wood
+10/27/2023 13:22:50: Added ore Wood
+10/27/2023 13:22:51: trying to add $item_wood
+10/27/2023 13:22:51: Added ore Wood
+10/27/2023 13:22:51: trying to add $item_wood
+10/27/2023 13:22:51: Added ore Wood
+10/27/2023 13:22:51: trying to add $item_wood
+10/27/2023 13:22:51: Added ore Wood
+10/27/2023 13:22:51: trying to add $item_wood
+10/27/2023 13:22:51: Added ore Wood
+10/27/2023 13:22:52: trying to add $item_wood
+10/27/2023 13:22:52: Added ore Wood
+10/27/2023 13:22:52: trying to add $item_wood
+10/27/2023 13:22:52: Added ore Wood
+10/27/2023 13:22:52: trying to add $item_wood
+10/27/2023 13:22:52: Added ore Wood
+10/27/2023 13:22:52: trying to add $item_wood
+10/27/2023 13:22:52: Added ore Wood
+10/27/2023 13:22:52: trying to add $item_wood
+10/27/2023 13:22:52: Added ore Wood
+10/27/2023 13:22:53: trying to add $item_wood
+10/27/2023 13:22:53: Added ore Wood
+10/27/2023 13:22:53: trying to add $item_wood
+10/27/2023 13:22:53: Added ore Wood
+10/27/2023 13:22:53: trying to add $item_wood
+10/27/2023 13:22:53: Added ore Wood
+10/27/2023 13:22:53: trying to add $item_wood
+10/27/2023 13:22:53: Added ore Wood
+10/27/2023 13:22:53: trying to add $item_wood
+10/27/2023 13:22:53: Added ore Wood
+10/27/2023 13:22:54: trying to add $item_wood
+10/27/2023 13:22:54: Added ore Wood
+10/27/2023 13:22:54: trying to add $item_wood
+10/27/2023 13:22:54: Added ore Wood
+10/27/2023 13:22:54: trying to add $item_wood
+10/27/2023 13:22:54: Added ore Wood
+10/27/2023 13:22:54: trying to add $item_wood
+10/27/2023 13:22:54: Added ore Wood
+10/27/2023 13:22:54: trying to add $item_wood
+10/27/2023 13:22:55: trying to add $item_wood
+10/27/2023 13:22:55: trying to add $item_wood
+10/27/2023 13:22:57: trying to add $item_wood
+10/27/2023 13:22:57: Added ore Wood
+10/27/2023 13:22:57: trying to add $item_wood
+10/27/2023 13:22:57: Added ore Wood
+10/27/2023 13:22:57: trying to add $item_wood
+10/27/2023 13:22:57: Added ore Wood
+10/27/2023 13:22:57: trying to add $item_wood
+10/27/2023 13:22:57: Added ore Wood
+10/27/2023 13:22:58: trying to add $item_wood
+10/27/2023 13:22:58: Added ore Wood
+10/27/2023 13:22:58: trying to add $item_wood
+10/27/2023 13:22:58: Added ore Wood
+10/27/2023 13:22:58: trying to add $item_wood
+10/27/2023 13:22:58: Added ore Wood
+10/27/2023 13:22:58: trying to add $item_wood
+10/27/2023 13:22:58: Added ore Wood
+10/27/2023 13:22:58: trying to add $item_wood
+10/27/2023 13:22:58: Added ore Wood
+10/27/2023 13:22:59: trying to add $item_wood
+10/27/2023 13:22:59: Added ore Wood
+10/27/2023 13:22:59: trying to add $item_wood
+10/27/2023 13:22:59: Added ore Wood
+10/27/2023 13:22:59: trying to add $item_wood
+10/27/2023 13:22:59: Added ore Wood
+10/27/2023 13:22:59: trying to add $item_wood
+10/27/2023 13:22:59: Added ore Wood
+10/27/2023 13:22:59: trying to add $item_wood
+10/27/2023 13:22:59: Added ore Wood
+10/27/2023 13:23:00: trying to add $item_wood
+10/27/2023 13:23:00: Added ore Wood
+10/27/2023 13:23:00: trying to add $item_wood
+10/27/2023 13:23:00: Added ore Wood
+10/27/2023 13:23:00: trying to add $item_wood
+10/27/2023 13:23:00: Added ore Wood
+10/27/2023 13:23:00: trying to add $item_wood
+10/27/2023 13:23:00: Added ore Wood
+10/27/2023 13:23:00: trying to add $item_wood
+10/27/2023 13:23:00: Added ore Wood
+10/27/2023 13:23:01: trying to add $item_wood
+10/27/2023 13:23:01: Added ore Wood
+10/27/2023 13:23:01: trying to add $item_wood
+10/27/2023 13:23:01: Added ore Wood
+10/27/2023 13:23:01: trying to add $item_wood
+10/27/2023 13:23:01: Added ore Wood
+10/27/2023 13:23:01: trying to add $item_wood
+10/27/2023 13:23:01: Added ore Wood
+10/27/2023 13:23:01: trying to add $item_wood
+10/27/2023 13:23:01: Added ore Wood
+10/27/2023 13:23:02: trying to add $item_wood
+10/27/2023 13:23:02: Added ore Wood
+10/27/2023 13:23:02: trying to add $item_wood
+10/27/2023 13:23:02: trying to add $item_wood
+10/27/2023 13:23:05: Setting selected recipe 0
+10/27/2023 13:23:08: Stopped music home at 1078156
+10/27/2023 13:23:08: Starting music meadows
+10/27/2023 13:23:08: Resumed music meadows at 2196767
+10/27/2023 13:23:09: Player 1334702176 wants to open piece_chest_wood(Clone)   im: 1334702176
+10/27/2023 13:23:09: Setting selected recipe 0
+10/27/2023 13:23:09: Button pressed TakeAll  frame:282992
+10/27/2023 13:23:41: Player 1334702176 wants to open piece_chest(Clone)   im: 1334702176
+10/27/2023 13:23:41: Setting selected recipe 0
+10/27/2023 13:23:42: Button pressed StackAll  frame:285940
+10/27/2023 13:23:59: Stopped music meadows at 2245689
+10/27/2023 13:23:59: Starting music home
+10/27/2023 13:23:59: Resumed music home at 1078156
+10/27/2023 13:24:12: Stopped music home at 588940
+10/27/2023 13:24:12: Starting music home
+10/27/2023 13:24:12: Resumed music home at 588940
+10/27/2023 13:24:27: Placed piece_chest_wood
+10/27/2023 13:24:31: Player 1334702176 wants to open piece_chest_wood(Clone)   im: 1334702176
+10/27/2023 13:24:31: Setting selected recipe 2
+10/27/2023 13:24:39: Player 1334702176 wants to open piece_chest_wood(Clone)   im: 1334702176
+10/27/2023 13:24:39: Setting selected recipe 2
+10/27/2023 13:24:51: Player 1334702176 wants to open piece_chest_wood(Clone)   im: 1334702176
+10/27/2023 13:24:51: Setting selected recipe 2
+10/27/2023 13:24:52: Button pressed StackAll  frame:291055
+10/27/2023 13:25:03: Activating default element Continue
+10/27/2023 13:25:06: Activating default element Button_no
+10/27/2023 13:25:07: Game - OnApplicationQuit
+10/27/2023 13:25:07: Shuting down
+10/27/2023 13:25:07: Uncompressed size 8394618
+10/27/2023 13:25:07: Compressed size 17252
+10/27/2023 13:25:07: Considering autobackup. World time: 3823.4, short time: 7200, long time: 43200, backup count: 4
+10/27/2023 13:25:07: No autobackup needed yet...
+10/27/2023 13:25:07: ZNet Shutdown
+10/27/2023 13:25:07: PrepareSave: clone done in 25ms
+10/27/2023 13:25:07: PrepareSave: ZDOExtraData.PrepareSave done in 51 ms
+10/27/2023 13:25:07: World save writing starting
+10/27/2023 13:25:07: World save writing started
+10/27/2023 13:25:08: Saved 422185 ZDOs
+10/27/2023 13:25:08: World save writing finishing
+10/27/2023 13:25:08: World save writing finished
+10/27/2023 13:25:08: World saved ( 769.0351ms )
+10/27/2023 13:25:08: Considering autobackup. World time: 3823.4, short time: 7200, long time: 43200, backup count: 4
+10/27/2023 13:25:08: No autobackup needed yet...
+10/27/2023 13:25:08: Unloading unused assets
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 13576 unused Assets to reduce memory usage. Loaded Objects now: 2083253.
-Total: 692.372500 ms (FindLiveObjects: 115.199900 ms CreateObjectMapping: 28.931000 ms MarkObjects: 519.529500 ms  DeleteObjects: 28.711800 ms)
-
-10/27/2023 01:46:10: Starting music evening
-10/27/2023 01:46:11: Stopped music home at 20849
-10/27/2023 01:46:57: Starting music home
-10/27/2023 01:46:57: Resumed music home at 20849
-10/27/2023 01:49:16: Setting selected recipe 1
-10/27/2023 01:49:19: Setting selected recipe 1
-10/27/2023 01:49:19: Button pressed RepairButton  frame:424384
-10/27/2023 01:49:20: Button pressed RepairButton  frame:424427
-10/27/2023 01:49:28: Setting selected recipe 0
-10/27/2023 01:49:29: Stopped music home at 6740983
-10/27/2023 01:49:31: Starting music home
-10/27/2023 01:49:31: Resumed music home at 6740983
-10/27/2023 01:49:52: Disabling PlayerBase  character_trigger
-10/27/2023 01:49:52: Disabling PlayerBase  character_trigger
-10/27/2023 01:50:02: Placed piece_brazierceiling01
-10/27/2023 01:50:22: Disabling PlayerBase  character_trigger
-10/27/2023 01:50:22: Disabling FireWarmth  character_trigger
-10/27/2023 01:50:22: Disabling PlayerBase  character_trigger
-10/27/2023 01:50:23: Disabling PlayerBase  character_trigger
-10/27/2023 01:50:23: Disabling FireWarmth  character_trigger
-10/27/2023 01:50:31: Placed piece_groundtorch_blue
-10/27/2023 01:50:39: Disabling PlayerBase  character_trigger
-10/27/2023 01:50:39: Disabling FireWarmth  character_trigger
-10/27/2023 01:50:42: Disabling PlayerBase  character_trigger
-10/27/2023 01:50:43: Disabling PlayerBase  character_trigger
-10/27/2023 01:50:43: Disabling FireArea  character_trigger
-10/27/2023 01:50:45: Placed piece_groundtorch
-10/27/2023 01:51:06: Disabling PlayerBase  character_trigger
-10/27/2023 01:51:06: Disabling FireArea  character_trigger
-10/27/2023 01:51:52: Placed piece_chest_wood
-10/27/2023 01:52:00: Placed piece_chest_wood
-10/27/2023 01:52:14: Placed piece_chest_wood
-10/27/2023 01:52:24: Placed piece_chest_wood
-10/27/2023 01:52:27: Spawned Greydwarf_Elite x 1
-10/27/2023 01:52:36: Placed piece_chest_wood
-10/27/2023 01:52:44: Placed piece_chest_wood
-10/27/2023 01:52:50: Placed piece_chest_wood
-10/27/2023 01:52:56: Placed piece_chest_wood
-10/27/2023 01:53:08: Placed piece_chest_wood
-10/27/2023 01:53:14: Placed piece_chest_wood
-10/27/2023 01:53:21: Placed piece_chest_wood
-10/27/2023 01:53:28: Placed piece_chest_wood
-10/27/2023 01:53:35: Uncompressed size 8394618
-10/27/2023 01:53:35: Compressed size 17252
-10/27/2023 01:53:35: Considering autobackup. World time: 5254.12, short time: 7200, long time: 43200, backup count: 4
-10/27/2023 01:53:35: Overwrite our newest autobackup since the second one isn't so old
-10/27/2023 01:53:35: Replacing backup file: terry_backup_auto-20231026233209
-10/27/2023 01:53:35: Saving backup at: terry_backup_auto-20231027015335
-10/27/2023 01:53:35: Sending message to save player profiles
-10/27/2023 01:53:35: PrepareSave: clone done in 26ms
-10/27/2023 01:53:35: PrepareSave: ZDOExtraData.PrepareSave done in 50 ms
-10/27/2023 01:53:35: World save writing starting
-10/27/2023 01:53:35: World save writing started
-10/27/2023 01:53:36: Saved 421892 ZDOs
-10/27/2023 01:53:36: World save writing finishing
-10/27/2023 01:53:36: World save writing finished
-10/27/2023 01:53:36: World saved ( 781.3488ms )
-10/27/2023 01:53:36: Considering autobackup. World time: 5255.1, short time: 7200, long time: 43200, backup count: 4
-10/27/2023 01:53:36: No autobackup needed yet...
-10/27/2023 01:53:37: Placed piece_chest_wood
-10/27/2023 01:53:51: Placed piece_chest_wood
-10/27/2023 01:53:56: Placed piece_chest_wood
-10/27/2023 01:54:13: Placed piece_chest_wood
-10/27/2023 01:54:19: Placed piece_chest_wood
-10/27/2023 01:54:26: Placed piece_chest_wood
-10/27/2023 01:54:37: Placed piece_chest_wood
-10/27/2023 01:54:46: Placed piece_chest_wood
-10/27/2023 01:54:53: Placed piece_chest_wood
-10/27/2023 01:54:58: Placed piece_chest_wood
-10/27/2023 01:55:03: Placed piece_chest_wood
-10/27/2023 01:55:07: Placed piece_chest_wood
-10/27/2023 01:55:11: Starting music morning
-10/27/2023 01:55:12: Placed piece_chest_wood
-10/27/2023 01:55:12: Stopped music home at 5493794
-10/27/2023 01:55:18: Placed piece_chest_wood
-10/27/2023 01:55:21: Placed piece_chest_wood
-10/27/2023 01:55:23: Placed piece_chest_wood
-10/27/2023 01:55:34: Update PlayFab entity token
-10/27/2023 01:55:37: Placed piece_chest_wood
-10/27/2023 01:55:46: Starting music home
-10/27/2023 01:55:46: Resumed music home at 5493794
-10/27/2023 01:55:47: Placed piece_chest_wood
-10/27/2023 01:56:01: Placed wood_pole
-10/27/2023 01:56:07: Placed wood_pole
-10/27/2023 01:56:11: Disabling jump_trigger  character_trigger
-10/27/2023 01:56:11: Disabling jump_trigger (1)  character_trigger
-10/27/2023 01:56:11: Disabling jump_trigger (2)  character_trigger
-10/27/2023 01:56:18: Placed wood_floor
-10/27/2023 01:56:22: Placed wood_floor
-10/27/2023 01:56:26: Placed wood_floor
-10/27/2023 01:56:31: Placed wood_floor
-10/27/2023 01:56:33: Placed wood_floor
-10/27/2023 01:56:57: Placed piece_chest_wood
-10/27/2023 01:57:09: Placed piece_chest_wood
-10/27/2023 01:57:17: Placed piece_chest_wood
-10/27/2023 01:57:28: Placed piece_chest_wood
-10/27/2023 01:57:35: Placed piece_chest_wood
-10/27/2023 01:57:37: Placed piece_chest_wood
-10/27/2023 01:57:42: Placed piece_chest_wood
-10/27/2023 01:57:47: Placed piece_chest_wood
-10/27/2023 01:57:55: Placed piece_chest_wood
-10/27/2023 01:58:02: Placed piece_chest_wood
-10/27/2023 01:58:05: Placed piece_chest_wood
-10/27/2023 01:58:12: Placed piece_chest_wood
-10/27/2023 01:58:23: Placed piece_chest_wood
-10/27/2023 01:58:28: Disabling PlayerBase  character_trigger
-10/27/2023 01:58:29: Disabling PlayerBase  character_trigger
-10/27/2023 01:59:01: Activating default element Continue
-10/27/2023 01:59:02: Activating default element Button_no
-10/27/2023 01:59:04: Game - OnApplicationQuit
-10/27/2023 01:59:04: Shuting down
-10/27/2023 01:59:04: Uncompressed size 8394618
-10/27/2023 01:59:04: Compressed size 17252
-10/27/2023 01:59:04: Considering autobackup. World time: 5580, short time: 7200, long time: 43200, backup count: 4
-10/27/2023 01:59:04: No autobackup needed yet...
-10/27/2023 01:59:04: ZNet Shutdown
-10/27/2023 01:59:04: PrepareSave: clone done in 32ms
-10/27/2023 01:59:04: PrepareSave: ZDOExtraData.PrepareSave done in 50 ms
-10/27/2023 01:59:04: World save writing starting
-10/27/2023 01:59:04: World save writing started
-10/27/2023 01:59:05: Saved 421922 ZDOs
-10/27/2023 01:59:05: World save writing finishing
-10/27/2023 01:59:05: World save writing finished
-10/27/2023 01:59:05: World saved ( 769.2686ms )
-10/27/2023 01:59:05: Considering autobackup. World time: 5580, short time: 7200, long time: 43200, backup count: 4
-10/27/2023 01:59:05: No autobackup needed yet...
-10/27/2023 01:59:05: Unloading unused assets
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-10/27/2023 01:59:05: Sending disconnect msg
+10/27/2023 13:25:08: Sending disconnect msg
 ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-10/27/2023 01:59:05: Stopping build thread
+10/27/2023 13:25:08: Stopping build thread
 
-Unloading 5009 unused Assets to reduce memory usage. Loaded Objects now: 2084335.
-Total: 653.482000 ms (FindLiveObjects: 99.796400 ms CreateObjectMapping: 26.381300 ms MarkObjects: 516.650100 ms  DeleteObjects: 10.653800 ms)
+Unloading 342 unused Assets to reduce memory usage. Loaded Objects now: 2091421.
+Total: 626.162900 ms (FindLiveObjects: 92.239000 ms CreateObjectMapping: 27.038500 ms MarkObjects: 505.195000 ms  DeleteObjects: 1.690100 ms)
 
 Setting up 16 worker threads for Enlighten.
-  Thread -> id: 3614 -> priority: 1 
-  Thread -> id: 30b0 -> priority: 1 
-  Thread -> id: 1590 -> priority: 1 
-  Thread -> id: 2244 -> priority: 1 
-  Thread -> id: 3bbc -> priority: 1 
-  Thread -> id: 337c -> priority: 1 
-  Thread -> id: 2890 -> priority: 1 
-  Thread -> id: 4884 -> priority: 1 
-  Thread -> id: 35f4 -> priority: 1 
-  Thread -> id: 2be4 -> priority: 1 
-  Thread -> id: 22c0 -> priority: 1 
-  Thread -> id: 52c4 -> priority: 1 
-  Thread -> id: 1bf0 -> priority: 1 
-  Thread -> id: f6c -> priority: 1 
-  Thread -> id: 2824 -> priority: 1 
-  Thread -> id: 33c0 -> priority: 1 
-10/27/2023 01:59:08: ZNet OnDestroy
-10/27/2023 01:59:08: Net scene destroyed
-10/27/2023 01:59:08: Steam manager on destroy
-10/27/2023 01:59:09: Local player destroyed
+  Thread -> id: 1cd4 -> priority: 1 
+  Thread -> id: 4c18 -> priority: 1 
+  Thread -> id: 4914 -> priority: 1 
+  Thread -> id: 504c -> priority: 1 
+  Thread -> id: 764 -> priority: 1 
+  Thread -> id: 4c38 -> priority: 1 
+  Thread -> id: 1a0 -> priority: 1 
+  Thread -> id: 280c -> priority: 1 
+  Thread -> id: 7bc -> priority: 1 
+  Thread -> id: 3b84 -> priority: 1 
+  Thread -> id: 32e4 -> priority: 1 
+  Thread -> id: 4934 -> priority: 1 
+  Thread -> id: 4854 -> priority: 1 
+  Thread -> id: 4fe8 -> priority: 1 
+  Thread -> id: 466c -> priority: 1 
+  Thread -> id: 3d0c -> priority: 1 
+10/27/2023 13:25:11: Local player destroyed
+10/27/2023 13:25:11: ZNet OnDestroy
+10/27/2023 13:25:11: Net scene destroyed
+10/27/2023 13:25:12: Steam manager on destroy
