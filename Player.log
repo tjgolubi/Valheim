@@ -10,242 +10,237 @@ Direct3D:
     VRAM:     8032 MB
     Driver:   31.0.15.4592
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.089 seconds
+- Completed reload, in  0.091 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using XInput
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.685200 ms
-10/28/2023 10:56:54: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/28/2023 10:56:54: Fetching PlatformPrefs 'GuiScale' before loading defaults
-10/28/2023 10:56:54: Starting to load scene:start
+UnloadTime: 0.760800 ms
+10/28/2023 11:29:35: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/28/2023 11:29:35: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/28/2023 11:29:35: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.774400 ms
+UnloadTime: 4.799500 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-10/28/2023 10:57:01: Using environment steamid 892970
-10/28/2023 10:57:01: Using steam APPID:892970
-10/28/2023 10:57:01: Authentication:k_ESteamNetworkingAvailability_Attempting
-10/28/2023 10:57:01: Steam initialized, persona:tjgolubi
-10/28/2023 10:57:01: PlayFab custom ID set to "Steam_76561198290658520"
-10/28/2023 10:57:01: Using default prefs
-10/28/2023 10:57:01: Valheim version: 0.217.25 (network version 15)
-10/28/2023 10:57:01: Worldgenerator version setup:2
-10/28/2023 10:57:01: Render threading mode:MultiThreaded
-10/28/2023 10:57:01: Set button "CamZoomIn" to None!
-10/28/2023 10:57:01: Set button "CamZoomOut" to None!
-10/28/2023 10:57:01: Set button "CamZoomIn" to None!
-10/28/2023 10:57:01: Set button "CamZoomOut" to None!
-10/28/2023 10:57:01: Loaded localization file #0 - 'localization' language: 'English'
-10/28/2023 10:57:01: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/28/2023 10:57:01: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/28/2023 10:57:01: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/28/2023 10:57:01: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/28/2023 10:57:01: Loaded localization file #0 - 'localization' language: 'English'
-10/28/2023 10:57:01: Loaded localization file #1 - 'localization_extra' language: 'English'
-10/28/2023 10:57:01: Loaded localization file #2 - 'heightmap_message' language: 'English'
-10/28/2023 10:57:01: Loaded localization file #3 - 'localization_hildir' language: 'English'
-10/28/2023 10:57:01: Loaded localization file #4 - 'localization_emotes' language: 'English'
-10/28/2023 10:57:01: Missing audio clip in music respawn
-10/28/2023 10:57:01: Checking for installed DLCs
-10/28/2023 10:57:01: DLC:beta installed:False
-10/28/2023 10:57:01: Builder started
-10/28/2023 10:57:01: Sending PlayFab login request (attempt 1)
-10/28/2023 10:57:01: Ticket is System.Byte[] of length 369
-10/28/2023 10:57:01: Session auth respons callback
-10/28/2023 10:57:01: Starting music menu
+10/28/2023 11:29:42: Using environment steamid 892970
+10/28/2023 11:29:42: Using steam APPID:892970
+10/28/2023 11:29:42: Authentication:k_ESteamNetworkingAvailability_Attempting
+10/28/2023 11:29:42: Steam initialized, persona:tjgolubi
+10/28/2023 11:29:42: PlayFab custom ID set to "Steam_76561198290658520"
+10/28/2023 11:29:42: Using default prefs
+10/28/2023 11:29:42: Valheim version: 0.217.25 (network version 15)
+10/28/2023 11:29:42: Worldgenerator version setup:2
+10/28/2023 11:29:42: Render threading mode:MultiThreaded
+10/28/2023 11:29:42: Set button "CamZoomIn" to None!
+10/28/2023 11:29:42: Set button "CamZoomOut" to None!
+10/28/2023 11:29:42: Set button "CamZoomIn" to None!
+10/28/2023 11:29:42: Set button "CamZoomOut" to None!
+10/28/2023 11:29:42: Loaded localization file #0 - 'localization' language: 'English'
+10/28/2023 11:29:42: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/28/2023 11:29:42: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/28/2023 11:29:42: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/28/2023 11:29:42: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/28/2023 11:29:42: Loaded localization file #0 - 'localization' language: 'English'
+10/28/2023 11:29:42: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/28/2023 11:29:42: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/28/2023 11:29:42: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/28/2023 11:29:42: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/28/2023 11:29:42: Missing audio clip in music respawn
+10/28/2023 11:29:42: Checking for installed DLCs
+10/28/2023 11:29:42: DLC:beta installed:False
+10/28/2023 11:29:42: Builder started
+10/28/2023 11:29:42: Sending PlayFab login request (attempt 1)
+10/28/2023 11:29:42: Ticket is System.Byte[] of length 369
+10/28/2023 11:29:42: Session auth respons callback
+10/28/2023 11:29:42: Starting music menu
 
 Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156123.
-Total: 108.152500 ms (FindLiveObjects: 5.657500 ms CreateObjectMapping: 10.397300 ms MarkObjects: 91.937700 ms  DeleteObjects: 0.159800 ms)
+Total: 109.542700 ms (FindLiveObjects: 5.565600 ms CreateObjectMapping: 9.519900 ms MarkObjects: 94.298500 ms  DeleteObjects: 0.158400 ms)
 
-10/28/2023 10:57:02: PlayFab logged in as "Steam_76561198290658520"
-10/28/2023 10:57:02: PlayFab local entity ID is DBA9D3993BEC7B4F
-10/28/2023 10:57:05: show character selection
-10/28/2023 10:57:09: OnCharacterStart
-10/28/2023 10:57:13: Loading main scene
+10/28/2023 11:29:43: PlayFab logged in as "Steam_76561198290658520"
+10/28/2023 11:29:43: PlayFab local entity ID is DBA9D3993BEC7B4F
+10/28/2023 11:29:48: Set button "CamZoomIn" to None!
+10/28/2023 11:29:48: Set button "CamZoomOut" to None!
+10/28/2023 11:29:48: Current res 3440x1440     1600x1200
+10/28/2023 11:29:59: Set button "CamZoomIn" to None!
+10/28/2023 11:29:59: Set button "CamZoomOut" to None!
+10/28/2023 11:29:59: Set button "CamZoomIn" to None!
+10/28/2023 11:29:59: Set button "CamZoomOut" to None!
+10/28/2023 11:30:01: show character selection
+10/28/2023 11:30:02: OnCharacterStart
+10/28/2023 11:30:06: Loading main scene
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.922100 ms
-10/28/2023 10:57:13: Steam initialized, persona:tjgolubi
-10/28/2023 10:57:13: PlayFab custom ID set to "Steam_76561198290658520"
-10/28/2023 10:57:13: Using default prefs
-10/28/2023 10:57:13: Loading player profile terry
-10/28/2023 10:57:13: isModded: False
-10/28/2023 10:57:13: Zonesystem Awake 887
-10/28/2023 10:57:13: DungeonDB Awake 887
-10/28/2023 10:57:13: Steam initialized, persona:tjgolubi
-10/28/2023 10:57:13: Worldgenerator version setup:2
-10/28/2023 10:57:14: Audioman already exist, destroying self
-10/28/2023 10:57:14: Checking for installed DLCs
-10/28/2023 10:57:14: DLC:beta installed:False
+UnloadTime: 8.611900 ms
+10/28/2023 11:30:06: Steam initialized, persona:tjgolubi
+10/28/2023 11:30:06: PlayFab custom ID set to "Steam_76561198290658520"
+10/28/2023 11:30:06: Using default prefs
+10/28/2023 11:30:06: Loading player profile terry
+10/28/2023 11:30:06: isModded: False
+10/28/2023 11:30:06: Zonesystem Awake 1592
+10/28/2023 11:30:06: DungeonDB Awake 1592
+10/28/2023 11:30:06: Steam initialized, persona:tjgolubi
+10/28/2023 11:30:06: Worldgenerator version setup:2
+10/28/2023 11:30:07: Audioman already exist, destroying self
+10/28/2023 11:30:07: Checking for installed DLCs
+10/28/2023 11:30:07: DLC:beta installed:False
 
 Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 159900.
-Total: 94.509000 ms (FindLiveObjects: 5.079500 ms CreateObjectMapping: 9.548500 ms MarkObjects: 79.227600 ms  DeleteObjects: 0.653200 ms)
+Total: 91.952000 ms (FindLiveObjects: 4.908700 ms CreateObjectMapping: 9.170900 ms MarkObjects: 77.230500 ms  DeleteObjects: 0.641600 ms)
 
-10/28/2023 10:57:18: Zonesystem Start 887
-10/28/2023 10:57:18: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-10/28/2023 10:57:18: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-10/28/2023 10:57:18: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-10/28/2023 10:57:18: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-10/28/2023 10:57:18: DungeonDB Start 887
-10/28/2023 10:57:18: ZRpc timeout set to 30s 
-10/28/2023 10:57:18: ZNET START
-10/28/2023 10:57:18: Load world: Famheim (Famheim)
-10/28/2023 10:57:18: Loading 422279 zdos, my sessionID: 1982957233, data version: 32
-10/28/2023 10:57:18: Creating ZDOs
-10/28/2023 10:57:18: Loading in ZDOs
-10/28/2023 10:57:19: Adding to Dictionary
-10/28/2023 10:57:19: Adding to Sectors
-10/28/2023 10:57:19: Connecting Portals, Spawners & ZSyncTransforms
+10/28/2023 11:30:11: Zonesystem Start 1592
+10/28/2023 11:30:11: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+10/28/2023 11:30:11: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+10/28/2023 11:30:11: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+10/28/2023 11:30:11: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+10/28/2023 11:30:11: DungeonDB Start 1592
+10/28/2023 11:30:11: ZRpc timeout set to 30s 
+10/28/2023 11:30:11: ZNET START
+10/28/2023 11:30:11: Load world: Famheim (Famheim)
+10/28/2023 11:30:11: Loading 422190 zdos, my sessionID: 515583408, data version: 32
+10/28/2023 11:30:11: Creating ZDOs
+10/28/2023 11:30:11: Loading in ZDOs
+10/28/2023 11:30:12: Adding to Dictionary
+10/28/2023 11:30:12: Adding to Sectors
+10/28/2023 11:30:12: Connecting Portals, Spawners & ZSyncTransforms
 ConnectSpawners => Connected 0 spawners and 568 'done' spawners.
-10/28/2023 10:57:19: Loaded 10076 locations
-10/28/2023 10:57:19: Unloading unused assets
+10/28/2023 11:30:12: Loaded 10076 locations
+10/28/2023 11:30:12: Unloading unused assets
 Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-10/28/2023 10:57:19: Starting respawn
-10/28/2023 10:57:19: Session auth respons callback
-10/28/2023 10:57:24: Unpacking compressed mapdata 17252
-10/28/2023 10:57:24: tip:$loadscreen_tip22
+10/28/2023 11:30:12: Starting respawn
+10/28/2023 11:30:12: Session auth respons callback
+10/28/2023 11:30:17: Unpacking compressed mapdata 17252
+10/28/2023 11:30:17: tip:$loadscreen_tip14
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733246.
-Total: 511.996900 ms (FindLiveObjects: 77.019100 ms CreateObjectMapping: 26.678100 ms MarkObjects: 407.620800 ms  DeleteObjects: 0.678700 ms)
+Total: 513.070100 ms (FindLiveObjects: 77.466200 ms CreateObjectMapping: 26.541600 ms MarkObjects: 408.399800 ms  DeleteObjects: 0.662300 ms)
 
-10/28/2023 10:57:29: Force generating hmap (-256.0, 0.0, 448.0)
-10/28/2023 10:57:29: Force generating hmap (-320.0, 0.0, 448.0)
-10/28/2023 10:57:29: Force generating hmap (-320.0, 0.0, 512.0)
-10/28/2023 10:57:29: Force generating hmap (-256.0, 0.0, 512.0)
-10/28/2023 10:57:29: Force generating hmap (-128.0, 0.0, 320.0)
-10/28/2023 10:57:29: Force generating hmap (-192.0, 0.0, 320.0)
-10/28/2023 10:57:29: Force generating hmap (-128.0, 0.0, 576.0)
-10/28/2023 10:57:33: Spawned after 8.019994
-10/28/2023 10:57:33: Skipping unloading unused assets
-10/28/2023 10:57:33: Minimap: Adding unique location (131.9, 39.6, 260.8)
-10/28/2023 10:57:33: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
-10/28/2023 10:57:33: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
-10/28/2023 10:57:35: Starting music home
-10/28/2023 10:57:35: Resumed music home at 0
-10/28/2023 10:57:40: Set button "CamZoomIn" to None!
-10/28/2023 10:57:40: Set button "CamZoomOut" to None!
-10/28/2023 10:57:40: Current res 3440x1440     1600x1200
-10/28/2023 10:57:48: Set button "CamZoomIn" to None!
-10/28/2023 10:57:48: Set button "CamZoomOut" to None!
-10/28/2023 10:57:48: Set button "CamZoomIn" to None!
-10/28/2023 10:57:48: Set button "CamZoomOut" to None!
-10/28/2023 10:57:54: Skipping unloading unused assets
-10/28/2023 10:57:55: Activating default element Continue
-10/28/2023 11:02:11: Placed wood_floor
-10/28/2023 11:02:17: Placed wood_floor
-10/28/2023 11:02:53: Disabling PlayerBase  character_trigger
-10/28/2023 11:02:53: Disabling PlayerBase  character_trigger
-10/28/2023 11:03:29: Disabling jump_trigger  character_trigger
-10/28/2023 11:03:29: Disabling jump_trigger (1)  character_trigger
-10/28/2023 11:03:29: Disabling jump_trigger (2)  character_trigger
-10/28/2023 11:03:53: Placed woodwall
-10/28/2023 11:04:02: Update PlayFab entity token
-10/28/2023 11:04:34: Placed piece_chest
-10/28/2023 11:06:05: Placed wood_floor
-10/28/2023 11:06:24: Disabling jump_trigger  character_trigger
-10/28/2023 11:06:24: Disabling jump_trigger (1)  character_trigger
-10/28/2023 11:06:24: Disabling jump_trigger (2)  character_trigger
-10/28/2023 11:06:32: Placed woodwall
-10/28/2023 11:06:34: Disabling jump_trigger  character_trigger
-10/28/2023 11:06:34: Disabling jump_trigger (1)  character_trigger
-10/28/2023 11:06:34: Disabling jump_trigger (2)  character_trigger
-10/28/2023 11:06:57: Placed wood_floor
-10/28/2023 11:07:16: Placed wood_floor
-10/28/2023 11:07:38: Placed wood_floor
-10/28/2023 11:07:44: Placed wood_floor
-10/28/2023 11:07:47: Placed wood_floor
-10/28/2023 11:07:49: Placed wood_floor
-10/28/2023 11:07:51: Placed wood_floor
-10/28/2023 11:07:53: Placed wood_floor
-10/28/2023 11:08:14: Placed piece_chest
-10/28/2023 11:08:28: Placed piece_chest
-10/28/2023 11:08:37: Placed wood_pole
-10/28/2023 11:08:40: Disabling jump_trigger  character_trigger
-10/28/2023 11:08:40: Disabling jump_trigger (1)  character_trigger
-10/28/2023 11:08:40: Disabling jump_trigger (2)  character_trigger
-10/28/2023 11:08:46: Placed wood_floor
-10/28/2023 11:08:58: Placed wood_floor
-10/28/2023 11:10:05: Placed wood_floor
-10/28/2023 11:10:17: Placed wood_floor
-10/28/2023 11:10:20: Placed wood_floor
-10/28/2023 11:10:35: Placed wood_floor
-10/28/2023 11:10:38: Placed wood_floor
-10/28/2023 11:10:42: Placed wood_floor
-10/28/2023 11:10:45: Placed wood_floor
-10/28/2023 11:11:33: Placed piece_chest
-10/28/2023 11:12:04: Placed piece_chest
-10/28/2023 11:12:15: Placed piece_chest
-10/28/2023 11:13:01: Placed wood_floor
-10/28/2023 11:13:05: Placed wood_floor
-10/28/2023 11:13:10: Placed wood_floor
-10/28/2023 11:13:12: Placed wood_floor
-10/28/2023 11:13:36: Placed piece_chest
-10/28/2023 11:13:46: Placed piece_chest
-10/28/2023 11:13:50: Placed piece_chest
-10/28/2023 11:14:29: Placed wood_floor_1x1
-10/28/2023 11:14:37: Placed wood_floor_1x1
-10/28/2023 11:14:38: Placed wood_floor_1x1
-10/28/2023 11:14:45: Placed wood_floor_1x1
-10/28/2023 11:15:11: Placed piece_chest
-10/28/2023 11:15:23: Placed piece_chest
-10/28/2023 11:15:27: Starting music evening
-10/28/2023 11:15:28: Stopped music home at 6619308
-10/28/2023 11:15:29: Placed piece_chest
-10/28/2023 11:15:31: Disabling PlayerBase  character_trigger
-10/28/2023 11:15:31: Disabling PlayerBase  character_trigger
-10/28/2023 11:16:14: Starting music home
-10/28/2023 11:16:14: Resumed music home at 6619308
-10/28/2023 11:16:16: Placed wood_beam
-10/28/2023 11:16:25: Placed wood_beam_1
-10/28/2023 11:16:48: Placed wood_beam
-10/28/2023 11:16:53: Placed wood_beam_1
-10/28/2023 11:17:46: Spawned Greydwarf_Shaman x 1
-10/28/2023 11:18:12: Placed wood_wall_quarter
-10/28/2023 11:18:22: Button pressed Cancel  frame:106737
-10/28/2023 11:18:46: Placed wood_wall_quarter
-10/28/2023 11:18:48: Placed wood_wall_quarter
-10/28/2023 11:18:54: Placed wood_wall_quarter
-10/28/2023 11:19:14: Placed wood_wall_quarter
-10/28/2023 11:19:17: Placed wood_wall_quarter
-10/28/2023 11:20:38: Placed wood_wall_quarter
-10/28/2023 11:20:51: Placed wood_wall_quarter
-10/28/2023 11:21:12: Player 1982957233 wants to open piece_chest(Clone)   im: 1982957233
-10/28/2023 11:21:12: Setting selected recipe 0
-10/28/2023 11:21:32: Setting selected recipe 1
-10/28/2023 11:21:33: Button pressed RepairButton  frame:120193
-10/28/2023 11:21:44: Player 1982957233 wants to open piece_chest_wood(Clone)   im: 1982957233
-10/28/2023 11:21:44: Setting selected recipe 0
-10/28/2023 11:21:54: Spawned Greydwarf_Elite x 1
-10/28/2023 11:22:32: Disabling PlayerBase  character_trigger
-10/28/2023 11:22:32: Disabling FireArea  character_trigger
-10/28/2023 11:23:04: Placed sign
-10/28/2023 11:23:17: Placed sign
-10/28/2023 11:23:28: Placed sign
-10/28/2023 11:23:44: Placed sign
-10/28/2023 11:24:04: Placed sign
-10/28/2023 11:24:11: Placed sign
-10/28/2023 11:24:17: Update PlayFab entity token
-10/28/2023 11:24:28: Starting music morning
-10/28/2023 11:24:29: Stopped music home at 4033517
-10/28/2023 11:24:30: Placed sign
-10/28/2023 11:24:37: Placed sign
-10/28/2023 11:24:45: Placed sign
-10/28/2023 11:25:03: Starting music home
-10/28/2023 11:25:03: Resumed music home at 4033517
-10/28/2023 11:25:16: Activating default element Continue
-10/28/2023 11:25:18: Set button "CamZoomIn" to None!
-10/28/2023 11:25:18: Set button "CamZoomOut" to None!
-10/28/2023 11:25:18: Current res 3440x1440     3440x1440
-10/28/2023 11:25:18: Activating default element ResetControlls
-10/28/2023 11:25:18: Activating default element ResetControlls
-10/28/2023 11:25:23: Activating default element VolumeSlider
-10/28/2023 11:25:23: Activating default element VolumeSlider
-10/28/2023 11:25:24: Activating default element ResButton
-10/28/2023 11:25:24: Activating default element ResButton
+10/28/2023 11:30:22: Force generating hmap (-256.0, 0.0, 448.0)
+10/28/2023 11:30:22: Force generating hmap (-320.0, 0.0, 448.0)
+10/28/2023 11:30:22: Force generating hmap (-320.0, 0.0, 512.0)
+10/28/2023 11:30:22: Force generating hmap (-256.0, 0.0, 512.0)
+10/28/2023 11:30:22: Force generating hmap (-192.0, 0.0, 320.0)
+10/28/2023 11:30:22: Force generating hmap (-128.0, 0.0, 576.0)
+10/28/2023 11:30:26: Spawned after 8.019994
+10/28/2023 11:30:26: Skipping unloading unused assets
+10/28/2023 11:30:26: Minimap: Adding unique location (131.9, 39.6, 260.8)
+10/28/2023 11:30:26: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
+10/28/2023 11:30:26: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
+10/28/2023 11:30:28: Starting music home
+10/28/2023 11:30:28: Resumed music home at 0
+10/28/2023 11:32:25: Placed wood_beam
+10/28/2023 11:32:26: Placed wood_beam
+10/28/2023 11:32:27: Placed wood_beam
+10/28/2023 11:32:28: Placed wood_beam
+10/28/2023 11:32:30: Placed wood_beam
+10/28/2023 11:32:32: Placed wood_beam
+10/28/2023 11:32:34: Placed wood_beam
+10/28/2023 11:32:36: Placed wood_beam
+10/28/2023 11:32:39: Placed wood_beam
+10/28/2023 11:32:41: Placed wood_beam
+10/28/2023 11:34:12: Disabling PlayerBase  character_trigger
+10/28/2023 11:34:12: Disabling PlayerBase  character_trigger
+10/28/2023 11:34:34: Placed piece_chest_wood
+10/28/2023 11:34:40: Placed piece_chest_wood
+10/28/2023 11:34:48: Placed piece_chest_wood
+10/28/2023 11:34:56: Placed piece_chest_wood
+10/28/2023 11:35:05: Placed piece_chest_wood
+10/28/2023 11:35:10: Placed piece_chest_wood
+10/28/2023 11:35:18: Placed piece_chest_wood
+10/28/2023 11:35:29: Placed piece_chest_wood
+10/28/2023 11:35:41: Placed piece_chest_wood
+10/28/2023 11:35:48: Placed piece_chest_wood
+10/28/2023 11:35:58: Placed piece_chest_wood
+10/28/2023 11:36:09: Placed piece_chest_wood
+10/28/2023 11:36:16: Placed piece_chest_wood
+10/28/2023 11:36:28: Placed piece_chest_wood
+10/28/2023 11:36:36: Placed piece_chest_wood
+10/28/2023 11:36:43: Update PlayFab entity token
+10/28/2023 11:36:57: Placed piece_chest_wood
+10/28/2023 11:37:06: Placed piece_chest_wood
+10/28/2023 11:37:25: Placed piece_chest_wood
+10/28/2023 11:37:33: Placed piece_chest_wood
+10/28/2023 11:37:59: Placed wood_pole
+10/28/2023 11:38:06: Placed wood_floor
+10/28/2023 11:38:09: Placed wood_floor
+10/28/2023 11:38:15: Placed wood_floor
+10/28/2023 11:38:17: Placed wood_floor
+10/28/2023 11:38:21: Placed wood_floor
+10/28/2023 11:38:36: Placed wood_floor
+10/28/2023 11:38:39: Placed wood_floor
+10/28/2023 11:38:40: Placed wood_floor
+10/28/2023 11:38:44: Placed wood_floor
+10/28/2023 11:38:48: Placed wood_floor
+10/28/2023 11:38:51: Placed wood_floor
+10/28/2023 11:38:54: Placed wood_floor
+10/28/2023 11:38:57: Placed wood_floor
+10/28/2023 11:39:07: Placed wood_floor
+10/28/2023 11:39:10: Placed wood_floor
+10/28/2023 11:39:28: Placed piece_chest_wood
+10/28/2023 11:39:33: Placed piece_chest_wood
+10/28/2023 11:39:48: Placed piece_chest_wood
+10/28/2023 11:40:05: Placed piece_chest_wood
+10/28/2023 11:40:28: Placed piece_chest_wood
+10/28/2023 11:40:41: Placed piece_chest_wood
+10/28/2023 11:40:52: Placed piece_chest_wood
+10/28/2023 11:41:01: Placed piece_chest_wood
+10/28/2023 11:41:22: Placed piece_chest_wood
+10/28/2023 11:41:29: Placed piece_chest_wood
+10/28/2023 11:41:53: Disabling PlayerBase  character_trigger
+10/28/2023 11:41:53: Disabling PlayerBase  character_trigger
+10/28/2023 11:42:22: Disabling PlayerBase  character_trigger
+10/28/2023 11:42:22: Disabling PlayerBase  character_trigger
+10/28/2023 11:42:22: Disabling FireWarmth  character_trigger
+10/28/2023 11:42:23: Disabling PlayerBase  character_trigger
+10/28/2023 11:42:52: Placed sign
+10/28/2023 11:43:05: Placed sign
+10/28/2023 11:43:14: Placed sign
+10/28/2023 11:43:25: Placed sign
+10/28/2023 11:43:35: Placed sign
+10/28/2023 11:43:44: Placed sign
+10/28/2023 11:43:58: Placed sign
+10/28/2023 11:44:10: Placed sign
+10/28/2023 11:44:19: Placed sign
+10/28/2023 11:44:42: Placed sign
+10/28/2023 11:44:57: Placed sign
+10/28/2023 11:45:06: Placed sign
+10/28/2023 11:45:13: Placed sign
+10/28/2023 11:45:19: Placed sign
+10/28/2023 11:45:24: Placed sign
+10/28/2023 11:45:32: Placed sign
+10/28/2023 11:45:35: Placed sign
+10/28/2023 11:45:42: Placed sign
+10/28/2023 11:45:46: Placed sign
+10/28/2023 11:45:54: Placed sign
+10/28/2023 11:46:07: Placed sign
+10/28/2023 11:46:15: Placed sign
+10/28/2023 11:46:27: Disabling PlayerBase  character_trigger
+10/28/2023 11:46:41: Placed piece_walltorch
+10/28/2023 11:46:47: Placed piece_walltorch
+10/28/2023 11:46:54: Disabling PlayerBase  character_trigger
+10/28/2023 11:47:13: Placed sign
+10/28/2023 11:47:21: Placed sign
+10/28/2023 11:47:25: Placed sign
+10/28/2023 11:47:41: Placed sign
+10/28/2023 11:47:49: Placed sign
+10/28/2023 11:47:53: Starting music evening
+10/28/2023 11:47:54: Stopped music home at 5440486
+10/28/2023 11:47:59: Placed sign
+10/28/2023 11:48:09: Placed sign
+10/28/2023 11:48:32: Activating default element Continue
+10/28/2023 11:48:33: Set button "CamZoomIn" to None!
+10/28/2023 11:48:33: Set button "CamZoomOut" to None!
+10/28/2023 11:48:33: Current res 3440x1440     3440x1440
+10/28/2023 11:48:33: Activating default element ResetControlls
+10/28/2023 11:48:33: Activating default element ResetControlls
+10/28/2023 11:48:34: Activating default element VolumeSlider
+10/28/2023 11:48:35: Activating default element VolumeSlider
+10/28/2023 11:48:35: Activating default element ResButton
+10/28/2023 11:48:35: Activating default element ResButton
 Res index 1
 Res index 2
 Res index 3
@@ -256,80 +251,136 @@ Res index 7
 Res index 8
 Res index 9
 Res index 10
-10/28/2023 11:25:29: Activating default element ResButton
-10/28/2023 11:25:34: Button pressed Ok  frame:140290
-10/28/2023 11:25:34: Set button "CamZoomIn" to None!
-10/28/2023 11:25:34: Set button "CamZoomOut" to None!
-10/28/2023 11:25:34: Set button "CamZoomIn" to None!
-10/28/2023 11:25:34: Set button "CamZoomOut" to None!
-10/28/2023 11:25:34: Activating default element Continue
-10/28/2023 11:25:50: Unloading unused assets
+Res index 11
+Res index 12
+Res index 11
+10/28/2023 11:48:40: Starting music home
+10/28/2023 11:48:40: Resumed music home at 5440486
+Res index 12
+Res index 13
+Res index 12
+10/28/2023 11:48:46: Activating default element ResButton
+10/28/2023 11:48:53: Button pressed Ok  frame:93161
+10/28/2023 11:48:53: Set button "CamZoomIn" to None!
+10/28/2023 11:48:53: Set button "CamZoomOut" to None!
+10/28/2023 11:48:53: Set button "CamZoomIn" to None!
+10/28/2023 11:48:53: Set button "CamZoomOut" to None!
+10/28/2023 11:48:53: Activating default element Continue
+10/28/2023 11:49:13: Skipping unloading unused assets
+10/28/2023 11:49:16: Set button "CamZoomIn" to None!
+10/28/2023 11:49:16: Set button "CamZoomOut" to None!
+10/28/2023 11:49:16: Current res 3440x1440     1720x1440
+10/28/2023 11:49:16: Activating default element ResetControlls
+10/28/2023 11:49:16: Activating default element ResetControlls
+10/28/2023 11:49:17: Activating default element VolumeSlider
+10/28/2023 11:49:17: Activating default element VolumeSlider
+10/28/2023 11:49:17: Activating default element ResButton
+10/28/2023 11:49:17: Activating default element ResButton
+Res index 1
+Res index 2
+Res index 3
+Res index 4
+Res index 5
+Res index 6
+Res index 7
+Res index 8
+Res index 9
+Res index 10
+10/28/2023 11:49:28: Activating default element ResButton
+10/28/2023 11:49:31: Button pressed Ok  frame:95242
+10/28/2023 11:49:31: Set button "CamZoomIn" to None!
+10/28/2023 11:49:31: Set button "CamZoomOut" to None!
+10/28/2023 11:49:31: Set button "CamZoomIn" to None!
+10/28/2023 11:49:31: Set button "CamZoomOut" to None!
+10/28/2023 11:49:31: Activating default element Continue
+10/28/2023 11:50:27: Player 515583408 wants to open piece_chest_wood(Clone)   im: 515583408
+10/28/2023 11:50:27: Setting selected recipe 0
+10/28/2023 11:51:00: Spawned Greydwarf_Elite x 1
+10/28/2023 11:51:00: Spawned Greydwarf_Shaman x 1
+10/28/2023 11:54:16: Update PlayFab entity token
+10/28/2023 11:58:22: Disabling PlayerBase  character_trigger
+10/28/2023 11:58:23: Disabling PlayerBase  character_trigger
+10/28/2023 11:58:23: Disabling FireWarmth  character_trigger
+10/28/2023 11:58:23: Disabling PlayerBase  character_trigger
+10/28/2023 11:58:28: Disabling PlayerBase  character_trigger
+10/28/2023 11:58:28: Disabling PlayerBase  character_trigger
+10/28/2023 11:58:30: Disabling PlayerBase  character_trigger
+10/28/2023 11:58:37: Placed piece_walltorch
+10/28/2023 11:58:42: Disabling PlayerBase  character_trigger
+10/28/2023 11:58:42: Disabling FireArea  character_trigger
+10/28/2023 11:58:46: Starting music morning
+10/28/2023 11:58:47: Stopped music home at 7775079
+10/28/2023 11:59:21: Starting music home
+10/28/2023 11:59:21: Resumed music home at 7775079
+10/28/2023 11:59:28: Button pressed Cancel  frame:156352
+10/28/2023 11:59:34: Disabling PlayerBase  character_trigger
+10/28/2023 11:59:34: Disabling FireArea  character_trigger
+10/28/2023 11:59:34: Disabling PlayerBase  character_trigger
+10/28/2023 11:59:43: Placed piece_walltorch
+10/28/2023 12:00:04: Placed piece_walltorch
+10/28/2023 12:00:06: Uncompressed size 8394618
+10/28/2023 12:00:06: Compressed size 17252
+10/28/2023 12:00:06: Considering autobackup. World time: 1676.16, short time: 7200, long time: 43200, backup count: 4
+10/28/2023 12:00:06: No autobackup needed yet...
+10/28/2023 12:00:06: Sending message to save player profiles
+10/28/2023 12:00:06: PrepareSave: clone done in 34ms
+10/28/2023 12:00:06: PrepareSave: ZDOExtraData.PrepareSave done in 42 ms
+10/28/2023 12:00:06: World save writing starting
+10/28/2023 12:00:06: World save writing started
+10/28/2023 12:00:06: Saved 422261 ZDOs
+10/28/2023 12:00:06: World save writing finishing
+10/28/2023 12:00:06: World save writing finished
+10/28/2023 12:00:07: World saved ( 770.7541ms )
+10/28/2023 12:00:07: Considering autobackup. World time: 1677.12, short time: 7200, long time: 43200, backup count: 4
+10/28/2023 12:00:07: No autobackup needed yet...
+10/28/2023 12:00:21: Setting selected recipe 1
+10/28/2023 12:00:21: Button pressed RepairButton  frame:159982
+10/28/2023 12:00:31: Activating default element Continue
+10/28/2023 12:00:32: Activating default element Button_no
+10/28/2023 12:00:33: Game - OnApplicationQuit
+10/28/2023 12:00:33: Shuting down
+10/28/2023 12:00:33: Uncompressed size 8394618
+10/28/2023 12:00:33: Compressed size 17252
+10/28/2023 12:00:33: Considering autobackup. World time: 1701.22, short time: 7200, long time: 43200, backup count: 4
+10/28/2023 12:00:33: No autobackup needed yet...
+10/28/2023 12:00:33: ZNet Shutdown
+10/28/2023 12:00:33: PrepareSave: clone done in 32ms
+10/28/2023 12:00:33: PrepareSave: ZDOExtraData.PrepareSave done in 31 ms
+10/28/2023 12:00:33: World save writing starting
+10/28/2023 12:00:33: World save writing started
+10/28/2023 12:00:34: Saved 422261 ZDOs
+10/28/2023 12:00:34: World save writing finishing
+10/28/2023 12:00:34: World save writing finished
+10/28/2023 12:00:34: World saved ( 760.5833ms )
+10/28/2023 12:00:34: Considering autobackup. World time: 1701.22, short time: 7200, long time: 43200, backup count: 4
+10/28/2023 12:00:34: No autobackup needed yet...
+10/28/2023 12:00:34: Unloading unused assets
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 12667 unused Assets to reduce memory usage. Loaded Objects now: 2096637.
-Total: 686.193600 ms (FindLiveObjects: 110.762900 ms CreateObjectMapping: 28.401300 ms MarkObjects: 518.538200 ms  DeleteObjects: 28.490700 ms)
-
-10/28/2023 11:27:13: Uncompressed size 8394618
-10/28/2023 11:27:13: Compressed size 17252
-10/28/2023 11:27:13: Considering autobackup. World time: 1732.1, short time: 7200, long time: 43200, backup count: 4
-10/28/2023 11:27:13: No autobackup needed yet...
-10/28/2023 11:27:13: Sending message to save player profiles
-10/28/2023 11:27:13: PrepareSave: clone done in 25ms
-10/28/2023 11:27:13: PrepareSave: ZDOExtraData.PrepareSave done in 57 ms
-10/28/2023 11:27:13: World save writing starting
-10/28/2023 11:27:13: World save writing started
-10/28/2023 11:27:14: Saved 422190 ZDOs
-10/28/2023 11:27:14: World save writing finishing
-10/28/2023 11:27:14: World save writing finished
-10/28/2023 11:27:14: World saved ( 848.3458ms )
-10/28/2023 11:27:14: Considering autobackup. World time: 1733.14, short time: 7200, long time: 43200, backup count: 4
-10/28/2023 11:27:14: No autobackup needed yet...
-10/28/2023 11:28:28: Activating default element Continue
-10/28/2023 11:28:30: Activating default element Button_no
-10/28/2023 11:28:31: Game - OnApplicationQuit
-10/28/2023 11:28:31: Shuting down
-10/28/2023 11:28:31: Uncompressed size 8394618
-10/28/2023 11:28:31: Compressed size 17252
-10/28/2023 11:28:31: Considering autobackup. World time: 1807.8, short time: 7200, long time: 43200, backup count: 4
-10/28/2023 11:28:31: No autobackup needed yet...
-10/28/2023 11:28:31: ZNet Shutdown
-10/28/2023 11:28:31: PrepareSave: clone done in 34ms
-10/28/2023 11:28:31: PrepareSave: ZDOExtraData.PrepareSave done in 32 ms
-10/28/2023 11:28:31: World save writing starting
-10/28/2023 11:28:31: World save writing started
-10/28/2023 11:28:32: Saved 422190 ZDOs
-10/28/2023 11:28:32: World save writing finishing
-10/28/2023 11:28:32: World save writing finished
-10/28/2023 11:28:32: World saved ( 744.6481ms )
-10/28/2023 11:28:32: Considering autobackup. World time: 1807.8, short time: 7200, long time: 43200, backup count: 4
-10/28/2023 11:28:32: No autobackup needed yet...
-10/28/2023 11:28:32: Unloading unused assets
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-10/28/2023 11:28:32: Sending disconnect msg
+10/28/2023 12:00:34: Sending disconnect msg
 ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-10/28/2023 11:28:32: Stopping build thread
+10/28/2023 12:00:34: Stopping build thread
 
-Unloading 189 unused Assets to reduce memory usage. Loaded Objects now: 2096638.
-Total: 635.399400 ms (FindLiveObjects: 91.734400 ms CreateObjectMapping: 27.411900 ms MarkObjects: 515.122900 ms  DeleteObjects: 1.129800 ms)
+Unloading 7942 unused Assets to reduce memory usage. Loaded Objects now: 2099404.
+Total: 660.827900 ms (FindLiveObjects: 94.436900 ms CreateObjectMapping: 28.410200 ms MarkObjects: 521.193200 ms  DeleteObjects: 16.787200 ms)
 
 Setting up 16 worker threads for Enlighten.
-  Thread -> id: 2b78 -> priority: 1 
-  Thread -> id: 49bc -> priority: 1 
-  Thread -> id: bec -> priority: 1 
-  Thread -> id: 1240 -> priority: 1 
-  Thread -> id: 2c40 -> priority: 1 
-  Thread -> id: 2380 -> priority: 1 
-  Thread -> id: 3ea8 -> priority: 1 
-  Thread -> id: 2270 -> priority: 1 
-  Thread -> id: 1b7c -> priority: 1 
-  Thread -> id: 2424 -> priority: 1 
-  Thread -> id: 1d44 -> priority: 1 
-  Thread -> id: 2b84 -> priority: 1 
-  Thread -> id: d68 -> priority: 1 
-  Thread -> id: 1e44 -> priority: 1 
-  Thread -> id: 3d78 -> priority: 1 
-  Thread -> id: 1ff0 -> priority: 1 
-10/28/2023 11:28:35: ZNet OnDestroy
-10/28/2023 11:28:35: Net scene destroyed
-10/28/2023 11:28:35: Local player destroyed
-10/28/2023 11:28:35: Steam manager on destroy
+  Thread -> id: 2f90 -> priority: 1 
+  Thread -> id: b74 -> priority: 1 
+  Thread -> id: 2e4 -> priority: 1 
+  Thread -> id: 860 -> priority: 1 
+  Thread -> id: 4f10 -> priority: 1 
+  Thread -> id: 476c -> priority: 1 
+  Thread -> id: 4c84 -> priority: 1 
+  Thread -> id: b58 -> priority: 1 
+  Thread -> id: 56dc -> priority: 1 
+  Thread -> id: 1768 -> priority: 1 
+  Thread -> id: 1aa0 -> priority: 1 
+  Thread -> id: 16c -> priority: 1 
+  Thread -> id: 5ab8 -> priority: 1 
+  Thread -> id: 4014 -> priority: 1 
+  Thread -> id: 2694 -> priority: 1 
+  Thread -> id: 4e20 -> priority: 1 
+10/28/2023 12:00:37: ZNet OnDestroy
+10/28/2023 12:00:37: Net scene destroyed
+10/28/2023 12:00:37: Local player destroyed
+10/28/2023 12:00:38: Steam manager on destroy
