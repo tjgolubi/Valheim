@@ -1,250 +1,710 @@
 Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
 Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
-Initialize engine version: 2020.3.45f1 (660cd1701bd5)
+[Physics::Module] Initialized MultithreadedJobDispatcher with 31 workers.
+Initialize engine version: 2022.3.12f1 (4fe6e059c7ef)
 [Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
-GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: NVIDIA GeForce RTX 3070 (ID=0x2488)
-    Vendor:   
+    Vendor:   NVIDIA
     VRAM:     8032 MB
     Driver:   31.0.15.4592
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.092 seconds
+- Loaded All Assemblies, in  0.123 seconds
+- Finished resetting the current domain, in  0.001 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
-Using XInput
+Using Windows.Gaming.Input
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.598300 ms
-11/06/2023 12:59:13: Fetching PlatformPrefs 'GuiScale' before loading defaults
-11/06/2023 12:59:13: Fetching PlatformPrefs 'GuiScale' before loading defaults
-11/06/2023 12:59:13: Starting to load scene:start
+UnloadTime: 0.629600 ms
+11/08/2023 18:11:45: Fetching PlatformPrefs 'GuiScale' before loading defaults
+11/08/2023 18:11:45: Fetching PlatformPrefs 'GuiScale' before loading defaults
+11/08/2023 18:11:45: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.902300 ms
+UnloadTime: 4.883300 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-11/06/2023 12:59:19: Using environment steamid 892970
-11/06/2023 12:59:19: Using steam APPID:892970
-11/06/2023 12:59:19: Authentication:k_ESteamNetworkingAvailability_Attempting
-11/06/2023 12:59:19: Steam initialized, persona:tjgolubi
-11/06/2023 12:59:19: PlayFab custom ID set to "Steam_76561198290658520"
-11/06/2023 12:59:19: Using default prefs
-11/06/2023 12:59:19: Valheim version: 0.217.25 (network version 15)
-11/06/2023 12:59:20: Worldgenerator version setup:2
-11/06/2023 12:59:20: Render threading mode:MultiThreaded
-11/06/2023 12:59:20: Set button "CamZoomIn" to None!
-11/06/2023 12:59:20: Set button "CamZoomOut" to None!
-11/06/2023 12:59:20: Set button "CamZoomIn" to None!
-11/06/2023 12:59:20: Set button "CamZoomOut" to None!
-11/06/2023 12:59:20: Loaded localization file #0 - 'localization' language: 'English'
-11/06/2023 12:59:20: Loaded localization file #1 - 'localization_extra' language: 'English'
-11/06/2023 12:59:20: Loaded localization file #2 - 'heightmap_message' language: 'English'
-11/06/2023 12:59:20: Loaded localization file #3 - 'localization_hildir' language: 'English'
-11/06/2023 12:59:20: Loaded localization file #4 - 'localization_emotes' language: 'English'
-11/06/2023 12:59:20: Loaded localization file #0 - 'localization' language: 'English'
-11/06/2023 12:59:20: Loaded localization file #1 - 'localization_extra' language: 'English'
-11/06/2023 12:59:20: Loaded localization file #2 - 'heightmap_message' language: 'English'
-11/06/2023 12:59:20: Loaded localization file #3 - 'localization_hildir' language: 'English'
-11/06/2023 12:59:20: Loaded localization file #4 - 'localization_emotes' language: 'English'
-11/06/2023 12:59:20: Missing audio clip in music respawn
-11/06/2023 12:59:20: Checking for installed DLCs
-11/06/2023 12:59:20: DLC:beta installed:False
-11/06/2023 12:59:20: Builder started
-11/06/2023 12:59:20: Sending PlayFab login request (attempt 1)
-11/06/2023 12:59:20: Ticket is System.Byte[] of length 369
-11/06/2023 12:59:20: Session auth respons callback
-11/06/2023 12:59:20: Starting music menu
+11/08/2023 18:11:52: Using environment steamid 892970
+11/08/2023 18:11:52: Using steam APPID:892970
+11/08/2023 18:11:52: Authentication:k_ESteamNetworkingAvailability_Attempting
+11/08/2023 18:11:52: Steam initialized, persona:tjgolubi
+11/08/2023 18:11:52: PlayFab custom ID set to "Steam_76561198290658520"
+11/08/2023 18:11:52: Using default prefs
+11/08/2023 18:11:52: Valheim version: 0.217.29 (network version 17)
+11/08/2023 18:11:52: Worldgenerator version setup:2
+11/08/2023 18:11:52: Render threading mode:MultiThreaded
+11/08/2023 18:11:52: Set button "CamZoomIn" to None!
+11/08/2023 18:11:52: Set button "CamZoomOut" to None!
+11/08/2023 18:11:52: Set button "CamZoomIn" to None!
+11/08/2023 18:11:52: Set button "CamZoomOut" to None!
+11/08/2023 18:11:52: Loaded localization file #0 - 'localization' language: 'English'
+11/08/2023 18:11:52: Loaded localization file #1 - 'localization_extra' language: 'English'
+11/08/2023 18:11:52: Loaded localization file #2 - 'heightmap_message' language: 'English'
+11/08/2023 18:11:52: Loaded localization file #3 - 'localization_hildir' language: 'English'
+11/08/2023 18:11:52: Loaded localization file #4 - 'localization_emotes' language: 'English'
+11/08/2023 18:11:52: Loaded localization file #0 - 'localization' language: 'English'
+11/08/2023 18:11:52: Loaded localization file #1 - 'localization_extra' language: 'English'
+11/08/2023 18:11:52: Loaded localization file #2 - 'heightmap_message' language: 'English'
+11/08/2023 18:11:52: Loaded localization file #3 - 'localization_hildir' language: 'English'
+11/08/2023 18:11:52: Loaded localization file #4 - 'localization_emotes' language: 'English'
+11/08/2023 18:11:52: Missing audio clip in music respawn
+11/08/2023 18:11:52: Checking for installed DLCs
+11/08/2023 18:11:52: DLC:beta installed:False
+11/08/2023 18:11:52: Builder started
+11/08/2023 18:11:52: Sending PlayFab login request (attempt 1)
+11/08/2023 18:11:52: Starting music menu
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156022.
+Total: 47.238800 ms (FindLiveObjects: 10.941400 ms CreateObjectMapping: 12.251600 ms MarkObjects: 23.832400 ms  DeleteObjects: 0.213200 ms)
 
-Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156162.
-Total: 112.961000 ms (FindLiveObjects: 5.610100 ms CreateObjectMapping: 9.646800 ms MarkObjects: 97.543600 ms  DeleteObjects: 0.160200 ms)
-
-11/06/2023 12:59:21: PlayFab logged in as "Steam_76561198290658520"
-11/06/2023 12:59:21: PlayFab local entity ID is DBA9D3993BEC7B4F
-11/06/2023 12:59:25: show character selection
-11/06/2023 12:59:26: OnCharacterStart
-11/06/2023 12:59:31: Loading main scene
+11/08/2023 18:11:53: PlayFab logged in as "Steam_76561198290658520"
+11/08/2023 18:11:53: PlayFab local entity ID is DBA9D3993BEC7B4F
+11/08/2023 18:13:05: show character selection
+11/08/2023 18:13:06: OnCharacterStart
+11/08/2023 18:13:14: Loading main scene
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.865200 ms
-11/06/2023 12:59:31: Steam initialized, persona:tjgolubi
-11/06/2023 12:59:31: PlayFab custom ID set to "Steam_76561198290658520"
-11/06/2023 12:59:31: Using default prefs
-11/06/2023 12:59:31: Loading player profile terry
-11/06/2023 12:59:31: isModded: False
-11/06/2023 12:59:31: Zonesystem Awake 885
-11/06/2023 12:59:31: DungeonDB Awake 885
-11/06/2023 12:59:31: Steam initialized, persona:tjgolubi
-11/06/2023 12:59:31: Worldgenerator version setup:2
-11/06/2023 12:59:33: Audioman already exist, destroying self
-11/06/2023 12:59:33: Checking for installed DLCs
-11/06/2023 12:59:33: DLC:beta installed:False
+UnloadTime: 10.255200 ms
+11/08/2023 18:13:14: Steam initialized, persona:tjgolubi
+11/08/2023 18:13:14: PlayFab custom ID set to "Steam_76561198290658520"
+11/08/2023 18:13:14: Using default prefs
+11/08/2023 18:13:14: Loading player profile terry
+11/08/2023 18:13:14: isModded: False
+11/08/2023 18:13:14: Zonesystem Awake 5061
+11/08/2023 18:13:14: DungeonDB Awake 5061
+11/08/2023 18:13:14: Steam initialized, persona:tjgolubi
+11/08/2023 18:13:14: Worldgenerator version setup:2
+11/08/2023 18:13:16: Audioman already exist, destroying self
+11/08/2023 18:13:16: Checking for installed DLCs
+11/08/2023 18:13:16: DLC:beta installed:False
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 154435.
+Total: 41.320700 ms (FindLiveObjects: 5.822800 ms CreateObjectMapping: 9.547100 ms MarkObjects: 25.202100 ms  DeleteObjects: 0.748300 ms)
 
-Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 159900.
-Total: 89.575100 ms (FindLiveObjects: 4.751500 ms CreateObjectMapping: 8.548900 ms MarkObjects: 75.643200 ms  DeleteObjects: 0.631300 ms)
-
-11/06/2023 12:59:36: Zonesystem Start 885
-11/06/2023 12:59:36: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-11/06/2023 12:59:36: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-11/06/2023 12:59:36: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-11/06/2023 12:59:36: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-11/06/2023 12:59:37: DungeonDB Start 885
-11/06/2023 12:59:37: ZRpc timeout set to 30s 
-11/06/2023 12:59:37: ZNET START
-11/06/2023 12:59:37: Load world: Famheim (Famheim)
-11/06/2023 12:59:37: Loading 428810 zdos, my sessionID: 752187326, data version: 32
-11/06/2023 12:59:37: Creating ZDOs
-11/06/2023 12:59:37: Loading in ZDOs
-11/06/2023 12:59:37: Adding to Dictionary
-11/06/2023 12:59:37: Adding to Sectors
-11/06/2023 12:59:37: Connecting Portals, Spawners & ZSyncTransforms
+11/08/2023 18:13:19: Zonesystem Start 5061
+11/08/2023 18:13:19: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+11/08/2023 18:13:19: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+11/08/2023 18:13:19: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+11/08/2023 18:13:19: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+11/08/2023 18:13:19: DungeonDB Start 5061
+11/08/2023 18:13:19: ZRpc timeout set to 30s 
+11/08/2023 18:13:19: ZNET START
+11/08/2023 18:13:19: Load world: Famheim (Famheim)
+11/08/2023 18:13:19: Loading 428862 zdos, my sessionID: 882461880, data version: 33
+11/08/2023 18:13:19: Creating ZDOs
+11/08/2023 18:13:19: Loading in ZDOs
+11/08/2023 18:13:20: Adding to Dictionary
+11/08/2023 18:13:20: Adding to Sectors
+11/08/2023 18:13:20: Connecting Portals, Spawners & ZSyncTransforms
 ConnectPortals => Connected 1 portals.
-ConnectSpawners => Connected 23 spawners and 630 'done' spawners.
-11/06/2023 12:59:37: Loaded 10076 locations
-11/06/2023 12:59:37: Unloading unused assets
+ConnectSpawners => Connected 4 spawners and 649 'done' spawners.
+11/08/2023 18:13:20: Loaded 10076 locations
+11/08/2023 18:13:20: Unloading unused assets
 Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-11/06/2023 12:59:38: Starting respawn
-11/06/2023 12:59:38: Session auth respons callback
-11/06/2023 12:59:43: Unpacking compressed mapdata 17602
-11/06/2023 12:59:43: tip:$loadscreen_tip16
+11/08/2023 18:13:20: Starting respawn
+11/08/2023 18:13:25: Unpacking compressed mapdata 17572
+11/08/2023 18:13:26: tip:$loadscreen_tip07
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1727781.
+Total: 315.634100 ms (FindLiveObjects: 135.489400 ms CreateObjectMapping: 25.242800 ms MarkObjects: 149.193300 ms  DeleteObjects: 5.708400 ms)
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1733246.
-Total: 531.351200 ms (FindLiveObjects: 78.435500 ms CreateObjectMapping: 26.601700 ms MarkObjects: 425.478900 ms  DeleteObjects: 0.834900 ms)
-
-11/06/2023 12:59:47: Force generating hmap (-256.0, 0.0, 448.0)
-11/06/2023 12:59:47: Force generating hmap (-320.0, 0.0, 448.0)
-11/06/2023 12:59:47: Force generating hmap (-320.0, 0.0, 512.0)
-11/06/2023 12:59:47: Force generating hmap (-256.0, 0.0, 512.0)
-11/06/2023 12:59:48: Force generating hmap (-192.0, 0.0, 320.0)
-11/06/2023 12:59:48: Force generating hmap (-128.0, 0.0, 576.0)
-11/06/2023 12:59:51: Spawned after 8.019994
-11/06/2023 12:59:51: Skipping unloading unused assets
-11/06/2023 12:59:52: Minimap: Adding unique location (131.9, 39.6, 260.8)
-11/06/2023 12:59:52: Minimap: Adding unique location (-1299.8, 35.6, 1144.6)
-11/06/2023 12:59:52: Minimap: Adding unique location (-637.7, 34.0, 3844.8)
-11/06/2023 12:59:53: Starting music home
-11/06/2023 12:59:54: Resumed music home at 0
-11/06/2023 13:00:02: Teleportation TRIGGER
-11/06/2023 13:00:02: Teleporting Terry
-11/06/2023 13:00:06: Force generating hmap (128.0, 0.0, 2624.0)
-11/06/2023 13:00:06: Force generating hmap (128.0, 0.0, 2688.0)
-11/06/2023 13:00:07: Force generating hmap (64.0, 0.0, 2624.0)
-11/06/2023 13:00:07: Force generating hmap (64.0, 0.0, 2688.0)
-11/06/2023 13:00:07: Force generating hmap (128.0, 0.0, 2688.0)
-11/06/2023 13:00:07: Force generating hmap (192.0, 0.0, 2752.0)
-11/06/2023 13:00:07: Loading dungeon
-11/06/2023 13:00:07: Dungeon loaded with 26 rooms in 17.4602 ms.
-11/06/2023 13:00:07: Loading dungeon
-11/06/2023 13:00:07: Dungeon loaded with 15 rooms in 8.5116 ms.
-11/06/2023 13:00:07: Loading dungeon
-11/06/2023 13:00:07: Dungeon loaded with 28 rooms in 17.0144 ms.
-11/06/2023 13:00:13: Stopped music home at 854246
-11/06/2023 13:00:13: Starting music home
-11/06/2023 13:00:13: Resumed music home at 854246
-11/06/2023 13:00:17: Spawned Blob x 1
-11/06/2023 13:00:26: Stopped music home at 582355
-11/06/2023 13:00:26: Starting music swamp
-11/06/2023 13:00:26: Resumed music swamp at 0
-11/06/2023 13:00:56: Force generating hmap (64.0, 0.0, 2816.0)
-11/06/2023 13:00:56: Force generating hmap (128.0, 0.0, 2816.0)
-11/06/2023 13:00:57: Loading dungeon
-11/06/2023 13:00:57: Dungeon loaded with 30 rooms in 20.0191 ms.
-11/06/2023 13:02:02: Stopped music swamp at 4206316
-11/06/2023 13:02:02: Starting music home
-11/06/2023 13:02:02: Resumed music home at 582355
-11/06/2023 13:02:07: Stopped music home at 223910
-11/06/2023 13:02:07: Starting music home
-11/06/2023 13:02:07: Resumed music home at 223910
-11/06/2023 13:02:34: Teleportation TRIGGER
-11/06/2023 13:02:34: Teleporting Terry
-11/06/2023 13:02:37: Stopped music home at 1333113
-11/06/2023 13:02:37: Starting music swamp
-11/06/2023 13:02:37: Resumed music swamp at 4206316
-11/06/2023 13:02:38: Stopped music swamp at 4269349
-11/06/2023 13:02:38: Starting music meadows
-11/06/2023 13:02:38: Resumed music meadows at 0
-11/06/2023 13:02:40: Force generating hmap (-256.0, 0.0, 448.0)
-11/06/2023 13:02:40: Force generating hmap (-320.0, 0.0, 448.0)
-11/06/2023 13:02:40: Force generating hmap (-320.0, 0.0, 512.0)
-11/06/2023 13:02:40: Force generating hmap (-256.0, 0.0, 512.0)
-11/06/2023 13:02:40: Force generating hmap (-128.0, 0.0, 576.0)
-11/06/2023 13:02:46: Stopped music meadows at 320812
-11/06/2023 13:02:46: Starting music home
-11/06/2023 13:02:46: Resumed music home at 1333113
-11/06/2023 13:02:48: Is mine
-11/06/2023 13:02:48: is current spawnpoint
-11/06/2023 13:02:48: exporeusre check 0.9411765  True
-11/06/2023 13:02:48: Ignoring 2 colliders
-11/06/2023 13:02:49: Time 1454032.53998474, day:807    nextm:1454670.00001073  skipspeed:53.1216688320662
-11/06/2023 13:02:52: Starting music evening
-11/06/2023 13:02:53: Stopped music home at 342451
-11/06/2023 13:02:54: Skipping unloading unused assets
-11/06/2023 13:02:59: Spawned Greydwarf_Elite x 1
-11/06/2023 13:03:02: Uncompressed size 8395629
-11/06/2023 13:03:02: Compressed size 17602
-11/06/2023 13:03:02: Considering autobackup. World time: 198, short time: 7200, long time: 43200, backup count: 4
-11/06/2023 13:03:02: Skipping backup. World session not long enough.
-11/06/2023 13:03:02: PrepareSave: clone done in 26ms
-11/06/2023 13:03:02: PrepareSave: ZDOExtraData.PrepareSave done in 59 ms
-11/06/2023 13:03:02: World save writing starting
-11/06/2023 13:03:02: World save writing started
-11/06/2023 13:03:03: Saved 428808 ZDOs
-11/06/2023 13:03:03: World save writing finishing
-11/06/2023 13:03:03: World save writing finished
-11/06/2023 13:03:03: World saved ( 861.2914ms )
-11/06/2023 13:03:03: Considering autobackup. World time: 199.04, short time: 7200, long time: 43200, backup count: 4
-11/06/2023 13:03:03: Skipping backup. World session not long enough.
-11/06/2023 13:03:03: Spawned Greydwarf_Shaman x 1
-11/06/2023 13:03:05: Setting selected recipe 0
-11/06/2023 13:03:09: Starting music morning
-11/06/2023 13:03:10: Activating default element Continue
-11/06/2023 13:03:12: Activating default element Button_no
-11/06/2023 13:03:13: Game - OnApplicationQuit
-11/06/2023 13:03:13: Shuting down
-11/06/2023 13:03:13: Uncompressed size 8395629
-11/06/2023 13:03:13: Compressed size 17602
-11/06/2023 13:03:13: Considering autobackup. World time: 206.18, short time: 7200, long time: 43200, backup count: 4
-11/06/2023 13:03:13: Skipping backup. World session not long enough.
-11/06/2023 13:03:13: ZNet Shutdown
-11/06/2023 13:03:13: PrepareSave: clone done in 24ms
-11/06/2023 13:03:13: PrepareSave: ZDOExtraData.PrepareSave done in 40 ms
-11/06/2023 13:03:13: World save writing starting
-11/06/2023 13:03:13: World save writing started
-11/06/2023 13:03:14: Saved 428807 ZDOs
-11/06/2023 13:03:14: World save writing finishing
-11/06/2023 13:03:14: World save writing finished
-11/06/2023 13:03:14: World saved ( 772.4725ms )
-11/06/2023 13:03:14: Considering autobackup. World time: 206.18, short time: 7200, long time: 43200, backup count: 4
-11/06/2023 13:03:14: Skipping backup. World session not long enough.
-11/06/2023 13:03:14: Unloading unused assets
+11/08/2023 18:13:30: Force generating hmap (-256.00, 0.00, 448.00)
+11/08/2023 18:13:30: Force generating hmap (-320.00, 0.00, 448.00)
+11/08/2023 18:13:30: Force generating hmap (-320.00, 0.00, 512.00)
+11/08/2023 18:13:30: Force generating hmap (-256.00, 0.00, 512.00)
+11/08/2023 18:13:31: Force generating hmap (-192.00, 0.00, 320.00)
+11/08/2023 18:13:31: Force generating hmap (-128.00, 0.00, 576.00)
+11/08/2023 18:13:34: Spawned after 8.019994
+11/08/2023 18:13:34: Skipping unloading unused assets
+11/08/2023 18:13:34: Minimap: Adding unique location (131.94, 39.56, 260.83)
+11/08/2023 18:13:34: Minimap: Adding unique location (-1299.80, 35.63, 1144.62)
+11/08/2023 18:13:34: Minimap: Adding unique location (-637.68, 33.99, 3844.75)
+11/08/2023 18:13:36: Starting music home
+11/08/2023 18:13:36: Resumed music home at 0
+11/08/2023 18:13:40: Teleportation TRIGGER
+11/08/2023 18:13:40: Teleporting Terry
+11/08/2023 18:13:45: Force generating hmap (896.00, 0.00, 512.00)
+11/08/2023 18:13:45: Force generating hmap (896.00, 0.00, 576.00)
+11/08/2023 18:13:56: Stopped music home at 855187
+11/08/2023 18:13:56: Starting music meadows
+11/08/2023 18:13:56: Resumed music meadows at 0
+11/08/2023 18:14:01: Player onboard, total onboard 1
+11/08/2023 18:14:08: Doodad controlls set Karve(Clone)
+11/08/2023 18:14:35: Spawned Greyling x 1
+11/08/2023 18:14:48: Starting music sailing
+11/08/2023 18:14:54: Stopped music meadows at 2558035
+11/08/2023 18:14:54: Resumed music sailing at 0
+11/08/2023 18:15:16: Spawned Neck x 1
+11/08/2023 18:16:25: Spawned Fish1 x 5
+11/08/2023 18:16:28: Placed locations in zone 23,17  duration 0.964 ms
+11/08/2023 18:16:31: Spawned Deer x 2
+11/08/2023 18:16:31: Spawned Boar x 1
+11/08/2023 18:16:31: Spawned Neck x 2
+11/08/2023 18:16:31: Spawned Seagal x 1
+11/08/2023 18:16:31: Spawned Fish2 x 4
+11/08/2023 18:16:43: Spawned Seagal x 1
+11/08/2023 18:16:52: Placed locations in zone 24,17  duration 11.009 ms
+11/08/2023 18:16:55: Spawned Seagal x 1
+11/08/2023 18:16:55: Spawned Fish3 x 1
+11/08/2023 18:17:07: Spawned Seagal x 2
+11/08/2023 18:17:10: Spawned Deer x 1
+11/08/2023 18:17:10: Spawned Boar x 2
+11/08/2023 18:17:10: Spawned Fish1 x 3
+11/08/2023 18:17:10: Spawned Greyling x 1
+11/08/2023 18:17:28: Stopped music sailing at 6807628
+11/08/2023 18:17:28: Starting music meadows
+11/08/2023 18:17:28: Resumed music meadows at 2558035
+11/08/2023 18:17:33: Starting music sailing
+11/08/2023 18:17:35: Stopped music meadows at 2877906
+11/08/2023 18:17:35: Resumed music sailing at 6807628
+11/08/2023 18:17:38: Spawned Neck x 1
+11/08/2023 18:17:38: Spawned Neck x 1
+11/08/2023 18:17:38: Spawned Seagal x 1
+11/08/2023 18:17:38: Spawned Fish1 x 1
+11/08/2023 18:17:38: Spawned Greyling x 1
+11/08/2023 18:17:59: Spawned Deer x 1
+11/08/2023 18:17:59: Spawned Neck x 2
+11/08/2023 18:18:49: Spawned Boar x 1
+11/08/2023 18:18:49: Spawned Neck x 3
+11/08/2023 18:18:49: Spawned Seagal x 2
+11/08/2023 18:18:49: Spawned Greyling x 1
+11/08/2023 18:18:53: Update PlayFab entity token
+11/08/2023 18:19:11: Placed locations in zone 23,19  duration 0 ms
+11/08/2023 18:19:13: Loading dungeon
+11/08/2023 18:19:13: Dungeon loaded with 32 rooms in 19.0161 ms.
+11/08/2023 18:19:18: Stopped music sailing at 11332875
+11/08/2023 18:19:18: Starting music meadows
+11/08/2023 18:19:18: Resumed music meadows at 2877906
+11/08/2023 18:19:35: Starting music sailing
+11/08/2023 18:19:40: Placed locations in zone 22,20  duration 27.0231 ms
+11/08/2023 18:19:41: Stopped music meadows at 3900555
+11/08/2023 18:19:41: Resumed music sailing at 11332875
+11/08/2023 18:19:43: Loading dungeon
+11/08/2023 18:19:43: Dungeon loaded with 28 rooms in 21.018 ms.
+11/08/2023 18:19:51: Spawned Neck x 1
+11/08/2023 18:20:11: Spawned Greydwarf x 1
+11/08/2023 18:20:20: Stopped music sailing at 959930
+11/08/2023 18:20:20: Starting music blackforest
+11/08/2023 18:20:32: Starting music sailing
+11/08/2023 18:20:40: Stopped music blackforest at 909753
+11/08/2023 18:20:40: Starting music blackforest
+11/08/2023 18:20:40: Resumed music blackforest at 909753
+11/08/2023 18:20:55: Starting music sailing
+11/08/2023 18:21:01: Stopped music blackforest at 1793164
+11/08/2023 18:21:01: Resumed music sailing at 959930
+11/08/2023 18:21:07: Stopped music sailing at 1248755
+11/08/2023 18:21:07: Starting music blackforest
+11/08/2023 18:21:07: Resumed music blackforest at 1793164
+11/08/2023 18:21:23: Stopped music blackforest at 2495941
+11/08/2023 18:21:27: Starting music blackforest
+11/08/2023 18:21:27: Resumed music blackforest at 2495941
+11/08/2023 18:21:36: Starting music sailing
+11/08/2023 18:21:38: Spawned Seagal x 1
+11/08/2023 18:21:38: Spawned Fish1 x 2
+11/08/2023 18:21:41: Stopped music blackforest at 3124395
+11/08/2023 18:21:41: Resumed music sailing at 1248755
+11/08/2023 18:21:44: Loading dungeon
+11/08/2023 18:21:44: Dungeon loaded with 28 rooms in 17.0184 ms.
+11/08/2023 18:21:55: Spawned Greydwarf_Elite x 1
+11/08/2023 18:21:58: Spawned Seagal x 1
+11/08/2023 18:21:58: Spawned Greydwarf_Shaman x 1
+11/08/2023 18:22:14: Spawned Fish2 x 2
+11/08/2023 18:22:42: Spawned Greydwarf x 1
+11/08/2023 18:22:52: Starting music evening
+11/08/2023 18:22:53: Stopped music sailing at 4392908
+11/08/2023 18:23:00: Spawned Seagal x 1
+11/08/2023 18:23:00: Spawned Greydwarf_Shaman x 1
+11/08/2023 18:23:13: Starting music sailing
+11/08/2023 18:23:14: Resumed music sailing at 4392908
+11/08/2023 18:24:28: Spawned Deer x 2
+11/08/2023 18:24:28: Spawned Greydwarf_Elite x 1
+11/08/2023 18:24:29: Force generating hmap (896.00, 0.00, 576.00)
+11/08/2023 18:24:29: Force generating hmap (896.00, 0.00, 512.00)
+11/08/2023 18:24:44: Stopped music sailing at 8374373
+11/08/2023 18:25:19: Stop doodad controlls
+11/08/2023 18:25:20: Player over board, players left 0
+11/08/2023 18:26:32: Spawned Greydwarf_Elite x 1
+11/08/2023 18:26:38: Setting selected recipe 0
+11/08/2023 18:26:45: Spawned Greydwarf x 1
+11/08/2023 18:26:49: Teleportation TRIGGER
+11/08/2023 18:26:49: Teleporting Terry
+11/08/2023 18:26:55: Force generating hmap (-256.00, 0.00, 448.00)
+11/08/2023 18:26:55: Force generating hmap (-320.00, 0.00, 448.00)
+11/08/2023 18:26:55: Force generating hmap (-320.00, 0.00, 512.00)
+11/08/2023 18:26:55: Force generating hmap (-256.00, 0.00, 512.00)
+11/08/2023 18:26:56: Force generating hmap (-128.00, 0.00, 576.00)
+11/08/2023 18:26:57: Starting music home
+11/08/2023 18:27:05: Spawned Greydwarf_Shaman x 1
+11/08/2023 18:27:09: Is mine
+11/08/2023 18:27:09: is current spawnpoint
+11/08/2023 18:27:09: exporeusre check 0.9411765  True
+11/08/2023 18:27:09: Ignoring 2 colliders
+11/08/2023 18:27:10: Time 1490448.17997545, day:827    nextm:1490670.00001073  skipspeed:18.4850029395893
+11/08/2023 18:27:15: Skipping unloading unused assets
+11/08/2023 18:27:17: Spawned Greydwarf_Elite x 1
+11/08/2023 18:27:22: Uncompressed size 8395572
+11/08/2023 18:27:22: Compressed size 17532
+11/08/2023 18:27:22: Considering autobackup. World time: 835.9999, short time: 7200, long time: 43200, backup count: 4
+11/08/2023 18:27:22: Skipping backup. World session not long enough.
+11/08/2023 18:27:22: PrepareSave: clone done in 41ms
+11/08/2023 18:27:22: PrepareSave: ZDOExtraData.PrepareSave done in 54 ms
+11/08/2023 18:27:22: World save writing starting
+11/08/2023 18:27:22: World save writing started
+11/08/2023 18:27:24: Saved 430102 ZDOs
+11/08/2023 18:27:24: World save writing finishing
+11/08/2023 18:27:24: World save writing finished
+11/08/2023 18:27:24: World saved ( 1187.8513ms )
+11/08/2023 18:27:24: Considering autobackup. World time: 837.3799, short time: 7200, long time: 43200, backup count: 4
+11/08/2023 18:27:24: Skipping backup. World session not long enough.
+11/08/2023 18:27:28: Starting music morning
+11/08/2023 18:27:29: Stopped music home at 1399910
+11/08/2023 18:27:29: Activating default element Continue
+11/08/2023 18:27:30: Activating default element Button_no
+11/08/2023 18:27:31: Game - OnApplicationQuit
+11/08/2023 18:27:31: Shuting down
+11/08/2023 18:27:31: Uncompressed size 8395572
+11/08/2023 18:27:31: Compressed size 17532
+11/08/2023 18:27:31: Considering autobackup. World time: 842.7599, short time: 7200, long time: 43200, backup count: 4
+11/08/2023 18:27:31: Skipping backup. World session not long enough.
+11/08/2023 18:27:31: ZNet Shutdown
+11/08/2023 18:27:31: PrepareSave: clone done in 26ms
+11/08/2023 18:27:31: PrepareSave: ZDOExtraData.PrepareSave done in 48 ms
+11/08/2023 18:27:31: World save writing starting
+11/08/2023 18:27:31: World save writing started
+11/08/2023 18:27:32: Saved 430100 ZDOs
+11/08/2023 18:27:32: World save writing finishing
+11/08/2023 18:27:32: World save writing finished
+11/08/2023 18:27:32: World saved ( 1007.1409ms )
+11/08/2023 18:27:32: Considering autobackup. World time: 842.7599, short time: 7200, long time: 43200, backup count: 4
+11/08/2023 18:27:32: Skipping backup. World session not long enough.
+11/08/2023 18:27:32: Unloading unused assets
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-11/06/2023 13:03:14: Sending disconnect msg
+11/08/2023 18:27:32: Sending disconnect msg
 ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-11/06/2023 13:03:14: Stopping build thread
-
-Unloading 5287 unused Assets to reduce memory usage. Loaded Objects now: 2109100.
-Total: 654.548300 ms (FindLiveObjects: 93.743000 ms CreateObjectMapping: 27.353900 ms MarkObjects: 524.044700 ms  DeleteObjects: 9.406500 ms)
+11/08/2023 18:27:32: Stopping build thread
+Unloading 869 unused Assets to reduce memory usage. Loaded Objects now: 2101916.
+Total: 337.529500 ms (FindLiveObjects: 167.421100 ms CreateObjectMapping: 25.477400 ms MarkObjects: 137.154300 ms  DeleteObjects: 7.476200 ms)
 
 Setting up 16 worker threads for Enlighten.
-  Thread -> id: 22a8 -> priority: 1 
-  Thread -> id: 6700 -> priority: 1 
-  Thread -> id: 30c -> priority: 1 
-  Thread -> id: a6c -> priority: 1 
-  Thread -> id: 36b0 -> priority: 1 
-  Thread -> id: 3ab8 -> priority: 1 
-  Thread -> id: 1108 -> priority: 1 
-  Thread -> id: 531c -> priority: 1 
-  Thread -> id: 3688 -> priority: 1 
-  Thread -> id: 5ba0 -> priority: 1 
-  Thread -> id: 2280 -> priority: 1 
-  Thread -> id: 5560 -> priority: 1 
-  Thread -> id: 2160 -> priority: 1 
-  Thread -> id: 62d8 -> priority: 1 
-  Thread -> id: 2c44 -> priority: 1 
-  Thread -> id: 65b4 -> priority: 1 
-11/06/2023 13:03:17: ZNet OnDestroy
-11/06/2023 13:03:17: Net scene destroyed
-11/06/2023 13:03:17: Steam manager on destroy
-11/06/2023 13:03:18: Local player destroyed
+11/08/2023 18:27:35: Local player destroyed
+11/08/2023 18:27:35: ZNet OnDestroy
+11/08/2023 18:27:35: Net scene destroyed
+11/08/2023 18:27:36: Steam manager on destroy
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 236 frames, [8.0 KB-16.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 20235 frames, [32.0 KB-64.0 KB]: 71850 frames, [64.0 KB-128.0 KB]: 8371 frames, [128.0 KB-256.0 KB]: 939 frames, [256.0 KB-0.5 MB]: 388 frames, [0.5 MB-1.0 MB]: 33 frames, [1.0 MB-2.0 MB]: 9 frames, [2.0 MB-4.0 MB]: 6 frames, [4.0 MB-8.0 MB]: 8 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 7.7 MB
+      Peak Allocated Bytes 7.7 MB
+      Overflow Count 146
+    [ALLOC_TEMP_Job.worker 30]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 511.5 KB
+      Overflow Count 164255
+    [ALLOC_TEMP_Background Job.worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 16]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 27]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 19]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 20]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 23]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_NavMesh Builder.worker 0]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 31
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 28]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 26]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 15]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 16
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 192.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 21]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 25]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 50.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 22]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 192.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 17]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 29]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 18]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 24]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 294 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 54904
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 4131256
+        32B: 15 Subsections = 7680 buckets. Failed count: 989150
+        48B: 148 Subsections = 50517 buckets. Failed count: 26811264
+        64B: 53 Subsections = 13568 buckets. Failed count: 1212544
+        80B: 25 Subsections = 5120 buckets. Failed count: 333287
+        96B: 5 Subsections = 853 buckets. Failed count: 153715
+        112B: 3 Subsections = 438 buckets. Failed count: 65930
+        128B: 4 Subsections = 512 buckets. Failed count: 1303545
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 5059 frames, [64.0 MB-128.0 MB]: 1 frames, [128.0 MB-256.0 MB]: 19827 frames, [256.0 MB-0.50 GB]: 74994 frames, [0.50 GB-1.00 GB]: 2195 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 17
+      Peak Allocated memory 0.61 GB
+      Peak Large allocation bytes 400.2 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [256.0 MB-0.50 GB]: 102076 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 20
+      Peak Allocated memory 368.0 MB
+      Peak Large allocation bytes 140.6 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 4
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 13
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 4131256
+        32B: 15 Subsections = 7680 buckets. Failed count: 989150
+        48B: 148 Subsections = 50517 buckets. Failed count: 26811264
+        64B: 53 Subsections = 13568 buckets. Failed count: 1212544
+        80B: 25 Subsections = 5120 buckets. Failed count: 333287
+        96B: 5 Subsections = 853 buckets. Failed count: 153715
+        112B: 3 Subsections = 438 buckets. Failed count: 65930
+        128B: 4 Subsections = 512 buckets. Failed count: 1303545
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 238 frames, [8.0 MB-16.0 MB]: 4822 frames, [64.0 MB-128.0 MB]: 97016 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 87.7 MB
+      Peak Large allocation bytes 76.0 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [64.0 MB-128.0 MB]: 102076 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 6
+      Peak Allocated memory 81.5 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 160
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 4131256
+        32B: 15 Subsections = 7680 buckets. Failed count: 989150
+        48B: 148 Subsections = 50517 buckets. Failed count: 26811264
+        64B: 53 Subsections = 13568 buckets. Failed count: 1212544
+        80B: 25 Subsections = 5120 buckets. Failed count: 333287
+        96B: 5 Subsections = 853 buckets. Failed count: 153715
+        112B: 3 Subsections = 438 buckets. Failed count: 65930
+        128B: 4 Subsections = 512 buckets. Failed count: 1303545
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 238 frames, [16.0 MB-32.0 MB]: 4822 frames, [32.0 MB-64.0 MB]: 97016 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 6
+      Peak Allocated memory 58.7 MB
+      Peak Large allocation bytes 36.4 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [256.0 MB-0.50 GB]: 5060 frames, [0.50 GB-1.00 GB]: 97016 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 186
+      Peak Allocated memory 0.84 GB
+      Peak Large allocation bytes 384.3 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 4131256
+        32B: 15 Subsections = 7680 buckets. Failed count: 989150
+        48B: 148 Subsections = 50517 buckets. Failed count: 26811264
+        64B: 53 Subsections = 13568 buckets. Failed count: 1212544
+        80B: 25 Subsections = 5120 buckets. Failed count: 333287
+        96B: 5 Subsections = 853 buckets. Failed count: 153715
+        112B: 3 Subsections = 438 buckets. Failed count: 65930
+        128B: 4 Subsections = 512 buckets. Failed count: 1303545
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 237 frames, [4.0 KB-8.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 101838 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 26.3 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 5060 frames, [128.0 KB-256.0 KB]: 97016 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 158.8 KB
+      Peak Large allocation bytes 0 B
