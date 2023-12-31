@@ -11,7 +11,7 @@ Direct3D:
     VRAM:     8032 MB
     Driver:   31.0.15.4617
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.387 seconds
+- Loaded All Assemblies, in  0.123 seconds
 - Finished resetting the current domain, in  0.001 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
@@ -19,1828 +19,88 @@ Using Windows.Gaming.Input
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.896800 ms
-12/30/2023 22:40:57: Fetching PlatformPrefs 'GuiScale' before loading defaults
-12/30/2023 22:40:57: Fetching PlatformPrefs 'GuiScale' before loading defaults
+UnloadTime: 0.555500 ms
+12/31/2023 02:19:10: Fetching PlatformPrefs 'GuiScale' before loading defaults
+12/31/2023 02:19:10: Fetching PlatformPrefs 'GuiScale' before loading defaults
 Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
 Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
 Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
-12/30/2023 22:40:58: Starting to load scene:start
+12/31/2023 02:19:10: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.930000 ms
+UnloadTime: 4.816100 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-12/30/2023 22:41:04: Using environment steamid 892970
-12/30/2023 22:41:04: Using steam APPID:892970
-12/30/2023 22:41:04: Authentication:k_ESteamNetworkingAvailability_Attempting
-12/30/2023 22:41:04: Steam initialized, persona:tjgolubi
-12/30/2023 22:41:04: PlayFab custom ID set to "Steam_76561198290658520"
-12/30/2023 22:41:04: Using default prefs
-12/30/2023 22:41:04: Valheim version: 0.217.38 (network version 20)
+12/31/2023 02:19:17: Using environment steamid 892970
+12/31/2023 02:19:17: Using steam APPID:892970
+12/31/2023 02:19:17: Authentication:k_ESteamNetworkingAvailability_Attempting
+12/31/2023 02:19:17: Steam initialized, persona:tjgolubi
+12/31/2023 02:19:17: PlayFab custom ID set to "Steam_76561198290658520"
+12/31/2023 02:19:17: Using default prefs
+12/31/2023 02:19:17: Valheim version: 0.217.38 (network version 20)
 Trying to set graphic mode to 'Custom'
 Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
 Graphic mode 'Custom' applied!
-12/30/2023 22:41:04: Worldgenerator version setup:2
-12/30/2023 22:41:04: Render threading mode:MultiThreaded
-12/30/2023 22:41:04: Set button "CamZoomIn" to None!
-12/30/2023 22:41:04: Set button "CamZoomOut" to None!
-12/30/2023 22:41:04: Set button "CamZoomIn" to None!
-12/30/2023 22:41:04: Set button "CamZoomOut" to None!
+12/31/2023 02:19:17: Worldgenerator version setup:2
+12/31/2023 02:19:17: Render threading mode:MultiThreaded
+12/31/2023 02:19:17: Set button "CamZoomIn" to None!
+12/31/2023 02:19:17: Set button "CamZoomOut" to None!
+12/31/2023 02:19:17: Set button "CamZoomIn" to None!
+12/31/2023 02:19:17: Set button "CamZoomOut" to None!
 Mouse KeyCodes have been deprecated with the new input system. Returning "Key.None"
 Mouse KeyCodes have been deprecated with the new input system. Returning "Key.None"
 Mouse KeyCodes have been deprecated with the new input system. Returning "Key.None"
 Mouse KeyCodes have been deprecated with the new input system. Returning "Key.None"
 Mouse KeyCodes have been deprecated with the new input system. Returning "Key.None"
-12/30/2023 22:41:04: Loaded localization file #0 - 'localization' language: 'English'
-12/30/2023 22:41:04: Loaded localization file #1 - 'localization_extra' language: 'English'
-12/30/2023 22:41:04: Loaded localization file #2 - 'heightmap_message' language: 'English'
-12/30/2023 22:41:04: Loaded localization file #3 - 'localization_hildir' language: 'English'
-12/30/2023 22:41:04: Loaded localization file #4 - 'localization_emotes' language: 'English'
-12/30/2023 22:41:04: Loaded localization file #0 - 'localization' language: 'English'
-12/30/2023 22:41:04: Loaded localization file #1 - 'localization_extra' language: 'English'
-12/30/2023 22:41:04: Loaded localization file #2 - 'heightmap_message' language: 'English'
-12/30/2023 22:41:04: Loaded localization file #3 - 'localization_hildir' language: 'English'
-12/30/2023 22:41:04: Loaded localization file #4 - 'localization_emotes' language: 'English'
-12/30/2023 22:41:05: Missing audio clip in music respawn
-12/30/2023 22:41:05: Checking for installed DLCs
-12/30/2023 22:41:05: DLC:beta installed:False
-12/30/2023 22:41:05: Builder started
-12/30/2023 22:41:05: Sending PlayFab login request (attempt 1)
-12/30/2023 22:41:05: Starting music menu
+12/31/2023 02:19:17: Loaded localization file #0 - 'localization' language: 'English'
+12/31/2023 02:19:17: Loaded localization file #1 - 'localization_extra' language: 'English'
+12/31/2023 02:19:17: Loaded localization file #2 - 'heightmap_message' language: 'English'
+12/31/2023 02:19:17: Loaded localization file #3 - 'localization_hildir' language: 'English'
+12/31/2023 02:19:17: Loaded localization file #4 - 'localization_emotes' language: 'English'
+12/31/2023 02:19:17: Loaded localization file #0 - 'localization' language: 'English'
+12/31/2023 02:19:17: Loaded localization file #1 - 'localization_extra' language: 'English'
+12/31/2023 02:19:17: Loaded localization file #2 - 'heightmap_message' language: 'English'
+12/31/2023 02:19:17: Loaded localization file #3 - 'localization_hildir' language: 'English'
+12/31/2023 02:19:17: Loaded localization file #4 - 'localization_emotes' language: 'English'
+12/31/2023 02:19:17: Missing audio clip in music respawn
+12/31/2023 02:19:17: Checking for installed DLCs
+12/31/2023 02:19:17: DLC:beta installed:False
+12/31/2023 02:19:17: Builder started
+12/31/2023 02:19:17: Sending PlayFab login request (attempt 1)
+12/31/2023 02:19:17: Starting music menu
 Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 156293.
-Total: 43.332500 ms (FindLiveObjects: 7.741300 ms CreateObjectMapping: 10.572300 ms MarkObjects: 24.803600 ms  DeleteObjects: 0.215000 ms)
+Total: 44.847300 ms (FindLiveObjects: 7.993800 ms CreateObjectMapping: 10.959600 ms MarkObjects: 25.667200 ms  DeleteObjects: 0.226500 ms)
 
-12/30/2023 22:41:05: PlayFab logged in as "Steam_76561198290658520"
-12/30/2023 22:41:05: PlayFab local entity ID is DBA9D3993BEC7B4F
-12/30/2023 22:41:09: show character selection
-12/30/2023 22:41:10: OnCharacterStart
-12/30/2023 22:41:22: Loading main scene
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.311800 ms
-12/30/2023 22:41:22: Steam initialized, persona:tjgolubi
-12/30/2023 22:41:22: PlayFab custom ID set to "Steam_76561198290658520"
-12/30/2023 22:41:22: Using default prefs
-12/30/2023 22:41:22: Loading player profile terry
-12/30/2023 22:41:22: isModded: False
-12/30/2023 22:41:22: Zonesystem Awake 1202
-12/30/2023 22:41:22: DungeonDB Awake 1202
-12/30/2023 22:41:22: Steam initialized, persona:tjgolubi
-12/30/2023 22:41:22: Registering lobby
-12/30/2023 22:41:22: New session server "Famheim" that has join code , now 1 player(s)
-12/30/2023 22:41:22: Register PlayFab server "Famheim"
-12/30/2023 22:41:22: Server 'Famheim' begin PlayFab create and join network for server 
-12/30/2023 22:41:22: Worldgenerator version setup:2
-12/30/2023 22:41:24: Audioman already exist, destroying self
-12/30/2023 22:41:24: Checking for installed DLCs
-12/30/2023 22:41:24: DLC:beta installed:False
-Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 154825.
-Total: 51.498600 ms (FindLiveObjects: 6.204400 ms CreateObjectMapping: 10.462200 ms MarkObjects: 34.088300 ms  DeleteObjects: 0.743600 ms)
-
-12/30/2023 22:41:27: Zonesystem Start 1202
-12/30/2023 22:41:27: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-12/30/2023 22:41:27: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-12/30/2023 22:41:27: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-12/30/2023 22:41:27: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-12/30/2023 22:41:27: DungeonDB Start 1202
-12/30/2023 22:41:27: ZRpc timeout set to 30s 
-12/30/2023 22:41:27: ZNET START
-12/30/2023 22:41:27: Load world: Famheim (Famheim)
-12/30/2023 22:41:27: Loading 690867 zdos, my sessionID: 2115171052, data version: 33
-12/30/2023 22:41:27: Creating ZDOs
-12/30/2023 22:41:28: Loading in ZDOs
-12/30/2023 22:41:28: Adding to Dictionary
-12/30/2023 22:41:28: Adding to Sectors
-12/30/2023 22:41:28: Connecting Portals, Spawners & ZSyncTransforms
-ConnectSpawners => Connected 161 spawners and 1005 'done' spawners.
-12/30/2023 22:41:28: Loaded 10076 locations
-12/30/2023 22:41:28: Unloading unused assets
-Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-12/30/2023 22:41:29: Starting respawn
-12/30/2023 22:41:29: Lobby was created k_EResultOK  109775243664123988  error:False
-12/30/2023 22:41:29: Got requested lobby data
-12/30/2023 22:41:34: Unpacking compressed mapdata 23746
-12/30/2023 22:41:34: tip:$loadscreen_tip02
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1728171.
-Total: 364.819900 ms (FindLiveObjects: 132.688900 ms CreateObjectMapping: 23.763400 ms MarkObjects: 205.161500 ms  DeleteObjects: 3.205700 ms)
-
-12/30/2023 22:41:34: Got requested lobby data
-12/30/2023 22:41:36: Joined PlayFab Party network with ID "0589aaeb-59a5-4b7b-b2b6-c1d56cf36a45|AwCZ2ZECPPx/M9nmY0qXGpMITmnN7U5vcnRoQ2VudHJhbFVzAAAAAAAAHXqiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrblNkbnMtaXIwLTgxZTUtZDBhMDU1ZDctNGYxZi00OGMzLTgyMDAtMzhiOWViODRkZWFkLm5vcnRoY2VudHJhbHVzLmNsb3VkYXBwLmF6dXJlLmNvbQ=="
-12/30/2023 22:41:36: Created PlayFab lobby with ID "efbf10b2-8e7e-444b-839d-5c9615887dd7.r-20230509", ConnectionString "cv2:efbf10b2-8e7e-444b-839d-5c9615887dd7.r-20230509|451107|kv1:xFRsIsLISQ6hSuuk7rhAqb6rVPnWwTuTU51d/TXBNGc=" and owned by "DBA9D3993BEC7B4F"
-12/30/2023 22:41:36: Session "Famheim" registered with join code 637509
-12/30/2023 22:41:36: Retry join-code check 99
-12/30/2023 22:41:37: Session "Famheim" with join code 637509 is active with 1 player(s)
-12/30/2023 22:41:38: Force generating hmap (-256.00, 0.00, 448.00)
-12/30/2023 22:41:38: Force generating hmap (-320.00, 0.00, 448.00)
-12/30/2023 22:41:38: Force generating hmap (-320.00, 0.00, 512.00)
-12/30/2023 22:41:38: Force generating hmap (-256.00, 0.00, 512.00)
-12/30/2023 22:41:39: Force generating hmap (-128.00, 0.00, 576.00)
-12/30/2023 22:41:42: Spawned after 8.019994
-12/30/2023 22:41:42: Skipping unloading unused assets
-12/30/2023 22:41:43: Minimap: Adding unique location (131.94, 39.56, 260.83)
-12/30/2023 22:41:43: Minimap: Adding unique location (-1299.80, 35.63, 1144.62)
-12/30/2023 22:41:43: Minimap: Adding unique location (-637.68, 33.99, 3844.75)
-12/30/2023 22:41:43: Starting music morning
-12/30/2023 22:42:01: Activating default element Continue
-12/30/2023 22:42:04: Activating default element Button_no
-12/30/2023 22:42:06: Shuting down
-12/30/2023 22:42:06: Uncompressed size 8399540
-12/30/2023 22:42:06: Compressed size 23746
-12/30/2023 22:42:06: Considering autobackup. World time: 26.92, short time: 7200, long time: 43200, backup count: 4
-12/30/2023 22:42:06: Skipping backup. World session not long enough.
-12/30/2023 22:42:06: ZNet Shutdown
-12/30/2023 22:42:06: PrepareSave: clone done in 54ms
-12/30/2023 22:42:06: PrepareSave: ZDOExtraData.PrepareSave done in 116 ms
-12/30/2023 22:42:06: World save writing starting
-12/30/2023 22:42:06: World save writing started
-12/30/2023 22:42:07: Saved 690865 ZDOs
-12/30/2023 22:42:07: World save writing finishing
-12/30/2023 22:42:07: World save writing finished
-12/30/2023 22:42:07: World saved ( 1430.8602ms )
-12/30/2023 22:42:07: Considering autobackup. World time: 26.92, short time: 7200, long time: 43200, backup count: 4
-12/30/2023 22:42:07: Skipping backup. World session not long enough.
-12/30/2023 22:42:08: Unloading unused assets
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-12/30/2023 22:42:08: Sending disconnect msg
-ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Active
-12/30/2023 22:42:08: Unregister PlayFab server "Famheim" and leaving network "0589aaeb-59a5-4b7b-b2b6-c1d56cf36a45|AwCZ2ZECPPx/M9nmY0qXGpMITmnN7U5vcnRoQ2VudHJhbFVzAAAAAAAAHXqiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrblNkbnMtaXIwLTgxZTUtZDBhMDU1ZDctNGYxZi00OGMzLTgyMDAtMzhiOWViODRkZWFkLm5vcnRoY2VudHJhbHVzLmNsb3VkYXBwLmF6dXJlLmNvbQ=="
-ZPlayFabSocket::Dispose. State: LISTEN
-ZPlayFabSocket::Dispose. leave lobby. LobbyId: 
-ZPlayFabSocket::Dispose. State: CLOSED
-12/30/2023 22:42:08: Local player destroyed
-12/30/2023 22:42:08: Deactivated PlayFab lobby efbf10b2-8e7e-444b-839d-5c9615887dd7.r-20230509
-Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 1731773.
-Total: 348.833400 ms (FindLiveObjects: 135.826500 ms CreateObjectMapping: 26.272900 ms MarkObjects: 183.129800 ms  DeleteObjects: 3.603800 ms)
-
-12/30/2023 22:42:08: Left PlayFab lobby efbf10b2-8e7e-444b-839d-5c9615887dd7.r-20230509
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-12/30/2023 22:42:09: ZNet OnDestroy
-12/30/2023 22:42:09: Net scene destroyed
-UnloadTime: 699.582500 ms
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-12/30/2023 22:42:09: Steam initialized, persona:tjgolubi
-12/30/2023 22:42:09: PlayFab custom ID set to "Steam_76561198290658520"
-12/30/2023 22:42:09: Using default prefs
-12/30/2023 22:42:09: Valheim version: 0.217.38 (network version 20)
-12/30/2023 22:42:09: Worldgenerator version setup:2
-12/30/2023 22:42:09: Render threading mode:MultiThreaded
-12/30/2023 22:42:09: Audioman already exist, destroying self
-12/30/2023 22:42:09: Checking for installed DLCs
-12/30/2023 22:42:09: DLC:beta installed:False
-Unloading 1122 unused Assets to reduce memory usage. Loaded Objects now: 156060.
-Total: 214.496700 ms (FindLiveObjects: 7.142700 ms CreateObjectMapping: 9.194200 ms MarkObjects: 194.198100 ms  DeleteObjects: 3.961300 ms)
-
-Event.Use() should not be called for events of type repaint
-12/30/2023 22:42:09: Starting music menu
-12/30/2023 22:42:09: Activating default element Start game
-Event.Use() should not be called for events of type repaint
-Event.Use() should not be called for events of type repaint
-12/30/2023 22:42:11: Activating default element Start game
-12/30/2023 22:42:12: show character selection
-12/30/2023 22:42:12: Got requested lobby data
-12/30/2023 22:42:14: Button pressed Back  frame:3769
-Event.Use() should not be called for events of type repaint
-12/30/2023 22:42:14: Activating default element Start game
-12/30/2023 22:42:17: show character selection
-12/30/2023 22:42:18: Button pressed Start  frame:4009
-12/30/2023 22:42:18: OnCharacterStart
-12/30/2023 22:42:24: Button pressed OpenServer  frame:4356
-12/30/2023 22:42:27: Button pressed Server Options  frame:4559
-12/30/2023 22:42:30: Button pressed Cancel  frame:4742
-12/30/2023 22:42:35: Button pressed CrossplayToggle  frame:5013
-12/30/2023 22:42:51: Loading main scene
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.336200 ms
-12/30/2023 22:42:51: Steam initialized, persona:tjgolubi
-12/30/2023 22:42:51: PlayFab custom ID set to "Steam_76561198290658520"
-12/30/2023 22:42:51: Using default prefs
-12/30/2023 22:42:51: Loading player profile terry
-12/30/2023 22:42:51: isModded: False
-12/30/2023 22:42:51: Zonesystem Awake 5969
-12/30/2023 22:42:51: DungeonDB Awake 5969
-12/30/2023 22:42:51: Steam initialized, persona:tjgolubi
-12/30/2023 22:42:51: Registering lobby
-12/30/2023 22:42:51: Worldgenerator version setup:2
-12/30/2023 22:42:53: Audioman already exist, destroying self
-12/30/2023 22:42:53: Checking for installed DLCs
-12/30/2023 22:42:53: DLC:beta installed:False
-Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 154871.
-Total: 121.542400 ms (FindLiveObjects: 6.819200 ms CreateObjectMapping: 9.127500 ms MarkObjects: 104.832500 ms  DeleteObjects: 0.762900 ms)
-
-12/30/2023 22:42:56: Zonesystem Start 5969
-12/30/2023 22:42:56: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-12/30/2023 22:42:56: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-12/30/2023 22:42:56: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-12/30/2023 22:42:56: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-12/30/2023 22:42:56: DungeonDB Start 5969
-12/30/2023 22:42:56: ZRpc timeout set to 30s 
-12/30/2023 22:42:56: ZNET START
-12/30/2023 22:42:56: Load world: Famheim (Famheim)
-12/30/2023 22:42:56: Loading 690865 zdos, my sessionID: 1562228727, data version: 33
-12/30/2023 22:42:56: Creating ZDOs
-12/30/2023 22:42:56: Loading in ZDOs
-12/30/2023 22:42:57: Adding to Dictionary
-12/30/2023 22:42:57: Adding to Sectors
-12/30/2023 22:42:57: Connecting Portals, Spawners & ZSyncTransforms
-ConnectSpawners => Connected 161 spawners and 1005 'done' spawners.
-12/30/2023 22:42:57: Loaded 10076 locations
-12/30/2023 22:42:57: Unloading unused assets
-Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-12/30/2023 22:42:57: Starting respawn
-12/30/2023 22:42:57: Lobby was created k_EResultOK  109775243664499113  error:False
-12/30/2023 22:42:57: Got requested lobby data
-12/30/2023 22:43:02: Unpacking compressed mapdata 23746
-12/30/2023 22:43:03: tip:$loadscreen_tip06
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1728174.
-Total: 387.908800 ms (FindLiveObjects: 136.588900 ms CreateObjectMapping: 24.920300 ms MarkObjects: 223.064300 ms  DeleteObjects: 3.334900 ms)
-
-12/30/2023 22:43:03: Got requested lobby data
-12/30/2023 22:43:07: Force generating hmap (-256.00, 0.00, 448.00)
-12/30/2023 22:43:07: Force generating hmap (-320.00, 0.00, 448.00)
-12/30/2023 22:43:07: Force generating hmap (-320.00, 0.00, 512.00)
-12/30/2023 22:43:07: Force generating hmap (-256.00, 0.00, 512.00)
-12/30/2023 22:43:07: Force generating hmap (-128.00, 0.00, 576.00)
-12/30/2023 22:43:11: Spawned after 8.019994
-12/30/2023 22:43:11: Skipping unloading unused assets
-12/30/2023 22:43:11: Minimap: Adding unique location (131.94, 39.56, 260.83)
-12/30/2023 22:43:11: Minimap: Adding unique location (-1299.80, 35.63, 1144.62)
-12/30/2023 22:43:11: Minimap: Adding unique location (-637.68, 33.99, 3844.75)
-12/30/2023 22:43:13: Starting music home
-12/30/2023 22:43:13: Resumed music home at 0
-12/30/2023 22:43:35: Activating default element Continue
-12/30/2023 22:43:46: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 22:43:46: Setting selected recipe 0
-12/30/2023 22:43:52: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 22:43:52: Setting selected recipe 0
-12/30/2023 22:44:01: Setting selected recipe 0
-12/30/2023 22:44:04: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 22:44:04: Setting selected recipe 0
-12/30/2023 22:44:04: Button pressed StackAll  frame:9981
-12/30/2023 22:44:15: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 22:44:15: Setting selected recipe 0
-12/30/2023 22:44:43: Setting selected recipe 0
-12/30/2023 22:44:52: Stopped music home at 4356873
-12/30/2023 22:44:52: Starting music meadows
-12/30/2023 22:44:52: Resumed music meadows at 0
-12/30/2023 22:44:54: Stopped music meadows at 89375
-12/30/2023 22:44:54: Starting music home
-12/30/2023 22:44:54: Resumed music home at 4356873
-12/30/2023 22:45:00: Stopped music home at 265305
-12/30/2023 22:45:00: Starting music home
-12/30/2023 22:45:00: Resumed music home at 265305
-12/30/2023 22:45:06: Stopped music home at 268127
-12/30/2023 22:45:06: Starting music meadows
-12/30/2023 22:45:06: Resumed music meadows at 89375
-12/30/2023 22:45:08: Stopped music meadows at 88435
-12/30/2023 22:45:08: Starting music home
-12/30/2023 22:45:08: Resumed music home at 268127
-12/30/2023 22:45:20: Stopped music home at 534374
-12/30/2023 22:45:20: Starting music meadows
-12/30/2023 22:45:20: Resumed music meadows at 88435
-12/30/2023 22:46:14: Player onboard, total onboard 1
-12/30/2023 22:46:15: Player over board, players left 0
-12/30/2023 22:46:44: Loading dungeon
-12/30/2023 22:46:44: Dungeon loaded with 40 rooms from old format in 16.0138 ms.
-12/30/2023 22:47:56: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 22:47:56: Setting selected recipe 1
-12/30/2023 22:47:56: Player 1562228727 wants to stack all in piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 22:47:57: Stopped music meadows at 6921465
-12/30/2023 22:47:57: Starting music home
-12/30/2023 22:47:57: Resumed music home at 534374
-12/30/2023 22:48:00: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 22:48:00: Setting selected recipe 0
-12/30/2023 22:48:05: Update PlayFab entity token
-12/30/2023 22:48:15: Stopped music home at 769574
-12/30/2023 22:48:15: Starting music meadows
-12/30/2023 22:48:15: Resumed music meadows at 6921465
-12/30/2023 22:48:31: Stopped music meadows at 691487
-12/30/2023 22:48:31: Starting music meadows
-12/30/2023 22:48:31: Resumed music meadows at 691487
-12/30/2023 22:48:53: Stopped music meadows at 996307
-12/30/2023 22:48:53: Starting music blackforest
-12/30/2023 22:49:28: Stopped music blackforest at 1513747
-12/30/2023 22:49:28: Starting music meadows
-12/30/2023 22:49:28: Resumed music meadows at 996307
-12/30/2023 22:49:42: Loading dungeon
-12/30/2023 22:49:42: Dungeon loaded with 28 rooms from old format in 16.0129 ms.
-12/30/2023 22:49:42: Loading dungeon
-12/30/2023 22:49:42: Dungeon loaded with 20 rooms from old format in 13.0108 ms.
-12/30/2023 22:50:00: Stopped music meadows at 1422489
-12/30/2023 22:50:00: Starting music blackforest
-12/30/2023 22:50:00: Resumed music blackforest at 1513747
-12/30/2023 22:50:04: Valid True
-12/30/2023 22:50:04: On death False
-12/30/2023 22:50:24: Stopped music blackforest at 1067807
-12/30/2023 22:50:24: Starting music meadows
-12/30/2023 22:50:24: Resumed music meadows at 1422489
-12/30/2023 22:51:03: Force generating hmap (-128.00, 0.00, 576.00)
-12/30/2023 22:51:19: Disabling PlayerBase  character_trigger
-12/30/2023 22:51:38: Disabling PlayerBase  character_trigger
-12/30/2023 22:51:39: Disabling PlayerBase  character_trigger
-12/30/2023 22:52:54: Force generating hmap (-256.00, 0.00, 448.00)
-12/30/2023 22:52:54: Force generating hmap (-320.00, 0.00, 448.00)
-12/30/2023 22:52:54: Force generating hmap (-320.00, 0.00, 512.00)
-12/30/2023 22:52:54: Force generating hmap (-256.00, 0.00, 512.00)
-12/30/2023 22:53:20: Loading dungeon
-12/30/2023 22:53:20: Dungeon loaded with 40 rooms from old format in 15.0125 ms.
-12/30/2023 22:53:42: Force generating hmap (-256.00, 0.00, 448.00)
-12/30/2023 22:53:42: Force generating hmap (-256.00, 0.00, 512.00)
-12/30/2023 22:53:42: Force generating hmap (-320.00, 0.00, 448.00)
-12/30/2023 22:53:42: Force generating hmap (-320.00, 0.00, 512.00)
-12/30/2023 22:54:07: Disabling collider_block  blocker
-12/30/2023 22:54:08: Disabling Blocker  blocker
-12/30/2023 22:54:08: Disabling Capsule_blockplayer  blocker
-12/30/2023 22:54:08: Disabling PlayerBase  character_trigger
-12/30/2023 22:54:11: Placed piece_workbench
-12/30/2023 22:54:11: Disabling PlayerBase  character_trigger
-12/30/2023 22:54:48: Disabling PlayerBase  character_trigger
-12/30/2023 22:54:50: Disabling Capsule_blockplayer  blocker
-12/30/2023 22:54:50: Disabling Blocker  blocker
-12/30/2023 22:54:50: Disabling collider_block  blocker
-12/30/2023 22:55:18: Disabling collider_block  blocker
-12/30/2023 22:55:29: Stopped music meadows at 3741613
-12/30/2023 22:55:29: Starting music blackforest
-12/30/2023 22:55:29: Resumed music blackforest at 1067807
-12/30/2023 22:55:55: Loading dungeon
-12/30/2023 22:55:55: Dungeon loaded with 40 rooms from old format in 14.0121 ms.
-12/30/2023 22:56:14: Stopped music blackforest at 1956863
-12/30/2023 22:56:14: Starting music meadows
-12/30/2023 22:56:14: Resumed music meadows at 3741613
-12/30/2023 22:56:49: Loading dungeon
-12/30/2023 22:56:49: Dungeon loaded with 24 rooms from old format in 14.0121 ms.
-12/30/2023 22:56:54: Force generating hmap (-256.00, 0.00, 448.00)
-12/30/2023 22:56:54: Force generating hmap (-256.00, 0.00, 512.00)
-12/30/2023 22:56:54: Force generating hmap (-320.00, 0.00, 448.00)
-12/30/2023 22:56:54: Force generating hmap (-320.00, 0.00, 512.00)
-12/30/2023 22:56:57: Spawned Troll x 1
-12/30/2023 22:57:41: Stopped music meadows at 3830937
-12/30/2023 22:57:41: Starting music blackforest
-12/30/2023 22:57:41: Resumed music blackforest at 1956863
-12/30/2023 22:57:49: Stopped music blackforest at 359385
-12/30/2023 22:57:49: Starting music blackforest
-12/30/2023 22:57:49: Resumed music blackforest at 359385
-12/30/2023 22:58:01: Loading dungeon
-12/30/2023 22:58:01: Dungeon loaded with 24 rooms from old format in 13.0127 ms.
-12/30/2023 22:58:05: Stopped music blackforest at 706540
-12/30/2023 22:58:05: Starting music meadows
-12/30/2023 22:58:05: Resumed music meadows at 3830937
-12/30/2023 22:58:29: Spawned Greyling x 1
-12/30/2023 22:58:32: Force generating hmap (-256.00, 0.00, 448.00)
-12/30/2023 22:58:32: Force generating hmap (-256.00, 0.00, 512.00)
-12/30/2023 22:58:32: Force generating hmap (-320.00, 0.00, 448.00)
-12/30/2023 22:58:32: Force generating hmap (-320.00, 0.00, 512.00)
-12/30/2023 22:58:58: Activating default element Continue
-12/30/2023 22:59:39: Setting selected recipe 3
-12/30/2023 23:00:10: Stopped music meadows at 5503075
-12/30/2023 23:00:10: Starting music home
-12/30/2023 23:02:06: Activating default element Continue
-12/30/2023 23:02:16: Skipping unloading unused assets
-12/30/2023 23:06:21: Connected portals 1:957480 <-> 1:983276
-12/30/2023 23:06:21: [ Connected 1 portals ]
-12/30/2023 23:06:25: Teleportation TRIGGER
-12/30/2023 23:06:25: Teleporting Terry
-12/30/2023 23:06:31: Force generating hmap (896.00, 0.00, 512.00)
-12/30/2023 23:06:31: Force generating hmap (896.00, 0.00, 576.00)
-12/30/2023 23:06:42: Stopped music home at 1030648
-12/30/2023 23:06:42: Starting music meadows
-12/30/2023 23:06:42: Resumed music meadows at 5503075
-12/30/2023 23:06:52: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:06:52: Setting selected recipe 3
-12/30/2023 23:06:57: Setting selected recipe 3
-12/30/2023 23:07:08: Stopped music meadows at 6650850
-12/30/2023 23:07:08: Starting music meadows
-12/30/2023 23:07:08: Resumed music meadows at 6650850
-12/30/2023 23:07:15: Update PlayFab entity token
-12/30/2023 23:07:17: Player onboard, total onboard 1
-12/30/2023 23:07:17: Player over board, players left 0
-12/30/2023 23:07:51: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:07:51: Setting selected recipe 3
-12/30/2023 23:07:52: Player 1562228727 wants to stack all in piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:07:55: Starting music evening
-12/30/2023 23:07:56: Stopped music meadows at 8746952
-12/30/2023 23:08:03: Teleportation TRIGGER
-12/30/2023 23:08:03: Teleporting Terry
-12/30/2023 23:08:09: Force generating hmap (-256.00, 0.00, 448.00)
-12/30/2023 23:08:09: Force generating hmap (-320.00, 0.00, 448.00)
-12/30/2023 23:08:09: Force generating hmap (-320.00, 0.00, 512.00)
-12/30/2023 23:08:09: Force generating hmap (-256.00, 0.00, 512.00)
-12/30/2023 23:08:09: Force generating hmap (-128.00, 0.00, 576.00)
-12/30/2023 23:08:18: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:18: Setting selected recipe 2
-12/30/2023 23:08:19: Player 1562228727 wants to stack all in piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:19: Spawned Greydwarf_Elite x 1
-12/30/2023 23:08:19: Spawned Greydwarf x 1
-12/30/2023 23:08:21: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:21: Setting selected recipe 2
-12/30/2023 23:08:22: Player 1562228727 wants to stack all in piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:24: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:24: Setting selected recipe 2
-12/30/2023 23:08:24: Player 1562228727 wants to stack all in piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:27: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:27: Setting selected recipe 2
-12/30/2023 23:08:27: Player 1562228727 wants to stack all in piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:31: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:31: Setting selected recipe 2
-12/30/2023 23:08:31: Player 1562228727 wants to stack all in piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:35: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:35: Setting selected recipe 2
-12/30/2023 23:08:42: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:42: Setting selected recipe 2
-12/30/2023 23:08:42: Starting music home
-12/30/2023 23:08:42: Resumed music home at 1030648
-12/30/2023 23:08:42: Player 1562228727 wants to stack all in piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:44: Setting selected recipe 2
-12/30/2023 23:08:49: Setting selected recipe 2
-12/30/2023 23:08:51: Button pressed Cancel  frame:123147
-12/30/2023 23:08:53: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:08:53: Setting selected recipe 2
-12/30/2023 23:09:08: Player 1562228727 wants to open piece_chest(Clone)   im: 1562228727
-12/30/2023 23:09:08: Setting selected recipe 2
-12/30/2023 23:09:09: Player 1562228727 wants to stack all in piece_chest(Clone)   im: 1562228727
-12/30/2023 23:09:11: Setting selected recipe 2
-12/30/2023 23:09:25: Disabling collider_block  blocker
-12/30/2023 23:09:27: Disabling PlayerBase  character_trigger
-12/30/2023 23:09:27: Disabling PlayerBase  character_trigger
-12/30/2023 23:09:45: Placed piece_chest_wood
-12/30/2023 23:09:47: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:09:47: Setting selected recipe 2
-12/30/2023 23:09:56: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:09:56: Setting selected recipe 2
-12/30/2023 23:10:02: Setting selected recipe 2
-12/30/2023 23:10:10: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:10:10: Setting selected recipe 2
-12/30/2023 23:10:10: Player 1562228727 wants to stack all in piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:10:11: Stopped music home at 3938188
-12/30/2023 23:10:14: Starting music home
-12/30/2023 23:10:14: Resumed music home at 3938188
-12/30/2023 23:10:16: Player 1562228727 wants to open piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:10:16: Setting selected recipe 2
-12/30/2023 23:10:16: Player 1562228727 wants to stack all in piece_chest_wood(Clone)   im: 1562228727
-12/30/2023 23:10:18: Setting selected recipe 2
-12/30/2023 23:10:23: Setting selected recipe 18
-12/30/2023 23:10:23: Spawned Greydwarf_Shaman x 1
-12/30/2023 23:10:24: Button pressed RepairButton  frame:129405
-12/30/2023 23:10:24: Button pressed RepairButton  frame:129420
-12/30/2023 23:10:24: Button pressed RepairButton  frame:129436
-12/30/2023 23:10:25: Button pressed RepairButton  frame:129449
-12/30/2023 23:10:25: Button pressed RepairButton  frame:129463
-12/30/2023 23:10:29: Setting selected recipe 0
-12/30/2023 23:10:29: Button pressed RepairButton  frame:129800
-12/30/2023 23:10:36: Compressed map data:18652
-12/30/2023 23:10:41: Is mine
-12/30/2023 23:10:41: is current spawnpoint
-12/30/2023 23:10:41: exporeusre check 0.9411765  True
-12/30/2023 23:10:41: Ignoring 2 colliders
-12/30/2023 23:10:43: Time 2147299.27997878, day:1192    nextm:2147670.00001073  skipspeed:30.8933359955748
-12/30/2023 23:10:48: Unloading unused assets
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 9802 unused Assets to reduce memory usage. Loaded Objects now: 2108462.
-Total: 459.923600 ms (FindLiveObjects: 182.750100 ms CreateObjectMapping: 26.445300 ms MarkObjects: 230.815100 ms  DeleteObjects: 19.912700 ms)
-
-12/30/2023 23:10:55: Uncompressed size 8399540
-12/30/2023 23:10:55: Compressed size 23746
-12/30/2023 23:10:55: Considering autobackup. World time: 1410, short time: 7200, long time: 43200, backup count: 4
-12/30/2023 23:10:55: Time to overwrite our last autobackup
-12/30/2023 23:10:55: Replacing backup file: terry_backup_auto-20231220101413
-12/30/2023 23:10:55: Saving backup at: terry_backup_auto-20231230231055
-12/30/2023 23:10:55: PrepareSave: clone done in 47ms
-12/30/2023 23:10:55: PrepareSave: ZDOExtraData.PrepareSave done in 73 ms
-12/30/2023 23:10:55: World save writing starting
-12/30/2023 23:10:55: World save writing started
-12/30/2023 23:10:57: Saved 690866 ZDOs
-12/30/2023 23:10:57: World save writing finishing
-12/30/2023 23:10:57: World save writing finished
-12/30/2023 23:10:57: World saved ( 1855.887ms )
-12/30/2023 23:10:57: Considering autobackup. World time: 1412.02, short time: 7200, long time: 43200, backup count: 4
-12/30/2023 23:10:57: Time to overwrite our last autobackup
-12/30/2023 23:10:57: Replacing backup file: Famheim_backup_auto-20231220182748
-12/30/2023 23:10:57: Saving backup at: Famheim_backup_auto-20231230231055
-12/30/2023 23:10:57: World auto backup saved ( 00:00:00.0205227ms )
-12/30/2023 23:11:02: Starting music morning
-12/30/2023 23:11:03: Stopped music home at 2121503
-12/30/2023 23:11:05: Teleportation TRIGGER
-12/30/2023 23:11:05: Teleporting Terry
-12/30/2023 23:11:10: Skipping unloading unused assets
-12/30/2023 23:11:10: Force generating hmap (896.00, 0.00, 512.00)
-12/30/2023 23:11:10: Force generating hmap (896.00, 0.00, 576.00)
-12/30/2023 23:11:36: Player onboard, total onboard 1
-12/30/2023 23:11:36: Starting music meadows
-12/30/2023 23:11:36: Resumed music meadows at 8746952
-12/30/2023 23:11:39: Doodad controlls set VikingShip(Clone)
-12/30/2023 23:12:36: Starting music sailing
-12/30/2023 23:12:42: Stopped music meadows at 1917754
-12/30/2023 23:12:51: Rel vel 2.476964
-12/30/2023 23:13:17: Spawned Fish3 x 1
-12/30/2023 23:13:22: Spawned Seagal x 2
-12/30/2023 23:16:39: Spawned Leech x 1
-12/30/2023 23:16:39: Spawned Leech x 1
-12/30/2023 23:16:51: Stopped music sailing at 10981017
-12/30/2023 23:16:51: Starting music blackforest
-12/30/2023 23:17:08: Starting music sailing
-12/30/2023 23:17:14: Stopped music blackforest at 1032057
-12/30/2023 23:17:14: Resumed music sailing at 10981017
-12/30/2023 23:18:01: Force generating hmap (640.00, 0.00, 1984.00)
-12/30/2023 23:18:01: Force generating hmap (576.00, 0.00, 1984.00)
-12/30/2023 23:18:11: Stopped music sailing at 1403048
-12/30/2023 23:18:11: Starting music blackforest
-12/30/2023 23:18:11: Resumed music blackforest at 1032057
-12/30/2023 23:18:26: Starting music sailing
-12/30/2023 23:18:32: Stopped music blackforest at 1970034
-12/30/2023 23:18:32: Resumed music sailing at 1403048
-12/30/2023 23:18:50: Spawned Fish2 x 2
-12/30/2023 23:19:50: Loading dungeon
-12/30/2023 23:19:50: Dungeon loaded with 21 rooms in 10.0085 ms.
-12/30/2023 23:20:01: Stopped music sailing at 5342177
-12/30/2023 23:20:01: Starting music blackforest
-12/30/2023 23:20:01: Resumed music blackforest at 1970034
-12/30/2023 23:20:19: Starting music sailing
-12/30/2023 23:20:25: Stopped music blackforest at 2997387
-12/30/2023 23:20:25: Resumed music sailing at 5342177
-12/30/2023 23:21:37: Stopped music sailing at 8547482
-12/30/2023 23:21:37: Starting music blackforest
-12/30/2023 23:21:37: Resumed music blackforest at 2997387
-12/30/2023 23:21:43: Starting music sailing
-12/30/2023 23:21:46: Stopped music blackforest at 3369943
-12/30/2023 23:21:46: Resumed music sailing at 8547482
-12/30/2023 23:22:31: Loading dungeon
-12/30/2023 23:22:31: Dungeon loaded with 36 rooms in 18.0172 ms.
-12/30/2023 23:22:49: Spawned Fish1 x 2
-12/30/2023 23:23:00: Update PlayFab entity token
-12/30/2023 23:23:01: Spawned Fish1 x 1
-12/30/2023 23:23:06: Spawned Seagal x 2
-12/30/2023 23:23:06: Spawned Fish3 x 1
-12/30/2023 23:23:06: Spawned Fish8 x 3
-12/30/2023 23:23:06: Spawned Fish8 x 1
-12/30/2023 23:23:06: Spawned Fish12 x 2
-12/30/2023 23:23:06: Spawned Fish12 x 3
-12/30/2023 23:23:06: Spawned Greydwarf x 1
-12/30/2023 23:23:24: Spawned Fish8 x 4
-12/30/2023 23:23:24: Spawned Fish8 x 2
-12/30/2023 23:23:54: Setting saddle:False
-12/30/2023 23:23:54: Setting saddle:False
-12/30/2023 23:24:42: Setting saddle:False
-12/30/2023 23:24:42: Setting saddle:False
-12/30/2023 23:24:42: Setting saddle:False
-12/30/2023 23:25:19: Spawned Fish2 x 1
-12/30/2023 23:25:30: Spawned Fish2 x 3
-12/30/2023 23:25:40: Spawned Fish7 x 2
-12/30/2023 23:25:51: Spawned Fish2 x 1
-12/30/2023 23:25:51: Spawned Fish7 x 2
-12/30/2023 23:26:06: Spawned Fish1 x 3
-12/30/2023 23:26:06: Spawned Fish2 x 3
-12/30/2023 23:26:06: Spawned Fish7 x 2
-12/30/2023 23:26:25: Spawned Seagal x 2
-12/30/2023 23:26:25: Spawned Fish2 x 1
-12/30/2023 23:26:25: Spawned Fish7 x 4
-12/30/2023 23:26:25: Spawned Goblin x 2
-12/30/2023 23:26:38: Placed locations in zone 11,61  duration 1.0005 ms
-12/30/2023 23:26:38: Loading dungeon
-12/30/2023 23:26:38: Dungeon loaded with 0 rooms from old format in 0 ms.
-12/30/2023 23:26:38: Generating DG_GoblinCamp(Clone), Seed: -1811969507, Bounds diff: (-30.48, -32.00, -30.95) / (33.52, 32.00, 33.05)
-12/30/2023 23:26:38: Available rooms:17
-12/30/2023 23:26:38: To place:25
-12/30/2023 23:26:38: Placed 19 rooms
-12/30/2023 23:26:38: Dungeon generated with seed -1811969507 and hash 1063384702
-12/30/2023 23:26:38: Force generating hmap (832.00, 0.00, 3904.00)
-12/30/2023 23:26:38: Placed locations in zone 13,61  duration 49.0432 ms
-12/30/2023 23:26:38: Placed locations in zone 14,61  duration 0 ms
-12/30/2023 23:26:39: Spawned Seagal x 2
-12/30/2023 23:26:39: Spawned Fish1 x 2
-12/30/2023 23:26:39: Spawned Fish7 x 3
-12/30/2023 23:26:46: Placed locations in zone 15,61  duration 1.0008 ms
-12/30/2023 23:26:47: Spawned Seagal x 1
-12/30/2023 23:26:50: Spawned Fish2 x 2
-12/30/2023 23:26:50: Spawned Fish2 x 1
-12/30/2023 23:26:50: Placed locations in zone 15,62  duration 0 ms
-12/30/2023 23:27:06: Placed locations in zone 11,63  duration 20.0171 ms
-12/30/2023 23:27:07: Loading dungeon
-12/30/2023 23:27:07: Dungeon loaded with 19 rooms in 16.0132 ms.
-12/30/2023 23:27:08: Spawned Seagal x 2
-12/30/2023 23:27:08: Spawned Fish2 x 1
-12/30/2023 23:27:08: Spawned Fish7 x 4
-12/30/2023 23:27:32: Spawned Seagal x 1
-12/30/2023 23:27:32: Spawned Fish1 x 5
-12/30/2023 23:27:32: Spawned Fish7 x 3
-12/30/2023 23:27:32: Setting saddle:False
-12/30/2023 23:27:32: Setting saddle:False
-12/30/2023 23:27:32: Setting saddle:False
-12/30/2023 23:27:32: Spawned Lox x 3
-12/30/2023 23:27:40: Spawned Seagal x 2
-12/30/2023 23:27:48: Placed locations in zone 13,65  duration 2.0019 ms
-12/30/2023 23:27:50: Spawned Fish2 x 3
-12/30/2023 23:27:50: Spawned Fish2 x 1
-12/30/2023 23:27:50: Spawned Fish7 x 5
-12/30/2023 23:27:50: Spawned Goblin x 1
-12/30/2023 23:28:00: Loading dungeon
-12/30/2023 23:28:00: Dungeon loaded with 0 rooms from old format in 0 ms.
-12/30/2023 23:28:00: Generating DG_GoblinCamp(Clone), Seed: -1811970059, Bounds diff: (-32.77, -32.00, -32.83) / (31.23, 32.00, 31.17)
-12/30/2023 23:28:00: Available rooms:17
-12/30/2023 23:28:00: To place:25
-12/30/2023 23:28:00: Placed 23 rooms
-12/30/2023 23:28:00: Dungeon generated with seed -1811970059 and hash -1094833253
-12/30/2023 23:28:00: Force generating hmap (704.00, 0.00, 4224.00)
-12/30/2023 23:28:00: Placed locations in zone 11,66  duration 48.0947 ms
-12/30/2023 23:28:00: Placed locations in zone 12,66  duration 0 ms
-12/30/2023 23:28:01: Spawned Fish7 x 2
-12/30/2023 23:28:04: Spawned Seagal x 2
-12/30/2023 23:28:04: Spawned Goblin x 1
-12/30/2023 23:28:11: Spawned Seagal x 2
-12/30/2023 23:28:11: Spawned Fish2 x 3
-12/30/2023 23:28:11: Spawned Fish7 x 4
-12/30/2023 23:28:11: Spawned Fish7 x 1
-12/30/2023 23:28:11: Setting saddle:False
-12/30/2023 23:28:11: Setting saddle:False
-12/30/2023 23:28:11: Setting saddle:False
-12/30/2023 23:28:11: Spawned Lox x 3
-12/30/2023 23:28:26: Spawned Seagal x 1
-12/30/2023 23:28:26: Spawned Fish1 x 2
-12/30/2023 23:28:26: Spawned Fish1 x 3
-12/30/2023 23:28:31: Spawned Seagal x 1
-12/30/2023 23:28:31: Spawned Fish2 x 1
-12/30/2023 23:28:31: Spawned Fish3 x 1
-12/30/2023 23:28:31: Spawned Fish8 x 4
-12/30/2023 23:28:31: Spawned Fish8 x 3
-12/30/2023 23:28:31: Spawned Fish8 x 3
-12/30/2023 23:28:31: Spawned Fish12 x 2
-12/30/2023 23:28:35: Activating default element Continue
-12/30/2023 23:28:42: Skipping unloading unused assets
-12/30/2023 23:29:03: Spawned Seagal x 1
-12/30/2023 23:29:03: Spawned Fish3 x 1
-12/30/2023 23:29:03: Spawned Fish7 x 1
-12/30/2023 23:29:03: Spawned Fish12 x 5
-12/30/2023 23:29:03: Spawned Fish12 x 1
-12/30/2023 23:29:03: Setting selected recipe 0
-12/30/2023 23:29:20: Spawned Fish3 x 1
-12/30/2023 23:29:20: Spawned Fish7 x 2
-12/30/2023 23:29:20: Spawned Fish8 x 5
-12/30/2023 23:29:20: Spawned Fish8 x 1
-12/30/2023 23:29:20: Spawned Fish12 x 2
-12/30/2023 23:29:28: Spawned Fish3 x 1
-12/30/2023 23:29:28: Spawned Fish3 x 1
-12/30/2023 23:29:28: Spawned Fish12 x 5
-12/30/2023 23:29:28: Spawned Fish12 x 1
-12/30/2023 23:30:12: Spawned Seagal x 2
-12/30/2023 23:30:12: Spawned Fish1 x 2
-12/30/2023 23:30:21: Spawned Deathsquito x 2
-12/30/2023 23:30:34: Placed locations in zone 0,55  duration 0 ms
-12/30/2023 23:30:35: Loading dungeon
-12/30/2023 23:30:35: Dungeon loaded with 21 rooms in 22.0195 ms.
-12/30/2023 23:30:35: Spawned Deathsquito x 1
-12/30/2023 23:30:44: Spawned Seagal x 1
-12/30/2023 23:30:44: Spawned Seagal x 1
-12/30/2023 23:30:48: Spawned Fish2 x 1
-12/30/2023 23:30:48: Spawned Goblin x 2
-12/30/2023 23:31:01: Stopped music sailing at 8887742
-12/30/2023 23:31:01: Starting music plains
-12/30/2023 23:31:51: Starting music sailing
-12/30/2023 23:31:57: Stopped music plains at 2462073
-12/30/2023 23:31:57: Resumed music sailing at 8887742
-12/30/2023 23:32:05: Spawned Seagal x 1
-12/30/2023 23:32:05: Spawned Fish1 x 1
-12/30/2023 23:32:05: Spawned Deathsquito x 2
-12/30/2023 23:32:09: Activating default element Continue
-12/30/2023 23:32:10: Activating default element Button_no
-12/30/2023 23:32:12: Shuting down
-12/30/2023 23:32:12: Uncompressed size 8399540
-12/30/2023 23:32:12: Compressed size 23814
-12/30/2023 23:32:12: Considering autobackup. World time: 2661.92, short time: 7200, long time: 43200, backup count: 4
-12/30/2023 23:32:12: No autobackup needed yet...
-12/30/2023 23:32:12: ZNet Shutdown
-12/30/2023 23:32:12: PrepareSave: clone done in 60ms
-12/30/2023 23:32:12: PrepareSave: ZDOExtraData.PrepareSave done in 70 ms
-12/30/2023 23:32:12: World save writing starting
-12/30/2023 23:32:12: World save writing started
-12/30/2023 23:32:14: Saved 695815 ZDOs
-12/30/2023 23:32:14: World save writing finishing
-12/30/2023 23:32:14: World save writing finished
-12/30/2023 23:32:14: World saved ( 1602.6075ms )
-12/30/2023 23:32:14: Considering autobackup. World time: 2661.92, short time: 7200, long time: 43200, backup count: 4
-12/30/2023 23:32:14: No autobackup needed yet...
-12/30/2023 23:32:14: Unloading unused assets
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-12/30/2023 23:32:14: Sending disconnect msg
-ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-12/30/2023 23:32:14: Disposing socket
-12/30/2023 23:32:14: Stopping listening socket
-12/30/2023 23:32:14: Last socket, unregistering callback
-12/30/2023 23:32:14: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
-12/30/2023 23:32:14: Local player destroyed
-Unloading 1438 unused Assets to reduce memory usage. Loaded Objects now: 1735750.
-Total: 394.414100 ms (FindLiveObjects: 148.955700 ms CreateObjectMapping: 26.321400 ms MarkObjects: 212.272800 ms  DeleteObjects: 6.864000 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-12/30/2023 23:32:15: ZNet OnDestroy
-12/30/2023 23:32:15: Net scene destroyed
-UnloadTime: 801.699700 ms
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-12/30/2023 23:32:16: Steam initialized, persona:tjgolubi
-12/30/2023 23:32:16: PlayFab custom ID set to "Steam_76561198290658520"
-12/30/2023 23:32:16: Using default prefs
-12/30/2023 23:32:16: Valheim version: 0.217.38 (network version 20)
-12/30/2023 23:32:16: Worldgenerator version setup:2
-12/30/2023 23:32:16: Render threading mode:MultiThreaded
-12/30/2023 23:32:16: Audioman already exist, destroying self
-12/30/2023 23:32:16: Checking for installed DLCs
-12/30/2023 23:32:16: DLC:beta installed:False
-Unloading 1078 unused Assets to reduce memory usage. Loaded Objects now: 156069.
-Total: 265.126000 ms (FindLiveObjects: 7.821200 ms CreateObjectMapping: 9.879300 ms MarkObjects: 243.209800 ms  DeleteObjects: 4.215400 ms)
-
-Event.Use() should not be called for events of type repaint
-12/30/2023 23:32:16: Starting music menu
-12/30/2023 23:32:16: Activating default element Start game
-Event.Use() should not be called for events of type repaint
-Event.Use() should not be called for events of type repaint
-12/30/2023 23:32:18: Activating default element Start game
-12/30/2023 23:32:18: Stopped music sailing at 9809725
-12/30/2023 23:32:21: show character selection
-12/30/2023 23:32:22: Button pressed Start  frame:293697
-12/30/2023 23:32:22: OnCharacterStart
-12/30/2023 23:32:38: Failed to get lobby gameserver
-12/30/2023 23:32:38: Failed to get lobby gameserver
-12/30/2023 23:32:38: Failed to get lobby gameserver
-12/30/2023 23:32:38: Failed to get lobby gameserver
-12/30/2023 23:32:38: Failed to get lobby gameserver
-12/30/2023 23:32:38: Failed to get lobby gameserver
-12/30/2023 23:32:38: Failed to get lobby gameserver
-12/30/2023 23:32:38: Failed to get lobby gameserver
-12/30/2023 23:32:38: Failed to get lobby gameserver
-12/30/2023 23:32:45: Loading main scene
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-12/30/2023 23:32:45: Cloud Save: 12 bytes. /serverlist/favorite.new
-12/30/2023 23:32:45: Steam writing file chunks 1 / 1, (12 bytes)
-12/30/2023 23:32:45: Steam Cloud Move: 12 bytes. /serverlist/favorite -> /serverlist/favorite.old
-12/30/2023 23:32:45: Steam writing file chunks 1 / 1, (12 bytes)
-12/30/2023 23:32:45: Steam Cloud Move: 12 bytes. /serverlist/favorite.new -> /serverlist/favorite
-12/30/2023 23:32:45: Steam writing file chunks 1 / 1, (12 bytes)
-12/30/2023 23:32:45: Cloud Save: 50 bytes. /serverlist/recent.new
-12/30/2023 23:32:45: Steam writing file chunks 1 / 1, (50 bytes)
-12/30/2023 23:32:45: Steam Cloud Move: 50 bytes. /serverlist/recent -> /serverlist/recent.old
-12/30/2023 23:32:45: Steam writing file chunks 1 / 1, (50 bytes)
-12/30/2023 23:32:45: Steam Cloud Move: 50 bytes. /serverlist/recent.new -> /serverlist/recent
-12/30/2023 23:32:45: Steam writing file chunks 1 / 1, (50 bytes)
-UnloadTime: 319.122500 ms
-12/30/2023 23:32:45: Steam initialized, persona:tjgolubi
-12/30/2023 23:32:45: PlayFab custom ID set to "Steam_76561198290658520"
-12/30/2023 23:32:45: Using default prefs
-12/30/2023 23:32:45: Loading player profile terry
-12/30/2023 23:32:45: isModded: False
-12/30/2023 23:32:45: Zonesystem Awake 295058
-12/30/2023 23:32:45: DungeonDB Awake 295058
-12/30/2023 23:32:45: Steam initialized, persona:tjgolubi
-12/30/2023 23:32:45: Registering lobby
-12/30/2023 23:32:45: Worldgenerator version setup:2
-12/30/2023 23:32:47: Audioman already exist, destroying self
-12/30/2023 23:32:47: Checking for installed DLCs
-12/30/2023 23:32:47: DLC:beta installed:False
-Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 154880.
-Total: 148.501500 ms (FindLiveObjects: 6.661000 ms CreateObjectMapping: 7.838800 ms MarkObjects: 132.912000 ms  DeleteObjects: 1.089200 ms)
-
-12/30/2023 23:32:51: Zonesystem Start 295058
-12/30/2023 23:32:51: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-12/30/2023 23:32:51: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-12/30/2023 23:32:51: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-12/30/2023 23:32:51: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-12/30/2023 23:32:51: DungeonDB Start 295058
-12/30/2023 23:32:51: ZRpc timeout set to 30s 
-12/30/2023 23:32:51: ZNET START
-12/30/2023 23:32:51: Load world: Famheim (Famheim)
-12/30/2023 23:32:51: Loading 695815 zdos, my sessionID: 2079925572, data version: 33
-12/30/2023 23:32:51: Creating ZDOs
-12/30/2023 23:32:51: Loading in ZDOs
-12/30/2023 23:32:52: Adding to Dictionary
-12/30/2023 23:32:52: Adding to Sectors
-12/30/2023 23:32:52: Connecting Portals, Spawners & ZSyncTransforms
-ConnectPortals => Connected 1 portals.
-ConnectSpawners => Connected 161 spawners and 1005 'done' spawners.
-ConnectSyncTransforms => Connected 1 SyncTransforms.
-12/30/2023 23:32:52: Loaded 10076 locations
-12/30/2023 23:32:52: Unloading unused assets
-Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-12/30/2023 23:32:52: Starting respawn
-12/30/2023 23:32:52: Lobby was created k_EResultOK  109775243672815650  error:False
-12/30/2023 23:32:52: Got requested lobby data
-12/30/2023 23:32:57: Unpacking compressed mapdata 23814
-12/30/2023 23:32:58: tip:$loadscreen_tip02
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1728183.
-Total: 421.818700 ms (FindLiveObjects: 136.559000 ms CreateObjectMapping: 24.121900 ms MarkObjects: 257.870200 ms  DeleteObjects: 3.267300 ms)
-
-12/30/2023 23:32:58: Got requested lobby data
-12/30/2023 23:33:06: Spawned after 8.019994
-12/30/2023 23:33:06: Skipping unloading unused assets
-12/30/2023 23:33:06: Player onboard, total onboard 1
-12/30/2023 23:33:06: Minimap: Adding unique location (131.94, 39.56, 260.83)
-12/30/2023 23:33:06: Minimap: Adding unique location (-1299.80, 35.63, 1144.62)
-12/30/2023 23:33:06: Minimap: Adding unique location (-637.68, 33.99, 3844.75)
-12/30/2023 23:33:08: Starting music plains
-12/30/2023 23:33:08: Resumed music plains at 2462073
-12/30/2023 23:33:10: Doodad controlls set VikingShip(Clone)
-12/30/2023 23:33:19: Spawned Fish1 x 1
-12/30/2023 23:33:19: Spawned Fish2 x 1
-12/30/2023 23:33:26: Starting music sailing
-12/30/2023 23:33:31: Spawned Seagal x 1
-12/30/2023 23:33:31: Spawned Goblin x 3
-12/30/2023 23:33:32: Stopped music plains at 3497893
-12/30/2023 23:33:32: Resumed music sailing at 9809725
-12/30/2023 23:33:37: Placed locations in zone 1,51  duration 2.0017 ms
-12/30/2023 23:33:37: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
-12/30/2023 23:33:37: New connection
-12/30/2023 23:33:38: Accepting connection k_EResultOK
-12/30/2023 23:33:38: Connecting to Steamworks.SteamNetworkingIdentity
-12/30/2023 23:33:38: Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
-12/30/2023 23:33:38: Got status changed msg k_ESteamNetworkingConnectionState_Connected
-12/30/2023 23:33:39: Got handshake from client 76561198147279331
-12/30/2023 23:33:40: Spawned Seagal x 2
-12/30/2023 23:33:40: Spawned Fish1 x 2
-12/30/2023 23:33:40: Spawned Fish2 x 1
-12/30/2023 23:33:40: Spawned Deathsquito x 1
-12/30/2023 23:33:43: Network version check, their:20, mine:20
-12/30/2023 23:33:43: Server: New peer connected,sending global keys
-12/30/2023 23:33:47: Spawned Fish2 x 2
-12/30/2023 23:33:51: Spawned Fish2 x 1
-12/30/2023 23:33:58: Got character ZDOID from Dylan : -68827769:4
-12/30/2023 23:34:13: Spawned Goblin x 3
-12/30/2023 23:34:13: Setting saddle:False
-12/30/2023 23:34:13: Setting saddle:False
-12/30/2023 23:34:13: Setting saddle:False
-12/30/2023 23:34:13: Spawned Lox x 3
-12/30/2023 23:34:13: Spawned Deathsquito x 1
-12/30/2023 23:34:17: Spawned Seagal x 1
-12/30/2023 23:34:31: Spawned Draugr x 1
-12/30/2023 23:34:31: Spawned Draugr x 1
-12/30/2023 23:34:31: Spawned Skeleton x 3
-12/30/2023 23:34:31: Spawned Skeleton x 1
-12/30/2023 23:34:31: Spawned Blob x 2
-12/30/2023 23:34:31: Spawned Leech x 1
-12/30/2023 23:34:36: Spawned Seagal x 1
-12/30/2023 23:34:36: Spawned Seagal x 1
-12/30/2023 23:34:36: Spawned Goblin x 4
-12/30/2023 23:34:36: Spawned Goblin x 1
-12/30/2023 23:34:44: Spawned Draugr x 2
-12/30/2023 23:34:44: Spawned Leech x 1
-12/30/2023 23:34:44: Spawned Wraith x 1
-12/30/2023 23:34:57: Spawned Fish7 x 4
-12/30/2023 23:34:57: Spawned Draugr x 1
-12/30/2023 23:34:57: Spawned Draugr x 1
-12/30/2023 23:34:57: Spawned Leech x 1
-12/30/2023 23:35:01: Spawned Seagal x 2
-12/30/2023 23:35:01: Spawned Fish1 x 1
-12/30/2023 23:35:01: Spawned Fish2 x 2
-12/30/2023 23:35:01: Spawned Serpent x 1
-12/30/2023 23:35:07: Setting selected recipe 0
-12/30/2023 23:35:09: Spawned Deathsquito x 2
-12/30/2023 23:35:11: ZRpc timeout detected
-12/30/2023 23:35:11: Closing socket 76561198147279331
-12/30/2023 23:35:11:   send queue size:0
-12/30/2023 23:35:11: Got status changed msg k_ESteamNetworkingConnectionState_None
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:40 owner -68827769
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:2 owner -68827769
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:1 owner -68827769
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:3 owner -68827769
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:4 owner -68827769
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:37 owner -68827769
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:63 owner -68827769
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:65 owner -68827769
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:66 owner -68827769
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:64 owner -68827769
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:67 owner -68827769
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:69 owner -68827769
-12/30/2023 23:35:11: Destroying abandoned non persistent zdo -68827769:68 owner -68827769
-12/30/2023 23:35:11: Disposing socket
-12/30/2023 23:35:11: Disposing socket
-12/30/2023 23:35:18: Spawned Greydwarf x 3
-12/30/2023 23:35:18: Spawned Goblin x 3
-12/30/2023 23:35:18: Setting saddle:False
-12/30/2023 23:35:18: Setting saddle:False
-12/30/2023 23:35:18: Spawned Lox x 2
-12/30/2023 23:35:18: Spawned FireFlies x 1
-12/30/2023 23:35:18: Spawned FireFlies x 1
-12/30/2023 23:35:28: Spawned Greydwarf_Elite x 1
-12/30/2023 23:35:28: Spawned FireFlies x 1
-12/30/2023 23:35:28: Spawned FireFlies x 1
-12/30/2023 23:35:39: Spawned Greydwarf x 2
-12/30/2023 23:36:03: Spawned Greydwarf x 1
-12/30/2023 23:36:03: Spawned FireFlies x 1
-12/30/2023 23:36:14: Spawned Greydwarf_Elite x 1
-12/30/2023 23:36:14: Spawned FireFlies x 1
-12/30/2023 23:36:38: Spawned Greydwarf x 2
-12/30/2023 23:36:38: Spawned Greydwarf_Shaman x 1
-12/30/2023 23:36:38: Spawned Greydwarf_Shaman x 1
-12/30/2023 23:37:05: Stopped music sailing at 7117471
-12/30/2023 23:37:05: Starting music blackforest
-12/30/2023 23:37:12: Starting music sailing
-12/30/2023 23:37:16: Stopped music blackforest at 480748
-12/30/2023 23:37:16: Resumed music sailing at 7117471
-12/30/2023 23:37:21: Loading dungeon
-12/30/2023 23:37:21: Dungeon loaded with 24 rooms in 17.0147 ms.
-12/30/2023 23:37:26: Spawned FireFlies x 1
-12/30/2023 23:37:26: Spawned FireFlies x 1
-12/30/2023 23:37:47: Spawned FireFlies x 1
-12/30/2023 23:38:08: Spawned Greydwarf_Elite x 1
-12/30/2023 23:38:08: Spawned FireFlies x 1
-12/30/2023 23:38:29: Spawned Deer x 2
-12/30/2023 23:38:29: Spawned Greydwarf_Shaman x 1
-12/30/2023 23:38:29: Spawned FireFlies x 1
-12/30/2023 23:38:44: Update PlayFab entity token
-12/30/2023 23:38:54: Spawned Greydwarf x 1
-12/30/2023 23:38:54: Spawned FireFlies x 1
-12/30/2023 23:38:58: Spawned Greydwarf_Elite x 1
-12/30/2023 23:38:58: Spawned Greydwarf_Shaman x 1
-12/30/2023 23:38:58: Spawned FireFlies x 1
-12/30/2023 23:39:03: Stopped music sailing at 11870392
-12/30/2023 23:39:03: Starting music blackforest
-12/30/2023 23:39:04: Resumed music blackforest at 480748
-12/30/2023 23:39:26: Starting music sailing
-12/30/2023 23:39:33: Stopped music blackforest at 1758354
-12/30/2023 23:39:33: Resumed music sailing at 11870392
-12/30/2023 23:39:59: Stopped music sailing at 977184
-12/30/2023 23:39:59: Starting music blackforest
-12/30/2023 23:39:59: Resumed music blackforest at 1758354
-12/30/2023 23:40:07: Spawned Greydwarf x 1
-12/30/2023 23:40:07: Spawned Greydwarf_Shaman x 1
-12/30/2023 23:40:07: Spawned Greydwarf_Shaman x 1
-12/30/2023 23:40:07: Spawned FireFlies x 1
-12/30/2023 23:40:07: Spawned FireFlies x 1
-12/30/2023 23:40:31: Spawned FireFlies x 1
-12/30/2023 23:40:31: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
-12/30/2023 23:40:31: New connection
-12/30/2023 23:40:31: Accepting connection k_EResultOK
-12/30/2023 23:40:31: Connecting to Steamworks.SteamNetworkingIdentity
-12/30/2023 23:40:31: Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
-12/30/2023 23:40:32: Got status changed msg k_ESteamNetworkingConnectionState_Connected
-12/30/2023 23:40:32: Got handshake from client 76561198147279331
-12/30/2023 23:40:38: Network version check, their:20, mine:20
-12/30/2023 23:40:38: Server: New peer connected,sending global keys
-12/30/2023 23:40:54: Got character ZDOID from Dylan : -1455500437:1
-12/30/2023 23:41:27: Stop doodad controlls
-12/30/2023 23:41:29: Player over board, players left 0
-12/30/2023 23:42:09: Starting music morning
-12/30/2023 23:42:10: Stopped music blackforest at 7497233
-12/30/2023 23:42:24: Spawned Boar x 1
-12/30/2023 23:42:43: Starting music blackforest
-12/30/2023 23:42:43: Resumed music blackforest at 7497233
-12/30/2023 23:42:47: Loading dungeon
-12/30/2023 23:42:47: Dungeon loaded with 23 rooms in 12.5201 ms.
-12/30/2023 23:42:47: Loading dungeon
-12/30/2023 23:42:47: Dungeon loaded with 30 rooms in 11.005 ms.
-12/30/2023 23:43:29: Connected portals 1:1648340 <-> 1:1944383
-12/30/2023 23:43:29: [ Connected 1 portals ]
-12/30/2023 23:43:30: Stopped music blackforest at 512155
-12/30/2023 23:43:30: Starting music home
-12/30/2023 23:43:30: Teleportation TRIGGER
-12/30/2023 23:43:30: Teleporting Terry
-12/30/2023 23:43:36: Force generating hmap (-256.00, 0.00, 448.00)
-12/30/2023 23:43:36: Force generating hmap (-320.00, 0.00, 448.00)
-12/30/2023 23:43:36: Force generating hmap (-320.00, 0.00, 512.00)
-12/30/2023 23:43:36: Force generating hmap (-256.00, 0.00, 512.00)
-12/30/2023 23:43:37: Force generating hmap (-128.00, 0.00, 576.00)
-12/30/2023 23:43:50: Teleportation TRIGGER
-12/30/2023 23:43:50: Teleporting Terry
-12/30/2023 23:43:55: Force generating hmap (-64.00, 0.00, 2304.00)
-12/30/2023 23:43:55: Force generating hmap (0.00, 0.00, 2304.00)
-12/30/2023 23:43:55: Force generating hmap (-64.00, 0.00, 2432.00)
-12/30/2023 23:43:55: Force generating hmap (0.00, 0.00, 2432.00)
-12/30/2023 23:43:57: Loading dungeon
-12/30/2023 23:43:57: Dungeon loaded with 23 rooms in 12.3589 ms.
-12/30/2023 23:43:57: Loading dungeon
-12/30/2023 23:43:57: Dungeon loaded with 30 rooms in 17.3846 ms.
-12/30/2023 23:44:09: Connected portals 1:1648341 <-> 1:1944383
-12/30/2023 23:44:09: [ Connected 1 portals ]
-12/30/2023 23:44:12: Teleportation TRIGGER
-12/30/2023 23:44:12: Teleporting Terry
-12/30/2023 23:44:18: Force generating hmap (-256.00, 0.00, 448.00)
-12/30/2023 23:44:18: Force generating hmap (-320.00, 0.00, 448.00)
-12/30/2023 23:44:18: Force generating hmap (-320.00, 0.00, 512.00)
-12/30/2023 23:44:18: Force generating hmap (-256.00, 0.00, 512.00)
-12/30/2023 23:44:18: Force generating hmap (-128.00, 0.00, 576.00)
-12/30/2023 23:44:31: Stopped music home at 2669049
-12/30/2023 23:44:31: Starting music meadows
-12/30/2023 23:44:41: Setting selected recipe 1
-12/30/2023 23:44:47: Stopped music meadows at 722311
-12/30/2023 23:44:47: Starting music meadows
-12/30/2023 23:44:47: Resumed music meadows at 722311
-12/30/2023 23:44:48: Setting selected recipe 1
-12/30/2023 23:44:48: Player 2079925572 wants to stack all in piece_chest_wood(Clone)   im: 2079925572
-12/30/2023 23:44:49: Setting selected recipe 1
-12/30/2023 23:44:52: Setting selected recipe 1
-12/30/2023 23:44:55: Setting selected recipe 1
-12/30/2023 23:44:56: Added to stack25 0
-12/30/2023 23:44:56: Setting selected recipe 1
-12/30/2023 23:44:58: Setting selected recipe 1
-12/30/2023 23:45:00: Setting selected recipe 1
-12/30/2023 23:45:02: Setting selected recipe 1
-12/30/2023 23:45:11: Setting selected recipe 1
-12/30/2023 23:45:11: Stopped music meadows at 1054636
-12/30/2023 23:45:11: Starting music home
-12/30/2023 23:45:11: Resumed music home at 2669049
-12/30/2023 23:45:16: Setting selected recipe 1
-12/30/2023 23:45:19: Setting selected recipe 1
-12/30/2023 23:45:23: Setting selected recipe 1
-12/30/2023 23:45:30: Setting selected recipe 1
-12/30/2023 23:45:35: Setting selected recipe 1
-12/30/2023 23:45:36: Setting selected recipe 1
-12/30/2023 23:45:39: Setting selected recipe 1
-12/30/2023 23:45:47: Setting selected recipe 1
-12/30/2023 23:45:50: Player -1455500437 wants to open piece_chest_wood(Clone)   im: 2079925572
-12/30/2023 23:45:56: Setting selected recipe 1
-12/30/2023 23:45:56: Stopped music home at 2001770
-12/30/2023 23:45:56: Starting music meadows
-12/30/2023 23:45:56: Resumed music meadows at 1054636
-12/30/2023 23:46:07: Stopped music meadows at 460991
-12/30/2023 23:46:07: Starting music home
-12/30/2023 23:46:07: Resumed music home at 2001770
-12/30/2023 23:46:11: Setting selected recipe 1
-12/30/2023 23:46:19: Setting selected recipe 2
-12/30/2023 23:46:19: Button pressed RepairButton  frame:382314
-12/30/2023 23:46:20: Button pressed RepairButton  frame:382329
-12/30/2023 23:46:20: Button pressed RepairButton  frame:382340
-12/30/2023 23:46:22: Setting selected recipe 0
-12/30/2023 23:46:22: Button pressed RepairButton  frame:382494
-12/30/2023 23:46:43: Setting selected recipe 0
-12/30/2023 23:46:46: Setting selected recipe 0
-12/30/2023 23:46:48: Setting selected recipe 0
-12/30/2023 23:47:12: Disabling collider_block  blocker
-12/30/2023 23:47:13: Disabling TELEPORT  character_trigger
-12/30/2023 23:47:13: Disabling PlayerBase  character_trigger
-12/30/2023 23:47:18: Setting selected recipe 0
-12/30/2023 23:47:43: Setting selected recipe 0
-12/30/2023 23:47:44: Stopped music home at 4267186
-12/30/2023 23:47:44: Starting music meadows
-12/30/2023 23:47:44: Resumed music meadows at 460991
-12/30/2023 23:47:46: Activating default element Slider
-12/30/2023 23:47:47: Player -1455500437 wants to open piece_chest_wood(Clone)   im: 2079925572
-12/30/2023 23:47:48: Button pressed Button_ok  frame:386741
-12/30/2023 23:47:52: Setting selected recipe 0
-12/30/2023 23:48:02: Setting selected recipe 0
-12/30/2023 23:48:04: Stopped music meadows at 883411
-12/30/2023 23:48:04: Starting music home
-12/30/2023 23:48:04: Resumed music home at 4267186
-12/30/2023 23:48:04: Activating default element Slider
-12/30/2023 23:48:06: Button pressed Button_ok  frame:387607
-12/30/2023 23:48:08: Setting selected recipe 0
-12/30/2023 23:48:11: Player 2079925572 wants to open piece_chest_wood(Clone)   im: 2079925572
-12/30/2023 23:48:11: Setting selected recipe 0
-12/30/2023 23:48:13: Stopped music home at 411246
-12/30/2023 23:48:13: Starting music meadows
-12/30/2023 23:48:13: Resumed music meadows at 883411
-12/30/2023 23:48:16: Activating default element Slider
-12/30/2023 23:48:20: Button pressed Button_ok  frame:388401
-12/30/2023 23:48:24: Setting selected recipe 0
-12/30/2023 23:48:27: Setting selected recipe 0
-12/30/2023 23:48:29: Disabling TELEPORT  character_trigger
-12/30/2023 23:48:29: Disabling PlayerBase  character_trigger
-12/30/2023 23:48:34: Setting selected recipe 0
-12/30/2023 23:48:36: Stopped music meadows at 980313
-12/30/2023 23:48:36: Starting music home
-12/30/2023 23:48:36: Resumed music home at 411246
-12/30/2023 23:48:36: Setting selected recipe 0
-12/30/2023 23:49:10: Setting selected recipe 0
-12/30/2023 23:49:25: Stopped music home at 2199247
-12/30/2023 23:49:26: Starting music home
-12/30/2023 23:49:26: Resumed music home at 2199247
-12/30/2023 23:49:46: Stopped music home at 884351
-12/30/2023 23:49:46: Starting music meadows
-12/30/2023 23:49:46: Resumed music meadows at 980313
-12/30/2023 23:49:57: Setting selected recipe 0
-12/30/2023 23:50:09: Setting selected recipe 0
-12/30/2023 23:50:09: Stopped music meadows at 1027353
-12/30/2023 23:50:09: Starting music home
-12/30/2023 23:50:09: Resumed music home at 884351
-12/30/2023 23:50:22: Setting selected recipe 0
-12/30/2023 23:50:29: Player 2079925572 wants to open piece_chest_wood(Clone)   im: 2079925572
-12/30/2023 23:50:29: Setting selected recipe 0
-12/30/2023 23:50:42: Stopped music home at 1445068
-12/30/2023 23:50:42: Starting music home
-12/30/2023 23:50:42: Resumed music home at 1445068
-12/30/2023 23:51:00: Setting selected recipe 0
-12/30/2023 23:51:11: Stopped music home at 1283251
-12/30/2023 23:51:11: Starting music home
-12/30/2023 23:51:11: Resumed music home at 1283251
-12/30/2023 23:51:12: Player -1455500437 wants to open piece_chest_wood(Clone)   im: 2079925572
-12/30/2023 23:51:17: Player 2079925572 wants to open piece_chest_wood(Clone)   im: 2079925572
-12/30/2023 23:51:17: Setting selected recipe 0
-12/30/2023 23:51:32: Setting selected recipe 0
-12/30/2023 23:51:40: Setting selected recipe 0
-12/30/2023 23:51:42: Setting selected recipe 0
-12/30/2023 23:51:45: Disabling TELEPORT  character_trigger
-12/30/2023 23:51:45: Disabling PlayerBase  character_trigger
-12/30/2023 23:51:45: Player onboard, total onboard 1
-12/30/2023 23:51:45: Player over board, players left 0
-12/30/2023 23:51:45: Player onboard, total onboard 1
-12/30/2023 23:51:54: Setting selected recipe 0
-12/30/2023 23:52:20: Stopped music home at 3035961
-12/30/2023 23:52:20: Starting music meadows
-12/30/2023 23:52:20: Resumed music meadows at 1027353
-12/30/2023 23:52:21: Player onboard, total onboard 2
-12/30/2023 23:52:21: Player over board, players left 1
-12/30/2023 23:52:21: Player onboard, total onboard 2
-12/30/2023 23:52:29: Player over board, players left 1
-12/30/2023 23:52:42: Setting selected recipe 0
-12/30/2023 23:52:44: Stopped music meadows at 1071571
-12/30/2023 23:52:44: Starting music home
-12/30/2023 23:52:44: Resumed music home at 3035961
-12/30/2023 23:52:57: Activating default element Slider
-12/30/2023 23:52:58: Button pressed Button_ok  frame:404658
-12/30/2023 23:52:59: Setting selected recipe 0
-12/30/2023 23:53:09: Stopped music home at 1074465
-12/30/2023 23:53:09: Starting music meadows
-12/30/2023 23:53:09: Resumed music meadows at 1071571
-12/30/2023 23:53:09: Player onboard, total onboard 2
-12/30/2023 23:53:46: Starting music sailing
-12/30/2023 23:53:52: Stopped music meadows at 1917350
-12/30/2023 23:54:05: Spawned Greydwarf x 2
-12/30/2023 23:54:25: Loading dungeon
-12/30/2023 23:54:25: Dungeon loaded with 28 rooms from old format in 17.0143 ms.
-12/30/2023 23:55:22: Spawned Seagal x 1
-12/30/2023 23:55:36: Update PlayFab entity token
-12/30/2023 23:56:25: Spawned Boar x 1
-12/30/2023 23:56:25: Spawned Greyling x 1
-12/30/2023 23:56:46: Spawned Boar x 1
-12/30/2023 23:56:55: Setting selected recipe 0
-12/30/2023 23:57:17: Spawned Seagal x 1
-12/30/2023 23:57:35: Force generating hmap (128.00, 0.00, -512.00)
-12/30/2023 23:57:35: Force generating hmap (192.00, 0.00, -512.00)
-12/30/2023 23:57:35: Force generating hmap (128.00, 0.00, -576.00)
-12/30/2023 23:57:35: Force generating hmap (192.00, 0.00, -576.00)
-12/30/2023 23:57:52: Setting selected recipe 0
-12/30/2023 23:58:41: Spawned Fish5 x 4
-12/30/2023 23:59:01: Spawned Deer x 1
-12/30/2023 23:59:05: Stopped music sailing at 1737032
-12/30/2023 23:59:05: Starting music blackforest
-12/30/2023 23:59:16: Starting music sailing
-12/30/2023 23:59:24: Stopped music blackforest at 809087
-12/30/2023 23:59:24: Starting music blackforest
-12/30/2023 23:59:24: Resumed music blackforest at 809087
-12/30/2023 23:59:49: Starting music sailing
-12/30/2023 23:59:55: Stopped music blackforest at 2168542
-12/30/2023 23:59:55: Resumed music sailing at 1737032
-12/31/2023 00:00:06: Stopped music sailing at 2239419
-12/31/2023 00:00:06: Starting music blackforest
-12/31/2023 00:00:06: Resumed music blackforest at 2168542
-12/31/2023 00:00:18: Starting music sailing
-12/31/2023 00:00:26: Stopped music blackforest at 3028433
-12/31/2023 00:00:26: Starting music blackforest
-12/31/2023 00:00:26: Resumed music blackforest at 3028433
-12/31/2023 00:01:10: Starting music sailing
-12/31/2023 00:01:14: Spawned Deer x 1
-12/31/2023 00:01:14: Spawned Seagal x 1
-12/31/2023 00:01:14: Spawned Seagal x 2
-12/31/2023 00:01:14: Spawned Fish1 x 1
-12/31/2023 00:01:16: Stopped music blackforest at 5260951
-12/31/2023 00:01:16: Resumed music sailing at 2239419
-12/31/2023 00:01:30: Spawned Fish1 x 1
-12/31/2023 00:01:42: Spawned Seagal x 1
-12/31/2023 00:01:42: Spawned Fish1 x 2
-12/31/2023 00:01:42: Spawned Fish2 x 2
-12/31/2023 00:01:52: Spawned Fish2 x 2
-12/31/2023 00:01:52: Spawned Fish3 x 1
-12/31/2023 00:02:00: Spawned Fish3 x 1
-12/31/2023 00:02:00: Spawned Fish3 x 1
-12/31/2023 00:02:18: Spawned Fish3 x 1
-12/31/2023 00:02:26: Loading dungeon
-12/31/2023 00:02:26: Dungeon loaded with 34 rooms in 20.0168 ms.
-12/31/2023 00:02:34: Spawned Seagal x 1
-12/31/2023 00:02:42: Spawned Fish3 x 2
-12/31/2023 00:02:42: Spawned Fish8 x 4
-12/31/2023 00:02:42: Spawned Fish12 x 3
-12/31/2023 00:02:45: Uncompressed size 8399540
-12/31/2023 00:02:45: Compressed size 23766
-12/31/2023 00:02:45: Considering autobackup. World time: 1786.58, short time: 7200, long time: 43200, backup count: 4
-12/31/2023 00:02:45: No autobackup needed yet...
-12/31/2023 00:02:45: Sending message to save player profiles
-12/31/2023 00:02:45: Sent to 76561198147279331
-12/31/2023 00:02:45: PrepareSave: clone done in 79ms
-12/31/2023 00:02:45: PrepareSave: ZDOExtraData.PrepareSave done in 60 ms
-12/31/2023 00:02:45: World save writing starting
-12/31/2023 00:02:45: World save writing started
-12/31/2023 00:02:47: Spawned Seagal x 2
-12/31/2023 00:02:47: Saved 696229 ZDOs
-12/31/2023 00:02:47: World save writing finishing
-12/31/2023 00:02:47: World save writing finished
-12/31/2023 00:02:47: World saved ( 1967.8582ms )
-12/31/2023 00:02:47: Considering autobackup. World time: 1788.76, short time: 7200, long time: 43200, backup count: 4
-12/31/2023 00:02:47: No autobackup needed yet...
-12/31/2023 00:02:55: Spawned Fish2 x 2
-12/31/2023 00:02:58: Placed locations in zone 12,-27  duration 2.0016 ms
-12/31/2023 00:03:01: Spawned Seagal x 1
-12/31/2023 00:03:01: Spawned Fish2 x 2
-12/31/2023 00:03:07: Spawned Seagal x 2
-12/31/2023 00:03:07: Spawned Seagal x 2
-12/31/2023 00:03:07: Spawned Fish1 x 4
-12/31/2023 00:03:07: Spawned Fish5 x 4
-12/31/2023 00:03:07: Spawned Fish5 x 3
-12/31/2023 00:03:07: Starting music evening
-12/31/2023 00:03:08: Stopped music sailing at 7185204
-12/31/2023 00:03:51: Starting music sailing
-12/31/2023 00:03:52: Resumed music sailing at 7185204
-12/31/2023 00:03:59: Spawned Fish2 x 3
-12/31/2023 00:03:59: Spawned Fish3 x 1
-12/31/2023 00:03:59: Spawned Fish5 x 3
-12/31/2023 00:03:59: Spawned Fish8 x 4
-12/31/2023 00:03:59: Spawned Fish8 x 2
-12/31/2023 00:03:59: Spawned Fish12 x 2
-12/31/2023 00:03:59: Spawned Fish12 x 4
-12/31/2023 00:04:06: Spawned Fish5 x 4
-12/31/2023 00:04:06: Spawned Fish8 x 4
-12/31/2023 00:04:06: Spawned Fish12 x 2
-12/31/2023 00:04:15: Spawned Fish3 x 2
-12/31/2023 00:04:15: Spawned Fish5 x 2
-12/31/2023 00:04:15: Spawned Fish12 x 2
-12/31/2023 00:04:23: Placed locations in zone 18,-26  duration 8.0068 ms
-12/31/2023 00:04:24: Spawned Fish3 x 1
-12/31/2023 00:04:24: Spawned Fish8 x 5
-12/31/2023 00:04:24: Spawned Fish8 x 3
-12/31/2023 00:04:24: Spawned Fish12 x 4
-12/31/2023 00:04:29: Invalid swim direction
-12/31/2023 00:04:32: Spawned Fish8 x 2
-12/31/2023 00:04:38: Placed locations in zone 15,-28  duration 7.0053 ms
-12/31/2023 00:04:38: Placed locations in zone 16,-28  duration 0.999 ms
-12/31/2023 00:04:40: Spawned Fish5 x 5
-12/31/2023 00:04:40: Spawned Fish5 x 3
-12/31/2023 00:04:40: Spawned Fish8 x 2
-12/31/2023 00:04:40: Spawned Fish12 x 2
-12/31/2023 00:04:45: Spawned Fish3 x 1
-12/31/2023 00:04:45: Spawned Fish5 x 2
-12/31/2023 00:04:45: Spawned Fish8 x 1
-12/31/2023 00:04:45: Spawned Fish12 x 2
-12/31/2023 00:04:50: Placed locations in zone 12,-29  duration 0 ms
-12/31/2023 00:04:50: Placed locations in zone 13,-29  duration 19.0188 ms
-12/31/2023 00:04:53: Spawned Fish12 x 4
-12/31/2023 00:04:59: Placed locations in zone 15,-30  duration 1.0017 ms
-12/31/2023 00:04:59: Placed locations in zone 16,-30  duration 1.0009 ms
-12/31/2023 00:04:59: Placed locations in zone 18,-30  duration 14.0114 ms
-12/31/2023 00:05:04: Spawned Fish5 x 3
-12/31/2023 00:05:04: Spawned Fish6 x 6
-12/31/2023 00:05:04: Spawned Fish6 x 4
-12/31/2023 00:05:04: Spawned Draugr x 2
-12/31/2023 00:05:04: Spawned Draugr x 1
-12/31/2023 00:05:04: Spawned Skeleton x 2
-12/31/2023 00:05:04: Spawned Blob x 1
-12/31/2023 00:05:04: Spawned Leech x 1
-12/31/2023 00:05:04: Spawned Leech x 1
-12/31/2023 00:05:04: Spawned Leech x 1
-12/31/2023 00:05:11: Placed locations in zone 15,-31  duration 1.0011 ms
-12/31/2023 00:05:12: Spawned Skeleton x 2
-12/31/2023 00:05:12: Spawned Leech x 1
-12/31/2023 00:05:12: Spawned Leech x 1
-12/31/2023 00:05:12: Spawned Leech x 1
-12/31/2023 00:05:12: Spawned Leech x 1
-12/31/2023 00:05:12: Spawned Leech x 1
-12/31/2023 00:05:12: Spawned Leech x 1
-12/31/2023 00:05:12: Spawned Wraith x 1
-12/31/2023 00:05:21: Stopped music sailing at 11139386
-12/31/2023 00:05:21: Starting music swamp
-12/31/2023 00:05:37: Setting selected recipe 0
-12/31/2023 00:05:39: Starting music sailing
-12/31/2023 00:05:41: Spawned Fish5 x 2
-12/31/2023 00:05:41: Spawned Leech x 1
-12/31/2023 00:05:44: Stopped music swamp at 977491
-12/31/2023 00:05:44: Resumed music sailing at 11139386
-12/31/2023 00:05:50: Spawned Fish3 x 1
-12/31/2023 00:05:50: Spawned Fish5 x 4
-12/31/2023 00:05:50: Spawned Fish5 x 3
-12/31/2023 00:05:50: Spawned Fish5 x 1
-12/31/2023 00:05:50: Spawned Fish8 x 3
-12/31/2023 00:05:50: Spawned Fish8 x 2
-12/31/2023 00:05:50: Spawned Fish8 x 4
-12/31/2023 00:05:50: Spawned Fish8 x 1
-12/31/2023 00:05:50: Spawned Fish12 x 3
-12/31/2023 00:05:50: Spawned Fish12 x 1
-12/31/2023 00:06:06: Spawned Fish2 x 3
-12/31/2023 00:06:06: Spawned Fish5 x 5
-12/31/2023 00:06:07: Placed locations in zone 16,-32  duration 8.0071 ms
-12/31/2023 00:06:12: Spawned Fish2 x 1
-12/31/2023 00:06:15: Spawned Seagal x 1
-12/31/2023 00:06:15: Spawned Seagal x 2
-12/31/2023 00:06:15: Spawned Fish5 x 4
-12/31/2023 00:06:29: Spawned Fish5 x 1
-12/31/2023 00:06:30: Stopped music sailing at 1085372
-12/31/2023 00:06:30: Starting music blackforest
-12/31/2023 00:06:30: Resumed music blackforest at 5260951
-12/31/2023 00:06:34: Starting music sailing
-12/31/2023 00:06:37: Stopped music blackforest at 5596816
-12/31/2023 00:06:37: Resumed music sailing at 1085372
-12/31/2023 00:06:42: Spawned Fish1 x 3
-12/31/2023 00:06:42: Spawned Fish5 x 7
-12/31/2023 00:06:42: Spawned Fish5 x 1
-12/31/2023 00:06:46: Spawned Fish3 x 1
-12/31/2023 00:06:46: Spawned Fish8 x 2
-12/31/2023 00:06:46: Spawned Fish8 x 7
-12/31/2023 00:06:46: Spawned Fish8 x 1
-12/31/2023 00:06:46: Spawned Fish12 x 5
-12/31/2023 00:06:46: Spawned Fish12 x 3
-12/31/2023 00:06:56: Spawned Fish3 x 1
-12/31/2023 00:06:56: Spawned Fish3 x 1
-12/31/2023 00:07:05: Spawned Fish5 x 3
-12/31/2023 00:07:09: Spawned Fish5 x 7
-12/31/2023 00:07:09: Spawned Fish8 x 4
-12/31/2023 00:07:09: Spawned Fish12 x 2
-12/31/2023 00:07:09: Spawned Fish12 x 1
-12/31/2023 00:07:15: Spawned Fish8 x 1
-12/31/2023 00:07:23: Spawned Fish3 x 1
-12/31/2023 00:07:23: Spawned Fish3 x 2
-12/31/2023 00:07:23: Spawned Fish8 x 5
-12/31/2023 00:07:23: Spawned Fish12 x 2
-12/31/2023 00:07:29: Spawned Fish12 x 3
-12/31/2023 00:07:33: Spawned Fish8 x 5
-12/31/2023 00:07:44: Spawned Fish8 x 3
-12/31/2023 00:07:44: Spawned Fish12 x 3
-12/31/2023 00:08:32: Setting selected recipe 0
-12/31/2023 00:08:37: Stopped music sailing at 6373608
-12/31/2023 00:09:52: adding FishingBait  1
-12/31/2023 00:10:17: adding FishingBait  1
-12/31/2023 00:10:21: Setting selected recipe 0
-12/31/2023 00:10:58: Starting music sailing
-12/31/2023 00:10:58: Resumed music sailing at 6373608
-12/31/2023 00:11:30: Stopped music sailing at 7774459
-12/31/2023 00:11:48: Setting selected recipe 0
-12/31/2023 00:11:48: Setting selected recipe 0
-12/31/2023 00:12:09: Starting music morning
-12/31/2023 00:12:38: Setting selected recipe 0
-12/31/2023 00:13:53: adding FishingBaitForest  1
-12/31/2023 00:14:09: Setting selected recipe 0
-12/31/2023 00:14:21: adding FishingBaitForest  1
-12/31/2023 00:14:23: Setting selected recipe 0
-12/31/2023 00:14:36: Update PlayFab entity token
-12/31/2023 00:14:56: Starting music sailing
-12/31/2023 00:14:56: Resumed music sailing at 7774459
-12/31/2023 00:15:40: Placed locations in zone 40,-23  duration 28.5284 ms
-12/31/2023 00:15:41: Spawned Fish3 x 1
-12/31/2023 00:15:41: Spawned Fish8 x 2
-12/31/2023 00:15:41: Spawned Fish12 x 5
-12/31/2023 00:15:41: Spawned Fish12 x 2
-12/31/2023 00:15:53: Spawned Fish8 x 4
-12/31/2023 00:15:53: Spawned Fish12 x 1
-12/31/2023 00:16:03: Placed locations in zone 41,-24  duration 13.0107 ms
-12/31/2023 00:16:03: Spawned Fish3 x 1
-12/31/2023 00:16:03: Spawned Fish3 x 1
-12/31/2023 00:16:03: Spawned Fish8 x 2
-12/31/2023 00:16:03: Spawned Fish8 x 2
-12/31/2023 00:16:03: Spawned Fish12 x 2
-12/31/2023 00:16:03: Spawned Fish12 x 2
-12/31/2023 00:16:03: Spawned Fish12 x 3
-12/31/2023 00:16:03: Placed locations in zone 41,-22  duration 1.0005 ms
-12/31/2023 00:16:03: Placed locations in zone 41,-21  duration 1.001 ms
-12/31/2023 00:16:03: Placed locations in zone 41,-20  duration 0 ms
-12/31/2023 00:16:15: Spawned Fish3 x 1
-12/31/2023 00:16:15: Spawned Fish12 x 2
-12/31/2023 00:16:25: Spawned Fish3 x 1
-12/31/2023 00:16:25: Spawned Fish8 x 2
-12/31/2023 00:16:25: Spawned Fish12 x 3
-12/31/2023 00:16:25: Spawned Fish12 x 1
-12/31/2023 00:16:26: Loading dungeon
-12/31/2023 00:16:26: Dungeon loaded with 0 rooms from old format in 0 ms.
-12/31/2023 00:16:26: Generating DG_SunkenCrypt(Clone), Seed: -1762042196, Bounds diff: (-42.98, -32.00, -39.34) / (21.02, 32.00, 24.66)
-12/31/2023 00:16:26: Available rooms:16
-12/31/2023 00:16:26: To place:30
-12/31/2023 00:16:26: Connections 4
-12/31/2023 00:16:26: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:26: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:26: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:26: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:26: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:26: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:26: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:26: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:26: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:26: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:26: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:26: placed 0 doors
-12/31/2023 00:16:26: Placed 21 rooms
-12/31/2023 00:16:26: Dungeon generated with seed -1762042196 and hash -204004480
-12/31/2023 00:16:26: Placed locations in zone 42,-22  duration 42.0372 ms
-12/31/2023 00:16:27: Placed locations in zone 42,-21  duration 20.0164 ms
-12/31/2023 00:16:27: Loading dungeon
-12/31/2023 00:16:27: Dungeon loaded with 0 rooms from old format in 0 ms.
-12/31/2023 00:16:27: Generating DG_SunkenCrypt(Clone), Seed: -1762301962, Bounds diff: (-36.09, -32.00, -38.27) / (27.91, 32.00, 25.73)
-12/31/2023 00:16:27: Available rooms:16
-12/31/2023 00:16:27: To place:30
-12/31/2023 00:16:27: Connections 4
-12/31/2023 00:16:27: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:27: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:27: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:27: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:27: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:27: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:27: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:27: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:27: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:27: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:16:27: placed 0 doors
-12/31/2023 00:16:27: Placed 24 rooms
-12/31/2023 00:16:27: Dungeon generated with seed -1762301962 and hash 301422206
-12/31/2023 00:16:27: Placed locations in zone 42,-20  duration 29.0244 ms
-12/31/2023 00:16:51: Placed locations in zone 43,-21  duration 1.0006 ms
-12/31/2023 00:16:51: Placed locations in zone 43,-20  duration 1.0011 ms
-12/31/2023 00:16:51: Placed locations in zone 43,-19  duration 0 ms
-12/31/2023 00:16:51: Placed locations in zone 43,-18  duration 0 ms
-12/31/2023 00:16:55: Spawned Fish3 x 1
-12/31/2023 00:17:11: Placed locations in zone 44,-19  duration 2.0006 ms
-12/31/2023 00:17:11: Placed locations in zone 44,-18  duration 1.0008 ms
-12/31/2023 00:17:11: Placed locations in zone 44,-17  duration 12.0103 ms
-12/31/2023 00:17:13: Spawned Fish8 x 1
-12/31/2023 00:17:39: Setting selected recipe 0
-12/31/2023 00:17:46: Setting selected recipe 0
-12/31/2023 00:17:51: Stopped music sailing at 3430160
-12/31/2023 00:18:03: adding FishingBaitForest  1
-12/31/2023 00:18:15: adding FishingBaitForest  1
-12/31/2023 00:18:17: adding FishingBaitForest  1
-12/31/2023 00:18:37: adding FishingBaitForest  1
-12/31/2023 00:19:14: adding FishingBaitForest  1
-12/31/2023 00:19:16: adding FishingBaitForest  1
-12/31/2023 00:19:25: Player -1455500437 wants to pickup Fish8(Clone)   im: 2079925572
-12/31/2023 00:19:28: Player -1455500437 wants to pickup Fish8(Clone)   im: 2079925572
-12/31/2023 00:20:13: Setting selected recipe 0
-12/31/2023 00:20:22: Spawned Fish8 x 2
-12/31/2023 00:20:36: adding FishingBaitForest  1
-12/31/2023 00:21:13: adding FishingBait  1
-12/31/2023 00:21:15: Setting selected recipe 0
-12/31/2023 00:21:26: Starting music blackforest
-12/31/2023 00:21:31: Placed locations in zone 45,-16  duration 9.0076 ms
-12/31/2023 00:21:33: Starting music sailing
-12/31/2023 00:21:38: Stopped music blackforest at 523084
-12/31/2023 00:21:38: Resumed music sailing at 3430160
-12/31/2023 00:21:38: Spawned Fish3 x 1
-12/31/2023 00:22:04: Placed locations in zone 45,-17  duration 0 ms
-12/31/2023 00:22:04: Placed locations in zone 46,-17  duration 0 ms
-12/31/2023 00:22:05: Setting selected recipe 0
-12/31/2023 00:22:14: Loading dungeon
-12/31/2023 00:22:14: Dungeon loaded with 0 rooms from old format in 0 ms.
-12/31/2023 00:22:14: Generating DG_SunkenCrypt(Clone), Seed: -1763417435, Bounds diff: (-49.26, -32.00, -26.88) / (14.74, 32.00, 37.12)
-12/31/2023 00:22:14: Available rooms:16
-12/31/2023 00:22:14: To place:30
-12/31/2023 00:22:14: Connections 4
-12/31/2023 00:22:14: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:22:14: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:22:14: Connection 'sunkencrypt_new_Room4->Connection (2)' is not placed as a direct child of room!
-12/31/2023 00:22:14: placed 0 doors
-12/31/2023 00:22:14: Placed 28 rooms
-12/31/2023 00:22:14: Dungeon generated with seed -1763417435 and hash 20095565
-12/31/2023 00:22:14: Placed locations in zone 45,-18  duration 40.0341 ms
-12/31/2023 00:22:14: Placed locations in zone 46,-18  duration 0 ms
-12/31/2023 00:22:16: Spawned Fish5 x 3
-12/31/2023 00:22:16: Spawned Fish5 x 3
-12/31/2023 00:22:30: Placed locations in zone 45,-19  duration 0 ms
-12/31/2023 00:22:30: Spawned Fish8 x 2
-12/31/2023 00:22:30: Spawned Fish8 x 1
-12/31/2023 00:22:30: Spawned Fish12 x 3
-12/31/2023 00:22:42: Setting selected recipe 0
-12/31/2023 00:22:55: Placed locations in zone 44,-20  duration 1.0003 ms
-12/31/2023 00:22:57: Spawned Fish8 x 2
-12/31/2023 00:22:57: Spawned Fish8 x 2
-12/31/2023 00:23:12: Spawned Fish3 x 2
-12/31/2023 00:23:12: Spawned Fish5 x 7
-12/31/2023 00:23:12: Spawned Fish5 x 3
-12/31/2023 00:23:12: Spawned Fish8 x 2
-12/31/2023 00:23:21: Spawned Fish3 x 1
-12/31/2023 00:23:21: Spawned Fish8 x 3
-12/31/2023 00:23:21: Spawned Fish8 x 2
-12/31/2023 00:23:21: Spawned Fish12 x 2
-12/31/2023 00:23:21: Spawned Fish12 x 2
-12/31/2023 00:23:22: Placed locations in zone 43,-22  duration 0 ms
-12/31/2023 00:23:22: Loading dungeon
-12/31/2023 00:23:22: Dungeon loaded with 0 rooms from old format in 0 ms.
-12/31/2023 00:23:22: Generating DG_GoblinCamp(Clone), Seed: -1808351721, Bounds diff: (-33.58, -32.00, -32.41) / (30.42, 32.00, 31.59)
-12/31/2023 00:23:22: Available rooms:17
-12/31/2023 00:23:22: To place:25
-12/31/2023 00:23:22: Placed 14 rooms
-12/31/2023 00:23:22: Dungeon generated with seed -1808351721 and hash -160666690
-12/31/2023 00:23:22: Force generating hmap (2816.00, 0.00, -1408.00)
-12/31/2023 00:23:22: Placed locations in zone 44,-22  duration 38.0329 ms
-12/31/2023 00:23:22: Loading dungeon
-12/31/2023 00:23:22: Dungeon loaded with 24 rooms in 16.0131 ms.
-12/31/2023 00:23:35: Placed locations in zone 43,-23  duration 8.0066 ms
-12/31/2023 00:23:35: Force generating hmap (2624.00, 0.00, -1344.00)
-12/31/2023 00:23:36: Spawned Fish6 x 3
-12/31/2023 00:23:36: Spawned Fish8 x 6
-12/31/2023 00:23:36: Spawned Skeleton x 2
-12/31/2023 00:23:36: Spawned Leech x 1
-12/31/2023 00:23:36: Spawned Leech x 1
-12/31/2023 00:23:36: Spawned Leech x 1
-12/31/2023 00:23:36: Spawned Leech x 1
-12/31/2023 00:23:36: Spawned Leech x 1
-12/31/2023 00:23:36: Spawned Leech x 1
-12/31/2023 00:23:36: Spawned Leech x 1
-12/31/2023 00:23:48: Spawned Fish2 x 2
-12/31/2023 00:23:48: Spawned Fish5 x 4
-12/31/2023 00:23:48: Spawned Fish5 x 3
-12/31/2023 00:23:48: Spawned Fish6 x 7
-12/31/2023 00:23:48: Spawned Draugr x 2
-12/31/2023 00:23:48: Spawned Draugr x 2
-12/31/2023 00:23:48: Spawned Skeleton x 2
-12/31/2023 00:23:48: Spawned Blob x 1
-12/31/2023 00:23:48: Spawned Leech x 1
-12/31/2023 00:23:48: Spawned Leech x 1
-12/31/2023 00:23:48: Spawned Leech x 1
-12/31/2023 00:23:48: Placed locations in zone 42,-24  duration 1.0004 ms
-12/31/2023 00:23:49: Force generating hmap (2624.00, 0.00, -1408.00)
-12/31/2023 00:23:49: Loading dungeon
-12/31/2023 00:23:49: Dungeon loaded with 21 rooms in 20.0186 ms.
-12/31/2023 00:23:56: Spawned Fish3 x 2
-12/31/2023 00:23:56: Spawned Fish3 x 1
-12/31/2023 00:23:56: Spawned Fish8 x 1
-12/31/2023 00:23:58: Stopped music sailing at 9600867
-12/31/2023 00:23:58: Starting music blackforest
-12/31/2023 00:23:58: Resumed music blackforest at 523084
-12/31/2023 00:24:15: Starting music sailing
-12/31/2023 00:24:20: Stopped music blackforest at 1516568
-12/31/2023 00:24:20: Resumed music sailing at 9600867
-12/31/2023 00:24:28: Setting selected recipe 0
-12/31/2023 00:24:38: Stopped music sailing at 10381730
-12/31/2023 00:25:01: Starting music sailing
-12/31/2023 00:25:01: Resumed music sailing at 10381730
-12/31/2023 00:25:51: Stopped music sailing at 482948
-12/31/2023 00:26:04: Starting music sailing
-12/31/2023 00:26:04: Resumed music sailing at 482948
-12/31/2023 00:26:33: Setting selected recipe 0
-12/31/2023 00:26:45: Spawned Fish12 x 1
-12/31/2023 00:26:58: Spawned Fish5 x 6
-12/31/2023 00:26:58: Spawned Fish8 x 4
-12/31/2023 00:26:58: Spawned Fish12 x 2
-12/31/2023 00:27:55: Spawned Fish3 x 1
-12/31/2023 00:27:55: Spawned Fish5 x 1
-12/31/2023 00:27:55: Spawned Fish8 x 2
-12/31/2023 00:27:55: Spawned Fish8 x 4
-12/31/2023 00:27:55: Spawned Fish8 x 2
-12/31/2023 00:27:55: Spawned Fish8 x 2
-12/31/2023 00:27:55: Spawned Fish12 x 4
-12/31/2023 00:27:55: Spawned Fish12 x 2
-12/31/2023 00:27:55: Spawned Fish12 x 2
-12/31/2023 00:28:13: Spawned Seagal x 2
-12/31/2023 00:28:33: Stopped music sailing at 7094890
-12/31/2023 00:28:33: Starting music blackforest
-12/31/2023 00:28:33: Resumed music blackforest at 1516568
-12/31/2023 00:28:44: Starting music sailing
-12/31/2023 00:28:50: Stopped music blackforest at 2262622
-12/31/2023 00:28:50: Resumed music sailing at 7094890
-12/31/2023 00:29:14: Setting selected recipe 0
-12/31/2023 00:30:00: Stopped music sailing at 10159075
-12/31/2023 00:30:01: Setting selected recipe 0
-12/31/2023 00:30:05: Starting music meadows
-12/31/2023 00:30:18: Starting music sailing
-12/31/2023 00:30:24: Stopped music meadows at 813791
-12/31/2023 00:30:24: Resumed music sailing at 10159075
-12/31/2023 00:31:31: Stopped music sailing at 1051506
-12/31/2023 00:31:46: Starting music sailing
-12/31/2023 00:31:46: Resumed music sailing at 1051506
-12/31/2023 00:32:39: Spawned Neck x 1
-12/31/2023 00:32:45: Uncompressed size 8399540
-12/31/2023 00:32:45: Compressed size 24060
-12/31/2023 00:32:45: Considering autobackup. World time: 3586.46, short time: 7200, long time: 43200, backup count: 4
-12/31/2023 00:32:45: No autobackup needed yet...
-12/31/2023 00:32:45: Sending message to save player profiles
-12/31/2023 00:32:45: Sent to 76561198147279331
-12/31/2023 00:32:45: PrepareSave: clone done in 48ms
-12/31/2023 00:32:45: PrepareSave: ZDOExtraData.PrepareSave done in 104 ms
-12/31/2023 00:32:45: World save writing starting
-12/31/2023 00:32:45: World save writing started
-12/31/2023 00:32:47: Saved 704708 ZDOs
-12/31/2023 00:32:47: World save writing finishing
-12/31/2023 00:32:47: World save writing finished
-12/31/2023 00:32:47: World saved ( 1964.1838ms )
-12/31/2023 00:32:47: Considering autobackup. World time: 3588.64, short time: 7200, long time: 43200, backup count: 4
-12/31/2023 00:32:47: No autobackup needed yet...
-12/31/2023 00:32:58: Unloading unused assets
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 4660 unused Assets to reduce memory usage. Loaded Objects now: 1784343.
-Total: 449.812900 ms (FindLiveObjects: 155.960900 ms CreateObjectMapping: 28.668000 ms MarkObjects: 251.484500 ms  DeleteObjects: 13.699100 ms)
-
-12/31/2023 00:34:06: Update PlayFab entity token
-12/31/2023 00:34:45: Spawned FireFlies x 1
-12/31/2023 00:34:53: Spawned FireFlies x 1
-12/31/2023 00:35:00: Spawned Greydwarf_Shaman x 1
-12/31/2023 00:35:34: Spawned Serpent x 1
-12/31/2023 00:36:55: Spawned Serpent x 1
-12/31/2023 00:37:58: Spawned Greydwarf_Elite x 1
-12/31/2023 00:37:58: Spawned Greydwarf_Shaman x 1
-12/31/2023 00:37:58: Spawned Greydwarf x 1
-12/31/2023 00:38:10: Starting music evening
-12/31/2023 00:38:11: Stopped music sailing at 5941159
-12/31/2023 00:38:26: Spawned Fish1 x 1
-12/31/2023 00:38:26: Spawned Greydwarf x 1
-12/31/2023 00:38:27: Starting music sailing
-12/31/2023 00:38:28: Resumed music sailing at 5941159
-12/31/2023 00:39:10: Setting selected recipe 0
-12/31/2023 00:39:13: Setting selected recipe 0
-12/31/2023 00:39:22: Spawned Serpent x 1
-12/31/2023 00:39:47: Stopped music sailing at 9407066
-12/31/2023 00:40:02: Starting music sailing
-12/31/2023 00:40:02: Resumed music sailing at 9407066
-12/31/2023 00:40:17: Stopped music sailing at 10082560
-12/31/2023 00:40:20: Spawned Deer x 1
-12/31/2023 00:40:22: Done fading color
-12/31/2023 00:40:22: Done fading color
-12/31/2023 00:40:25: Starting music sailing
-12/31/2023 00:40:25: Resumed music sailing at 10082560
-12/31/2023 00:41:32: Spawned Greydwarf x 1
-12/31/2023 00:41:32: Spawned Greydwarf_Elite x 1
-12/31/2023 00:41:32: Spawned Greydwarf_Shaman x 1
-12/31/2023 00:41:32: Spawned Greydwarf x 1
-12/31/2023 00:41:32: Force generating hmap (-320.00, 0.00, 448.00)
-12/31/2023 00:41:32: Force generating hmap (-256.00, 0.00, 448.00)
-12/31/2023 00:41:40: Loading dungeon
-12/31/2023 00:41:40: Dungeon loaded with 28 rooms from old format in 17.5203 ms.
-12/31/2023 00:41:48: Spawned Greydwarf_Shaman x 1
-12/31/2023 00:41:55: Spawned Greydwarf x 1
-12/31/2023 00:41:55: Spawned FireFlies x 1
-12/31/2023 00:42:04: Spawned FireFlies x 1
-12/31/2023 00:42:29: Starting music morning
-12/31/2023 00:42:30: Stopped music sailing at 3529263
-12/31/2023 00:43:04: Starting music meadows
-12/31/2023 00:43:19: Force generating hmap (-128.00, 0.00, 576.00)
-12/31/2023 00:43:34: Player over board, players left 1
-12/31/2023 00:43:36: Player over board, players left 0
-12/31/2023 00:43:41: Player onboard, total onboard 1
-12/31/2023 00:43:41: Player over board, players left 0
-12/31/2023 00:43:43: Player onboard, total onboard 1
-12/31/2023 00:43:44: Player over board, players left 0
-12/31/2023 00:43:51: Setting selected recipe 0
-12/31/2023 00:44:10: Loading dungeon
-12/31/2023 00:44:10: Dungeon loaded with 40 rooms from old format in 13.9907 ms.
-12/31/2023 00:44:30: Player -1455500437 wants to pickup Resin(Clone)   im: 2079925572
-12/31/2023 00:44:38: Spawned Greyling x 1
-12/31/2023 00:44:39: Loading dungeon
-12/31/2023 00:44:39: Dungeon loaded with 24 rooms from old format in 14.0118 ms.
-12/31/2023 00:45:01: Spawned Neck x 1
-12/31/2023 00:45:01: Spawned Greyling x 1
-12/31/2023 00:45:13: Player -1455500437 wants to pickup BoneFragments(Clone)   im: 2079925572
-12/31/2023 00:45:18: Stopped music meadows at 5917263
-12/31/2023 00:45:18: Starting music blackforest
-12/31/2023 00:45:19: Player -1455500437 wants to pickup BoneFragments(Clone)   im: 2079925572
-12/31/2023 00:45:19: Player -1455500437 wants to pickup BoneFragments(Clone)   im: 2079925572
-12/31/2023 00:45:35: Stopped music blackforest at 717830
-12/31/2023 00:45:35: Starting music blackforest
-12/31/2023 00:45:35: Resumed music blackforest at 717830
-12/31/2023 00:46:04: Loading dungeon
-12/31/2023 00:46:04: Dungeon loaded with 19 rooms from old format in 8.0062 ms.
-12/31/2023 00:46:06: Loading dungeon
-12/31/2023 00:46:06: Dungeon loaded with 59 rooms from old format in 78.0658 ms.
-12/31/2023 00:46:36: Loading dungeon
-12/31/2023 00:46:36: Dungeon loaded with 36 rooms from old format in 19.0164 ms.
-12/31/2023 00:46:49: Stopped music blackforest at 4004044
-12/31/2023 00:46:49: Starting music blackforest
-12/31/2023 00:46:49: Resumed music blackforest at 4004044
-12/31/2023 00:46:50: Stopped music blackforest at 15052
-12/31/2023 00:46:50: Starting music home
-12/31/2023 00:46:58: Connected portals 1:1648340 <-> 1:1712185
-12/31/2023 00:46:58: [ Connected 1 portals ]
-12/31/2023 00:47:08: Teleportation TRIGGER
-12/31/2023 00:47:08: Teleporting Terry
-12/31/2023 00:47:14: Force generating hmap (-256.00, 0.00, 448.00)
-12/31/2023 00:47:14: Force generating hmap (-320.00, 0.00, 448.00)
-12/31/2023 00:47:14: Force generating hmap (-320.00, 0.00, 512.00)
-12/31/2023 00:47:14: Force generating hmap (-256.00, 0.00, 512.00)
-12/31/2023 00:47:14: Force generating hmap (-128.00, 0.00, 576.00)
-12/31/2023 00:47:29: Teleportation TRIGGER
-12/31/2023 00:47:29: Teleporting Terry
-12/31/2023 00:47:36: Loading dungeon
-12/31/2023 00:47:36: Dungeon loaded with 36 rooms from old format in 18.0154 ms.
-12/31/2023 00:47:36: Loading dungeon
-12/31/2023 00:47:36: Dungeon loaded with 59 rooms from old format in 76.5714 ms.
-12/31/2023 00:47:47: Setting selected recipe 0
-12/31/2023 00:47:48: Connected portals 1:1648341 <-> 1:1712185
-12/31/2023 00:47:48: [ Connected 1 portals ]
-12/31/2023 00:47:51: Teleportation TRIGGER
-12/31/2023 00:47:51: Teleporting Terry
-12/31/2023 00:47:57: Force generating hmap (-256.00, 0.00, 448.00)
-12/31/2023 00:47:57: Force generating hmap (-320.00, 0.00, 448.00)
-12/31/2023 00:47:57: Force generating hmap (-320.00, 0.00, 512.00)
-12/31/2023 00:47:57: Force generating hmap (-256.00, 0.00, 512.00)
-12/31/2023 00:47:57: Force generating hmap (-128.00, 0.00, 576.00)
-12/31/2023 00:48:06: Stopped music home at 3369945
-12/31/2023 00:48:06: Starting music home
-12/31/2023 00:48:06: Resumed music home at 3369945
-12/31/2023 00:48:24: Stopped music home at 795916
-12/31/2023 00:48:24: Starting music meadows
-12/31/2023 00:48:24: Resumed music meadows at 5917263
-12/31/2023 00:49:06: Player 2079925572 wants to open piece_chest_wood(Clone)   im: 2079925572
-12/31/2023 00:49:06: Setting selected recipe 0
-12/31/2023 00:49:06: Player 2079925572 wants to stack all in piece_chest_wood(Clone)   im: 2079925572
-12/31/2023 00:49:11: Stopped music meadows at 2071641
-12/31/2023 00:49:11: Starting music home
-12/31/2023 00:49:11: Resumed music home at 795916
-12/31/2023 00:49:11: Player 2079925572 wants to open piece_chest_wood(Clone)   im: 2079925572
-12/31/2023 00:49:11: Setting selected recipe 0
-12/31/2023 00:49:12: Player 2079925572 wants to stack all in piece_chest_wood(Clone)   im: 2079925572
-12/31/2023 00:49:21: Update PlayFab entity token
-12/31/2023 00:49:22: Stopped music home at 451583
-12/31/2023 00:49:22: Starting music meadows
-12/31/2023 00:49:22: Resumed music meadows at 2071641
-12/31/2023 00:49:24: Loading dungeon
-12/31/2023 00:49:24: Dungeon loaded with 40 rooms from old format in 15.0125 ms.
-12/31/2023 00:50:11: Loading dungeon
-12/31/2023 00:50:11: Dungeon loaded with 33 rooms from old format in 20.0188 ms.
-12/31/2023 00:50:47: Stopped music meadows at 3758495
-12/31/2023 00:50:47: Starting music blackforest
-12/31/2023 00:50:47: Resumed music blackforest at 15052
-12/31/2023 00:51:11: Stopped music blackforest at 1067807
-12/31/2023 00:51:11: Starting music meadows
-12/31/2023 00:51:11: Resumed music meadows at 3758495
-12/31/2023 00:51:11: Stopped music meadows at 3764139
-12/31/2023 00:51:11: Starting music blackforest
-12/31/2023 00:51:11: Resumed music blackforest at 1067807
-12/31/2023 00:51:17: Spawned Deer x 1
-12/31/2023 00:51:17: Spawned Greydwarf x 1
-12/31/2023 00:51:41: Loading dungeon
-12/31/2023 00:51:41: Dungeon loaded with 33 rooms from old format in 20.0171 ms.
-12/31/2023 00:51:43: Stopped music blackforest at 2484651
-12/31/2023 00:51:43: Starting music blackforest
-12/31/2023 00:51:43: Resumed music blackforest at 2484651
-12/31/2023 00:52:04: Spawned Greydwarf x 2
-12/31/2023 00:52:18: Stopped music blackforest at 3997457
-12/31/2023 00:52:18: Starting music meadows
-12/31/2023 00:52:18: Resumed music meadows at 3764139
-12/31/2023 00:53:01: Done fading color
-12/31/2023 00:53:01: Done fading color
-12/31/2023 00:54:07: Spawned Greyling x 1
-12/31/2023 00:54:20: Force generating hmap (-256.00, 0.00, 448.00)
-12/31/2023 00:54:20: Force generating hmap (-256.00, 0.00, 512.00)
-12/31/2023 00:54:20: Force generating hmap (-320.00, 0.00, 448.00)
-12/31/2023 00:54:20: Force generating hmap (-320.00, 0.00, 512.00)
-12/31/2023 00:54:54: Player -1455500437 wants to pickup Raspberry(Clone)   im: 2079925572
-12/31/2023 00:54:56: Player -1455500437 wants to pickup Raspberry(Clone)   im: 2079925572
-12/31/2023 00:55:12: Force generating hmap (-128.00, 0.00, 576.00)
-12/31/2023 00:55:45: Setting selected recipe 0
-12/31/2023 00:57:41: Player -1455500437 wants to open piece_chest(Clone)   im: 2079925572
-12/31/2023 00:57:42: Player -1455500437 wants to open piece_chest(Clone)   im: 2079925572
-12/31/2023 00:57:44: Player -1455500437 wants to open piece_chest(Clone)   im: 2079925572
-12/31/2023 00:57:44: Player -1455500437 wants to open piece_chest(Clone)   im: 2079925572
-12/31/2023 00:57:46: Player -1455500437 wants to open piece_chest(Clone)   im: 2079925572
-12/31/2023 00:57:47: Player -1455500437 wants to open piece_chest(Clone)   im: 2079925572
-12/31/2023 00:57:47: Stopped music meadows at 8591626
-12/31/2023 00:57:47: Starting music home
-12/31/2023 00:57:47: Setting selected recipe 1
-12/31/2023 00:57:48: Button pressed RepairButton  frame:878496
-12/31/2023 00:57:48: Button pressed RepairButton  frame:878508
-12/31/2023 00:57:50: Setting selected recipe 0
-12/31/2023 00:57:51: Button pressed RepairButton  frame:878651
-12/31/2023 00:57:52: Player -1455500437 wants to open piece_chest_wood(Clone)   im: 2079925572
-12/31/2023 00:58:02: Compressed map data:18957
-12/31/2023 00:58:25: RPC_Disconnect
-12/31/2023 00:58:25: Destroying abandoned non persistent zdo -1455500437:4344 owner -1455500437
-12/31/2023 00:58:25: Destroying abandoned non persistent zdo -1455500437:1 owner -1455500437
-12/31/2023 00:58:25: Destroying abandoned non persistent zdo -1455500437:4345 owner -1455500437
-12/31/2023 00:58:25: Destroying abandoned non persistent zdo -1455500437:4346 owner -1455500437
-12/31/2023 00:58:25: Disposing socket
-12/31/2023 00:58:25: Closing socket 76561198147279331
-12/31/2023 00:58:25:   send queue size:0
-12/31/2023 00:58:25: Disposing socket
-12/31/2023 00:58:25: Got status changed msg k_ESteamNetworkingConnectionState_None
-12/31/2023 01:02:36: Activating default element Continue
-12/31/2023 01:02:37: Activating default element Button_no
-12/31/2023 01:02:38: Game - OnApplicationQuit
-12/31/2023 01:02:38: Shuting down
-12/31/2023 01:02:38: Uncompressed size 8399540
-12/31/2023 01:02:38: Compressed size 24034
-12/31/2023 01:02:38: Considering autobackup. World time: 5376.66, short time: 7200, long time: 43200, backup count: 4
-12/31/2023 01:02:38: No autobackup needed yet...
-12/31/2023 01:02:38: ZNet Shutdown
-12/31/2023 01:02:38: PrepareSave: clone done in 69ms
-12/31/2023 01:02:38: PrepareSave: ZDOExtraData.PrepareSave done in 61 ms
-12/31/2023 01:02:38: World save writing starting
-12/31/2023 01:02:38: World save writing started
-12/31/2023 01:02:40: Saved 704717 ZDOs
-12/31/2023 01:02:40: World save writing finishing
-12/31/2023 01:02:40: World save writing finished
-12/31/2023 01:02:40: World saved ( 1783.0329ms )
-12/31/2023 01:02:40: Considering autobackup. World time: 5376.66, short time: 7200, long time: 43200, backup count: 4
-12/31/2023 01:02:40: No autobackup needed yet...
-12/31/2023 01:02:40: Unloading unused assets
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-12/31/2023 01:02:40: Sending disconnect msg
-ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-12/31/2023 01:02:40: Disposing socket
-12/31/2023 01:02:40: Stopping listening socket
-12/31/2023 01:02:40: Last socket, unregistering callback
-12/31/2023 01:02:40: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
-12/31/2023 01:02:40: Stopping build thread
-Unloading 3169 unused Assets to reduce memory usage. Loaded Objects now: 2108001.
-Total: 466.050100 ms (FindLiveObjects: 171.993700 ms CreateObjectMapping: 26.741500 ms MarkObjects: 257.223900 ms  DeleteObjects: 10.090500 ms)
-
+12/31/2023 02:19:18: PlayFab logged in as "Steam_76561198290658520"
+12/31/2023 02:19:18: PlayFab local entity ID is DBA9D3993BEC7B4F
+12/31/2023 02:19:22: show character selection
+12/31/2023 02:19:23: OnCharacterStart
+12/31/2023 02:19:32: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 2
+12/31/2023 02:19:32: No autobackup needed yet...
+12/31/2023 02:19:36: show character selection
+12/31/2023 02:19:40: Stopping build thread
 Setting up 16 worker threads for Enlighten.
-12/31/2023 01:02:43: ZNet OnDestroy
-12/31/2023 01:02:43: Net scene destroyed
-12/31/2023 01:02:43: Local player destroyed
-12/31/2023 01:02:44: Steam manager on destroy
+12/31/2023 02:19:40: Steam manager on destroy
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [2.0 KB-4.0 KB]: 236 frames, [16.0 KB-32.0 KB]: 12268 frames, [32.0 KB-64.0 KB]: 627167 frames, [64.0 KB-128.0 KB]: 203621 frames, [128.0 KB-256.0 KB]: 45345 frames, [256.0 KB-0.5 MB]: 5399 frames, [0.5 MB-1.0 MB]: 313 frames, [1.0 MB-2.0 MB]: 28 frames, [2.0 MB-4.0 MB]: 60 frames, [4.0 MB-8.0 MB]: 55 frames
+      Peak usage frame count: [2.0 KB-4.0 KB]: 236 frames, [16.0 KB-32.0 KB]: 216 frames, [32.0 KB-64.0 KB]: 1122 frames, [0.5 MB-1.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 2 frames
       Initial Block Size 4.0 MB
-      Current Block Size 8.0 MB
-      Peak Allocated Bytes 7.8 MB
-      Overflow Count 507
-    [ALLOC_TEMP_Background Job.worker 4]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Current Block Size 7.6 MB
+      Peak Allocated Bytes 7.6 MB
+      Overflow Count 47
+    [ALLOC_TEMP_Job.worker 30]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
       Current Block Size 0.5 MB
-      Peak Allocated Bytes 511.6 KB
-      Overflow Count 493497
+      Peak Allocated Bytes 312.2 KB
+      Overflow Count 56
     [ALLOC_TEMP_Background Job.worker 3]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -1856,16 +116,16 @@ Memory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 30]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+    [ALLOC_TEMP_Background Job.worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 27]
       Initial Block Size 256.0 KB
-      Current Block Size 0.5 MB
-      Peak Allocated Bytes 511.6 KB
-      Overflow Count 2
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 6]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -1874,12 +134,12 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 16]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 19]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 324 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 12]
       Initial Block Size 32.0 KB
@@ -1889,7 +149,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.worker 2]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 65 B
+      Peak Allocated Bytes 54 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 10]
       Initial Block Size 32.0 KB
@@ -1901,26 +161,26 @@ Memory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 5]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
-      Overflow Count 0
     [ALLOC_TEMP_Job.worker 20]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 324 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
+    [ALLOC_TEMP_Job.worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
     [ALLOC_TEMP_Job.worker 23]
       Initial Block Size 256.0 KB
-      Current Block Size 0.5 MB
-      Peak Allocated Bytes 511.6 KB
-      Overflow Count 1
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
     [ALLOC_TEMP_]
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
@@ -1929,11 +189,6 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.worker 13]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
-      Overflow Count 0
-    [ALLOC_TEMP_NavMesh Builder.worker 0]
-      Initial Block Size 64.0 KB
-      Current Block Size 64.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 31
@@ -1948,18 +203,18 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 28]
       Initial Block Size 256.0 KB
-      Current Block Size 0.5 MB
-      Peak Allocated Bytes 511.6 KB
-      Overflow Count 1
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
     [ALLOC_TEMP_Job.worker 6]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 8]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 324 B
       Overflow Count 0
     [ALLOC_TEMP_HIDInput]
       Initial Block Size 64.0 KB
@@ -1979,17 +234,17 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 26]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 11]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 324 B
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 15]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 9]
       Initial Block Size 32.0 KB
@@ -1999,22 +254,22 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 0]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 14]
-      Initial Block Size 256.0 KB
-      Current Block Size 0.5 MB
-      Peak Allocated Bytes 511.6 KB
-      Overflow Count 1
     [ALLOC_TEMP_Job.worker 4]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 13]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 1]
       Initial Block Size 32.0 KB
@@ -2029,17 +284,17 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 1]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 34.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 21]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 3]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 15.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 5]
       Initial Block Size 32.0 KB
@@ -2049,62 +304,62 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 12]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 96.0 KB
+      Peak Allocated Bytes 50.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 22]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 25]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 2]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 15.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 10]
       Initial Block Size 256.0 KB
-      Current Block Size 0.5 MB
-      Peak Allocated Bytes 511.6 KB
-      Overflow Count 1
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 324 B
+      Overflow Count 0
     [ALLOC_TEMP_Job.worker 7]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 29]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 17]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 29]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 9]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 18]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 24]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 6.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
@@ -2112,32 +367,32 @@ Memory Statistics:
       Peak Allocated Bytes 294 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 99839
+  Peak main deferred allocation count 3941
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 3 Subsections = 3072 buckets. Failed count: 30175314
-        32B: 15 Subsections = 7680 buckets. Failed count: 5881797
-        48B: 148 Subsections = 50517 buckets. Failed count: 209202562
-        64B: 53 Subsections = 13568 buckets. Failed count: 8498746
-        80B: 25 Subsections = 5120 buckets. Failed count: 2343224
-        96B: 5 Subsections = 853 buckets. Failed count: 1099378
-        112B: 3 Subsections = 438 buckets. Failed count: 377859
-        128B: 4 Subsections = 512 buckets. Failed count: 8266892
+        16B: 3 Subsections = 3072 buckets. Failed count: 171552
+        32B: 15 Subsections = 7680 buckets. Failed count: 124608
+        48B: 148 Subsections = 50517 buckets. Failed count: 169461
+        64B: 53 Subsections = 13568 buckets. Failed count: 88530
+        80B: 25 Subsections = 5120 buckets. Failed count: 18760
+        96B: 5 Subsections = 853 buckets. Failed count: 23418
+        112B: 3 Subsections = 438 buckets. Failed count: 20571
+        128B: 4 Subsections = 512 buckets. Failed count: 67933
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 1200 frames, [64.0 MB-128.0 MB]: 4136 frames, [128.0 MB-256.0 MB]: 27673 frames, [256.0 MB-0.50 GB]: 703443 frames, [0.50 GB-1.00 GB]: 158040 frames
+      Peak usage frame count: [32.0 MB-64.0 MB]: 1576 frames, [64.0 MB-128.0 MB]: 1 frames
       Requested Block Size 16.0 MB
-      Peak Block count 24
-      Peak Allocated memory 0.65 GB
-      Peak Large allocation bytes 488.0 MB
+      Peak Block count 6
+      Peak Allocated memory 115.6 MB
+      Peak Large allocation bytes 44.0 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [256.0 MB-0.50 GB]: 894492 frames
+      Peak usage frame count: [256.0 MB-0.50 GB]: 1577 frames
       Requested Block Size 16.0 MB
-      Peak Block count 23
-      Peak Allocated memory 404.3 MB
-      Peak Large allocation bytes 140.6 MB
+      Peak Block count 14
+      Peak Allocated memory 297.1 MB
+      Peak Large allocation bytes 91.3 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
   Used Block Count 0
@@ -2151,7 +406,7 @@ Memory Statistics:
 [ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
   Initial Block Size 2.0 MB
   Used Block Count 1
-  Overflow Count (too large) 16
+  Overflow Count (too large) 0
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_ASYNC (Background)]
   Initial Block Size 1.0 MB
@@ -2159,59 +414,59 @@ Memory Statistics:
   Overflow Count (too large) 0
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 58
+  Peak main deferred allocation count 13
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 3 Subsections = 3072 buckets. Failed count: 30175314
-        32B: 15 Subsections = 7680 buckets. Failed count: 5881797
-        48B: 148 Subsections = 50517 buckets. Failed count: 209202562
-        64B: 53 Subsections = 13568 buckets. Failed count: 8498746
-        80B: 25 Subsections = 5120 buckets. Failed count: 2343224
-        96B: 5 Subsections = 853 buckets. Failed count: 1099378
-        112B: 3 Subsections = 438 buckets. Failed count: 377859
-        128B: 4 Subsections = 512 buckets. Failed count: 8266892
+        16B: 3 Subsections = 3072 buckets. Failed count: 171552
+        32B: 15 Subsections = 7680 buckets. Failed count: 124608
+        48B: 148 Subsections = 50517 buckets. Failed count: 169461
+        64B: 53 Subsections = 13568 buckets. Failed count: 88530
+        80B: 25 Subsections = 5120 buckets. Failed count: 18760
+        96B: 5 Subsections = 853 buckets. Failed count: 23418
+        112B: 3 Subsections = 438 buckets. Failed count: 20571
+        128B: 4 Subsections = 512 buckets. Failed count: 67933
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 238 frames, [8.0 MB-16.0 MB]: 5098 frames, [64.0 MB-128.0 MB]: 889156 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 238 frames, [8.0 MB-16.0 MB]: 1339 frames
       Requested Block Size 16.0 MB
-      Peak Block count 4
-      Peak Allocated memory 108.9 MB
-      Peak Large allocation bytes 76.0 MB
+      Peak Block count 1
+      Peak Allocated memory 11.2 MB
+      Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [64.0 MB-128.0 MB]: 894492 frames
+      Peak usage frame count: [64.0 MB-128.0 MB]: 1577 frames
       Requested Block Size 16.0 MB
       Peak Block count 6
-      Peak Allocated memory 83.5 MB
+      Peak Allocated memory 79.1 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 702
+  Peak main deferred allocation count 34
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 3 Subsections = 3072 buckets. Failed count: 30175314
-        32B: 15 Subsections = 7680 buckets. Failed count: 5881797
-        48B: 148 Subsections = 50517 buckets. Failed count: 209202562
-        64B: 53 Subsections = 13568 buckets. Failed count: 8498746
-        80B: 25 Subsections = 5120 buckets. Failed count: 2343224
-        96B: 5 Subsections = 853 buckets. Failed count: 1099378
-        112B: 3 Subsections = 438 buckets. Failed count: 377859
-        128B: 4 Subsections = 512 buckets. Failed count: 8266892
+        16B: 3 Subsections = 3072 buckets. Failed count: 171552
+        32B: 15 Subsections = 7680 buckets. Failed count: 124608
+        48B: 148 Subsections = 50517 buckets. Failed count: 169461
+        64B: 53 Subsections = 13568 buckets. Failed count: 88530
+        80B: 25 Subsections = 5120 buckets. Failed count: 18760
+        96B: 5 Subsections = 853 buckets. Failed count: 23418
+        112B: 3 Subsections = 438 buckets. Failed count: 20571
+        128B: 4 Subsections = 512 buckets. Failed count: 67933
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 238 frames, [16.0 MB-32.0 MB]: 5098 frames, [32.0 MB-64.0 MB]: 889156 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 238 frames, [16.0 MB-32.0 MB]: 1339 frames
       Requested Block Size 4.0 MB
-      Peak Block count 8
-      Peak Allocated memory 59.2 MB
-      Peak Large allocation bytes 36.4 MB
+      Peak Block count 6
+      Peak Allocated memory 25.9 MB
+      Peak Large allocation bytes 7.0 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [256.0 MB-0.50 GB]: 5336 frames, [0.50 GB-1.00 GB]: 889156 frames
+      Peak usage frame count: [256.0 MB-0.50 GB]: 1577 frames
       Requested Block Size 4.0 MB
-      Peak Block count 187
-      Peak Allocated memory 0.84 GB
-      Peak Large allocation bytes 384.4 MB
+      Peak Block count 65
+      Peak Allocated memory 327.2 MB
+      Peak Large allocation bytes 87.9 MB
 [ALLOC_TYPETREE] Dual Thread Allocator
   Peak main deferred allocation count 2
     [ALLOC_BUCKET]
@@ -2219,23 +474,23 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 3 Subsections = 3072 buckets. Failed count: 30175314
-        32B: 15 Subsections = 7680 buckets. Failed count: 5881797
-        48B: 148 Subsections = 50517 buckets. Failed count: 209202562
-        64B: 53 Subsections = 13568 buckets. Failed count: 8498746
-        80B: 25 Subsections = 5120 buckets. Failed count: 2343224
-        96B: 5 Subsections = 853 buckets. Failed count: 1099378
-        112B: 3 Subsections = 438 buckets. Failed count: 377859
-        128B: 4 Subsections = 512 buckets. Failed count: 8266892
+        16B: 3 Subsections = 3072 buckets. Failed count: 171552
+        32B: 15 Subsections = 7680 buckets. Failed count: 124608
+        48B: 148 Subsections = 50517 buckets. Failed count: 169461
+        64B: 53 Subsections = 13568 buckets. Failed count: 88530
+        80B: 25 Subsections = 5120 buckets. Failed count: 18760
+        96B: 5 Subsections = 853 buckets. Failed count: 23418
+        112B: 3 Subsections = 438 buckets. Failed count: 20571
+        128B: 4 Subsections = 512 buckets. Failed count: 67933
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 237 frames, [4.0 KB-8.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 894254 frames
+      Peak usage frame count: [0-1.0 KB]: 237 frames, [4.0 KB-8.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 1339 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 26.3 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 1201 frames, [128.0 KB-256.0 KB]: 893291 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1577 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
-      Peak Allocated memory 159.2 KB
+      Peak Allocated memory 120.4 KB
       Peak Large allocation bytes 0 B
