@@ -11,7 +11,7 @@ Direct3D:
     VRAM:     8018 MB
     Driver:   31.0.15.5152
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.122 seconds
+- Loaded All Assemblies, in  0.120 seconds
 - Finished resetting the current domain, in  0.001 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
@@ -19,226 +19,1812 @@ Using Windows.Gaming.Input
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.541100 ms
-03/14/2024 10:56:01: Fetching PlatformPrefs 'GuiScale' before loading defaults
-03/14/2024 10:56:01: Fetching PlatformPrefs 'GuiScale' before loading defaults
+UnloadTime: 0.531500 ms
+03/15/2024 13:27:33: Fetching PlatformPrefs 'GuiScale' before loading defaults
+03/15/2024 13:27:33: Fetching PlatformPrefs 'GuiScale' before loading defaults
 Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
 Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
 Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
-03/14/2024 10:56:01: Starting to load scene:start
+03/15/2024 13:27:33: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.657500 ms
+UnloadTime: 4.581900 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-03/14/2024 10:56:08: Using environment steamid 892970
-03/14/2024 10:56:08: Using steam APPID:892970
-03/14/2024 10:56:08: Authentication:k_ESteamNetworkingAvailability_Attempting
-03/14/2024 10:56:08: Steam initialized, persona:tjgolubi
-03/14/2024 10:56:08: PlayFab custom ID set to "Steam_76561198290658520"
-03/14/2024 10:56:08: Using default prefs
-03/14/2024 10:56:08: Valheim version: 0.217.38 (network version 20)
+03/15/2024 13:27:40: Using environment steamid 892970
+03/15/2024 13:27:40: Using steam APPID:892970
+03/15/2024 13:27:40: Authentication:k_ESteamNetworkingAvailability_Attempting
+03/15/2024 13:27:40: Steam initialized, persona:tjgolubi
+03/15/2024 13:27:40: PlayFab custom ID set to "Steam_76561198290658520"
+03/15/2024 13:27:40: Using default prefs
+03/15/2024 13:27:40: Valheim version: 0.217.38 (network version 20)
 Trying to set graphic mode to 'Custom'
 Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
 Graphic mode 'Custom' applied!
-03/14/2024 10:56:08: Worldgenerator version setup:2
-03/14/2024 10:56:08: Render threading mode:MultiThreaded
-03/14/2024 10:56:08: Set button "CamZoomIn" to None!
-03/14/2024 10:56:08: Set button "CamZoomOut" to None!
-03/14/2024 10:56:08: Set button "CamZoomIn" to None!
-03/14/2024 10:56:08: Set button "CamZoomOut" to None!
-03/14/2024 10:56:08: Loaded localization file #0 - 'localization' language: 'English'
-03/14/2024 10:56:08: Loaded localization file #1 - 'localization_extra' language: 'English'
-03/14/2024 10:56:08: Loaded localization file #2 - 'heightmap_message' language: 'English'
-03/14/2024 10:56:08: Loaded localization file #3 - 'localization_hildir' language: 'English'
-03/14/2024 10:56:08: Loaded localization file #4 - 'localization_emotes' language: 'English'
-03/14/2024 10:56:08: Loaded localization file #0 - 'localization' language: 'English'
-03/14/2024 10:56:08: Loaded localization file #1 - 'localization_extra' language: 'English'
-03/14/2024 10:56:08: Loaded localization file #2 - 'heightmap_message' language: 'English'
-03/14/2024 10:56:08: Loaded localization file #3 - 'localization_hildir' language: 'English'
-03/14/2024 10:56:08: Loaded localization file #4 - 'localization_emotes' language: 'English'
-03/14/2024 10:56:08: Missing audio clip in music respawn
-03/14/2024 10:56:08: Checking for installed DLCs
-03/14/2024 10:56:08: DLC:beta installed:False
-03/14/2024 10:56:08: Builder started
-03/14/2024 10:56:09: Sending PlayFab login request (attempt 1)
-03/14/2024 10:56:09: Starting music menu
-Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 156381.
-Total: 45.178500 ms (FindLiveObjects: 7.580200 ms CreateObjectMapping: 10.142000 ms MarkObjects: 27.249900 ms  DeleteObjects: 0.206200 ms)
+03/15/2024 13:27:40: Worldgenerator version setup:2
+03/15/2024 13:27:40: Render threading mode:MultiThreaded
+03/15/2024 13:27:40: Set button "CamZoomIn" to None!
+03/15/2024 13:27:40: Set button "CamZoomOut" to None!
+03/15/2024 13:27:40: Set button "CamZoomIn" to None!
+03/15/2024 13:27:40: Set button "CamZoomOut" to None!
+03/15/2024 13:27:40: Loaded localization file #0 - 'localization' language: 'English'
+03/15/2024 13:27:40: Loaded localization file #1 - 'localization_extra' language: 'English'
+03/15/2024 13:27:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
+03/15/2024 13:27:40: Loaded localization file #3 - 'localization_hildir' language: 'English'
+03/15/2024 13:27:40: Loaded localization file #4 - 'localization_emotes' language: 'English'
+03/15/2024 13:27:40: Loaded localization file #0 - 'localization' language: 'English'
+03/15/2024 13:27:40: Loaded localization file #1 - 'localization_extra' language: 'English'
+03/15/2024 13:27:40: Loaded localization file #2 - 'heightmap_message' language: 'English'
+03/15/2024 13:27:40: Loaded localization file #3 - 'localization_hildir' language: 'English'
+03/15/2024 13:27:40: Loaded localization file #4 - 'localization_emotes' language: 'English'
+03/15/2024 13:27:40: Missing audio clip in music respawn
+03/15/2024 13:27:40: Checking for installed DLCs
+03/15/2024 13:27:40: DLC:beta installed:False
+03/15/2024 13:27:40: Builder started
+03/15/2024 13:27:40: Sending PlayFab login request (attempt 1)
+03/15/2024 13:27:41: Starting music menu
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 156393.
+Total: 43.540200 ms (FindLiveObjects: 8.260900 ms CreateObjectMapping: 10.553400 ms MarkObjects: 24.531500 ms  DeleteObjects: 0.194000 ms)
 
-03/14/2024 10:56:09: PlayFab logged in as "Steam_76561198290658520"
-03/14/2024 10:56:09: PlayFab local entity ID is DBA9D3993BEC7B4F
-03/14/2024 10:56:13: show character selection
-03/14/2024 10:56:14: OnCharacterStart
-03/14/2024 10:56:19: Loading main scene
+03/15/2024 13:27:41: PlayFab logged in as "Steam_76561198290658520"
+03/15/2024 13:27:41: PlayFab local entity ID is DBA9D3993BEC7B4F
+Event.Use() should not be called for events of type repaint
+03/15/2024 13:28:19: Activating default element Start game
+03/15/2024 13:28:19: show character selection
+03/15/2024 13:28:20: Button pressed Start  frame:2584
+03/15/2024 13:28:20: OnCharacterStart
+03/15/2024 13:28:22: Button pressed Start  frame:2689
+03/15/2024 13:28:23: Loading main scene
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.501100 ms
-03/14/2024 10:56:19: Steam initialized, persona:tjgolubi
-03/14/2024 10:56:19: PlayFab custom ID set to "Steam_76561198290658520"
-03/14/2024 10:56:19: Using default prefs
-03/14/2024 10:56:19: Loading player profile terry
-03/14/2024 10:56:19: isModded: False
-03/14/2024 10:56:19: Zonesystem Awake 861
-03/14/2024 10:56:19: DungeonDB Awake 861
-03/14/2024 10:56:19: Steam initialized, persona:tjgolubi
-03/14/2024 10:56:19: Worldgenerator version setup:2
-03/14/2024 10:56:22: Audioman already exist, destroying self
-03/14/2024 10:56:22: Checking for installed DLCs
-03/14/2024 10:56:22: DLC:beta installed:False
-Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 154825.
-Total: 49.198400 ms (FindLiveObjects: 5.848300 ms CreateObjectMapping: 7.823700 ms MarkObjects: 34.875300 ms  DeleteObjects: 0.650500 ms)
+UnloadTime: 10.092400 ms
+03/15/2024 13:28:24: Steam initialized, persona:tjgolubi
+03/15/2024 13:28:24: PlayFab custom ID set to "Steam_76561198290658520"
+03/15/2024 13:28:24: Using default prefs
+03/15/2024 13:28:24: Loading player profile terry
+03/15/2024 13:28:24: isModded: False
+03/15/2024 13:28:24: Zonesystem Awake 2779
+03/15/2024 13:28:24: DungeonDB Awake 2779
+03/15/2024 13:28:24: Steam initialized, persona:tjgolubi
+03/15/2024 13:28:24: Worldgenerator version setup:2
+03/15/2024 13:28:26: Audioman already exist, destroying self
+03/15/2024 13:28:26: Checking for installed DLCs
+03/15/2024 13:28:26: DLC:beta installed:False
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 154864.
+Total: 48.491900 ms (FindLiveObjects: 5.833500 ms CreateObjectMapping: 8.524500 ms MarkObjects: 33.486600 ms  DeleteObjects: 0.646700 ms)
 
-03/14/2024 10:56:25: Zonesystem Start 861
-03/14/2024 10:56:25: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-03/14/2024 10:56:25: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-03/14/2024 10:56:25: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-03/14/2024 10:56:25: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
-03/14/2024 10:56:25: DungeonDB Start 861
-03/14/2024 10:56:25: ZRpc timeout set to 30s 
-03/14/2024 10:56:25: ZNET START
-03/14/2024 10:56:25: Load world: Famheim (Famheim)
-03/14/2024 10:56:25: Loading 829196 zdos, my sessionID: 2397128715, data version: 33
-03/14/2024 10:56:25: Creating ZDOs
-03/14/2024 10:56:25: Loading in ZDOs
-03/14/2024 10:56:26: Adding to Dictionary
-03/14/2024 10:56:26: Adding to Sectors
-03/14/2024 10:56:26: Connecting Portals, Spawners & ZSyncTransforms
-ConnectPortals => Connected 2 portals.
+03/15/2024 13:28:29: Zonesystem Start 2779
+03/15/2024 13:28:29: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+03/15/2024 13:28:29: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+03/15/2024 13:28:29: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+03/15/2024 13:28:29: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+03/15/2024 13:28:29: DungeonDB Start 2779
+03/15/2024 13:28:29: ZRpc timeout set to 30s 
+03/15/2024 13:28:29: ZNET START
+03/15/2024 13:28:29: Load world: Famheim (Famheim)
+03/15/2024 13:28:29: Loading 829227 zdos, my sessionID: 2149233268, data version: 33
+03/15/2024 13:28:29: Creating ZDOs
+03/15/2024 13:28:29: Loading in ZDOs
+03/15/2024 13:28:30: Adding to Dictionary
+03/15/2024 13:28:30: Adding to Sectors
+03/15/2024 13:28:30: Connecting Portals, Spawners & ZSyncTransforms
+ConnectPortals => Connected 1 portals.
 ConnectSpawners => Connected 0 spawners and 1312 'done' spawners.
-03/14/2024 10:56:26: Loaded 10076 locations
-03/14/2024 10:56:26: Unloading unused assets
+03/15/2024 13:28:30: Loaded 10076 locations
+03/15/2024 13:28:30: Unloading unused assets
 Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-03/14/2024 10:56:26: Starting respawn
-03/14/2024 10:56:32: Unpacking compressed mapdata 27628
-03/14/2024 10:56:32: tip:$loadscreen_tip24
+03/15/2024 13:28:31: Starting respawn
+03/15/2024 13:28:31: Activating default element Texts
+03/15/2024 13:28:36: Unpacking compressed mapdata 27627
+03/15/2024 13:28:36: tip:$loadscreen_tip08
 Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1728171.
-Total: 380.098100 ms (FindLiveObjects: 134.488300 ms CreateObjectMapping: 24.442600 ms MarkObjects: 218.101100 ms  DeleteObjects: 3.065500 ms)
+Total: 375.644400 ms (FindLiveObjects: 134.725500 ms CreateObjectMapping: 23.360900 ms MarkObjects: 214.317300 ms  DeleteObjects: 3.240200 ms)
 
-03/14/2024 10:56:36: Force generating hmap (-256.00, 0.00, 448.00)
-03/14/2024 10:56:36: Force generating hmap (-320.00, 0.00, 448.00)
-03/14/2024 10:56:36: Force generating hmap (-320.00, 0.00, 512.00)
-03/14/2024 10:56:36: Force generating hmap (-256.00, 0.00, 512.00)
-03/14/2024 10:56:37: Force generating hmap (-128.00, 0.00, 576.00)
-03/14/2024 10:56:40: Spawned after 8.019994
-03/14/2024 10:56:41: Skipping unloading unused assets
-03/14/2024 10:56:41: Minimap: Adding unique location (131.94, 39.56, 260.83)
-03/14/2024 10:56:41: Minimap: Adding unique location (-1299.80, 35.63, 1144.62)
-03/14/2024 10:56:41: Minimap: Adding unique location (-637.68, 33.99, 3844.75)
-03/14/2024 10:56:43: Starting music home
-03/14/2024 10:56:43: Resumed music home at 0
-03/14/2024 10:56:50: Teleportation TRIGGER
-03/14/2024 10:56:50: Teleporting Terry
-03/14/2024 10:57:01: Stopped music home at 820377
-03/14/2024 10:57:01: Starting music meadows
-03/14/2024 10:57:01: Resumed music meadows at 0
-03/14/2024 10:57:12: Setting selected recipe 0
-03/14/2024 10:58:28: Spawned Greydwarf x 2
-03/14/2024 10:58:30: Stopped music meadows at 3910905
-03/14/2024 10:58:30: Starting music blackforest
-03/14/2024 10:58:30: Resumed music blackforest at 0
-03/14/2024 10:58:45: Spawned Boar x 1
-03/14/2024 10:58:45: Spawned Greyling x 1
-03/14/2024 10:58:47: Loading dungeon
-03/14/2024 10:58:47: Dungeon loaded with 40 rooms from old format in 15.0125 ms.
-03/14/2024 10:58:48: Force generating hmap (-128.00, 0.00, 576.00)
-03/14/2024 10:58:48: Loading dungeon
-03/14/2024 10:58:48: Dungeon loaded with 24 rooms from old format in 12.0096 ms.
-03/14/2024 10:58:54: Stopped music blackforest at 1067807
-03/14/2024 10:58:54: Starting music blackforest
-03/14/2024 10:58:54: Resumed music blackforest at 1067807
-03/14/2024 10:58:54: Stopped music blackforest at 1073451
-03/14/2024 10:58:54: Starting music meadows
-03/14/2024 10:58:54: Resumed music meadows at 3910905
-03/14/2024 10:58:56: Force generating hmap (-256.00, 0.00, 448.00)
-03/14/2024 10:58:56: Force generating hmap (-256.00, 0.00, 512.00)
-03/14/2024 10:58:56: Force generating hmap (-320.00, 0.00, 448.00)
-03/14/2024 10:58:56: Force generating hmap (-320.00, 0.00, 512.00)
-03/14/2024 10:59:17: Setting selected recipe 17
-03/14/2024 10:59:17: Button pressed RepairButton  frame:16911
-03/14/2024 10:59:21: Stopped music meadows at 5066015
-03/14/2024 10:59:21: Starting music home
-03/14/2024 10:59:21: Resumed music home at 820377
-03/14/2024 10:59:38: Activating default element Continue
-03/14/2024 10:59:40: Activating default element Button_no
-03/14/2024 10:59:41: Shuting down
-03/14/2024 10:59:41: Uncompressed size 8401683
-03/14/2024 10:59:41: Compressed size 27628
-03/14/2024 10:59:41: Considering autobackup. World time: 185.94, short time: 7200, long time: 43200, backup count: 4
-03/14/2024 10:59:41: Skipping backup. World session not long enough.
-03/14/2024 10:59:41: ZNet Shutdown
-03/14/2024 10:59:41: PrepareSave: clone done in 71ms
-03/14/2024 10:59:41: PrepareSave: ZDOExtraData.PrepareSave done in 85 ms
-03/14/2024 10:59:41: World save writing starting
-03/14/2024 10:59:41: World save writing started
-03/14/2024 10:59:43: Saved 829198 ZDOs
-03/14/2024 10:59:43: World save writing finishing
-03/14/2024 10:59:43: World save writing finished
-03/14/2024 10:59:43: World saved ( 1820.4846ms )
-03/14/2024 10:59:43: Considering autobackup. World time: 185.94, short time: 7200, long time: 43200, backup count: 4
-03/14/2024 10:59:43: Skipping backup. World session not long enough.
-03/14/2024 10:59:43: Unloading unused assets
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-03/14/2024 10:59:43: Sending disconnect msg
+03/15/2024 13:28:44: Spawned after 8.019994
+03/15/2024 13:28:44: Skipping unloading unused assets
+03/15/2024 13:28:45: Minimap: Adding unique location (131.94, 39.56, 260.83)
+03/15/2024 13:28:45: Minimap: Adding unique location (-1299.80, 35.63, 1144.62)
+03/15/2024 13:28:45: Minimap: Adding unique location (-637.68, 33.99, 3844.75)
+03/15/2024 13:28:46: Starting music meadows
+03/15/2024 13:28:46: Resumed music meadows at 0
+03/15/2024 13:29:36: Setting selected recipe 0
+03/15/2024 13:29:52: Placed mud_road_v2
+03/15/2024 13:29:53: Placed mud_road_v2
+03/15/2024 13:29:54: Placed mud_road_v2
+03/15/2024 13:29:55: Placed mud_road_v2
+03/15/2024 13:29:56: Placed mud_road_v2
+03/15/2024 13:29:59: Placed mud_road_v2
+03/15/2024 13:30:00: Placed mud_road_v2
+03/15/2024 13:30:01: Placed mud_road_v2
+03/15/2024 13:30:01: Placed mud_road_v2
+03/15/2024 13:30:02: Placed mud_road_v2
+03/15/2024 13:30:03: Placed mud_road_v2
+03/15/2024 13:30:04: Placed mud_road_v2
+03/15/2024 13:30:06: Placed mud_road_v2
+03/15/2024 13:30:06: Placed mud_road_v2
+03/15/2024 13:30:07: Placed mud_road_v2
+03/15/2024 13:30:07: Placed mud_road_v2
+03/15/2024 13:30:08: Placed mud_road_v2
+03/15/2024 13:30:09: Placed mud_road_v2
+03/15/2024 13:30:12: Placed mud_road_v2
+03/15/2024 13:30:15: Placed mud_road_v2
+03/15/2024 13:30:17: Placed mud_road_v2
+03/15/2024 13:30:18: Placed mud_road_v2
+03/15/2024 13:30:22: Placed mud_road_v2
+03/15/2024 13:30:22: Placed mud_road_v2
+03/15/2024 13:30:23: Placed mud_road_v2
+03/15/2024 13:30:24: Placed mud_road_v2
+03/15/2024 13:30:24: Placed mud_road_v2
+03/15/2024 13:30:25: Placed mud_road_v2
+03/15/2024 13:30:26: Placed mud_road_v2
+03/15/2024 13:30:27: Placed mud_road_v2
+03/15/2024 13:30:28: Placed mud_road_v2
+03/15/2024 13:30:31: Placed mud_road_v2
+03/15/2024 13:30:32: Placed mud_road_v2
+03/15/2024 13:30:32: Placed mud_road_v2
+03/15/2024 13:30:33: Placed mud_road_v2
+03/15/2024 13:30:34: Placed mud_road_v2
+03/15/2024 13:30:37: Placed mud_road_v2
+03/15/2024 13:30:38: Placed mud_road_v2
+03/15/2024 13:30:39: Placed mud_road_v2
+03/15/2024 13:30:39: Placed mud_road_v2
+03/15/2024 13:30:40: Placed mud_road_v2
+03/15/2024 13:30:46: Placed mud_road_v2
+03/15/2024 13:30:46: Placed mud_road_v2
+03/15/2024 13:30:48: Placed mud_road_v2
+03/15/2024 13:30:49: Placed mud_road_v2
+03/15/2024 13:31:01: Placed mud_road_v2
+03/15/2024 13:31:02: Placed mud_road_v2
+03/15/2024 13:31:02: Placed mud_road_v2
+03/15/2024 13:31:03: Placed mud_road_v2
+03/15/2024 13:31:04: Placed mud_road_v2
+03/15/2024 13:31:04: Placed mud_road_v2
+03/15/2024 13:31:05: Placed mud_road_v2
+03/15/2024 13:31:05: Placed mud_road_v2
+03/15/2024 13:31:06: Placed mud_road_v2
+03/15/2024 13:31:08: Placed mud_road_v2
+03/15/2024 13:31:09: Placed mud_road_v2
+03/15/2024 13:31:10: Placed mud_road_v2
+03/15/2024 13:31:12: Placed mud_road_v2
+03/15/2024 13:31:13: Placed mud_road_v2
+03/15/2024 13:31:13: Placed mud_road_v2
+03/15/2024 13:31:16: Placed mud_road_v2
+03/15/2024 13:31:16: Placed mud_road_v2
+03/15/2024 13:31:59: Placed mud_road_v2
+03/15/2024 13:31:59: Placed mud_road_v2
+03/15/2024 13:32:00: Placed mud_road_v2
+03/15/2024 13:32:00: Placed mud_road_v2
+03/15/2024 13:32:01: Placed mud_road_v2
+03/15/2024 13:32:01: Placed mud_road_v2
+03/15/2024 13:32:01: Placed mud_road_v2
+03/15/2024 13:32:04: Placed mud_road_v2
+03/15/2024 13:32:06: Placed mud_road_v2
+03/15/2024 13:32:06: Placed mud_road_v2
+03/15/2024 13:32:07: Placed mud_road_v2
+03/15/2024 13:32:07: Placed mud_road_v2
+03/15/2024 13:32:08: Placed mud_road_v2
+03/15/2024 13:32:11: Placed mud_road_v2
+03/15/2024 13:32:12: Placed mud_road_v2
+03/15/2024 13:32:13: Placed mud_road_v2
+03/15/2024 13:32:13: Placed mud_road_v2
+03/15/2024 13:32:14: Placed mud_road_v2
+03/15/2024 13:32:15: Placed mud_road_v2
+03/15/2024 13:32:22: Placed mud_road_v2
+03/15/2024 13:32:27: Placed mud_road_v2
+03/15/2024 13:32:33: Placed mud_road_v2
+03/15/2024 13:32:44: Placed mud_road_v2
+03/15/2024 13:32:45: Placed mud_road_v2
+03/15/2024 13:32:45: Placed mud_road_v2
+03/15/2024 13:32:46: Placed mud_road_v2
+03/15/2024 13:32:47: Placed mud_road_v2
+03/15/2024 13:32:47: Placed mud_road_v2
+03/15/2024 13:32:48: Placed mud_road_v2
+03/15/2024 13:32:51: Placed mud_road_v2
+03/15/2024 13:32:52: Placed mud_road_v2
+03/15/2024 13:32:53: Placed mud_road_v2
+03/15/2024 13:32:54: Placed mud_road_v2
+03/15/2024 13:32:56: Placed mud_road_v2
+03/15/2024 13:32:57: Placed mud_road_v2
+03/15/2024 13:33:00: Placed mud_road_v2
+03/15/2024 13:33:02: Placed mud_road_v2
+03/15/2024 13:33:03: Placed mud_road_v2
+03/15/2024 13:33:04: Placed mud_road_v2
+03/15/2024 13:33:05: Placed mud_road_v2
+03/15/2024 13:33:14: Placed mud_road_v2
+03/15/2024 13:33:19: Placed mud_road_v2
+03/15/2024 13:33:47: Placed mud_road_v2
+03/15/2024 13:33:48: Placed mud_road_v2
+03/15/2024 13:33:49: Placed mud_road_v2
+03/15/2024 13:33:49: Placed mud_road_v2
+03/15/2024 13:33:50: Placed mud_road_v2
+03/15/2024 13:33:51: Placed mud_road_v2
+03/15/2024 13:33:52: Placed mud_road_v2
+03/15/2024 13:33:53: Placed mud_road_v2
+03/15/2024 13:33:54: Placed mud_road_v2
+03/15/2024 13:33:55: Placed mud_road_v2
+03/15/2024 13:33:56: Placed mud_road_v2
+03/15/2024 13:33:57: Placed mud_road_v2
+03/15/2024 13:33:58: Placed mud_road_v2
+03/15/2024 13:33:58: Placed mud_road_v2
+03/15/2024 13:33:59: Placed mud_road_v2
+03/15/2024 13:34:02: Placed mud_road_v2
+03/15/2024 13:34:03: Placed mud_road_v2
+03/15/2024 13:34:04: Placed mud_road_v2
+03/15/2024 13:34:11: Placed mud_road_v2
+03/15/2024 13:34:11: Placed mud_road_v2
+03/15/2024 13:34:12: Placed mud_road_v2
+03/15/2024 13:34:13: Placed mud_road_v2
+03/15/2024 13:34:20: Placed mud_road_v2
+03/15/2024 13:34:21: Placed mud_road_v2
+03/15/2024 13:34:23: Placed mud_road_v2
+03/15/2024 13:34:32: Placed mud_road_v2
+03/15/2024 13:34:33: Placed mud_road_v2
+03/15/2024 13:34:33: Placed mud_road_v2
+03/15/2024 13:34:34: Placed mud_road_v2
+03/15/2024 13:34:34: Placed mud_road_v2
+03/15/2024 13:34:35: Placed mud_road_v2
+03/15/2024 13:34:35: Placed mud_road_v2
+03/15/2024 13:34:36: Placed mud_road_v2
+03/15/2024 13:34:37: Placed mud_road_v2
+03/15/2024 13:34:38: Placed mud_road_v2
+03/15/2024 13:34:38: Placed mud_road_v2
+03/15/2024 13:34:41: Update PlayFab entity token
+03/15/2024 13:34:42: Placed mud_road_v2
+03/15/2024 13:34:42: Placed mud_road_v2
+03/15/2024 13:34:43: Placed mud_road_v2
+03/15/2024 13:34:45: Placed mud_road_v2
+03/15/2024 13:34:47: Placed mud_road_v2
+03/15/2024 13:34:48: Placed mud_road_v2
+03/15/2024 13:34:49: Placed mud_road_v2
+03/15/2024 13:34:50: Placed mud_road_v2
+03/15/2024 13:34:50: Placed mud_road_v2
+03/15/2024 13:34:51: Placed mud_road_v2
+03/15/2024 13:34:52: Placed mud_road_v2
+03/15/2024 13:34:53: Placed mud_road_v2
+03/15/2024 13:34:53: Placed mud_road_v2
+03/15/2024 13:34:54: Placed mud_road_v2
+03/15/2024 13:34:55: Placed mud_road_v2
+03/15/2024 13:34:55: Placed mud_road_v2
+03/15/2024 13:34:57: Placed mud_road_v2
+03/15/2024 13:34:58: Placed mud_road_v2
+03/15/2024 13:35:00: Placed mud_road_v2
+03/15/2024 13:35:00: Placed mud_road_v2
+03/15/2024 13:35:01: Placed mud_road_v2
+03/15/2024 13:35:01: Placed mud_road_v2
+03/15/2024 13:35:02: Placed mud_road_v2
+03/15/2024 13:35:02: Placed mud_road_v2
+03/15/2024 13:35:05: Placed mud_road_v2
+03/15/2024 13:35:06: Placed mud_road_v2
+03/15/2024 13:35:06: Placed mud_road_v2
+03/15/2024 13:35:07: Placed mud_road_v2
+03/15/2024 13:35:12: Setting selected recipe 0
+03/15/2024 13:35:16: Placed mud_road_v2
+03/15/2024 13:35:17: Placed mud_road_v2
+03/15/2024 13:35:17: Placed mud_road_v2
+03/15/2024 13:35:19: Placed mud_road_v2
+03/15/2024 13:35:20: Placed mud_road_v2
+03/15/2024 13:35:22: Placed mud_road_v2
+03/15/2024 13:35:22: Placed mud_road_v2
+03/15/2024 13:35:24: Placed mud_road_v2
+03/15/2024 13:35:24: Placed mud_road_v2
+03/15/2024 13:35:26: Placed mud_road_v2
+03/15/2024 13:35:26: Placed mud_road_v2
+03/15/2024 13:35:27: Placed mud_road_v2
+03/15/2024 13:35:29: Placed mud_road_v2
+03/15/2024 13:35:30: Placed mud_road_v2
+03/15/2024 13:35:31: Placed mud_road_v2
+03/15/2024 13:35:32: Placed mud_road_v2
+03/15/2024 13:35:34: Placed mud_road_v2
+03/15/2024 13:35:38: Placed mud_road_v2
+03/15/2024 13:35:39: Placed mud_road_v2
+03/15/2024 13:35:40: Placed mud_road_v2
+03/15/2024 13:35:41: Placed mud_road_v2
+03/15/2024 13:35:43: Placed mud_road_v2
+03/15/2024 13:35:44: Placed mud_road_v2
+03/15/2024 13:35:45: Placed mud_road_v2
+03/15/2024 13:35:46: Placed mud_road_v2
+03/15/2024 13:35:49: Placed mud_road_v2
+03/15/2024 13:35:52: Placed mud_road_v2
+03/15/2024 13:35:55: Placed mud_road_v2
+03/15/2024 13:35:57: Placed mud_road_v2
+03/15/2024 13:35:58: Placed mud_road_v2
+03/15/2024 13:35:59: Placed mud_road_v2
+03/15/2024 13:35:59: Placed mud_road_v2
+03/15/2024 13:36:00: Placed mud_road_v2
+03/15/2024 13:36:01: Placed mud_road_v2
+03/15/2024 13:36:02: Placed mud_road_v2
+03/15/2024 13:36:04: Placed mud_road_v2
+03/15/2024 13:36:05: Placed mud_road_v2
+03/15/2024 13:36:06: Placed mud_road_v2
+03/15/2024 13:36:07: Placed mud_road_v2
+03/15/2024 13:36:07: Placed mud_road_v2
+03/15/2024 13:36:08: Placed mud_road_v2
+03/15/2024 13:36:09: Placed mud_road_v2
+03/15/2024 13:36:10: Placed mud_road_v2
+03/15/2024 13:36:11: Placed mud_road_v2
+03/15/2024 13:36:12: Placed mud_road_v2
+03/15/2024 13:36:13: Placed mud_road_v2
+03/15/2024 13:36:14: Placed mud_road_v2
+03/15/2024 13:36:15: Placed mud_road_v2
+03/15/2024 13:36:15: Placed mud_road_v2
+03/15/2024 13:36:17: Placed mud_road_v2
+03/15/2024 13:36:18: Placed mud_road_v2
+03/15/2024 13:36:18: Placed mud_road_v2
+03/15/2024 13:36:20: Placed mud_road_v2
+03/15/2024 13:36:21: Placed mud_road_v2
+03/15/2024 13:36:23: Placed mud_road_v2
+03/15/2024 13:36:32: Setting selected recipe 0
+03/15/2024 13:36:37: Disabling PlayerBase  character_trigger
+03/15/2024 13:36:38: Placed fire_pit
+03/15/2024 13:37:09: Disabling PlayerBase  character_trigger
+03/15/2024 13:37:15: Placed mud_road_v2
+03/15/2024 13:37:16: Placed mud_road_v2
+03/15/2024 13:37:17: Placed mud_road_v2
+03/15/2024 13:37:18: Placed mud_road_v2
+03/15/2024 13:37:20: Placed mud_road_v2
+03/15/2024 13:37:22: Placed mud_road_v2
+03/15/2024 13:37:23: Placed mud_road_v2
+03/15/2024 13:37:24: Placed mud_road_v2
+03/15/2024 13:37:24: Placed mud_road_v2
+03/15/2024 13:37:26: Placed mud_road_v2
+03/15/2024 13:37:27: Placed mud_road_v2
+03/15/2024 13:37:27: Placed mud_road_v2
+03/15/2024 13:37:28: Placed mud_road_v2
+03/15/2024 13:37:29: Placed mud_road_v2
+03/15/2024 13:37:30: Placed mud_road_v2
+03/15/2024 13:37:31: Placed mud_road_v2
+03/15/2024 13:37:33: Placed mud_road_v2
+03/15/2024 13:37:33: Placed mud_road_v2
+03/15/2024 13:37:34: Placed mud_road_v2
+03/15/2024 13:37:35: Placed mud_road_v2
+03/15/2024 13:37:36: Placed mud_road_v2
+03/15/2024 13:37:38: Placed mud_road_v2
+03/15/2024 13:37:40: Placed mud_road_v2
+03/15/2024 13:37:41: Placed mud_road_v2
+03/15/2024 13:37:41: Placed mud_road_v2
+03/15/2024 13:37:42: Placed mud_road_v2
+03/15/2024 13:37:43: Placed mud_road_v2
+03/15/2024 13:37:44: Placed mud_road_v2
+03/15/2024 13:37:45: Placed mud_road_v2
+03/15/2024 13:37:46: Placed mud_road_v2
+03/15/2024 13:37:48: Placed mud_road_v2
+03/15/2024 13:37:50: Placed mud_road_v2
+03/15/2024 13:37:52: Placed mud_road_v2
+03/15/2024 13:37:54: Placed mud_road_v2
+03/15/2024 13:37:56: Placed mud_road_v2
+03/15/2024 13:37:57: Placed mud_road_v2
+03/15/2024 13:37:57: Placed mud_road_v2
+03/15/2024 13:38:00: Placed mud_road_v2
+03/15/2024 13:38:01: Placed mud_road_v2
+03/15/2024 13:38:02: Placed mud_road_v2
+03/15/2024 13:38:03: Placed mud_road_v2
+03/15/2024 13:38:04: Placed mud_road_v2
+03/15/2024 13:38:07: Placed mud_road_v2
+03/15/2024 13:38:11: Placed mud_road_v2
+03/15/2024 13:38:13: Placed mud_road_v2
+03/15/2024 13:38:16: Placed mud_road_v2
+03/15/2024 13:38:19: Placed mud_road_v2
+03/15/2024 13:38:22: Placed mud_road_v2
+03/15/2024 13:38:23: Placed mud_road_v2
+03/15/2024 13:38:24: Placed mud_road_v2
+03/15/2024 13:38:26: Placed mud_road_v2
+03/15/2024 13:38:28: Placed mud_road_v2
+03/15/2024 13:38:28: Placed mud_road_v2
+03/15/2024 13:38:31: Placed mud_road_v2
+03/15/2024 13:38:34: Placed mud_road_v2
+03/15/2024 13:38:35: Placed mud_road_v2
+03/15/2024 13:38:36: Placed mud_road_v2
+03/15/2024 13:38:37: Placed mud_road_v2
+03/15/2024 13:38:39: Placed mud_road_v2
+03/15/2024 13:38:40: Placed mud_road_v2
+03/15/2024 13:38:41: Placed mud_road_v2
+03/15/2024 13:38:41: Placed mud_road_v2
+03/15/2024 13:38:42: Placed mud_road_v2
+03/15/2024 13:38:46: Placed mud_road_v2
+03/15/2024 13:38:50: Placed mud_road_v2
+03/15/2024 13:38:51: Placed mud_road_v2
+03/15/2024 13:38:53: Placed mud_road_v2
+03/15/2024 13:39:05: Placed mud_road_v2
+03/15/2024 13:39:07: Placed mud_road_v2
+03/15/2024 13:39:15: Placed mud_road_v2
+03/15/2024 13:39:21: Placed mud_road_v2
+03/15/2024 13:39:25: Placed mud_road_v2
+03/15/2024 13:39:29: Placed mud_road_v2
+03/15/2024 13:39:35: Placed mud_road_v2
+03/15/2024 13:39:42: Done fading color
+03/15/2024 13:39:42: Done fading color
+03/15/2024 13:39:42: Done fading color
+03/15/2024 13:40:15: Placed mud_road_v2
+03/15/2024 13:40:17: Placed mud_road_v2
+03/15/2024 13:40:25: Placed mud_road_v2
+03/15/2024 13:40:29: Placed mud_road_v2
+03/15/2024 13:40:42: Placed mud_road_v2
+03/15/2024 13:40:42: Placed mud_road_v2
+03/15/2024 13:40:43: Placed mud_road_v2
+03/15/2024 13:40:43: Placed mud_road_v2
+03/15/2024 13:40:44: Placed mud_road_v2
+03/15/2024 13:40:46: Placed mud_road_v2
+03/15/2024 13:40:47: Placed mud_road_v2
+03/15/2024 13:40:48: Placed mud_road_v2
+03/15/2024 13:40:50: Placed mud_road_v2
+03/15/2024 13:40:52: Placed mud_road_v2
+03/15/2024 13:40:53: Placed mud_road_v2
+03/15/2024 13:40:54: Placed mud_road_v2
+03/15/2024 13:40:54: Placed mud_road_v2
+03/15/2024 13:40:56: Placed mud_road_v2
+03/15/2024 13:41:02: Placed mud_road_v2
+03/15/2024 13:41:03: Placed mud_road_v2
+03/15/2024 13:41:04: Placed mud_road_v2
+03/15/2024 13:41:05: Placed mud_road_v2
+03/15/2024 13:41:06: Placed mud_road_v2
+03/15/2024 13:41:06: Placed mud_road_v2
+03/15/2024 13:41:07: Placed mud_road_v2
+03/15/2024 13:41:21: Placed mud_road_v2
+03/15/2024 13:41:21: Placed mud_road_v2
+03/15/2024 13:41:22: Placed mud_road_v2
+03/15/2024 13:41:23: Placed mud_road_v2
+03/15/2024 13:41:24: Placed mud_road_v2
+03/15/2024 13:41:25: Placed mud_road_v2
+03/15/2024 13:41:27: Placed mud_road_v2
+03/15/2024 13:41:27: Placed mud_road_v2
+03/15/2024 13:41:32: Placed mud_road_v2
+03/15/2024 13:41:33: Placed mud_road_v2
+03/15/2024 13:41:35: Placed mud_road_v2
+03/15/2024 13:41:36: Placed mud_road_v2
+03/15/2024 13:41:36: Placed mud_road_v2
+03/15/2024 13:41:37: Placed mud_road_v2
+03/15/2024 13:41:37: Placed mud_road_v2
+03/15/2024 13:41:44: Placed mud_road_v2
+03/15/2024 13:41:44: Placed mud_road_v2
+03/15/2024 13:41:45: Placed mud_road_v2
+03/15/2024 13:41:45: Placed mud_road_v2
+03/15/2024 13:42:01: Done fading color
+03/15/2024 13:42:01: Done fading color
+03/15/2024 13:42:01: Done fading color
+03/15/2024 13:42:03: Setting selected recipe 1
+03/15/2024 13:42:03: Button pressed RepairButton  frame:92578
+03/15/2024 13:42:04: Button pressed RepairButton  frame:92607
+03/15/2024 13:42:27: Placed mud_road_v2
+03/15/2024 13:42:29: Placed mud_road_v2
+03/15/2024 13:42:32: Placed mud_road_v2
+03/15/2024 13:42:39: Placed mud_road_v2
+03/15/2024 13:42:43: Placed mud_road_v2
+03/15/2024 13:42:47: Placed mud_road_v2
+03/15/2024 13:42:50: Placed mud_road_v2
+03/15/2024 13:42:52: Placed mud_road_v2
+03/15/2024 13:42:57: Placed mud_road_v2
+03/15/2024 13:43:04: Placed mud_road_v2
+03/15/2024 13:43:13: Placed mud_road_v2
+03/15/2024 13:43:19: Placed mud_road_v2
+03/15/2024 13:43:22: Placed mud_road_v2
+03/15/2024 13:43:33: Placed mud_road_v2
+03/15/2024 13:43:44: Placed mud_road_v2
+03/15/2024 13:43:47: Placed mud_road_v2
+03/15/2024 13:43:50: Placed mud_road_v2
+03/15/2024 13:44:06: Placed mud_road_v2
+03/15/2024 13:44:12: Placed mud_road_v2
+03/15/2024 13:44:14: Placed mud_road_v2
+03/15/2024 13:44:16: Placed mud_road_v2
+03/15/2024 13:44:18: Placed mud_road_v2
+03/15/2024 13:44:20: Placed mud_road_v2
+03/15/2024 13:45:01: Placed mud_road_v2
+03/15/2024 13:45:02: Placed mud_road_v2
+03/15/2024 13:45:03: Placed mud_road_v2
+03/15/2024 13:45:04: Placed mud_road_v2
+03/15/2024 13:45:07: Placed mud_road_v2
+03/15/2024 13:45:37: Placed mud_road_v2
+03/15/2024 13:45:40: Placed mud_road_v2
+03/15/2024 13:45:44: Placed mud_road_v2
+03/15/2024 13:45:46: Placed mud_road_v2
+03/15/2024 13:45:53: Placed mud_road_v2
+03/15/2024 13:45:56: Placed mud_road_v2
+03/15/2024 13:45:58: Placed mud_road_v2
+03/15/2024 13:46:00: Placed mud_road_v2
+03/15/2024 13:46:03: Placed mud_road_v2
+03/15/2024 13:46:05: Placed mud_road_v2
+03/15/2024 13:46:09: Placed mud_road_v2
+03/15/2024 13:46:11: Placed mud_road_v2
+03/15/2024 13:46:13: Placed mud_road_v2
+03/15/2024 13:46:16: Placed mud_road_v2
+03/15/2024 13:46:19: Placed mud_road_v2
+03/15/2024 13:46:21: Placed mud_road_v2
+03/15/2024 13:46:23: Placed mud_road_v2
+03/15/2024 13:46:28: Placed mud_road_v2
+03/15/2024 13:46:34: Spawned Fish1 x 2
+03/15/2024 13:46:34: Placed mud_road_v2
+03/15/2024 13:46:45: Placed mud_road_v2
+03/15/2024 13:46:55: Placed mud_road_v2
+03/15/2024 13:46:57: Placed mud_road_v2
+03/15/2024 13:47:06: Placed mud_road_v2
+03/15/2024 13:47:09: Placed mud_road_v2
+03/15/2024 13:47:14: Placed mud_road_v2
+03/15/2024 13:47:16: Placed mud_road_v2
+03/15/2024 13:47:20: Placed mud_road_v2
+03/15/2024 13:47:23: Placed mud_road_v2
+03/15/2024 13:47:30: Done fading color
+03/15/2024 13:47:30: Done fading color
+03/15/2024 13:47:30: Done fading color
+03/15/2024 13:47:30: Placed mud_road_v2
+03/15/2024 13:47:34: Placed mud_road_v2
+03/15/2024 13:47:43: Placed mud_road_v2
+03/15/2024 13:48:11: Placed mud_road_v2
+03/15/2024 13:48:12: Placed mud_road_v2
+03/15/2024 13:48:12: Placed mud_road_v2
+03/15/2024 13:48:15: Placed mud_road_v2
+03/15/2024 13:48:16: Placed mud_road_v2
+03/15/2024 13:48:17: Placed mud_road_v2
+03/15/2024 13:48:18: Placed mud_road_v2
+03/15/2024 13:48:19: Placed mud_road_v2
+03/15/2024 13:48:24: Placed mud_road_v2
+03/15/2024 13:48:25: Placed mud_road_v2
+03/15/2024 13:48:25: Placed mud_road_v2
+03/15/2024 13:48:26: Placed mud_road_v2
+03/15/2024 13:48:27: Placed mud_road_v2
+03/15/2024 13:48:28: Placed mud_road_v2
+03/15/2024 13:48:28: Placed mud_road_v2
+03/15/2024 13:48:29: Placed mud_road_v2
+03/15/2024 13:48:30: Placed mud_road_v2
+03/15/2024 13:48:34: Placed mud_road_v2
+03/15/2024 13:48:35: Placed mud_road_v2
+03/15/2024 13:48:36: Placed mud_road_v2
+03/15/2024 13:48:39: Placed mud_road_v2
+03/15/2024 13:48:39: Placed mud_road_v2
+03/15/2024 13:48:40: Placed mud_road_v2
+03/15/2024 13:48:42: Placed mud_road_v2
+03/15/2024 13:48:43: Placed mud_road_v2
+03/15/2024 13:48:44: Update PlayFab entity token
+03/15/2024 13:48:44: Placed mud_road_v2
+03/15/2024 13:48:51: Placed mud_road_v2
+03/15/2024 13:48:52: Placed mud_road_v2
+03/15/2024 13:48:52: Placed mud_road_v2
+03/15/2024 13:48:53: Placed mud_road_v2
+03/15/2024 13:48:54: Placed mud_road_v2
+03/15/2024 13:48:55: Placed mud_road_v2
+03/15/2024 13:48:56: Placed mud_road_v2
+03/15/2024 13:48:58: Placed mud_road_v2
+03/15/2024 13:48:59: Placed mud_road_v2
+03/15/2024 13:49:00: Placed mud_road_v2
+03/15/2024 13:49:00: Placed mud_road_v2
+03/15/2024 13:49:01: Placed mud_road_v2
+03/15/2024 13:49:02: Placed mud_road_v2
+03/15/2024 13:49:03: Placed mud_road_v2
+03/15/2024 13:49:07: Placed mud_road_v2
+03/15/2024 13:49:09: Placed mud_road_v2
+03/15/2024 13:49:10: Placed mud_road_v2
+03/15/2024 13:49:11: Placed mud_road_v2
+03/15/2024 13:49:12: Placed mud_road_v2
+03/15/2024 13:49:12: Placed mud_road_v2
+03/15/2024 13:49:14: Placed mud_road_v2
+03/15/2024 13:49:26: Placed mud_road_v2
+03/15/2024 13:49:38: Placed mud_road_v2
+03/15/2024 13:49:39: Placed mud_road_v2
+03/15/2024 13:49:40: Placed mud_road_v2
+03/15/2024 13:49:41: Placed mud_road_v2
+03/15/2024 13:49:41: Placed mud_road_v2
+03/15/2024 13:49:42: Placed mud_road_v2
+03/15/2024 13:49:44: Placed mud_road_v2
+03/15/2024 13:49:54: Placed mud_road_v2
+03/15/2024 13:49:54: Placed mud_road_v2
+03/15/2024 13:49:55: Placed mud_road_v2
+03/15/2024 13:49:56: Placed mud_road_v2
+03/15/2024 13:49:57: Placed mud_road_v2
+03/15/2024 13:49:59: Placed mud_road_v2
+03/15/2024 13:50:01: Placed mud_road_v2
+03/15/2024 13:50:02: Placed mud_road_v2
+03/15/2024 13:50:02: Placed mud_road_v2
+03/15/2024 13:50:03: Placed mud_road_v2
+03/15/2024 13:50:04: Placed mud_road_v2
+03/15/2024 13:50:08: Placed mud_road_v2
+03/15/2024 13:50:09: Placed mud_road_v2
+03/15/2024 13:50:10: Placed mud_road_v2
+03/15/2024 13:50:10: Placed mud_road_v2
+03/15/2024 13:50:11: Placed mud_road_v2
+03/15/2024 13:50:11: Placed mud_road_v2
+03/15/2024 13:50:12: Placed mud_road_v2
+03/15/2024 13:50:13: Placed mud_road_v2
+03/15/2024 13:50:14: Placed mud_road_v2
+03/15/2024 13:50:28: Placed mud_road_v2
+03/15/2024 13:50:30: Placed mud_road_v2
+03/15/2024 13:50:31: Placed mud_road_v2
+03/15/2024 13:50:34: Placed mud_road_v2
+03/15/2024 13:50:34: Placed mud_road_v2
+03/15/2024 13:50:34: Placed mud_road_v2
+03/15/2024 13:50:35: Placed mud_road_v2
+03/15/2024 13:50:40: Placed mud_road_v2
+03/15/2024 13:50:41: Placed mud_road_v2
+03/15/2024 13:50:42: Placed mud_road_v2
+03/15/2024 13:50:43: Placed mud_road_v2
+03/15/2024 13:50:44: Placed mud_road_v2
+03/15/2024 13:50:44: Placed mud_road_v2
+03/15/2024 13:50:45: Placed mud_road_v2
+03/15/2024 13:50:50: Placed mud_road_v2
+03/15/2024 13:50:51: Placed mud_road_v2
+03/15/2024 13:50:51: Placed mud_road_v2
+03/15/2024 13:50:52: Placed mud_road_v2
+03/15/2024 13:50:53: Placed mud_road_v2
+03/15/2024 13:50:54: Placed mud_road_v2
+03/15/2024 13:50:54: Placed mud_road_v2
+03/15/2024 13:50:55: Placed mud_road_v2
+03/15/2024 13:50:56: Placed mud_road_v2
+03/15/2024 13:51:00: Placed mud_road_v2
+03/15/2024 13:51:04: Placed mud_road_v2
+03/15/2024 13:51:04: Placed mud_road_v2
+03/15/2024 13:51:05: Placed mud_road_v2
+03/15/2024 13:51:06: Placed mud_road_v2
+03/15/2024 13:51:06: Placed mud_road_v2
+03/15/2024 13:51:07: Placed mud_road_v2
+03/15/2024 13:51:07: Placed mud_road_v2
+03/15/2024 13:51:38: Done fading color
+03/15/2024 13:51:38: Done fading color
+03/15/2024 13:51:38: Done fading color
+03/15/2024 13:51:52: Setting selected recipe 0
+03/15/2024 13:51:58: Added to stack10 0
+03/15/2024 13:51:58: Setting selected recipe 0
+03/15/2024 13:52:03: Placed mud_road_v2
+03/15/2024 13:52:05: Placed mud_road_v2
+03/15/2024 13:52:07: Placed mud_road_v2
+03/15/2024 13:52:14: Placed mud_road_v2
+03/15/2024 13:52:18: Placed mud_road_v2
+03/15/2024 13:52:21: Placed mud_road_v2
+03/15/2024 13:52:24: Placed mud_road_v2
+03/15/2024 13:52:26: Placed mud_road_v2
+03/15/2024 13:52:28: Placed mud_road_v2
+03/15/2024 13:52:31: Placed mud_road_v2
+03/15/2024 13:52:32: Placed mud_road_v2
+03/15/2024 13:52:35: Placed mud_road_v2
+03/15/2024 13:52:38: Placed mud_road_v2
+03/15/2024 13:52:45: Placed mud_road_v2
+03/15/2024 13:52:49: Placed mud_road_v2
+03/15/2024 13:52:52: Placed mud_road_v2
+03/15/2024 13:52:55: Placed mud_road_v2
+03/15/2024 13:52:58: Placed mud_road_v2
+03/15/2024 13:53:05: Placed mud_road_v2
+03/15/2024 13:53:07: Placed mud_road_v2
+03/15/2024 13:53:11: Placed mud_road_v2
+03/15/2024 13:53:12: Placed mud_road_v2
+03/15/2024 13:53:16: Placed mud_road_v2
+03/15/2024 13:53:18: Placed mud_road_v2
+03/15/2024 13:53:20: Placed mud_road_v2
+03/15/2024 13:53:22: Placed mud_road_v2
+03/15/2024 13:53:24: Placed mud_road_v2
+03/15/2024 13:53:27: Placed mud_road_v2
+03/15/2024 13:53:29: Placed mud_road_v2
+03/15/2024 13:53:31: Placed mud_road_v2
+03/15/2024 13:53:35: Placed mud_road_v2
+03/15/2024 13:53:40: Done fading color
+03/15/2024 13:53:40: Done fading color
+03/15/2024 13:53:40: Done fading color
+03/15/2024 13:53:41: Placed mud_road_v2
+03/15/2024 13:53:43: Placed mud_road_v2
+03/15/2024 13:53:47: Placed mud_road_v2
+03/15/2024 13:54:00: Placed mud_road_v2
+03/15/2024 13:54:02: Placed mud_road_v2
+03/15/2024 13:54:04: Placed mud_road_v2
+03/15/2024 13:54:08: Placed mud_road_v2
+03/15/2024 13:54:09: Done fading color
+03/15/2024 13:54:09: Done fading color
+03/15/2024 13:54:09: Done fading color
+03/15/2024 13:54:11: Placed mud_road_v2
+03/15/2024 13:54:27: Disabling PlayerBase  character_trigger
+03/15/2024 13:54:30: Disabling PlayerBase  character_trigger
+03/15/2024 13:54:31: Placed fire_pit
+03/15/2024 13:55:00: Disabling PlayerBase  character_trigger
+03/15/2024 13:55:03: Disabling PlayerBase  character_trigger
+03/15/2024 13:55:06: Disabling PlayerBase  character_trigger
+03/15/2024 13:55:45: Placed mud_road_v2
+03/15/2024 13:57:03: Placed mud_road_v2
+03/15/2024 13:57:10: Placed mud_road_v2
+03/15/2024 13:58:23: Uncompressed size 8401683
+03/15/2024 13:58:24: Compressed size 27627
+03/15/2024 13:58:24: Considering autobackup. World time: 1786.96, short time: 7200, long time: 43200, backup count: 4
+03/15/2024 13:58:24: Time to overwrite our last autobackup
+03/15/2024 13:58:24: Replacing backup file: terry_backup_auto-20240313150138
+03/15/2024 13:58:24: Saving backup at: terry_backup_auto-20240315135824
+03/15/2024 13:58:24: Sending message to save player profiles
+03/15/2024 13:58:24: PrepareSave: clone done in 77ms
+03/15/2024 13:58:24: PrepareSave: ZDOExtraData.PrepareSave done in 89 ms
+03/15/2024 13:58:24: World save writing starting
+03/15/2024 13:58:24: World save writing started
+03/15/2024 13:58:26: Saved 829198 ZDOs
+03/15/2024 13:58:26: World save writing finishing
+03/15/2024 13:58:26: World save writing finished
+03/15/2024 13:58:26: World saved ( 2003.4234ms )
+03/15/2024 13:58:26: Considering autobackup. World time: 1789.16, short time: 7200, long time: 43200, backup count: 4
+03/15/2024 13:58:26: Time to overwrite our last autobackup
+03/15/2024 13:58:26: Replacing backup file: Famheim_backup_auto-20240304112759
+03/15/2024 13:58:26: Saving backup at: Famheim_backup_auto-20240315135824
+03/15/2024 13:58:26: World auto backup saved ( 00:00:00.0200166ms )
+03/15/2024 13:58:53: Placed mud_road_v2
+03/15/2024 13:58:55: Placed mud_road_v2
+03/15/2024 13:58:58: Placed mud_road_v2
+03/15/2024 13:59:02: Placed mud_road_v2
+03/15/2024 13:59:24: Placed mud_road_v2
+03/15/2024 13:59:28: Placed mud_road_v2
+03/15/2024 13:59:32: Placed mud_road_v2
+03/15/2024 13:59:35: Placed mud_road_v2
+03/15/2024 14:00:03: Placed mud_road_v2
+03/15/2024 14:00:08: Placed mud_road_v2
+03/15/2024 14:00:11: Placed mud_road_v2
+03/15/2024 14:00:15: Placed mud_road_v2
+03/15/2024 14:00:18: Placed mud_road_v2
+03/15/2024 14:00:21: Placed mud_road_v2
+03/15/2024 14:00:30: Placed mud_road_v2
+03/15/2024 14:00:33: Placed mud_road_v2
+03/15/2024 14:00:36: Placed mud_road_v2
+03/15/2024 14:00:46: Placed mud_road_v2
+03/15/2024 14:00:49: Placed mud_road_v2
+03/15/2024 14:00:50: Placed mud_road_v2
+03/15/2024 14:00:52: Placed mud_road_v2
+03/15/2024 14:00:54: Placed mud_road_v2
+03/15/2024 14:00:55: Placed mud_road_v2
+03/15/2024 14:01:24: Placed mud_road_v2
+03/15/2024 14:02:06: Placed mud_road_v2
+03/15/2024 14:02:11: Placed mud_road_v2
+03/15/2024 14:02:15: Placed mud_road_v2
+03/15/2024 14:02:18: Placed mud_road_v2
+03/15/2024 14:02:20: Placed mud_road_v2
+03/15/2024 14:02:24: Placed mud_road_v2
+03/15/2024 14:02:24: Done fading color
+03/15/2024 14:02:24: Done fading color
+03/15/2024 14:02:24: Done fading color
+03/15/2024 14:02:27: Placed mud_road_v2
+03/15/2024 14:02:29: Placed mud_road_v2
+03/15/2024 14:02:31: Placed mud_road_v2
+03/15/2024 14:02:34: Placed mud_road_v2
+03/15/2024 14:02:36: Placed mud_road_v2
+03/15/2024 14:02:37: Done fading color
+03/15/2024 14:02:37: Done fading color
+03/15/2024 14:02:37: Done fading color
+03/15/2024 14:04:21: Setting selected recipe 0
+03/15/2024 14:04:42: Spawned Seagal x 2
+03/15/2024 14:04:43: Done fading color
+03/15/2024 14:04:43: Done fading color
+03/15/2024 14:04:43: Done fading color
+03/15/2024 14:04:48: Update PlayFab entity token
+03/15/2024 14:04:56: Force generating hmap (-256.00, 0.00, 448.00)
+03/15/2024 14:04:56: Force generating hmap (-256.00, 0.00, 512.00)
+03/15/2024 14:04:56: Force generating hmap (-320.00, 0.00, 448.00)
+03/15/2024 14:04:56: Force generating hmap (-320.00, 0.00, 512.00)
+03/15/2024 14:04:56: Force generating hmap (-128.00, 0.00, 576.00)
+03/15/2024 14:04:57: Loading dungeon
+03/15/2024 14:04:57: Dungeon loaded with 40 rooms from old format in 16.0175 ms.
+03/15/2024 14:05:05: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:05:05: Setting selected recipe 0
+03/15/2024 14:05:12: Item is not in this container
+03/15/2024 14:05:12: Setting selected recipe 0
+03/15/2024 14:05:40: Setting selected recipe 1
+03/15/2024 14:05:40: Button pressed RepairButton  frame:247821
+03/15/2024 14:05:40: Button pressed RepairButton  frame:247834
+03/15/2024 14:05:41: Stopped music meadows at 582107
+03/15/2024 14:05:41: Starting music home
+03/15/2024 14:06:16: Setting selected recipe 0
+03/15/2024 14:06:16: Button pressed RepairButton  frame:250946
+03/15/2024 14:06:28: Stopped music home at 2071992
+03/15/2024 14:06:28: Starting music meadows
+03/15/2024 14:06:28: Resumed music meadows at 582107
+03/15/2024 14:06:53: Done fading color
+03/15/2024 14:06:53: Done fading color
+03/15/2024 14:06:53: Done fading color
+03/15/2024 14:07:50: Placed replant_v2
+03/15/2024 14:07:51: Placed replant_v2
+03/15/2024 14:07:52: Placed replant_v2
+03/15/2024 14:07:55: Placed replant_v2
+03/15/2024 14:07:58: Placed replant_v2
+03/15/2024 14:08:00: Placed replant_v2
+03/15/2024 14:08:00: Done fading color
+03/15/2024 14:08:00: Done fading color
+03/15/2024 14:08:00: Done fading color
+03/15/2024 14:08:01: Placed replant_v2
+03/15/2024 14:08:03: Placed replant_v2
+03/15/2024 14:08:07: Placed replant_v2
+03/15/2024 14:08:08: Placed replant_v2
+03/15/2024 14:08:08: Placed replant_v2
+03/15/2024 14:08:10: Placed replant_v2
+03/15/2024 14:08:10: Placed replant_v2
+03/15/2024 14:08:11: Placed replant_v2
+03/15/2024 14:08:12: Placed replant_v2
+03/15/2024 14:08:12: Placed replant_v2
+03/15/2024 14:08:13: Placed replant_v2
+03/15/2024 14:08:16: Done fading color
+03/15/2024 14:08:16: Done fading color
+03/15/2024 14:08:16: Done fading color
+03/15/2024 14:08:16: Placed replant_v2
+03/15/2024 14:08:17: Placed replant_v2
+03/15/2024 14:08:17: Placed replant_v2
+03/15/2024 14:08:18: Placed replant_v2
+03/15/2024 14:08:19: Placed replant_v2
+03/15/2024 14:08:19: Placed replant_v2
+03/15/2024 14:08:20: Placed replant_v2
+03/15/2024 14:08:21: Placed replant_v2
+03/15/2024 14:08:22: Placed replant_v2
+03/15/2024 14:08:23: Placed replant_v2
+03/15/2024 14:08:23: Placed replant_v2
+03/15/2024 14:08:24: Placed replant_v2
+03/15/2024 14:08:25: Placed replant_v2
+03/15/2024 14:08:26: Placed replant_v2
+03/15/2024 14:08:29: Placed replant_v2
+03/15/2024 14:08:30: Placed replant_v2
+03/15/2024 14:08:31: Placed replant_v2
+03/15/2024 14:08:31: Placed replant_v2
+03/15/2024 14:08:32: Placed replant_v2
+03/15/2024 14:08:33: Placed replant_v2
+03/15/2024 14:08:33: Placed replant_v2
+03/15/2024 14:08:34: Placed replant_v2
+03/15/2024 14:08:35: Placed replant_v2
+03/15/2024 14:08:37: Placed replant_v2
+03/15/2024 14:08:39: Placed replant_v2
+03/15/2024 14:08:40: Placed replant_v2
+03/15/2024 14:08:40: Placed replant_v2
+03/15/2024 14:08:41: Placed replant_v2
+03/15/2024 14:08:42: Placed replant_v2
+03/15/2024 14:08:42: Placed replant_v2
+03/15/2024 14:08:43: Placed replant_v2
+03/15/2024 14:08:44: Placed replant_v2
+03/15/2024 14:08:45: Placed replant_v2
+03/15/2024 14:08:47: Placed replant_v2
+03/15/2024 14:08:49: Placed replant_v2
+03/15/2024 14:08:51: Placed replant_v2
+03/15/2024 14:08:52: Placed replant_v2
+03/15/2024 14:08:53: Placed replant_v2
+03/15/2024 14:08:54: Placed replant_v2
+03/15/2024 14:08:56: Placed replant_v2
+03/15/2024 14:08:57: Placed replant_v2
+03/15/2024 14:08:58: Placed replant_v2
+03/15/2024 14:08:59: Placed replant_v2
+03/15/2024 14:09:00: Placed replant_v2
+03/15/2024 14:09:01: Placed replant_v2
+03/15/2024 14:09:02: Placed replant_v2
+03/15/2024 14:09:04: Placed replant_v2
+03/15/2024 14:09:04: Placed replant_v2
+03/15/2024 14:09:06: Placed replant_v2
+03/15/2024 14:09:07: Placed replant_v2
+03/15/2024 14:09:08: Placed replant_v2
+03/15/2024 14:09:09: Placed replant_v2
+03/15/2024 14:09:09: Placed replant_v2
+03/15/2024 14:09:11: Placed replant_v2
+03/15/2024 14:09:13: Placed replant_v2
+03/15/2024 14:09:14: Placed replant_v2
+03/15/2024 14:09:17: Placed replant_v2
+03/15/2024 14:09:19: Placed replant_v2
+03/15/2024 14:09:20: Placed replant_v2
+03/15/2024 14:09:22: Placed replant_v2
+03/15/2024 14:09:23: Placed replant_v2
+03/15/2024 14:09:27: Placed replant_v2
+03/15/2024 14:09:27: Placed replant_v2
+03/15/2024 14:09:29: Placed replant_v2
+03/15/2024 14:09:29: Placed replant_v2
+03/15/2024 14:09:31: Placed replant_v2
+03/15/2024 14:09:33: Placed replant_v2
+03/15/2024 14:09:34: Placed replant_v2
+03/15/2024 14:09:37: Placed replant_v2
+03/15/2024 14:09:39: Placed replant_v2
+03/15/2024 14:09:39: Placed replant_v2
+03/15/2024 14:09:40: Placed replant_v2
+03/15/2024 14:09:41: Placed replant_v2
+03/15/2024 14:09:43: Placed replant_v2
+03/15/2024 14:09:44: Placed replant_v2
+03/15/2024 14:09:45: Placed replant_v2
+03/15/2024 14:09:46: Placed replant_v2
+03/15/2024 14:09:48: Placed replant_v2
+03/15/2024 14:09:51: Placed replant_v2
+03/15/2024 14:09:57: Placed replant_v2
+03/15/2024 14:10:00: Placed replant_v2
+03/15/2024 14:10:03: Placed replant_v2
+03/15/2024 14:10:04: Placed replant_v2
+03/15/2024 14:10:05: Placed replant_v2
+03/15/2024 14:10:06: Placed replant_v2
+03/15/2024 14:10:07: Placed replant_v2
+03/15/2024 14:10:09: Placed replant_v2
+03/15/2024 14:10:10: Placed replant_v2
+03/15/2024 14:10:12: Placed replant_v2
+03/15/2024 14:10:13: Placed replant_v2
+03/15/2024 14:10:14: Placed replant_v2
+03/15/2024 14:10:15: Placed replant_v2
+03/15/2024 14:10:16: Placed replant_v2
+03/15/2024 14:10:20: Placed replant_v2
+03/15/2024 14:10:22: Placed replant_v2
+03/15/2024 14:10:24: Placed replant_v2
+03/15/2024 14:10:25: Placed replant_v2
+03/15/2024 14:10:27: Placed replant_v2
+03/15/2024 14:10:29: Placed replant_v2
+03/15/2024 14:10:31: Placed replant_v2
+03/15/2024 14:10:33: Placed replant_v2
+03/15/2024 14:10:35: Placed replant_v2
+03/15/2024 14:10:41: Placed replant_v2
+03/15/2024 14:10:45: Placed replant_v2
+03/15/2024 14:10:46: Placed replant_v2
+03/15/2024 14:10:46: Placed replant_v2
+03/15/2024 14:10:47: Placed replant_v2
+03/15/2024 14:10:48: Placed replant_v2
+03/15/2024 14:10:49: Done fading color
+03/15/2024 14:10:49: Done fading color
+03/15/2024 14:10:49: Done fading color
+03/15/2024 14:10:50: Placed replant_v2
+03/15/2024 14:10:52: Placed replant_v2
+03/15/2024 14:10:53: Placed replant_v2
+03/15/2024 14:10:54: Placed replant_v2
+03/15/2024 14:10:55: Placed replant_v2
+03/15/2024 14:10:55: Placed replant_v2
+03/15/2024 14:10:56: Placed replant_v2
+03/15/2024 14:10:57: Placed replant_v2
+03/15/2024 14:10:57: Placed replant_v2
+03/15/2024 14:11:04: Placed replant_v2
+03/15/2024 14:11:07: Placed replant_v2
+03/15/2024 14:11:14: Placed replant_v2
+03/15/2024 14:11:18: Placed replant_v2
+03/15/2024 14:11:24: Placed replant_v2
+03/15/2024 14:11:26: Placed replant_v2
+03/15/2024 14:11:28: Placed replant_v2
+03/15/2024 14:11:29: Done fading color
+03/15/2024 14:11:29: Done fading color
+03/15/2024 14:11:29: Done fading color
+03/15/2024 14:11:30: Placed replant_v2
+03/15/2024 14:11:31: Placed replant_v2
+03/15/2024 14:11:33: Placed replant_v2
+03/15/2024 14:11:33: Placed replant_v2
+03/15/2024 14:11:35: Placed replant_v2
+03/15/2024 14:11:35: Placed replant_v2
+03/15/2024 14:11:36: Placed replant_v2
+03/15/2024 14:11:37: Placed replant_v2
+03/15/2024 14:11:38: Placed replant_v2
+03/15/2024 14:11:38: Placed replant_v2
+03/15/2024 14:11:39: Placed replant_v2
+03/15/2024 14:11:40: Placed replant_v2
+03/15/2024 14:11:41: Placed replant_v2
+03/15/2024 14:11:42: Placed replant_v2
+03/15/2024 14:11:43: Placed replant_v2
+03/15/2024 14:11:45: Placed replant_v2
+03/15/2024 14:11:46: Placed replant_v2
+03/15/2024 14:11:46: Placed replant_v2
+03/15/2024 14:11:47: Placed replant_v2
+03/15/2024 14:11:48: Placed replant_v2
+03/15/2024 14:11:49: Placed replant_v2
+03/15/2024 14:11:50: Placed replant_v2
+03/15/2024 14:11:51: Placed replant_v2
+03/15/2024 14:11:52: Placed replant_v2
+03/15/2024 14:11:53: Placed replant_v2
+03/15/2024 14:11:54: Placed replant_v2
+03/15/2024 14:11:55: Placed replant_v2
+03/15/2024 14:11:57: Placed replant_v2
+03/15/2024 14:11:58: Placed replant_v2
+03/15/2024 14:11:59: Placed replant_v2
+03/15/2024 14:12:00: Placed replant_v2
+03/15/2024 14:12:02: Placed replant_v2
+03/15/2024 14:12:03: Placed replant_v2
+03/15/2024 14:12:04: Placed replant_v2
+03/15/2024 14:12:05: Placed replant_v2
+03/15/2024 14:12:07: Placed replant_v2
+03/15/2024 14:12:08: Placed replant_v2
+03/15/2024 14:12:09: Placed replant_v2
+03/15/2024 14:12:10: Placed replant_v2
+03/15/2024 14:12:11: Placed replant_v2
+03/15/2024 14:12:12: Placed replant_v2
+03/15/2024 14:12:13: Placed replant_v2
+03/15/2024 14:12:14: Placed replant_v2
+03/15/2024 14:12:15: Placed replant_v2
+03/15/2024 14:12:16: Placed replant_v2
+03/15/2024 14:12:17: Placed replant_v2
+03/15/2024 14:12:19: Placed replant_v2
+03/15/2024 14:12:20: Placed replant_v2
+03/15/2024 14:12:21: Placed replant_v2
+03/15/2024 14:12:22: Placed replant_v2
+03/15/2024 14:12:24: Placed replant_v2
+03/15/2024 14:12:25: Placed replant_v2
+03/15/2024 14:12:26: Placed replant_v2
+03/15/2024 14:12:26: Placed replant_v2
+03/15/2024 14:12:27: Placed replant_v2
+03/15/2024 14:12:28: Placed replant_v2
+03/15/2024 14:12:29: Placed replant_v2
+03/15/2024 14:12:31: Placed replant_v2
+03/15/2024 14:12:31: Done fading color
+03/15/2024 14:12:31: Done fading color
+03/15/2024 14:12:31: Done fading color
+03/15/2024 14:12:32: Placed replant_v2
+03/15/2024 14:12:33: Placed replant_v2
+03/15/2024 14:12:37: Setting selected recipe 0
+03/15/2024 14:12:40: Placed replant_v2
+03/15/2024 14:12:41: Placed replant_v2
+03/15/2024 14:12:42: Placed replant_v2
+03/15/2024 14:12:42: Placed replant_v2
+03/15/2024 14:12:43: Placed replant_v2
+03/15/2024 14:12:44: Placed replant_v2
+03/15/2024 14:12:45: Placed replant_v2
+03/15/2024 14:12:46: Placed replant_v2
+03/15/2024 14:12:47: Placed replant_v2
+03/15/2024 14:12:47: Placed replant_v2
+03/15/2024 14:12:48: Placed replant_v2
+03/15/2024 14:12:49: Placed replant_v2
+03/15/2024 14:12:50: Placed replant_v2
+03/15/2024 14:12:51: Placed replant_v2
+03/15/2024 14:12:52: Placed replant_v2
+03/15/2024 14:12:54: Placed replant_v2
+03/15/2024 14:12:55: Placed replant_v2
+03/15/2024 14:12:56: Placed replant_v2
+03/15/2024 14:13:02: Placed replant_v2
+03/15/2024 14:13:03: Placed replant_v2
+03/15/2024 14:13:04: Placed replant_v2
+03/15/2024 14:13:05: Placed replant_v2
+03/15/2024 14:13:06: Placed replant_v2
+03/15/2024 14:13:07: Placed replant_v2
+03/15/2024 14:13:10: Placed replant_v2
+03/15/2024 14:13:11: Placed replant_v2
+03/15/2024 14:13:13: Placed replant_v2
+03/15/2024 14:13:18: Placed replant_v2
+03/15/2024 14:13:18: Done fading color
+03/15/2024 14:13:19: Done fading color
+03/15/2024 14:13:19: Done fading color
+03/15/2024 14:13:27: Placed replant_v2
+03/15/2024 14:13:27: Placed replant_v2
+03/15/2024 14:13:28: Placed replant_v2
+03/15/2024 14:13:29: Placed replant_v2
+03/15/2024 14:13:29: Placed replant_v2
+03/15/2024 14:13:30: Placed replant_v2
+03/15/2024 14:13:31: Placed replant_v2
+03/15/2024 14:13:34: Placed replant_v2
+03/15/2024 14:13:35: Placed replant_v2
+03/15/2024 14:13:36: Placed replant_v2
+03/15/2024 14:13:36: Placed replant_v2
+03/15/2024 14:13:41: Placed replant_v2
+03/15/2024 14:13:41: Placed replant_v2
+03/15/2024 14:13:42: Placed replant_v2
+03/15/2024 14:13:43: Placed replant_v2
+03/15/2024 14:13:43: Placed replant_v2
+03/15/2024 14:13:44: Placed replant_v2
+03/15/2024 14:13:45: Placed replant_v2
+03/15/2024 14:13:49: Placed replant_v2
+03/15/2024 14:13:49: Spawned Seagal x 1
+03/15/2024 14:13:50: Placed replant_v2
+03/15/2024 14:13:50: Placed replant_v2
+03/15/2024 14:13:51: Placed replant_v2
+03/15/2024 14:13:51: Placed replant_v2
+03/15/2024 14:13:52: Placed replant_v2
+03/15/2024 14:13:53: Placed replant_v2
+03/15/2024 14:13:54: Placed replant_v2
+03/15/2024 14:13:56: Placed replant_v2
+03/15/2024 14:13:57: Placed replant_v2
+03/15/2024 14:13:58: Placed replant_v2
+03/15/2024 14:14:01: Placed replant_v2
+03/15/2024 14:14:02: Placed replant_v2
+03/15/2024 14:14:04: Placed replant_v2
+03/15/2024 14:14:04: Placed replant_v2
+03/15/2024 14:14:05: Placed replant_v2
+03/15/2024 14:14:06: Placed replant_v2
+03/15/2024 14:14:07: Placed replant_v2
+03/15/2024 14:14:08: Placed replant_v2
+03/15/2024 14:14:08: Placed replant_v2
+03/15/2024 14:14:09: Placed replant_v2
+03/15/2024 14:14:10: Placed replant_v2
+03/15/2024 14:14:11: Placed replant_v2
+03/15/2024 14:14:12: Placed replant_v2
+03/15/2024 14:14:13: Placed replant_v2
+03/15/2024 14:14:14: Placed replant_v2
+03/15/2024 14:14:15: Placed replant_v2
+03/15/2024 14:14:16: Placed replant_v2
+03/15/2024 14:14:18: Placed replant_v2
+03/15/2024 14:14:21: Placed replant_v2
+03/15/2024 14:14:22: Placed replant_v2
+03/15/2024 14:14:23: Placed replant_v2
+03/15/2024 14:14:24: Placed replant_v2
+03/15/2024 14:14:25: Placed replant_v2
+03/15/2024 14:14:27: Placed replant_v2
+03/15/2024 14:14:28: Placed replant_v2
+03/15/2024 14:14:28: Placed replant_v2
+03/15/2024 14:14:29: Placed replant_v2
+03/15/2024 14:14:30: Placed replant_v2
+03/15/2024 14:14:31: Placed replant_v2
+03/15/2024 14:14:32: Placed replant_v2
+03/15/2024 14:14:33: Placed replant_v2
+03/15/2024 14:14:34: Placed replant_v2
+03/15/2024 14:14:35: Placed replant_v2
+03/15/2024 14:14:37: Placed replant_v2
+03/15/2024 14:14:38: Placed replant_v2
+03/15/2024 14:14:39: Placed replant_v2
+03/15/2024 14:14:40: Placed replant_v2
+03/15/2024 14:14:42: Placed replant_v2
+03/15/2024 14:14:43: Placed replant_v2
+03/15/2024 14:14:44: Placed replant_v2
+03/15/2024 14:14:46: Placed replant_v2
+03/15/2024 14:14:48: Placed replant_v2
+03/15/2024 14:14:49: Placed replant_v2
+03/15/2024 14:14:50: Placed replant_v2
+03/15/2024 14:14:52: Placed replant_v2
+03/15/2024 14:14:53: Placed replant_v2
+03/15/2024 14:14:54: Placed replant_v2
+03/15/2024 14:14:55: Placed replant_v2
+03/15/2024 14:14:56: Placed replant_v2
+03/15/2024 14:14:57: Placed replant_v2
+03/15/2024 14:14:59: Placed replant_v2
+03/15/2024 14:15:00: Placed replant_v2
+03/15/2024 14:15:01: Placed replant_v2
+03/15/2024 14:15:02: Placed replant_v2
+03/15/2024 14:15:03: Placed replant_v2
+03/15/2024 14:15:04: Placed replant_v2
+03/15/2024 14:15:04: Placed replant_v2
+03/15/2024 14:15:08: Placed replant_v2
+03/15/2024 14:15:09: Placed replant_v2
+03/15/2024 14:15:10: Placed replant_v2
+03/15/2024 14:15:11: Placed replant_v2
+03/15/2024 14:15:12: Placed replant_v2
+03/15/2024 14:15:13: Placed replant_v2
+03/15/2024 14:15:14: Placed replant_v2
+03/15/2024 14:15:15: Placed replant_v2
+03/15/2024 14:15:16: Placed replant_v2
+03/15/2024 14:15:17: Placed replant_v2
+03/15/2024 14:15:18: Placed replant_v2
+03/15/2024 14:15:19: Placed replant_v2
+03/15/2024 14:15:19: Placed replant_v2
+03/15/2024 14:15:21: Placed replant_v2
+03/15/2024 14:15:22: Placed replant_v2
+03/15/2024 14:15:23: Placed replant_v2
+03/15/2024 14:15:24: Done fading color
+03/15/2024 14:15:24: Done fading color
+03/15/2024 14:15:24: Done fading color
+03/15/2024 14:15:24: Placed replant_v2
+03/15/2024 14:15:26: Placed replant_v2
+03/15/2024 14:15:28: Placed replant_v2
+03/15/2024 14:15:29: Placed replant_v2
+03/15/2024 14:15:29: Placed replant_v2
+03/15/2024 14:15:30: Placed replant_v2
+03/15/2024 14:15:31: Placed replant_v2
+03/15/2024 14:15:31: Placed replant_v2
+03/15/2024 14:15:37: Placed replant_v2
+03/15/2024 14:15:38: Placed replant_v2
+03/15/2024 14:15:39: Placed replant_v2
+03/15/2024 14:15:40: Placed replant_v2
+03/15/2024 14:15:41: Placed replant_v2
+03/15/2024 14:15:42: Placed replant_v2
+03/15/2024 14:15:43: Placed replant_v2
+03/15/2024 14:15:43: Placed replant_v2
+03/15/2024 14:15:44: Placed replant_v2
+03/15/2024 14:15:45: Placed replant_v2
+03/15/2024 14:15:46: Placed replant_v2
+03/15/2024 14:15:47: Placed replant_v2
+03/15/2024 14:15:48: Placed replant_v2
+03/15/2024 14:15:49: Placed replant_v2
+03/15/2024 14:15:50: Placed replant_v2
+03/15/2024 14:15:51: Placed replant_v2
+03/15/2024 14:15:51: Placed replant_v2
+03/15/2024 14:15:52: Placed replant_v2
+03/15/2024 14:15:54: Placed replant_v2
+03/15/2024 14:15:55: Placed replant_v2
+03/15/2024 14:15:56: Placed replant_v2
+03/15/2024 14:15:58: Placed replant_v2
+03/15/2024 14:15:59: Placed replant_v2
+03/15/2024 14:16:00: Placed replant_v2
+03/15/2024 14:16:01: Placed replant_v2
+03/15/2024 14:16:02: Placed replant_v2
+03/15/2024 14:16:03: Placed replant_v2
+03/15/2024 14:16:03: Placed replant_v2
+03/15/2024 14:16:05: Placed replant_v2
+03/15/2024 14:16:06: Placed replant_v2
+03/15/2024 14:16:07: Placed replant_v2
+03/15/2024 14:16:08: Placed replant_v2
+03/15/2024 14:16:09: Placed replant_v2
+03/15/2024 14:16:10: Placed replant_v2
+03/15/2024 14:16:11: Placed replant_v2
+03/15/2024 14:16:13: Placed replant_v2
+03/15/2024 14:16:14: Placed replant_v2
+03/15/2024 14:16:15: Placed replant_v2
+03/15/2024 14:16:16: Placed replant_v2
+03/15/2024 14:16:18: Placed replant_v2
+03/15/2024 14:16:19: Placed replant_v2
+03/15/2024 14:16:20: Placed replant_v2
+03/15/2024 14:16:21: Placed replant_v2
+03/15/2024 14:16:22: Placed replant_v2
+03/15/2024 14:16:24: Placed replant_v2
+03/15/2024 14:16:25: Placed replant_v2
+03/15/2024 14:16:25: Spawned Seagal x 1
+03/15/2024 14:16:26: Placed replant_v2
+03/15/2024 14:16:28: Placed replant_v2
+03/15/2024 14:16:28: Placed replant_v2
+03/15/2024 14:16:29: Placed replant_v2
+03/15/2024 14:16:30: Placed replant_v2
+03/15/2024 14:16:32: Placed replant_v2
+03/15/2024 14:16:33: Placed replant_v2
+03/15/2024 14:16:35: Placed replant_v2
+03/15/2024 14:16:36: Placed replant_v2
+03/15/2024 14:16:37: Placed replant_v2
+03/15/2024 14:16:38: Placed replant_v2
+03/15/2024 14:16:40: Placed replant_v2
+03/15/2024 14:16:41: Placed replant_v2
+03/15/2024 14:16:42: Placed replant_v2
+03/15/2024 14:16:43: Placed replant_v2
+03/15/2024 14:16:44: Placed replant_v2
+03/15/2024 14:16:45: Placed replant_v2
+03/15/2024 14:16:46: Placed replant_v2
+03/15/2024 14:16:48: Placed replant_v2
+03/15/2024 14:16:49: Placed replant_v2
+03/15/2024 14:16:50: Placed replant_v2
+03/15/2024 14:16:51: Placed replant_v2
+03/15/2024 14:16:53: Placed replant_v2
+03/15/2024 14:16:53: Placed replant_v2
+03/15/2024 14:16:55: Placed replant_v2
+03/15/2024 14:16:55: Placed replant_v2
+03/15/2024 14:16:57: Placed replant_v2
+03/15/2024 14:16:59: Placed replant_v2
+03/15/2024 14:17:00: Placed replant_v2
+03/15/2024 14:17:02: Placed replant_v2
+03/15/2024 14:17:03: Placed replant_v2
+03/15/2024 14:17:04: Placed replant_v2
+03/15/2024 14:17:05: Placed replant_v2
+03/15/2024 14:17:13: Placed replant_v2
+03/15/2024 14:17:16: Placed replant_v2
+03/15/2024 14:17:20: Placed replant_v2
+03/15/2024 14:17:21: Placed replant_v2
+03/15/2024 14:17:22: Placed replant_v2
+03/15/2024 14:17:23: Placed replant_v2
+03/15/2024 14:17:24: Placed replant_v2
+03/15/2024 14:17:25: Placed replant_v2
+03/15/2024 14:17:26: Placed replant_v2
+03/15/2024 14:17:27: Placed replant_v2
+03/15/2024 14:17:28: Placed replant_v2
+03/15/2024 14:17:29: Placed replant_v2
+03/15/2024 14:17:31: Placed replant_v2
+03/15/2024 14:17:32: Placed replant_v2
+03/15/2024 14:17:34: Placed replant_v2
+03/15/2024 14:17:36: Placed replant_v2
+03/15/2024 14:17:36: Placed replant_v2
+03/15/2024 14:17:37: Placed replant_v2
+03/15/2024 14:17:38: Placed replant_v2
+03/15/2024 14:17:39: Placed replant_v2
+03/15/2024 14:17:40: Placed replant_v2
+03/15/2024 14:17:41: Placed replant_v2
+03/15/2024 14:17:43: Placed replant_v2
+03/15/2024 14:17:45: Placed replant_v2
+03/15/2024 14:17:46: Placed replant_v2
+03/15/2024 14:17:47: Placed replant_v2
+03/15/2024 14:17:48: Placed replant_v2
+03/15/2024 14:17:49: Placed replant_v2
+03/15/2024 14:17:53: Placed replant_v2
+03/15/2024 14:17:54: Placed replant_v2
+03/15/2024 14:17:55: Placed replant_v2
+03/15/2024 14:17:56: Placed replant_v2
+03/15/2024 14:17:57: Placed replant_v2
+03/15/2024 14:17:58: Placed replant_v2
+03/15/2024 14:17:59: Placed replant_v2
+03/15/2024 14:18:01: Placed replant_v2
+03/15/2024 14:18:01: Placed replant_v2
+03/15/2024 14:18:02: Placed replant_v2
+03/15/2024 14:18:03: Placed replant_v2
+03/15/2024 14:18:04: Placed replant_v2
+03/15/2024 14:18:05: Placed replant_v2
+03/15/2024 14:18:06: Placed replant_v2
+03/15/2024 14:18:07: Placed replant_v2
+03/15/2024 14:18:09: Placed replant_v2
+03/15/2024 14:18:10: Placed replant_v2
+03/15/2024 14:18:11: Placed replant_v2
+03/15/2024 14:18:12: Placed replant_v2
+03/15/2024 14:18:42: Placed path_v2
+03/15/2024 14:18:44: Placed path_v2
+03/15/2024 14:18:45: Placed path_v2
+03/15/2024 14:18:46: Placed path_v2
+03/15/2024 14:18:48: Placed path_v2
+03/15/2024 14:18:49: Placed path_v2
+03/15/2024 14:18:51: Placed path_v2
+03/15/2024 14:18:52: Placed path_v2
+03/15/2024 14:18:53: Placed path_v2
+03/15/2024 14:18:53: Placed path_v2
+03/15/2024 14:18:55: Placed path_v2
+03/15/2024 14:18:56: Placed path_v2
+03/15/2024 14:18:58: Placed path_v2
+03/15/2024 14:19:00: Placed path_v2
+03/15/2024 14:19:01: Placed path_v2
+03/15/2024 14:19:02: Placed path_v2
+03/15/2024 14:19:04: Placed path_v2
+03/15/2024 14:19:05: Placed path_v2
+03/15/2024 14:19:06: Placed path_v2
+03/15/2024 14:19:09: Placed path_v2
+03/15/2024 14:19:12: Placed path_v2
+03/15/2024 14:19:13: Placed path_v2
+03/15/2024 14:19:15: Placed path_v2
+03/15/2024 14:19:16: Placed path_v2
+03/15/2024 14:19:18: Placed path_v2
+03/15/2024 14:19:19: Placed path_v2
+03/15/2024 14:19:20: Placed path_v2
+03/15/2024 14:19:22: Placed path_v2
+03/15/2024 14:19:23: Placed path_v2
+03/15/2024 14:19:25: Placed path_v2
+03/15/2024 14:19:26: Placed path_v2
+03/15/2024 14:19:28: Placed path_v2
+03/15/2024 14:19:29: Placed path_v2
+03/15/2024 14:19:30: Placed path_v2
+03/15/2024 14:19:31: Placed path_v2
+03/15/2024 14:19:32: Placed path_v2
+03/15/2024 14:19:36: Placed path_v2
+03/15/2024 14:19:38: Placed path_v2
+03/15/2024 14:19:40: Placed path_v2
+03/15/2024 14:19:41: Placed path_v2
+03/15/2024 14:19:43: Placed path_v2
+03/15/2024 14:19:45: Placed path_v2
+03/15/2024 14:19:46: Placed path_v2
+03/15/2024 14:19:48: Placed path_v2
+03/15/2024 14:19:50: Placed path_v2
+03/15/2024 14:19:52: Placed path_v2
+03/15/2024 14:19:53: Placed path_v2
+03/15/2024 14:19:55: Placed path_v2
+03/15/2024 14:19:57: Placed path_v2
+03/15/2024 14:19:58: Placed path_v2
+03/15/2024 14:19:59: Placed path_v2
+03/15/2024 14:20:02: Placed path_v2
+03/15/2024 14:20:19: Placed replant_v2
+03/15/2024 14:20:21: Placed replant_v2
+03/15/2024 14:20:22: Placed replant_v2
+03/15/2024 14:20:24: Placed replant_v2
+03/15/2024 14:20:25: Placed replant_v2
+03/15/2024 14:20:27: Placed replant_v2
+03/15/2024 14:20:29: Placed replant_v2
+03/15/2024 14:20:31: Placed replant_v2
+03/15/2024 14:20:32: Setting selected recipe 0
+03/15/2024 14:20:36: Placed replant_v2
+03/15/2024 14:20:40: Placed replant_v2
+03/15/2024 14:20:42: Placed replant_v2
+03/15/2024 14:20:43: Placed replant_v2
+03/15/2024 14:20:45: Placed replant_v2
+03/15/2024 14:20:46: Placed replant_v2
+03/15/2024 14:20:48: Placed replant_v2
+03/15/2024 14:20:51: Placed replant_v2
+03/15/2024 14:20:54: Placed replant_v2
+03/15/2024 14:20:57: Placed replant_v2
+03/15/2024 14:20:59: Placed replant_v2
+03/15/2024 14:21:00: Placed replant_v2
+03/15/2024 14:21:01: Placed replant_v2
+03/15/2024 14:21:03: Placed replant_v2
+03/15/2024 14:21:04: Placed replant_v2
+03/15/2024 14:21:05: Placed replant_v2
+03/15/2024 14:21:07: Placed replant_v2
+03/15/2024 14:21:08: Placed replant_v2
+03/15/2024 14:21:10: Placed replant_v2
+03/15/2024 14:21:11: Placed replant_v2
+03/15/2024 14:21:12: Placed replant_v2
+03/15/2024 14:21:13: Placed replant_v2
+03/15/2024 14:21:14: Placed replant_v2
+03/15/2024 14:21:15: Placed replant_v2
+03/15/2024 14:21:16: Placed replant_v2
+03/15/2024 14:21:17: Placed replant_v2
+03/15/2024 14:21:24: Placed path_v2
+03/15/2024 14:21:26: Placed path_v2
+03/15/2024 14:21:28: Placed path_v2
+03/15/2024 14:21:29: Placed path_v2
+03/15/2024 14:21:32: Placed path_v2
+03/15/2024 14:21:34: Placed path_v2
+03/15/2024 14:21:35: Placed path_v2
+03/15/2024 14:21:37: Placed path_v2
+03/15/2024 14:21:58: Placed path_v2
+03/15/2024 14:22:01: Placed path_v2
+03/15/2024 14:22:03: Placed path_v2
+03/15/2024 14:22:08: Placed path_v2
+03/15/2024 14:22:11: Placed path_v2
+03/15/2024 14:22:28: Placed path_v2
+03/15/2024 14:22:30: Placed path_v2
+03/15/2024 14:22:32: Placed path_v2
+03/15/2024 14:22:34: Placed path_v2
+03/15/2024 14:22:39: Placed path_v2
+03/15/2024 14:22:40: Placed path_v2
+03/15/2024 14:22:45: Placed replant_v2
+03/15/2024 14:22:51: Placed path_v2
+03/15/2024 14:22:54: Placed path_v2
+03/15/2024 14:22:59: Placed path_v2
+03/15/2024 14:23:02: Placed path_v2
+03/15/2024 14:23:18: Placed path_v2
+03/15/2024 14:23:19: Placed path_v2
+03/15/2024 14:23:21: Placed path_v2
+03/15/2024 14:23:21: Placed path_v2
+03/15/2024 14:23:22: Placed path_v2
+03/15/2024 14:23:23: Update PlayFab entity token
+03/15/2024 14:23:24: Placed path_v2
+03/15/2024 14:23:26: Placed path_v2
+03/15/2024 14:23:30: Placed path_v2
+03/15/2024 14:23:51: Placed path_v2
+03/15/2024 14:23:54: Placed path_v2
+03/15/2024 14:23:56: Placed path_v2
+03/15/2024 14:24:01: Placed replant_v2
+03/15/2024 14:24:06: Placed path_v2
+03/15/2024 14:24:11: Placed replant_v2
+03/15/2024 14:24:14: Placed path_v2
+03/15/2024 14:24:19: Placed replant_v2
+03/15/2024 14:24:23: Placed path_v2
+03/15/2024 14:24:27: Placed path_v2
+03/15/2024 14:24:30: Placed path_v2
+03/15/2024 14:24:33: Placed path_v2
+03/15/2024 14:24:35: Placed path_v2
+03/15/2024 14:24:35: Placed path_v2
+03/15/2024 14:24:37: Placed path_v2
+03/15/2024 14:24:37: Placed path_v2
+03/15/2024 14:24:39: Placed path_v2
+03/15/2024 14:24:46: Placed path_v2
+03/15/2024 14:24:50: Placed path_v2
+03/15/2024 14:24:51: Done fading color
+03/15/2024 14:24:51: Done fading color
+03/15/2024 14:24:51: Done fading color
+03/15/2024 14:25:02: Placed path_v2
+03/15/2024 14:25:03: Placed path_v2
+03/15/2024 14:25:05: Placed path_v2
+03/15/2024 14:25:06: Placed path_v2
+03/15/2024 14:25:07: Placed path_v2
+03/15/2024 14:25:09: Placed path_v2
+03/15/2024 14:25:11: Placed path_v2
+03/15/2024 14:25:12: Placed path_v2
+03/15/2024 14:25:14: Placed path_v2
+03/15/2024 14:25:16: Placed path_v2
+03/15/2024 14:25:17: Placed path_v2
+03/15/2024 14:25:19: Placed path_v2
+03/15/2024 14:25:20: Placed path_v2
+03/15/2024 14:25:22: Placed path_v2
+03/15/2024 14:25:23: Placed path_v2
+03/15/2024 14:25:25: Placed path_v2
+03/15/2024 14:25:26: Placed path_v2
+03/15/2024 14:25:29: Placed path_v2
+03/15/2024 14:25:30: Placed path_v2
+03/15/2024 14:25:32: Placed path_v2
+03/15/2024 14:25:33: Placed path_v2
+03/15/2024 14:25:34: Placed path_v2
+03/15/2024 14:25:35: Placed path_v2
+03/15/2024 14:25:37: Placed path_v2
+03/15/2024 14:25:38: Placed path_v2
+03/15/2024 14:25:41: Placed path_v2
+03/15/2024 14:25:43: Placed path_v2
+03/15/2024 14:25:44: Placed path_v2
+03/15/2024 14:25:46: Placed path_v2
+03/15/2024 14:25:48: Placed path_v2
+03/15/2024 14:25:50: Placed path_v2
+03/15/2024 14:25:52: Placed path_v2
+03/15/2024 14:25:54: Placed path_v2
+03/15/2024 14:25:59: Placed path_v2
+03/15/2024 14:26:02: Placed path_v2
+03/15/2024 14:26:03: Placed path_v2
+03/15/2024 14:26:20: Placed path_v2
+03/15/2024 14:26:22: Placed path_v2
+03/15/2024 14:26:24: Placed path_v2
+03/15/2024 14:26:26: Placed path_v2
+03/15/2024 14:26:28: Placed path_v2
+03/15/2024 14:26:30: Placed path_v2
+03/15/2024 14:26:32: Placed path_v2
+03/15/2024 14:26:34: Placed path_v2
+03/15/2024 14:26:35: Placed path_v2
+03/15/2024 14:26:37: Placed path_v2
+03/15/2024 14:27:29: Placed path_v2
+03/15/2024 14:27:30: Placed path_v2
+03/15/2024 14:27:31: Placed path_v2
+03/15/2024 14:27:33: Placed path_v2
+03/15/2024 14:27:35: Placed path_v2
+03/15/2024 14:27:36: Placed path_v2
+03/15/2024 14:27:38: Placed path_v2
+03/15/2024 14:27:39: Placed path_v2
+03/15/2024 14:27:41: Placed path_v2
+03/15/2024 14:27:42: Placed path_v2
+03/15/2024 14:27:43: Placed path_v2
+03/15/2024 14:27:45: Placed path_v2
+03/15/2024 14:27:48: Placed path_v2
+03/15/2024 14:27:49: Placed path_v2
+03/15/2024 14:27:51: Placed path_v2
+03/15/2024 14:27:53: Placed path_v2
+03/15/2024 14:27:55: Placed path_v2
+03/15/2024 14:27:57: Placed path_v2
+03/15/2024 14:27:59: Placed path_v2
+03/15/2024 14:28:05: Placed path_v2
+03/15/2024 14:28:06: Placed path_v2
+03/15/2024 14:28:08: Placed path_v2
+03/15/2024 14:28:09: Placed path_v2
+03/15/2024 14:28:10: Placed path_v2
+03/15/2024 14:28:11: Placed path_v2
+03/15/2024 14:28:12: Placed path_v2
+03/15/2024 14:28:23: Uncompressed size 8401683
+03/15/2024 14:28:24: Compressed size 27627
+03/15/2024 14:28:24: Considering autobackup. World time: 3586.8, short time: 7200, long time: 43200, backup count: 4
+03/15/2024 14:28:24: No autobackup needed yet...
+03/15/2024 14:28:24: Sending message to save player profiles
+03/15/2024 14:28:24: PrepareSave: clone done in 71ms
+03/15/2024 14:28:24: PrepareSave: ZDOExtraData.PrepareSave done in 81 ms
+03/15/2024 14:28:24: World save writing starting
+03/15/2024 14:28:24: World save writing started
+03/15/2024 14:28:26: Saved 829165 ZDOs
+03/15/2024 14:28:26: World save writing finishing
+03/15/2024 14:28:26: World save writing finished
+03/15/2024 14:28:26: World saved ( 2203.0251ms )
+03/15/2024 14:28:26: Considering autobackup. World time: 3589.2, short time: 7200, long time: 43200, backup count: 4
+03/15/2024 14:28:26: No autobackup needed yet...
+03/15/2024 14:28:37: Unloading unused assets
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5303 unused Assets to reduce memory usage. Loaded Objects now: 1854072.
+Total: 423.262400 ms (FindLiveObjects: 157.819200 ms CreateObjectMapping: 24.666400 ms MarkObjects: 228.285500 ms  DeleteObjects: 12.490800 ms)
+
+03/15/2024 14:29:26: Spawned Seagal x 1
+03/15/2024 14:29:43: Placed path_v2
+03/15/2024 14:29:48: Placed path_v2
+03/15/2024 14:29:50: Placed path_v2
+03/15/2024 14:29:51: Placed path_v2
+03/15/2024 14:29:53: Placed path_v2
+03/15/2024 14:29:54: Placed path_v2
+03/15/2024 14:29:55: Placed path_v2
+03/15/2024 14:29:56: Placed path_v2
+03/15/2024 14:29:58: Placed path_v2
+03/15/2024 14:30:17: Placed path_v2
+03/15/2024 14:30:18: Placed path_v2
+03/15/2024 14:30:46: Done fading color
+03/15/2024 14:30:46: Done fading color
+03/15/2024 14:30:46: Done fading color
+03/15/2024 14:31:27: Done fading color
+03/15/2024 14:31:27: Done fading color
+03/15/2024 14:31:27: Done fading color
+03/15/2024 14:31:55: Done fading color
+03/15/2024 14:31:55: Done fading color
+03/15/2024 14:31:55: Done fading color
+03/15/2024 14:32:48: Done fading color
+03/15/2024 14:32:48: Done fading color
+03/15/2024 14:32:48: Done fading color
+03/15/2024 14:34:22: Placed replant_v2
+03/15/2024 14:34:23: Placed replant_v2
+03/15/2024 14:34:23: Placed replant_v2
+03/15/2024 14:34:24: Placed replant_v2
+03/15/2024 14:34:24: Placed replant_v2
+03/15/2024 14:34:25: Placed replant_v2
+03/15/2024 14:34:25: Placed replant_v2
+03/15/2024 14:34:26: Placed replant_v2
+03/15/2024 14:34:26: Placed replant_v2
+03/15/2024 14:34:32: Placed replant_v2
+03/15/2024 14:34:37: Placed path_v2
+03/15/2024 14:34:38: Placed path_v2
+03/15/2024 14:34:39: Placed path_v2
+03/15/2024 14:34:40: Placed path_v2
+03/15/2024 14:34:43: Placed path_v2
+03/15/2024 14:34:52: Done fading color
+03/15/2024 14:34:52: Done fading color
+03/15/2024 14:34:53: Done fading color
+03/15/2024 14:34:58: Placed replant_v2
+03/15/2024 14:34:59: Placed replant_v2
+03/15/2024 14:35:00: Placed replant_v2
+03/15/2024 14:35:01: Placed replant_v2
+03/15/2024 14:35:01: Placed replant_v2
+03/15/2024 14:35:02: Placed replant_v2
+03/15/2024 14:35:02: Placed replant_v2
+03/15/2024 14:35:03: Placed replant_v2
+03/15/2024 14:35:04: Placed replant_v2
+03/15/2024 14:35:04: Placed replant_v2
+03/15/2024 14:35:05: Placed replant_v2
+03/15/2024 14:35:10: Setting selected recipe 0
+03/15/2024 14:35:12: Placed path_v2
+03/15/2024 14:35:16: Done fading color
+03/15/2024 14:35:16: Done fading color
+03/15/2024 14:35:16: Done fading color
+03/15/2024 14:35:19: Placed path_v2
+03/15/2024 14:35:22: Placed path_v2
+03/15/2024 14:35:23: Placed path_v2
+03/15/2024 14:35:24: Placed path_v2
+03/15/2024 14:35:25: Placed path_v2
+03/15/2024 14:35:26: Placed path_v2
+03/15/2024 14:35:28: Placed path_v2
+03/15/2024 14:35:29: Placed path_v2
+03/15/2024 14:35:30: Placed path_v2
+03/15/2024 14:35:31: Placed path_v2
+03/15/2024 14:35:34: Placed path_v2
+03/15/2024 14:35:36: Placed path_v2
+03/15/2024 14:35:37: Placed path_v2
+03/15/2024 14:35:41: Placed path_v2
+03/15/2024 14:35:43: Placed path_v2
+03/15/2024 14:35:45: Placed path_v2
+03/15/2024 14:35:47: Placed path_v2
+03/15/2024 14:35:49: Placed path_v2
+03/15/2024 14:35:51: Placed path_v2
+03/15/2024 14:35:56: Done fading color
+03/15/2024 14:35:56: Done fading color
+03/15/2024 14:35:56: Done fading color
+03/15/2024 14:37:09: Done fading color
+03/15/2024 14:37:09: Done fading color
+03/15/2024 14:37:09: Done fading color
+03/15/2024 14:37:34: Placed path_v2
+03/15/2024 14:37:35: Placed path_v2
+03/15/2024 14:37:43: Placed path_v2
+03/15/2024 14:37:45: Placed path_v2
+03/15/2024 14:37:47: Placed path_v2
+03/15/2024 14:37:49: Placed path_v2
+03/15/2024 14:37:50: Placed path_v2
+03/15/2024 14:37:51: Placed path_v2
+03/15/2024 14:37:53: Placed path_v2
+03/15/2024 14:37:55: Placed path_v2
+03/15/2024 14:37:57: Placed path_v2
+03/15/2024 14:37:59: Placed path_v2
+03/15/2024 14:38:00: Placed path_v2
+03/15/2024 14:38:01: Placed path_v2
+03/15/2024 14:38:03: Placed path_v2
+03/15/2024 14:38:04: Placed path_v2
+03/15/2024 14:38:17: Placed path_v2
+03/15/2024 14:38:45: Placed path_v2
+03/15/2024 14:39:26: Placed replant_v2
+03/15/2024 14:39:39: Placed replant_v2
+03/15/2024 14:39:49: Placed replant_v2
+03/15/2024 14:39:54: Placed replant_v2
+03/15/2024 14:40:47: Placed replant_v2
+03/15/2024 14:40:49: Placed replant_v2
+03/15/2024 14:40:58: Placed replant_v2
+03/15/2024 14:42:30: Placed replant_v2
+03/15/2024 14:42:31: Placed replant_v2
+03/15/2024 14:42:33: Placed replant_v2
+03/15/2024 14:42:37: Placed path_v2
+03/15/2024 14:42:43: Placed replant_v2
+03/15/2024 14:42:44: Placed replant_v2
+03/15/2024 14:42:46: Placed replant_v2
+03/15/2024 14:42:48: Placed replant_v2
+03/15/2024 14:43:23: Force generating hmap (-256.00, 0.00, 448.00)
+03/15/2024 14:43:23: Force generating hmap (-256.00, 0.00, 512.00)
+03/15/2024 14:43:23: Force generating hmap (-320.00, 0.00, 448.00)
+03/15/2024 14:43:23: Force generating hmap (-320.00, 0.00, 512.00)
+03/15/2024 14:43:35: Force generating hmap (-128.00, 0.00, 576.00)
+03/15/2024 14:43:50: Update PlayFab entity token
+03/15/2024 14:43:53: Setting selected recipe 0
+03/15/2024 14:43:54: Button pressed RepairButton  frame:506333
+03/15/2024 14:43:56: Setting selected recipe 0
+03/15/2024 14:43:56: Stopped music meadows at 2077979
+03/15/2024 14:43:56: Starting music home
+03/15/2024 14:43:57: Button pressed RepairButton  frame:506522
+03/15/2024 14:43:57: Button pressed RepairButton  frame:506538
+03/15/2024 14:44:01: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:01: Setting selected recipe 0
+03/15/2024 14:44:02: Player 2149233268 wants to stack all in piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:04: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:04: Setting selected recipe 0
+03/15/2024 14:44:04: Player 2149233268 wants to stack all in piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:11: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:11: Setting selected recipe 0
+03/15/2024 14:44:11: Player 2149233268 wants to stack all in piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:13: Stopped music home at 715948
+03/15/2024 14:44:13: Starting music meadows
+03/15/2024 14:44:13: Resumed music meadows at 2077979
+03/15/2024 14:44:13: Setting selected recipe 0
+03/15/2024 14:44:18: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:18: Setting selected recipe 0
+03/15/2024 14:44:18: Player 2149233268 wants to stack all in piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:22: Stopped music meadows at 400780
+03/15/2024 14:44:22: Starting music home
+03/15/2024 14:44:22: Resumed music home at 715948
+03/15/2024 14:44:22: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:22: Setting selected recipe 0
+03/15/2024 14:44:25: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:25: Setting selected recipe 2
+03/15/2024 14:44:26: Player 2149233268 wants to stack all in piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:27: Setting selected recipe 0
+03/15/2024 14:44:39: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:39: Setting selected recipe 0
+03/15/2024 14:44:39: Player 2149233268 wants to stack all in piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:41: Setting selected recipe 0
+03/15/2024 14:44:47: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:47: Setting selected recipe 0
+03/15/2024 14:44:47: Player 2149233268 wants to stack all in piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:44:49: Setting selected recipe 0
+03/15/2024 14:45:00: Compressed map data:22242
+03/15/2024 14:45:21: Stopped music home at 2610719
+03/15/2024 14:45:21: Starting music meadows
+03/15/2024 14:45:21: Resumed music meadows at 400780
+03/15/2024 14:45:41: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:45:41: Setting selected recipe 0
+03/15/2024 14:45:47: Setting selected recipe 0
+03/15/2024 14:45:49: Setting selected recipe 0
+03/15/2024 14:46:49: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:46:49: Setting selected recipe 0
+03/15/2024 14:46:54: Setting selected recipe 0
+03/15/2024 14:46:58: Item is not in this container
+03/15/2024 14:46:58: Setting selected recipe 0
+03/15/2024 14:47:09: Valid True
+03/15/2024 14:47:09: On death False
+03/15/2024 14:47:10: Valid True
+03/15/2024 14:47:10: On death False
+03/15/2024 14:47:12: Valid True
+03/15/2024 14:47:12: On death False
+03/15/2024 14:47:19: Valid True
+03/15/2024 14:47:19: On death False
+03/15/2024 14:47:21: Valid True
+03/15/2024 14:47:21: On death False
+03/15/2024 14:47:29: Loading dungeon
+03/15/2024 14:47:29: Dungeon loaded with 40 rooms from old format in 15.0148 ms.
+03/15/2024 14:47:30: Valid True
+03/15/2024 14:47:30: On death False
+03/15/2024 14:47:32: Valid True
+03/15/2024 14:47:32: On death False
+03/15/2024 14:48:05: Setting selected recipe 0
+03/15/2024 14:48:05: Button pressed RepairButton  frame:525410
+03/15/2024 14:48:08: Setting selected recipe 0
+03/15/2024 14:48:09: Setting selected recipe 0
+03/15/2024 14:48:10: Stopped music meadows at 7465390
+03/15/2024 14:48:10: Starting music home
+03/15/2024 14:48:10: Resumed music home at 2610719
+03/15/2024 14:48:11: Setting selected recipe 0
+03/15/2024 14:48:34: Stopped music home at 1039583
+03/15/2024 14:48:34: Starting music meadows
+03/15/2024 14:48:34: Resumed music meadows at 7465390
+03/15/2024 14:48:39: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:48:39: Setting selected recipe 0
+03/15/2024 14:48:46: Setting selected recipe 0
+03/15/2024 14:49:03: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:49:03: Setting selected recipe 0
+03/15/2024 14:49:04: Player 2149233268 wants to stack all in piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:49:07: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:49:07: Setting selected recipe 0
+03/15/2024 14:49:07: Stopped music meadows at 1477055
+03/15/2024 14:49:07: Starting music home
+03/15/2024 14:49:07: Resumed music home at 1039583
+03/15/2024 14:49:12: Button pressed StackAll  frame:530246
+03/15/2024 14:49:16: Player 2149233268 wants to open piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:49:16: Setting selected recipe 0
+03/15/2024 14:49:16: Player 2149233268 wants to stack all in piece_chest_wood(Clone)   im: 2149233268
+03/15/2024 14:49:17: Setting selected recipe 0
+03/15/2024 14:49:43: Setting selected recipe 0
+03/15/2024 14:49:49: Activating default element Continue
+03/15/2024 14:49:51: Activating default element Button_no
+03/15/2024 14:49:51: Shuting down
+03/15/2024 14:49:51: Uncompressed size 8401683
+03/15/2024 14:49:52: Compressed size 27627
+03/15/2024 14:49:52: Considering autobackup. World time: 4872.28, short time: 7200, long time: 43200, backup count: 4
+03/15/2024 14:49:52: No autobackup needed yet...
+03/15/2024 14:49:52: ZNet Shutdown
+03/15/2024 14:49:52: PrepareSave: clone done in 66ms
+03/15/2024 14:49:52: PrepareSave: ZDOExtraData.PrepareSave done in 110 ms
+03/15/2024 14:49:52: World save writing starting
+03/15/2024 14:49:52: World save writing started
+03/15/2024 14:49:53: Saved 829145 ZDOs
+03/15/2024 14:49:54: World save writing finishing
+03/15/2024 14:49:54: World save writing finished
+03/15/2024 14:49:54: World saved ( 1825.4387ms )
+03/15/2024 14:49:54: Considering autobackup. World time: 4872.28, short time: 7200, long time: 43200, backup count: 4
+03/15/2024 14:49:54: No autobackup needed yet...
+03/15/2024 14:49:54: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+03/15/2024 14:49:54: Sending disconnect msg
 ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-03/14/2024 10:59:44: Local player destroyed
-Unloading 576 unused Assets to reduce memory usage. Loaded Objects now: 1735256.
-Total: 379.297300 ms (FindLiveObjects: 143.978500 ms CreateObjectMapping: 27.030300 ms MarkObjects: 203.162400 ms  DeleteObjects: 5.125800 ms)
+03/15/2024 14:49:54: Local player destroyed
+Unloading 3469 unused Assets to reduce memory usage. Loaded Objects now: 1737039.
+Total: 391.951800 ms (FindLiveObjects: 147.555000 ms CreateObjectMapping: 26.361800 ms MarkObjects: 206.854300 ms  DeleteObjects: 11.180500 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-03/14/2024 10:59:45: ZNet OnDestroy
-03/14/2024 10:59:45: Net scene destroyed
-UnloadTime: 852.086700 ms
+03/15/2024 14:49:55: ZNet OnDestroy
+03/15/2024 14:49:55: Net scene destroyed
+UnloadTime: 856.091700 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-03/14/2024 10:59:45: Steam initialized, persona:tjgolubi
-03/14/2024 10:59:45: PlayFab custom ID set to "Steam_76561198290658520"
-03/14/2024 10:59:45: Using default prefs
-03/14/2024 10:59:45: Valheim version: 0.217.38 (network version 20)
-03/14/2024 10:59:45: Worldgenerator version setup:2
-03/14/2024 10:59:45: Render threading mode:MultiThreaded
-03/14/2024 10:59:45: Audioman already exist, destroying self
-03/14/2024 10:59:45: Checking for installed DLCs
-03/14/2024 10:59:45: DLC:beta installed:False
-Unloading 1200 unused Assets to reduce memory usage. Loaded Objects now: 156068.
-Total: 232.429700 ms (FindLiveObjects: 6.415500 ms CreateObjectMapping: 8.339500 ms MarkObjects: 213.126400 ms  DeleteObjects: 4.547700 ms)
+03/15/2024 14:49:55: Steam initialized, persona:tjgolubi
+03/15/2024 14:49:55: PlayFab custom ID set to "Steam_76561198290658520"
+03/15/2024 14:49:55: Using default prefs
+03/15/2024 14:49:55: Valheim version: 0.217.38 (network version 20)
+03/15/2024 14:49:55: Worldgenerator version setup:2
+03/15/2024 14:49:55: Render threading mode:MultiThreaded
+03/15/2024 14:49:56: Audioman already exist, destroying self
+03/15/2024 14:49:56: Checking for installed DLCs
+03/15/2024 14:49:56: DLC:beta installed:False
+Unloading 1183 unused Assets to reduce memory usage. Loaded Objects now: 156063.
+Total: 255.098000 ms (FindLiveObjects: 6.627800 ms CreateObjectMapping: 8.474000 ms MarkObjects: 235.439100 ms  DeleteObjects: 4.556900 ms)
 
 Event.Use() should not be called for events of type repaint
-03/14/2024 10:59:45: Starting music menu
-03/14/2024 10:59:45: Activating default element Start game
+03/15/2024 14:49:56: Starting music menu
+03/15/2024 14:49:56: Activating default element Start game
 Event.Use() should not be called for events of type repaint
 Event.Use() should not be called for events of type repaint
-03/14/2024 10:59:47: Activating default element Start game
-03/14/2024 10:59:48: Stopped music home at 1192934
-03/14/2024 10:59:50: show character selection
-03/14/2024 10:59:51: Button pressed Start  frame:18620
-03/14/2024 10:59:51: OnCharacterStart
-03/14/2024 10:59:53: Button pressed Server Options  frame:18756
-03/14/2024 11:00:03: Button pressed Done  frame:19331
-03/14/2024 11:00:03: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 4
-03/14/2024 11:00:03: Time to overwrite our last autobackup
-03/14/2024 11:00:03: Replacing backup file: Famheim_backup_auto-20240303170814
-03/14/2024 11:00:03: Saving backup at: Famheim_backup_auto-20240314110003
-03/14/2024 11:00:06: Button pressed Back  frame:19518
-03/14/2024 11:00:06: show character selection
-03/14/2024 11:00:08: Button pressed Back  frame:19617
+03/15/2024 14:49:58: Activating default element Start game
+03/15/2024 14:49:58: Stopped music home at 2238411
+03/15/2024 14:50:00: show character selection
+03/15/2024 14:50:00: Button pressed Start  frame:532899
+03/15/2024 14:50:00: OnCharacterStart
+03/15/2024 14:50:04: Button pressed Server Options  frame:533138
+03/15/2024 14:50:10: Button pressed Done  frame:533471
+03/15/2024 14:50:10: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 4
+03/15/2024 14:50:10: No autobackup needed yet...
+03/15/2024 14:50:13: Button pressed Back  frame:533658
+03/15/2024 14:50:13: show character selection
+03/15/2024 14:50:15: Button pressed Back  frame:533744
 Event.Use() should not be called for events of type repaint
-03/14/2024 11:00:08: Activating default element Start game
-03/14/2024 11:00:10: Stopping build thread
+03/15/2024 14:50:15: Activating default element Start game
+03/15/2024 14:50:16: Stopping build thread
 Setting up 16 worker threads for Enlighten.
-03/14/2024 11:00:10: Steam manager on destroy
+03/15/2024 14:50:16: Steam manager on destroy
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [2.0 KB-4.0 KB]: 236 frames, [16.0 KB-32.0 KB]: 474 frames, [32.0 KB-64.0 KB]: 11118 frames, [64.0 KB-128.0 KB]: 6865 frames, [128.0 KB-256.0 KB]: 792 frames, [256.0 KB-0.5 MB]: 224 frames, [0.5 MB-1.0 MB]: 35 frames, [1.0 MB-2.0 MB]: 2 frames, [2.0 MB-4.0 MB]: 8 frames, [4.0 MB-8.0 MB]: 12 frames
+      Peak usage frame count: [2.0 KB-4.0 KB]: 236 frames, [16.0 KB-32.0 KB]: 695 frames, [32.0 KB-64.0 KB]: 458848 frames, [64.0 KB-128.0 KB]: 63575 frames, [128.0 KB-256.0 KB]: 5648 frames, [256.0 KB-0.5 MB]: 4424 frames, [0.5 MB-1.0 MB]: 274 frames, [1.0 MB-2.0 MB]: 6 frames, [2.0 MB-4.0 MB]: 103 frames, [4.0 MB-8.0 MB]: 28 frames
       Initial Block Size 4.0 MB
       Current Block Size 8.0 MB
       Peak Allocated Bytes 7.7 MB
-      Overflow Count 174
-    [ALLOC_TEMP_Background Job.worker 4]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Overflow Count 235
+    [ALLOC_TEMP_Job.worker 30]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
@@ -250,27 +1836,7 @@ Memory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 11]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 7]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 30]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 27]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 6]
+    [ALLOC_TEMP_Background Job.worker 4]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
@@ -278,14 +1844,34 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 16]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 27]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 231.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 19]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 2]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
@@ -295,10 +1881,20 @@ Memory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 2]
+    [ALLOC_TEMP_Background Job.worker 11]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 20]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 15]
       Initial Block Size 32.0 KB
@@ -310,20 +1906,10 @@ Memory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 5]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 20]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
-      Overflow Count 0
     [ALLOC_TEMP_Job.worker 23]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_]
       Initial Block Size 64.0 KB
@@ -353,7 +1939,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 28]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 6]
       Initial Block Size 256.0 KB
@@ -363,7 +1949,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 8]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_HIDInput]
       Initial Block Size 64.0 KB
@@ -383,17 +1969,17 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 26]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 11]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 15]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 9]
       Initial Block Size 32.0 KB
@@ -408,17 +1994,17 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 14]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 4]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 153.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 13]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 1]
       Initial Block Size 32.0 KB
@@ -433,12 +2019,12 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 1]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 196.7 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 21]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 3]
       Initial Block Size 256.0 KB
@@ -450,47 +2036,47 @@ Memory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 25]
+    [ALLOC_TEMP_Job.worker 12]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 196.7 KB
       Overflow Count 0
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 50.9 KB
+      Peak Allocated Bytes 192.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 22]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 12]
+    [ALLOC_TEMP_Job.worker 25]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 2]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 192.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 10]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 7]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 29]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 17]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 231.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 29]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
@@ -498,17 +2084,17 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 9]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 18]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 24]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
@@ -516,31 +2102,31 @@ Memory Statistics:
       Peak Allocated Bytes 294 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 70454
+  Peak main deferred allocation count 91553
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 3 Subsections = 3072 buckets. Failed count: 2500640
-        32B: 15 Subsections = 7680 buckets. Failed count: 763865
-        48B: 148 Subsections = 50517 buckets. Failed count: 4356449
-        64B: 53 Subsections = 13568 buckets. Failed count: 852126
-        80B: 25 Subsections = 5120 buckets. Failed count: 202023
-        96B: 5 Subsections = 853 buckets. Failed count: 102683
-        112B: 3 Subsections = 438 buckets. Failed count: 59625
-        128B: 4 Subsections = 512 buckets. Failed count: 1116296
+        16B: 3 Subsections = 3072 buckets. Failed count: 18161698
+        32B: 15 Subsections = 7680 buckets. Failed count: 3702019
+        48B: 148 Subsections = 50517 buckets. Failed count: 81174855
+        64B: 53 Subsections = 13568 buckets. Failed count: 4746207
+        80B: 25 Subsections = 5120 buckets. Failed count: 1754497
+        96B: 5 Subsections = 853 buckets. Failed count: 1234845
+        112B: 3 Subsections = 438 buckets. Failed count: 380836
+        128B: 4 Subsections = 512 buckets. Failed count: 4360893
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 859 frames, [64.0 MB-128.0 MB]: 1465 frames, [128.0 MB-256.0 MB]: 718 frames, [256.0 MB-0.50 GB]: 14088 frames, [0.50 GB-1.00 GB]: 2636 frames
-      Requested Block Size 16.0 MB
-      Peak Block count 18
-      Peak Allocated memory 0.57 GB
-      Peak Large allocation bytes 392.0 MB
-    [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [256.0 MB-0.50 GB]: 19766 frames
+      Peak usage frame count: [32.0 MB-64.0 MB]: 2777 frames, [64.0 MB-128.0 MB]: 1186 frames, [128.0 MB-256.0 MB]: 474 frames, [256.0 MB-0.50 GB]: 489440 frames, [0.50 GB-1.00 GB]: 39960 frames
       Requested Block Size 16.0 MB
       Peak Block count 19
-      Peak Allocated memory 368.2 MB
+      Peak Allocated memory 0.56 GB
+      Peak Large allocation bytes 400.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [256.0 MB-0.50 GB]: 533837 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 21
+      Peak Allocated memory 381.9 MB
       Peak Large allocation bytes 140.6 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -555,7 +2141,7 @@ Memory Statistics:
 [ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
   Initial Block Size 2.0 MB
   Used Block Count 1
-  Overflow Count (too large) 4
+  Overflow Count (too large) 6
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_ASYNC (Background)]
   Initial Block Size 1.0 MB
@@ -563,55 +2149,55 @@ Memory Statistics:
   Overflow Count (too large) 0
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 38
+  Peak main deferred allocation count 56
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 3 Subsections = 3072 buckets. Failed count: 2500640
-        32B: 15 Subsections = 7680 buckets. Failed count: 763865
-        48B: 148 Subsections = 50517 buckets. Failed count: 4356449
-        64B: 53 Subsections = 13568 buckets. Failed count: 852126
-        80B: 25 Subsections = 5120 buckets. Failed count: 202023
-        96B: 5 Subsections = 853 buckets. Failed count: 102683
-        112B: 3 Subsections = 438 buckets. Failed count: 59625
-        128B: 4 Subsections = 512 buckets. Failed count: 1116296
+        16B: 3 Subsections = 3072 buckets. Failed count: 18161698
+        32B: 15 Subsections = 7680 buckets. Failed count: 3702019
+        48B: 148 Subsections = 50517 buckets. Failed count: 81174855
+        64B: 53 Subsections = 13568 buckets. Failed count: 4746207
+        80B: 25 Subsections = 5120 buckets. Failed count: 1754497
+        96B: 5 Subsections = 853 buckets. Failed count: 1234845
+        112B: 3 Subsections = 438 buckets. Failed count: 380836
+        128B: 4 Subsections = 512 buckets. Failed count: 4360893
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 238 frames, [8.0 MB-16.0 MB]: 2086 frames, [64.0 MB-128.0 MB]: 17442 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 238 frames, [8.0 MB-16.0 MB]: 3725 frames, [64.0 MB-128.0 MB]: 529874 frames
       Requested Block Size 16.0 MB
       Peak Block count 3
-      Peak Allocated memory 95.9 MB
+      Peak Allocated memory 94.4 MB
       Peak Large allocation bytes 76.0 MB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [64.0 MB-128.0 MB]: 19766 frames
+      Peak usage frame count: [64.0 MB-128.0 MB]: 533837 frames
       Requested Block Size 16.0 MB
       Peak Block count 6
       Peak Allocated memory 83.5 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 702
+  Peak main deferred allocation count 703
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 3 Subsections = 3072 buckets. Failed count: 2500640
-        32B: 15 Subsections = 7680 buckets. Failed count: 763865
-        48B: 148 Subsections = 50517 buckets. Failed count: 4356449
-        64B: 53 Subsections = 13568 buckets. Failed count: 852126
-        80B: 25 Subsections = 5120 buckets. Failed count: 202023
-        96B: 5 Subsections = 853 buckets. Failed count: 102683
-        112B: 3 Subsections = 438 buckets. Failed count: 59625
-        128B: 4 Subsections = 512 buckets. Failed count: 1116296
+        16B: 3 Subsections = 3072 buckets. Failed count: 18161698
+        32B: 15 Subsections = 7680 buckets. Failed count: 3702019
+        48B: 148 Subsections = 50517 buckets. Failed count: 81174855
+        64B: 53 Subsections = 13568 buckets. Failed count: 4746207
+        80B: 25 Subsections = 5120 buckets. Failed count: 1754497
+        96B: 5 Subsections = 853 buckets. Failed count: 1234845
+        112B: 3 Subsections = 438 buckets. Failed count: 380836
+        128B: 4 Subsections = 512 buckets. Failed count: 4360893
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 238 frames, [16.0 MB-32.0 MB]: 2086 frames, [32.0 MB-64.0 MB]: 17442 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 238 frames, [16.0 MB-32.0 MB]: 3725 frames, [32.0 MB-64.0 MB]: 529874 frames
       Requested Block Size 4.0 MB
-      Peak Block count 6
-      Peak Allocated memory 58.8 MB
+      Peak Block count 7
+      Peak Allocated memory 59.2 MB
       Peak Large allocation bytes 36.4 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [256.0 MB-0.50 GB]: 2324 frames, [0.50 GB-1.00 GB]: 17442 frames
+      Peak usage frame count: [256.0 MB-0.50 GB]: 3963 frames, [0.50 GB-1.00 GB]: 529874 frames
       Requested Block Size 4.0 MB
       Peak Block count 186
       Peak Allocated memory 0.84 GB
@@ -623,22 +2209,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 3 Subsections = 3072 buckets. Failed count: 2500640
-        32B: 15 Subsections = 7680 buckets. Failed count: 763865
-        48B: 148 Subsections = 50517 buckets. Failed count: 4356449
-        64B: 53 Subsections = 13568 buckets. Failed count: 852126
-        80B: 25 Subsections = 5120 buckets. Failed count: 202023
-        96B: 5 Subsections = 853 buckets. Failed count: 102683
-        112B: 3 Subsections = 438 buckets. Failed count: 59625
-        128B: 4 Subsections = 512 buckets. Failed count: 1116296
+        16B: 3 Subsections = 3072 buckets. Failed count: 18161698
+        32B: 15 Subsections = 7680 buckets. Failed count: 3702019
+        48B: 148 Subsections = 50517 buckets. Failed count: 81174855
+        64B: 53 Subsections = 13568 buckets. Failed count: 4746207
+        80B: 25 Subsections = 5120 buckets. Failed count: 1754497
+        96B: 5 Subsections = 853 buckets. Failed count: 1234845
+        112B: 3 Subsections = 438 buckets. Failed count: 380836
+        128B: 4 Subsections = 512 buckets. Failed count: 4360893
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 237 frames, [4.0 KB-8.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 19528 frames
+      Peak usage frame count: [0-1.0 KB]: 237 frames, [4.0 KB-8.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 533599 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 26.3 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 860 frames, [128.0 KB-256.0 KB]: 18906 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 2778 frames, [128.0 KB-256.0 KB]: 531059 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 159.2 KB
