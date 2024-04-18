@@ -9,7 +9,7 @@ Direct3D:
     Renderer: NVIDIA GeForce RTX 3070 (ID=0x2488)
     Vendor:   NVIDIA
     VRAM:     8018 MB
-    Driver:   31.0.15.5152
+    Driver:   31.0.15.5222
 Begin MonoManager ReloadAssembly
 - Loaded All Assemblies, in  0.123 seconds
 - Finished resetting the current domain, in  0.001 seconds
@@ -19,201 +19,531 @@ Using Windows.Gaming.Input
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.653600 ms
+UnloadTime: 0.687000 ms
 Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
 Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
 Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
-04/11/2024 11:41:16: Set background loading budget to Low
+04/18/2024 16:21:20: Set background loading budget to Low
 Unloading 5 Unused Serialized files (Serialized files now loaded: 9)
-UnloadTime: 0.283800 ms
-04/11/2024 11:41:17: Fetching PlatformPrefs 'GuiScale' before loading defaults
-04/11/2024 11:41:17: Fetching PlatformPrefs 'GuiScale' before loading defaults
+UnloadTime: 0.220800 ms
+04/18/2024 16:21:20: Fetching PlatformPrefs 'GuiScale' before loading defaults
+04/18/2024 16:21:20: Fetching PlatformPrefs 'GuiScale' before loading defaults
 Unloading 171 unused Assets to reduce memory usage. Loaded Objects now: 2480.
-Total: 1.136200 ms (FindLiveObjects: 0.107000 ms CreateObjectMapping: 0.040200 ms MarkObjects: 0.912700 ms  DeleteObjects: 0.076300 ms)
+Total: 1.254000 ms (FindLiveObjects: 0.117800 ms CreateObjectMapping: 0.060800 ms MarkObjects: 0.986500 ms  DeleteObjects: 0.088800 ms)
 
-04/11/2024 11:41:17: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
-04/11/2024 11:41:17: Set background loading budget to Normal
-04/11/2024 11:41:21: Set background loading budget to High
+04/18/2024 16:21:20: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+04/18/2024 16:21:20: Set background loading budget to Normal
+04/18/2024 16:21:24: Set background loading budget to High
 The referenced script on this Behaviour (Game Object '<null>') is missing!
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Unloading 2 Unused Serialized files (Serialized files now loaded: 964)
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
-04/11/2024 11:41:27: Set background loading budget to Low
-UnloadTime: 5.632600 ms
+04/18/2024 16:21:30: Set background loading budget to Low
+UnloadTime: 5.372400 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-04/11/2024 11:41:27: Using environment steamid 892970
-04/11/2024 11:41:27: Using steam APPID:892970
-04/11/2024 11:41:27: Authentication:k_ESteamNetworkingAvailability_Attempting
-04/11/2024 11:41:27: Steam initialized, persona:tjgolubi
-04/11/2024 11:41:27: PlayFab custom ID set to "Steam_76561198290658520"
-04/11/2024 11:41:27: Using default prefs
-04/11/2024 11:41:27: Valheim version: 0.217.46 (network version 23)
+04/18/2024 16:21:30: Using environment steamid 892970
+04/18/2024 16:21:30: Using steam APPID:892970
+04/18/2024 16:21:30: Authentication:k_ESteamNetworkingAvailability_Attempting
+04/18/2024 16:21:30: Steam initialized, persona:tjgolubi
+04/18/2024 16:21:30: PlayFab custom ID set to "Steam_76561198290658520"
+04/18/2024 16:21:30: Using default prefs
+04/18/2024 16:21:30: Valheim version: 0.217.46 (network version 23)
 Trying to set graphic mode to 'Custom'
 Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
 Graphic mode 'Custom' applied!
-04/11/2024 11:41:27: Worldgenerator version setup:2
-04/11/2024 11:41:27: Render threading mode:MultiThreaded
-04/11/2024 11:41:27: Set button "CamZoomIn" to None!
-04/11/2024 11:41:27: Set button "CamZoomOut" to None!
-04/11/2024 11:41:27: Set button "CamZoomIn" to None!
-04/11/2024 11:41:27: Set button "CamZoomOut" to None!
-04/11/2024 11:41:27: Loaded localization file #0 - 'localization' language: 'English'
-04/11/2024 11:41:27: Loaded localization file #1 - 'localization_extra' language: 'English'
-04/11/2024 11:41:27: Loaded localization file #2 - 'heightmap_message' language: 'English'
-04/11/2024 11:41:27: Loaded localization file #3 - 'localization_hildir' language: 'English'
-04/11/2024 11:41:27: Loaded localization file #4 - 'localization_emotes' language: 'English'
-04/11/2024 11:41:27: Loaded localization file #0 - 'localization' language: 'English'
-04/11/2024 11:41:27: Loaded localization file #1 - 'localization_extra' language: 'English'
-04/11/2024 11:41:27: Loaded localization file #2 - 'heightmap_message' language: 'English'
-04/11/2024 11:41:27: Loaded localization file #3 - 'localization_hildir' language: 'English'
-04/11/2024 11:41:27: Loaded localization file #4 - 'localization_emotes' language: 'English'
-04/11/2024 11:41:27: Missing audio clip in music respawn
-04/11/2024 11:41:27: Checking for installed DLCs
-04/11/2024 11:41:27: DLC:beta installed:False
-04/11/2024 11:41:27: Builder started
-04/11/2024 11:41:28: Sending PlayFab login request (attempt 1)
-04/11/2024 11:41:28: Starting music menu
-Unloading 71893 unused Assets to reduce memory usage. Loaded Objects now: 157936.
-Total: 71.924500 ms (FindLiveObjects: 11.642000 ms CreateObjectMapping: 16.716200 ms MarkObjects: 27.421900 ms  DeleteObjects: 16.144100 ms)
+04/18/2024 16:21:30: Worldgenerator version setup:2
+04/18/2024 16:21:30: Render threading mode:MultiThreaded
+04/18/2024 16:21:30: Set button "CamZoomIn" to None!
+04/18/2024 16:21:30: Set button "CamZoomOut" to None!
+04/18/2024 16:21:30: Set button "CamZoomIn" to None!
+04/18/2024 16:21:30: Set button "CamZoomOut" to None!
+04/18/2024 16:21:30: Loaded localization file #0 - 'localization' language: 'English'
+04/18/2024 16:21:30: Loaded localization file #1 - 'localization_extra' language: 'English'
+04/18/2024 16:21:30: Loaded localization file #2 - 'heightmap_message' language: 'English'
+04/18/2024 16:21:30: Loaded localization file #3 - 'localization_hildir' language: 'English'
+04/18/2024 16:21:30: Loaded localization file #4 - 'localization_emotes' language: 'English'
+04/18/2024 16:21:30: Loaded localization file #0 - 'localization' language: 'English'
+04/18/2024 16:21:30: Loaded localization file #1 - 'localization_extra' language: 'English'
+04/18/2024 16:21:30: Loaded localization file #2 - 'heightmap_message' language: 'English'
+04/18/2024 16:21:30: Loaded localization file #3 - 'localization_hildir' language: 'English'
+04/18/2024 16:21:30: Loaded localization file #4 - 'localization_emotes' language: 'English'
+04/18/2024 16:21:31: Missing audio clip in music respawn
+04/18/2024 16:21:31: Checking for installed DLCs
+04/18/2024 16:21:31: DLC:beta installed:False
+04/18/2024 16:21:31: Builder started
+04/18/2024 16:21:31: Sending PlayFab login request (attempt 1)
+04/18/2024 16:21:31: Starting music menu
+Unloading 71893 unused Assets to reduce memory usage. Loaded Objects now: 157948.
+Total: 71.831200 ms (FindLiveObjects: 11.709300 ms CreateObjectMapping: 16.459800 ms MarkObjects: 26.816600 ms  DeleteObjects: 16.845100 ms)
 
-04/11/2024 11:41:28: PlayFab logged in as "Steam_76561198290658520"
-04/11/2024 11:41:28: PlayFab local entity ID is DBA9D3993BEC7B4F
-04/11/2024 11:41:35: show character selection
-04/11/2024 11:41:37: OnCharacterStart
-04/11/2024 11:41:55: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 2
-04/11/2024 11:41:55: No autobackup needed yet...
-04/11/2024 11:41:59: Loading main scene
+04/18/2024 16:21:31: PlayFab logged in as "Steam_76561198290658520"
+04/18/2024 16:21:31: PlayFab local entity ID is DBA9D3993BEC7B4F
+04/18/2024 16:21:35: show character selection
+04/18/2024 16:21:35: OnCharacterStart
+04/18/2024 16:21:39: Loading main scene
 Unloading 3 Unused Serialized files (Serialized files now loaded: 960)
-UnloadTime: 10.168600 ms
-04/11/2024 11:41:59: Steam initialized, persona:tjgolubi
-04/11/2024 11:41:59: PlayFab custom ID set to "Steam_76561198290658520"
-04/11/2024 11:41:59: Using default prefs
-04/11/2024 11:41:59: Loading player profile terry
-04/11/2024 11:41:59: isModded: False
-04/11/2024 11:41:59: Zonesystem Awake 2427
-04/11/2024 11:41:59: DungeonDB Awake 2427
-04/11/2024 11:41:59: Steam initialized, persona:tjgolubi
-04/11/2024 11:41:59: Worldgenerator version setup:2
-04/11/2024 11:42:01: Audioman already exist, destroying self
-04/11/2024 11:42:01: Checking for installed DLCs
-04/11/2024 11:42:01: DLC:beta installed:False
+UnloadTime: 9.918200 ms
+04/18/2024 16:21:40: Steam initialized, persona:tjgolubi
+04/18/2024 16:21:40: PlayFab custom ID set to "Steam_76561198290658520"
+04/18/2024 16:21:40: Using default prefs
+04/18/2024 16:21:40: Loading player profile terry
+04/18/2024 16:21:40: isModded: False
+04/18/2024 16:21:40: Zonesystem Awake 1078
+04/18/2024 16:21:40: DungeonDB Awake 1078
+04/18/2024 16:21:40: Steam initialized, persona:tjgolubi
+04/18/2024 16:21:40: Worldgenerator version setup:2
+04/18/2024 16:21:42: Audioman already exist, destroying self
+04/18/2024 16:21:42: Checking for installed DLCs
+04/18/2024 16:21:42: DLC:beta installed:False
 Unloading 363 unused Assets to reduce memory usage. Loaded Objects now: 156792.
-Total: 43.495700 ms (FindLiveObjects: 6.756100 ms CreateObjectMapping: 8.433800 ms MarkObjects: 27.941500 ms  DeleteObjects: 0.364100 ms)
+Total: 41.510900 ms (FindLiveObjects: 6.491400 ms CreateObjectMapping: 7.290800 ms MarkObjects: 27.358600 ms  DeleteObjects: 0.369600 ms)
 
-04/11/2024 11:42:01: Zonesystem Start 2427
-04/11/2024 11:42:01: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
-04/11/2024 11:42:01: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
-04/11/2024 11:42:01: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
-04/11/2024 11:42:01: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
-04/11/2024 11:42:01: DungeonDB Start 2427
-04/11/2024 11:42:01: ZRpc timeout set to 30s 
-04/11/2024 11:42:01: ZNET START
-04/11/2024 11:42:01: Load world: Famheim (Famheim)
-04/11/2024 11:42:01: Loading 829578 zdos, my sessionID: 1951019439, data version: 33
-04/11/2024 11:42:01: Loading in ZDOs
-04/11/2024 11:42:02: Adding to Dictionary
-04/11/2024 11:42:02: Adding to Sectors
-04/11/2024 11:42:02: Connecting Portals, Spawners & ZSyncTransforms
+04/18/2024 16:21:42: Zonesystem Start 1078
+04/18/2024 16:21:42: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+04/18/2024 16:21:42: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+04/18/2024 16:21:42: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+04/18/2024 16:21:42: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+04/18/2024 16:21:42: DungeonDB Start 1078
+04/18/2024 16:21:42: ZRpc timeout set to 30s 
+04/18/2024 16:21:42: ZNET START
+04/18/2024 16:21:42: Load world: Famheim (Famheim)
+04/18/2024 16:21:42: Loading 829276 zdos, my sessionID: 2438415049, data version: 33
+04/18/2024 16:21:42: Loading in ZDOs
+04/18/2024 16:21:43: Adding to Dictionary
+04/18/2024 16:21:43: Adding to Sectors
+04/18/2024 16:21:43: Connecting Portals, Spawners & ZSyncTransforms
 ConnectPortals => Connected 1 portals.
 ConnectSpawners => Connected 0 spawners and 1320 'done' spawners.
-04/11/2024 11:42:02: Loaded 10076 locations
-04/11/2024 11:42:02: Unloading unused assets
+04/18/2024 16:21:43: Loaded 10076 locations
+04/18/2024 16:21:43: Unloading unused assets
 Unloading 0 Unused Serialized files (Serialized files now loaded: 960)
 Am I Host? True
-04/11/2024 11:42:02: Starting respawn
-04/11/2024 11:42:03: Loading minimap textures done [294ms]
-04/11/2024 11:42:03: Minimap: unpacking compressed mapData 27587 => 8401714 bytes
-04/11/2024 11:42:03: tip:$loadscreen_tip17
+04/18/2024 16:21:43: Starting respawn
+04/18/2024 16:21:43: Loading minimap textures done [341ms]
+04/18/2024 16:21:43: Minimap: unpacking compressed mapData 27587 => 8401714 bytes
+04/18/2024 16:21:44: tip:$loadscreen_tip24
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 156873.
-Total: 216.670300 ms (FindLiveObjects: 7.636300 ms CreateObjectMapping: 9.091600 ms MarkObjects: 199.708100 ms  DeleteObjects: 0.234000 ms)
+Total: 212.073900 ms (FindLiveObjects: 7.668300 ms CreateObjectMapping: 8.358200 ms MarkObjects: 195.811600 ms  DeleteObjects: 0.235500 ms)
 
-04/11/2024 11:42:07: Force generating hmap (-256.00, 0.00, 448.00)
-04/11/2024 11:42:07: Force generating hmap (-320.00, 0.00, 448.00)
-04/11/2024 11:42:07: Force generating hmap (-320.00, 0.00, 512.00)
-04/11/2024 11:42:07: Force generating hmap (-256.00, 0.00, 512.00)
-04/11/2024 11:42:07: Force generating hmap (-128.00, 0.00, 576.00)
-04/11/2024 11:42:11: Spawned after 8.019994
-04/11/2024 11:42:11: Skipping unloading unused assets
-04/11/2024 11:42:11: Minimap: Adding unique location (131.94, 39.56, 260.83)
-04/11/2024 11:42:11: Minimap: Adding unique location (-1299.80, 35.63, 1144.62)
-04/11/2024 11:42:11: Minimap: Adding unique location (-637.68, 33.99, 3844.75)
-04/11/2024 11:42:13: Starting music home
-04/11/2024 11:42:13: Resumed music home at 0
-04/11/2024 11:42:27: Activating default element Continue
-04/11/2024 11:42:28: Activating default element Button_no
+04/18/2024 16:21:47: Loading dungeon
+04/18/2024 16:21:47: Dungeon loaded with 30 rooms in 1.001 ms.
+04/18/2024 16:21:47: Loading room prefabs asynchronously
+04/18/2024 16:21:47: Spawning dungeon
+04/18/2024 16:21:48: Loading dungeon
+04/18/2024 16:21:48: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:21:48: Loading room prefabs asynchronously
+04/18/2024 16:21:48: Spawning dungeon
+04/18/2024 16:21:52: Spawned after 8.019994
+04/18/2024 16:21:52: Skipping unloading unused assets
+04/18/2024 16:21:52: Minimap: Adding unique location (131.94, 39.56, 260.83)
+04/18/2024 16:21:52: Minimap: Adding unique location (-1299.80, 35.63, 1144.62)
+04/18/2024 16:21:52: Minimap: Adding unique location (-637.68, 33.99, 3844.75)
+04/18/2024 16:21:54: Starting music blackforest
+04/18/2024 16:21:54: Resumed music blackforest at 0
+04/18/2024 16:22:22: Setting selected recipe 0
+04/18/2024 16:22:31: Spawn time :2.0015 ms
+04/18/2024 16:22:39: Setting selected recipe 0
+04/18/2024 16:22:43: Setting selected recipe 0
+04/18/2024 16:22:55: Spawn time :1.0018 ms
+04/18/2024 16:23:00: Setting selected recipe 0
+04/18/2024 16:23:05: Setting selected recipe 0
+04/18/2024 16:23:20: Placed stone_stair
+04/18/2024 16:23:23: Placed stone_stair
+04/18/2024 16:23:25: Placed stone_stair
+04/18/2024 16:23:26: Loading dungeon
+04/18/2024 16:23:26: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:23:26: Loading room prefabs asynchronously
+04/18/2024 16:23:26: Spawning dungeon
+04/18/2024 16:23:26: Placed stone_stair
+04/18/2024 16:23:28: Loading dungeon
+04/18/2024 16:23:28: Dungeon loaded with 23 rooms in 1.0008 ms.
+04/18/2024 16:23:28: Loading room prefabs asynchronously
+04/18/2024 16:23:28: Spawning dungeon
+04/18/2024 16:23:29: Placed stone_stair
+04/18/2024 16:23:31: Placed stone_stair
+04/18/2024 16:23:38: Placed stone_stair
+04/18/2024 16:23:41: Placed stone_stair
+04/18/2024 16:23:44: Placed stone_stair
+04/18/2024 16:23:49: Placed stone_stair
+04/18/2024 16:23:58: Loading dungeon
+04/18/2024 16:23:58: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:23:58: Loading room prefabs asynchronously
+04/18/2024 16:23:58: Spawning dungeon
+04/18/2024 16:24:00: Loading dungeon
+04/18/2024 16:24:00: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:24:00: Loading room prefabs asynchronously
+04/18/2024 16:24:00: Spawning dungeon
+04/18/2024 16:24:04: Placed raise_v2
+04/18/2024 16:24:12: Loading dungeon
+04/18/2024 16:24:12: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:24:12: Loading room prefabs asynchronously
+04/18/2024 16:24:12: Spawning dungeon
+04/18/2024 16:24:14: Loading dungeon
+04/18/2024 16:24:14: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:24:14: Loading room prefabs asynchronously
+04/18/2024 16:24:14: Spawning dungeon
+04/18/2024 16:24:30: Placed mud_road_v2
+04/18/2024 16:24:31: Placed mud_road_v2
+04/18/2024 16:24:32: Placed mud_road_v2
+04/18/2024 16:24:33: Placed mud_road_v2
+04/18/2024 16:24:35: Placed mud_road_v2
+04/18/2024 16:24:40: Loading dungeon
+04/18/2024 16:24:40: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:24:40: Loading room prefabs asynchronously
+04/18/2024 16:24:40: Spawning dungeon
+04/18/2024 16:24:42: Loading dungeon
+04/18/2024 16:24:42: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:24:42: Loading room prefabs asynchronously
+04/18/2024 16:24:42: Spawning dungeon
+04/18/2024 16:25:04: Loading dungeon
+04/18/2024 16:25:04: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:25:04: Loading room prefabs asynchronously
+04/18/2024 16:25:04: Spawning dungeon
+04/18/2024 16:25:06: Loading dungeon
+04/18/2024 16:25:06: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:25:06: Loading room prefabs asynchronously
+04/18/2024 16:25:06: Spawning dungeon
+04/18/2024 16:25:16: Placed replant_v2
+04/18/2024 16:25:18: Placed replant_v2
+04/18/2024 16:25:22: Loading dungeon
+04/18/2024 16:25:22: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:25:22: Loading room prefabs asynchronously
+04/18/2024 16:25:22: Spawning dungeon
+04/18/2024 16:25:24: Loading dungeon
+04/18/2024 16:25:24: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:25:24: Loading room prefabs asynchronously
+04/18/2024 16:25:24: Spawning dungeon
+04/18/2024 16:25:30: Placed mud_road_v2
+04/18/2024 16:25:31: Placed mud_road_v2
+04/18/2024 16:25:32: Placed mud_road_v2
+04/18/2024 16:25:33: Placed mud_road_v2
+04/18/2024 16:25:33: Loading dungeon
+04/18/2024 16:25:33: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:25:33: Loading room prefabs asynchronously
+04/18/2024 16:25:33: Spawning dungeon
+04/18/2024 16:25:34: Placed mud_road_v2
+04/18/2024 16:25:35: Loading dungeon
+04/18/2024 16:25:35: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:25:35: Loading room prefabs asynchronously
+04/18/2024 16:25:35: Spawning dungeon
+04/18/2024 16:25:49: Placed mud_road_v2
+04/18/2024 16:25:52: Placed mud_road_v2
+04/18/2024 16:25:53: Placed mud_road_v2
+04/18/2024 16:25:54: Placed mud_road_v2
+04/18/2024 16:25:54: Placed mud_road_v2
+04/18/2024 16:25:55: Loading dungeon
+04/18/2024 16:25:55: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:25:55: Loading room prefabs asynchronously
+04/18/2024 16:25:55: Spawning dungeon
+04/18/2024 16:26:01: Placed mud_road_v2
+04/18/2024 16:26:02: Loading dungeon
+04/18/2024 16:26:02: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:26:02: Loading room prefabs asynchronously
+04/18/2024 16:26:02: Spawning dungeon
+04/18/2024 16:26:04: Loading dungeon
+04/18/2024 16:26:04: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:26:04: Loading room prefabs asynchronously
+04/18/2024 16:26:04: Spawning dungeon
+04/18/2024 16:26:06: Placed mud_road_v2
+04/18/2024 16:26:09: Placed mud_road_v2
+04/18/2024 16:26:18: Placed replant_v2
+04/18/2024 16:26:19: Placed replant_v2
+04/18/2024 16:26:21: Placed replant_v2
+04/18/2024 16:26:23: Placed replant_v2
+04/18/2024 16:26:24: Placed replant_v2
+04/18/2024 16:26:25: Placed replant_v2
+04/18/2024 16:26:26: Loading dungeon
+04/18/2024 16:26:26: Dungeon loaded with 30 rooms in 1.0013 ms.
+04/18/2024 16:26:26: Loading room prefabs asynchronously
+04/18/2024 16:26:26: Spawning dungeon
+04/18/2024 16:26:27: Placed replant_v2
+04/18/2024 16:26:28: Loading dungeon
+04/18/2024 16:26:28: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:26:28: Loading room prefabs asynchronously
+04/18/2024 16:26:28: Spawning dungeon
+04/18/2024 16:26:28: Placed replant_v2
+04/18/2024 16:26:33: Loading dungeon
+04/18/2024 16:26:33: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:26:33: Loading room prefabs asynchronously
+04/18/2024 16:26:33: Spawning dungeon
+04/18/2024 16:26:34: Placed replant_v2
+04/18/2024 16:26:34: Loading dungeon
+04/18/2024 16:26:34: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:26:34: Loading room prefabs asynchronously
+04/18/2024 16:26:34: Spawning dungeon
+04/18/2024 16:26:40: Placed replant_v2
+04/18/2024 16:26:46: Placed replant_v2
+04/18/2024 16:26:47: Placed replant_v2
+04/18/2024 16:26:48: Placed replant_v2
+04/18/2024 16:26:49: Placed replant_v2
+04/18/2024 16:26:49: Placed replant_v2
+04/18/2024 16:26:50: Placed replant_v2
+04/18/2024 16:26:51: Placed replant_v2
+04/18/2024 16:26:52: Placed replant_v2
+04/18/2024 16:26:54: Placed replant_v2
+04/18/2024 16:26:55: Placed replant_v2
+04/18/2024 16:26:56: Placed replant_v2
+04/18/2024 16:27:01: Placed replant_v2
+04/18/2024 16:27:03: Placed replant_v2
+04/18/2024 16:27:03: Placed replant_v2
+04/18/2024 16:27:04: Placed replant_v2
+04/18/2024 16:27:05: Placed replant_v2
+04/18/2024 16:27:06: Placed replant_v2
+04/18/2024 16:27:07: Placed replant_v2
+04/18/2024 16:27:07: Placed replant_v2
+04/18/2024 16:27:08: Placed replant_v2
+04/18/2024 16:27:09: Placed replant_v2
+04/18/2024 16:27:10: Placed replant_v2
+04/18/2024 16:27:11: Placed replant_v2
+04/18/2024 16:27:11: Placed replant_v2
+04/18/2024 16:27:12: Placed replant_v2
+04/18/2024 16:27:15: Placed replant_v2
+04/18/2024 16:27:23: Placed path_v2
+04/18/2024 16:27:24: Placed path_v2
+04/18/2024 16:27:25: Placed path_v2
+04/18/2024 16:27:27: Placed path_v2
+04/18/2024 16:27:28: Placed path_v2
+04/18/2024 16:27:30: Placed path_v2
+04/18/2024 16:27:32: Placed path_v2
+04/18/2024 16:27:32: Placed path_v2
+04/18/2024 16:27:33: Placed path_v2
+04/18/2024 16:27:35: Placed path_v2
+04/18/2024 16:27:36: Placed path_v2
+04/18/2024 16:27:39: Placed path_v2
+04/18/2024 16:27:39: Placed path_v2
+04/18/2024 16:27:40: Placed path_v2
+04/18/2024 16:27:41: Placed path_v2
+04/18/2024 16:27:42: Placed path_v2
+04/18/2024 16:27:43: Placed path_v2
+04/18/2024 16:27:43: Placed path_v2
+04/18/2024 16:27:44: Placed path_v2
+04/18/2024 16:27:45: Placed path_v2
+04/18/2024 16:27:45: Placed path_v2
+04/18/2024 16:27:46: Placed path_v2
+04/18/2024 16:27:46: Placed path_v2
+04/18/2024 16:27:47: Placed path_v2
+04/18/2024 16:27:49: Placed path_v2
+04/18/2024 16:27:50: Placed path_v2
+04/18/2024 16:27:52: Setting selected recipe 0
+04/18/2024 16:27:57: Placed path_v2
+04/18/2024 16:27:57: Placed path_v2
+04/18/2024 16:27:59: Placed path_v2
+04/18/2024 16:27:59: Placed path_v2
+04/18/2024 16:28:01: Placed path_v2
+04/18/2024 16:28:31: Update PlayFab entity token
+04/18/2024 16:28:47: Placed stone_floor_2x2
+04/18/2024 16:29:08: Loading dungeon
+04/18/2024 16:29:08: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:29:08: Loading room prefabs asynchronously
+04/18/2024 16:29:08: Spawning dungeon
+04/18/2024 16:29:13: Loading dungeon
+04/18/2024 16:29:13: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:29:13: Loading room prefabs asynchronously
+04/18/2024 16:29:13: Spawning dungeon
+04/18/2024 16:29:19: Setting selected recipe 1
+04/18/2024 16:29:20: Button pressed RepairButton  frame:56308
+04/18/2024 16:29:20: Button pressed RepairButton  frame:56336
+04/18/2024 16:29:53: Placed path_v2
+04/18/2024 16:29:57: Placed path_v2
+04/18/2024 16:30:23: Placed raise_v2
+04/18/2024 16:30:44: Placed raise_v2
+04/18/2024 16:30:47: Loading dungeon
+04/18/2024 16:30:47: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:30:47: Loading room prefabs asynchronously
+04/18/2024 16:30:47: Spawning dungeon
+04/18/2024 16:30:49: Loading dungeon
+04/18/2024 16:30:49: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:30:49: Loading room prefabs asynchronously
+04/18/2024 16:30:49: Spawning dungeon
+04/18/2024 16:31:14: Placed mud_road_v2
+04/18/2024 16:31:15: Placed mud_road_v2
+04/18/2024 16:31:16: Placed mud_road_v2
+04/18/2024 16:31:16: Placed mud_road_v2
+04/18/2024 16:31:17: Placed mud_road_v2
+04/18/2024 16:31:17: Placed mud_road_v2
+04/18/2024 16:31:19: Placed mud_road_v2
+04/18/2024 16:31:23: Placed replant_v2
+04/18/2024 16:31:24: Placed replant_v2
+04/18/2024 16:31:24: Placed replant_v2
+04/18/2024 16:31:25: Placed replant_v2
+04/18/2024 16:31:27: Placed replant_v2
+04/18/2024 16:31:27: Placed replant_v2
+04/18/2024 16:31:28: Placed replant_v2
+04/18/2024 16:31:40: Loading dungeon
+04/18/2024 16:31:40: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:31:40: Loading room prefabs asynchronously
+04/18/2024 16:31:40: Spawning dungeon
+04/18/2024 16:31:42: Loading dungeon
+04/18/2024 16:31:42: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:31:42: Loading room prefabs asynchronously
+04/18/2024 16:31:42: Spawning dungeon
+04/18/2024 16:31:52: Placed raise_v2
+04/18/2024 16:32:50: Loading dungeon
+04/18/2024 16:32:50: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:32:50: Loading room prefabs asynchronously
+04/18/2024 16:32:50: Spawning dungeon
+04/18/2024 16:32:51: Loading dungeon
+04/18/2024 16:32:51: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:32:51: Loading room prefabs asynchronously
+04/18/2024 16:32:52: Spawning dungeon
+04/18/2024 16:33:01: Loading dungeon
+04/18/2024 16:33:01: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:33:01: Loading room prefabs asynchronously
+04/18/2024 16:33:01: Spawning dungeon
+04/18/2024 16:33:03: Loading dungeon
+04/18/2024 16:33:03: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:33:03: Loading room prefabs asynchronously
+04/18/2024 16:33:03: Spawning dungeon
+04/18/2024 16:33:07: Placed mud_road_v2
+04/18/2024 16:33:19: Placed mud_road_v2
+04/18/2024 16:33:21: Placed mud_road_v2
+04/18/2024 16:33:22: Placed mud_road_v2
+04/18/2024 16:33:26: Loading dungeon
+04/18/2024 16:33:26: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:33:26: Loading room prefabs asynchronously
+04/18/2024 16:33:26: Spawning dungeon
+04/18/2024 16:33:28: Loading dungeon
+04/18/2024 16:33:28: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:33:28: Loading room prefabs asynchronously
+04/18/2024 16:33:28: Spawning dungeon
+04/18/2024 16:34:03: Stopped music blackforest at 5021194
+04/18/2024 16:34:03: Starting music meadows
+04/18/2024 16:34:29: Loading dungeon
+04/18/2024 16:34:29: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:34:29: Loading room prefabs asynchronously
+04/18/2024 16:34:29: Spawning dungeon
+04/18/2024 16:34:31: Loading dungeon
+04/18/2024 16:34:31: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:34:31: Loading room prefabs asynchronously
+04/18/2024 16:34:31: Spawning dungeon
+04/18/2024 16:34:35: Stopped music meadows at 1425311
+04/18/2024 16:34:35: Starting music blackforest
+04/18/2024 16:34:35: Resumed music blackforest at 5021194
+04/18/2024 16:35:03: Loading dungeon
+04/18/2024 16:35:03: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:35:03: Loading room prefabs asynchronously
+04/18/2024 16:35:03: Spawning dungeon
+04/18/2024 16:35:08: Loading dungeon
+04/18/2024 16:35:08: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:35:08: Loading room prefabs asynchronously
+04/18/2024 16:35:08: Spawning dungeon
+04/18/2024 16:35:26: hit mine rock 123
+04/18/2024 16:35:27: hit mine rock 123
+04/18/2024 16:35:27: Suport time 2.075195
+04/18/2024 16:35:35: Placed mud_road_v2
+04/18/2024 16:35:40: Placed mud_road_v2
+04/18/2024 16:35:44: Placed replant_v2
+04/18/2024 16:35:45: Placed replant_v2
+04/18/2024 16:35:46: Placed replant_v2
+04/18/2024 16:35:47: Placed replant_v2
+04/18/2024 16:35:47: Placed replant_v2
+04/18/2024 16:36:21: Placed mud_road_v2
+04/18/2024 16:36:24: Placed mud_road_v2
+04/18/2024 16:36:27: Placed mud_road_v2
+04/18/2024 16:36:30: Placed mud_road_v2
+04/18/2024 16:36:40: Placed replant_v2
+04/18/2024 16:36:41: Placed replant_v2
+04/18/2024 16:36:42: Placed replant_v2
+04/18/2024 16:36:53: Loading dungeon
+04/18/2024 16:36:53: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:36:53: Loading room prefabs asynchronously
+04/18/2024 16:36:53: Spawning dungeon
+04/18/2024 16:36:54: Loading dungeon
+04/18/2024 16:36:54: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:36:54: Loading room prefabs asynchronously
+04/18/2024 16:36:54: Spawning dungeon
+04/18/2024 16:37:24: Loading dungeon
+04/18/2024 16:37:24: Dungeon loaded with 30 rooms in 0 ms.
+04/18/2024 16:37:24: Loading room prefabs asynchronously
+04/18/2024 16:37:24: Spawning dungeon
+04/18/2024 16:37:26: Loading dungeon
+04/18/2024 16:37:26: Dungeon loaded with 23 rooms in 0 ms.
+04/18/2024 16:37:26: Loading room prefabs asynchronously
+04/18/2024 16:37:26: Spawning dungeon
+04/18/2024 16:37:57: Teleportation TRIGGER
+04/18/2024 16:37:57: Teleporting Terry
+04/18/2024 16:38:03: Force generating hmap (-256.00, 0.00, 448.00)
+04/18/2024 16:38:03: Force generating hmap (-320.00, 0.00, 448.00)
+04/18/2024 16:38:03: Force generating hmap (-320.00, 0.00, 512.00)
+04/18/2024 16:38:03: Force generating hmap (-256.00, 0.00, 512.00)
+04/18/2024 16:38:03: Force generating hmap (-128.00, 0.00, 576.00)
+04/18/2024 16:38:10: Stopped music blackforest at 5431744
+04/18/2024 16:38:10: Starting music home
+04/18/2024 16:38:15: Activating default element Continue
+04/18/2024 16:38:17: Activating default element Button_no
 Am I Host? True
-04/11/2024 11:42:29: Available space to current user: 344897531904. Saving is blocked if below: 77739720 bytes. Warnings are given if below: 155479440
+04/18/2024 16:38:20: Available space to current user: 347614932992. Saving is blocked if below: 77789150 bytes. Warnings are given if below: 155578300
 Am I Host? True
-04/11/2024 11:42:29: Game - OnApplicationQuit
+04/18/2024 16:38:20: Game - OnApplicationQuit
 Am I Host? True
-04/11/2024 11:42:29: Available space to current user: 344897531904. Saving is blocked if below: 77739720 bytes. Warnings are given if below: 155479440
-04/11/2024 11:42:29: Shutting down
-04/11/2024 11:42:30: Minimap: compressed mapData 8401714 => 27587 bytes
-04/11/2024 11:42:30: Considering autobackup. World time: 23.54, short time: 7200, long time: 43200, backup count: 4
-04/11/2024 11:42:30: Skipping backup. World session not long enough.
-04/11/2024 11:42:30: ZNet Shutdown
-04/11/2024 11:42:30: PrepareSave: clone done in 91ms
-04/11/2024 11:42:30: PrepareSave: ZDOExtraData.PrepareSave done in 115 ms
-04/11/2024 11:42:30: World save writing starting
-04/11/2024 11:42:30: World save writing started
-04/11/2024 11:42:31: Saved 829578 ZDOs
-04/11/2024 11:42:31: World save writing finishing
-04/11/2024 11:42:31: World save writing finished
-04/11/2024 11:42:32: World saved ( 1630.4327ms )
-04/11/2024 11:42:32: Considering autobackup. World time: 23.54, short time: 7200, long time: 43200, backup count: 4
-04/11/2024 11:42:32: Skipping backup. World session not long enough.
-04/11/2024 11:42:32: Unloading unused assets
+04/18/2024 16:38:20: Available space to current user: 347614932992. Saving is blocked if below: 77789150 bytes. Warnings are given if below: 155578300
+04/18/2024 16:38:20: Shutting down
+04/18/2024 16:38:21: Minimap: compressed mapData 8401714 => 27587 bytes
+04/18/2024 16:38:21: Considering autobackup. World time: 991.22, short time: 7200, long time: 43200, backup count: 4
+04/18/2024 16:38:21: Skipping backup. World session not long enough.
+04/18/2024 16:38:21: ZNet Shutdown
+04/18/2024 16:38:21: PrepareSave: clone done in 131ms
+04/18/2024 16:38:21: PrepareSave: ZDOExtraData.PrepareSave done in 96 ms
+04/18/2024 16:38:21: World save writing starting
+04/18/2024 16:38:21: World save writing started
+04/18/2024 16:38:23: Saved 829256 ZDOs
+04/18/2024 16:38:23: World save writing finishing
+04/18/2024 16:38:23: World save writing finished
+04/18/2024 16:38:23: World saved ( 1807.5784ms )
+04/18/2024 16:38:23: Considering autobackup. World time: 991.22, short time: 7200, long time: 43200, backup count: 4
+04/18/2024 16:38:23: Skipping backup. World session not long enough.
+04/18/2024 16:38:23: Unloading unused assets
 Unloading 3 Unused Serialized files (Serialized files now loaded: 966)
-04/11/2024 11:42:32: Sending disconnect msg
+04/18/2024 16:38:23: Sending disconnect msg
 ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-04/11/2024 11:42:32: Stopping build thread
-Unloading 188 unused Assets to reduce memory usage. Loaded Objects now: 556300.
-Total: 255.283500 ms (FindLiveObjects: 35.211900 ms CreateObjectMapping: 13.407700 ms MarkObjects: 206.030700 ms  DeleteObjects: 0.632800 ms)
+04/18/2024 16:38:23: Stopping build thread
+Unloading 1353 unused Assets to reduce memory usage. Loaded Objects now: 546279.
+Total: 250.574800 ms (FindLiveObjects: 35.642500 ms CreateObjectMapping: 13.647900 ms MarkObjects: 199.233900 ms  DeleteObjects: 2.050200 ms)
 
 Setting up 16 worker threads for Enlighten.
-04/11/2024 11:42:34: Steam manager on destroy
-04/11/2024 11:42:35: ZNet OnDestroy
-04/11/2024 11:42:35: Net scene destroyed
-04/11/2024 11:42:35: Local player destroyed
+04/18/2024 16:38:26: Steam manager on destroy
+04/18/2024 16:38:26: ZNet OnDestroy
+04/18/2024 16:38:26: Net scene destroyed
+04/18/2024 16:38:26: Local player destroyed
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [2.0 KB-4.0 KB]: 593 frames, [16.0 KB-32.0 KB]: 388 frames, [32.0 KB-64.0 KB]: 1839 frames, [64.0 KB-128.0 KB]: 1286 frames, [128.0 KB-256.0 KB]: 205 frames, [256.0 KB-0.5 MB]: 38 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 3 frames
+      Peak usage frame count: [2.0 KB-4.0 KB]: 588 frames, [16.0 KB-32.0 KB]: 451 frames, [32.0 KB-64.0 KB]: 104434 frames, [64.0 KB-128.0 KB]: 13897 frames, [128.0 KB-256.0 KB]: 27 frames, [256.0 KB-0.5 MB]: 576 frames, [0.5 MB-1.0 MB]: 24 frames, [1.0 MB-2.0 MB]: 5 frames, [2.0 MB-4.0 MB]: 32 frames, [4.0 MB-8.0 MB]: 29 frames
       Initial Block Size 4.0 MB
       Current Block Size 7.9 MB
       Peak Allocated Bytes 7.8 MB
       Overflow Count 115
-    [ALLOC_TEMP_Job.worker 30]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Loading.PreloadManager]
-      Initial Block Size 256.0 KB
-      Current Block Size 0.5 MB
-      Peak Allocated Bytes 388.6 KB
-      Overflow Count 207623
-    [ALLOC_TEMP_Background Job.worker 3]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 372 B
-      Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 4]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 372 B
       Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 7]
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 511.5 KB
+      Overflow Count 370959
+    [ALLOC_TEMP_Background Job.worker 3]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 30]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 16]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 27]
       Initial Block Size 256.0 KB
@@ -250,10 +580,10 @@ Memory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 372 B
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 5]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+    [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 20]
       Initial Block Size 256.0 KB
@@ -265,10 +595,10 @@ Memory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 372 B
       Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 8]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 372 B
+    [ALLOC_TEMP_Job.worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 23]
       Initial Block Size 256.0 KB
@@ -313,7 +643,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 8]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 86.1 KB
+      Peak Allocated Bytes 153.5 KB
       Overflow Count 0
     [ALLOC_TEMP_HIDInput]
       Initial Block Size 64.0 KB
@@ -355,12 +685,12 @@ Memory Statistics:
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 4]
+    [ALLOC_TEMP_Job.worker 14]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 14]
+    [ALLOC_TEMP_Job.worker 4]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
@@ -383,24 +713,24 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 1]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 192.0 KB
+      Peak Allocated Bytes 153.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 21]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 3]
+    [ALLOC_TEMP_Job.worker 25]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 88.2 KB
+      Peak Allocated Bytes 153.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 5]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 372 B
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 12]
+    [ALLOC_TEMP_Job.worker 3]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
@@ -415,7 +745,7 @@ Memory Statistics:
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 25]
+    [ALLOC_TEMP_Job.worker 12]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
@@ -435,12 +765,12 @@ Memory Statistics:
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 17]
+    [ALLOC_TEMP_Job.worker 29]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 29]
+    [ALLOC_TEMP_Job.worker 17]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
@@ -466,31 +796,31 @@ Memory Statistics:
       Peak Allocated Bytes 372 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 55245
+  Peak main deferred allocation count 86021
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 6 Subsections = 6144 buckets. Failed count: 619230
-        32B: 14 Subsections = 7168 buckets. Failed count: 269711
-        48B: 25 Subsections = 8533 buckets. Failed count: 1279016
-        64B: 40 Subsections = 10240 buckets. Failed count: 269518
-        80B: 63 Subsections = 12902 buckets. Failed count: 60183
-        96B: 76 Subsections = 12970 buckets. Failed count: 78301
-        112B: 10 Subsections = 1462 buckets. Failed count: 37009
-        128B: 22 Subsections = 2816 buckets. Failed count: 270776
+        16B: 5 Subsections = 5120 buckets. Failed count: 5328377
+        32B: 14 Subsections = 7168 buckets. Failed count: 1118008
+        48B: 25 Subsections = 8533 buckets. Failed count: 16144772
+        64B: 40 Subsections = 10240 buckets. Failed count: 1416284
+        80B: 63 Subsections = 12902 buckets. Failed count: 490488
+        96B: 77 Subsections = 13141 buckets. Failed count: 328161
+        112B: 10 Subsections = 1462 buckets. Failed count: 108518
+        128B: 22 Subsections = 2816 buckets. Failed count: 1454974
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 588 frames, [32.0 MB-64.0 MB]: 1836 frames, [64.0 MB-128.0 MB]: 380 frames, [128.0 MB-256.0 MB]: 1551 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 582 frames, [32.0 MB-64.0 MB]: 493 frames, [64.0 MB-128.0 MB]: 569 frames, [128.0 MB-256.0 MB]: 117507 frames, [256.0 MB-0.50 GB]: 912 frames
       Requested Block Size 16.0 MB
-      Peak Block count 17
-      Peak Allocated memory 255.8 MB
-      Peak Large allocation bytes 56.0 MB
+      Peak Block count 18
+      Peak Allocated memory 291.0 MB
+      Peak Large allocation bytes 80.0 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 432 frames, [16.0 MB-32.0 MB]: 7 frames, [32.0 MB-64.0 MB]: 9 frames, [64.0 MB-128.0 MB]: 27 frames, [128.0 MB-256.0 MB]: 87 frames, [256.0 MB-0.50 GB]: 3793 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 428 frames, [16.0 MB-32.0 MB]: 7 frames, [32.0 MB-64.0 MB]: 10 frames, [64.0 MB-128.0 MB]: 26 frames, [128.0 MB-256.0 MB]: 84 frames, [256.0 MB-0.50 GB]: 119508 frames
       Requested Block Size 16.0 MB
-      Peak Block count 16
-      Peak Allocated memory 309.0 MB
+      Peak Block count 18
+      Peak Allocated memory 322.3 MB
       Peak Large allocation bytes 104.6 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -513,59 +843,59 @@ Memory Statistics:
   Overflow Count (too large) 0
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 22
+  Peak main deferred allocation count 26
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 6 Subsections = 6144 buckets. Failed count: 619230
-        32B: 14 Subsections = 7168 buckets. Failed count: 269711
-        48B: 25 Subsections = 8533 buckets. Failed count: 1279016
-        64B: 40 Subsections = 10240 buckets. Failed count: 269518
-        80B: 63 Subsections = 12902 buckets. Failed count: 60183
-        96B: 76 Subsections = 12970 buckets. Failed count: 78301
-        112B: 10 Subsections = 1462 buckets. Failed count: 37009
-        128B: 22 Subsections = 2816 buckets. Failed count: 270776
+        16B: 5 Subsections = 5120 buckets. Failed count: 5328377
+        32B: 14 Subsections = 7168 buckets. Failed count: 1118008
+        48B: 25 Subsections = 8533 buckets. Failed count: 16144772
+        64B: 40 Subsections = 10240 buckets. Failed count: 1416284
+        80B: 63 Subsections = 12902 buckets. Failed count: 490488
+        96B: 77 Subsections = 13141 buckets. Failed count: 328161
+        112B: 10 Subsections = 1462 buckets. Failed count: 108518
+        128B: 22 Subsections = 2816 buckets. Failed count: 1454974
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 441 frames, [64.0 KB-128.0 KB]: 146 frames, [1.0 MB-2.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 10 frames, [8.0 MB-16.0 MB]: 1828 frames, [64.0 MB-128.0 MB]: 1929 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 497 frames, [64.0 KB-128.0 KB]: 84 frames, [1.0 MB-2.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 11 frames, [8.0 MB-16.0 MB]: 484 frames, [64.0 MB-128.0 MB]: 118986 frames
       Requested Block Size 16.0 MB
-      Peak Block count 2
+      Peak Block count 3
       Peak Allocated memory 98.7 MB
       Peak Large allocation bytes 92.0 MB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 1 frames, [0.5 MB-1.0 MB]: 432 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 4 frames, [8.0 MB-16.0 MB]: 7 frames, [16.0 MB-32.0 MB]: 57 frames, [32.0 MB-64.0 MB]: 44 frames, [64.0 MB-128.0 MB]: 3804 frames
+      Peak usage frame count: [0-1.0 KB]: 1 frames, [0.5 MB-1.0 MB]: 428 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 5 frames, [8.0 MB-16.0 MB]: 6 frames, [16.0 MB-32.0 MB]: 55 frames, [32.0 MB-64.0 MB]: 44 frames, [64.0 MB-128.0 MB]: 119518 frames
       Requested Block Size 16.0 MB
       Peak Block count 7
       Peak Allocated memory 107.9 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 128
+  Peak main deferred allocation count 141
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 6 Subsections = 6144 buckets. Failed count: 619230
-        32B: 14 Subsections = 7168 buckets. Failed count: 269711
-        48B: 25 Subsections = 8533 buckets. Failed count: 1279016
-        64B: 40 Subsections = 10240 buckets. Failed count: 269518
-        80B: 63 Subsections = 12902 buckets. Failed count: 60183
-        96B: 76 Subsections = 12970 buckets. Failed count: 78301
-        112B: 10 Subsections = 1462 buckets. Failed count: 37009
-        128B: 22 Subsections = 2816 buckets. Failed count: 270776
+        16B: 5 Subsections = 5120 buckets. Failed count: 5328377
+        32B: 14 Subsections = 7168 buckets. Failed count: 1118008
+        48B: 25 Subsections = 8533 buckets. Failed count: 16144772
+        64B: 40 Subsections = 10240 buckets. Failed count: 1416284
+        80B: 63 Subsections = 12902 buckets. Failed count: 490488
+        96B: 77 Subsections = 13141 buckets. Failed count: 328161
+        112B: 10 Subsections = 1462 buckets. Failed count: 108518
+        128B: 22 Subsections = 2816 buckets. Failed count: 1454974
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [2.0 MB-4.0 MB]: 589 frames, [8.0 MB-16.0 MB]: 9 frames, [32.0 MB-64.0 MB]: 3757 frames
+      Peak usage frame count: [2.0 MB-4.0 MB]: 583 frames, [8.0 MB-16.0 MB]: 10 frames, [32.0 MB-64.0 MB]: 119470 frames
       Requested Block Size 4.0 MB
       Peak Block count 8
       Peak Allocated memory 57.7 MB
       Peak Large allocation bytes 30.6 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [64.0 MB-128.0 MB]: 430 frames, [128.0 MB-256.0 MB]: 114 frames, [256.0 MB-0.50 GB]: 3810 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [64.0 MB-128.0 MB]: 426 frames, [128.0 MB-256.0 MB]: 112 frames, [256.0 MB-0.50 GB]: 119524 frames
       Requested Block Size 4.0 MB
       Peak Block count 87
       Peak Allocated memory 415.8 MB
-      Peak Large allocation bytes 95.0 MB
+      Peak Large allocation bytes 109.1 MB
 [ALLOC_TYPETREE] Dual Thread Allocator
   Peak main deferred allocation count 127
     [ALLOC_BUCKET]
@@ -573,23 +903,23 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 6 Subsections = 6144 buckets. Failed count: 619230
-        32B: 14 Subsections = 7168 buckets. Failed count: 269711
-        48B: 25 Subsections = 8533 buckets. Failed count: 1279016
-        64B: 40 Subsections = 10240 buckets. Failed count: 269518
-        80B: 63 Subsections = 12902 buckets. Failed count: 60183
-        96B: 76 Subsections = 12970 buckets. Failed count: 78301
-        112B: 10 Subsections = 1462 buckets. Failed count: 37009
-        128B: 22 Subsections = 2816 buckets. Failed count: 270776
+        16B: 5 Subsections = 5120 buckets. Failed count: 5328377
+        32B: 14 Subsections = 7168 buckets. Failed count: 1118008
+        48B: 25 Subsections = 8533 buckets. Failed count: 16144772
+        64B: 40 Subsections = 10240 buckets. Failed count: 1416284
+        80B: 63 Subsections = 12902 buckets. Failed count: 490488
+        96B: 77 Subsections = 13141 buckets. Failed count: 328161
+        112B: 10 Subsections = 1462 buckets. Failed count: 108518
+        128B: 22 Subsections = 2816 buckets. Failed count: 1454974
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 2425 frames, [1.0 MB-2.0 MB]: 1930 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 1076 frames, [1.0 MB-2.0 MB]: 118987 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 1.4 MB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [8.0 KB-16.0 KB]: 1 frames, [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 2 frames, [16.0 MB-32.0 MB]: 2 frames, [32.0 MB-64.0 MB]: 5 frames, [64.0 MB-128.0 MB]: 4344 frames
+      Peak usage frame count: [8.0 KB-16.0 KB]: 1 frames, [8.0 MB-16.0 MB]: 2 frames, [16.0 MB-32.0 MB]: 4 frames, [32.0 MB-64.0 MB]: 5 frames, [64.0 MB-128.0 MB]: 120051 frames
       Requested Block Size 2.0 MB
-      Peak Block count 39
-      Peak Allocated memory 74.0 MB
+      Peak Block count 41
+      Peak Allocated memory 77.6 MB
       Peak Large allocation bytes 0 B
